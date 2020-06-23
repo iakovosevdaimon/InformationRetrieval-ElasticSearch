@@ -1,0 +1,53 @@
+visual content
+Visual IoT Applications
+visual sensing applications
+conventional visual sensors
+visual data properties
+prototypes of neuromorphic visual sensors
+massive amounts of visual data
+advanced content-driven network codes
+Advanced Network Coding Algorithms
+storage algorithms
+advanced network coding techniques
+low-power sensing
+novel content-aware network codes
+power constraints
+storage mechanisms
+storage efficiency
+power consumption
+IoT deployments
+advantages of neuromorphic sensing
+data-driven delivery
+conventional frame-based video cameras
+cloud service
+cloud computing
+cloud infrastructures
+DVS devices record pixel coordinates
+conventional raster scan of video cameras
+dynamic vision sensors
+higher bandwidth
+Internet protocols
+efficient transmission
+Internet of Things
+appropriate transmission
+approximate decoding techniques
+cost-performance optimisation framework
+implementation of practical low-complexity decoders
+latest advances
+embedded systems
+timestamps of reflectance events
+substantial improvements
+key technologies
+integration
+wireless communications
+asynchronous manner
+sampling speed
+theoretical analysis
+emergence
+challenges
+ever-growing deployment
+paradigm
+interconnected  research objectives
+order
+project
+years

@@ -1,0 +1,39 @@
+extreme data
+data sets
+imbalanced data
+available data
+heterogeneity of input data
+industry scale
+best models
+exascale platforms
+best possible models
+data standards model quality
+Small scale approaches
+Exascale Compound Activity Prediction Engine Scalable machine learning of complex models
+pharmaceutical industry
+implementations
+future Exascale machines
+problems
+programs
+important industrial application of exascale computers
+complex pharmaceutical workloads
+art scalable algorithms
+important sector
+suitable accelerators
+ExCAPE project
+example of predicting compound bioactivity
+confidence estimation
+advanced platform simulation
+mix of HPC programming techniques
+empirical testing costs
+Europe
+feature diversity
+virtual screen
+great promise
+income
+employment
+challenges
+state
+sizes
+tests unlikely
+ageing society

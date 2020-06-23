@@ -1,0 +1,51 @@
+CAD-based methods
+adjoint-based optimisation
+core of industrial design
+complete adjoint-based design methods
+Industrial optimal design
+adjoint CFD Adjoint-based methods
+goal-based optimisation
+imposition of design constraints
+limited design space
+simple CAD-free methods
+CAD form
+CAD model
+CAD-free parametrisations
+core of optimisation
+gradient-based optimisation approach
+optimised CAD-free shapes
+rich design spaces
+industrial project partners
+numerical optimisation
+large-scale industrial optimisation problems
+development of adjoint solvers
+optimised shape
+available shape
+available build space
+optimised climate ducts
+number of EC projects
+particular development of interfaces
+EC FP7 projects FlowHead
+interesting approach
+automatic parametrisation of arbitrary shapes
+efficient ways
+range of parametrisations
+Computational Fluid Dynamics
+topology modification approaches
+low computational cost
+steady-state
+AboutFlow
+realistic mid-size
+members
+unsteady flows
+proposal
+significant research
+manual interpretation
+vehicle
+aspect
+related bottlenecks
+expert user
+optimising algorithm
+analysis
+Integration
+results

@@ -1,0 +1,51 @@
+developed prototype
+delivered prototype
+structural health of composite parts
+aeronautical industry
+structural health monitoring of composite parts
+optical fibers
+Aeronautical Structures
+developed sensor
+composite manufacturing plants
+industrial aeronautical contexts
+Brillouin Distributed sensor
+Brillouin Optical Frequency-Domain Analysis
+distributed strain measurements
+frequency domain
+developed system
+commercial SBS-based interrogation units
+structural test platforms
+stimulated Brillouin scattering
+manufacturing stage
+monitoring scenario
+total weight
+typical industrial application
+horizontal tail plane of passenger commercial aircrafts
+wings
+relevant data
+complete fuselage
+OEM
+components
+BOFDA
+proposal
+Original Equipment Manufacturer
+airborne conditions
+damage detection
+vector network analyzer
+evaluation of quality
+order
+specific software
+configuration
+development
+accessible way
+VNA
+service life
+size
+project
+performance
+measurement range
+following characteristics
+spatial resolution
+end
+Topic Manager
+research context

@@ -1,0 +1,55 @@
+design novel magnetization
+Spin-Orbit Torque
+local magnetization
+Spin Transfer Torque
+new magnetization dynamics
+adaptive magnetization-reversal techniques
+spin angular momentum
+Spin-orbit mechanism
+singularity of spin
+STT
+broad range of magnetization reversal techniques
+magnetic memory design
+Magnetic RAM
+magnetic trilayer
+case of SOT
+novel approach
+origin of SOT
+demand SOT
+complex magnetic objects
+angular momentum transfer
+novel phenomenon
+current path
+current distribution
+project
+plane current injection geometry
+present approach
+neighbouring layer
+layer structure
+pillar shape
+central goal
+single memory element
+innate lack of flexibility
+existing Random Access Memories
+unique tool
+field magneto-optical microscope
+building-blocks
+playground
+MRAM
+testing
+behaviour
+long list of advantages
+temporal resolution
+crystal lattice
+time
+fundamental questions
+composing elements
+schemes
+generic difference
+dependence
+liberty
+disconnection
+discovery
+Materials
+basic requirements
+mechanisms

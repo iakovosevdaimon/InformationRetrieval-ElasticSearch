@@ -1,0 +1,53 @@
+computing power
+current computing server architecture
+computing servers
+Joint Power
+cooling-power subsystem design
+power consumption
+power supply
+microfluidic power delivery
+heterogeneous computing architectures
+current server design approaches
+D server design champions
+energy-scalable computing capabilities
+prevailing worst-case power
+future server architectures
+joint cooling delivery
+holistic power-temperature models
+Cooling Integration
+server software stack
+energy scalability
+remaining energy
+COMPUSAPIEN proposal
+integrated electronic-electrochemical architecture design
+core architecture template
+current designs
+cooling provisioning paradigm
+drastic energy savings
+core designs
+proposal targets
+high-reward proposal
+high operating temperatures
+temperature management
+benefits of technology scaling
+semiconductor technology evolution
+chip microfluidic fuel cell network
+surge
+respect
+Nanoscale
+heat density
+soaring demand
+breakthrough innovations
+collateral undesirable effect
+digital revolution
+maximum performance levels
+novel predictive controller
+mammalian brain
+foundations
+computers
+years
+cores
+complex
+computation
+failures
+situation

@@ -1,0 +1,50 @@
+open problems
+solutions of BVPs
+Boundary value problems
+nonlinear integrable equations
+Integrable PDEs
+new methods
+major problems
+analysis of BVPs
+understanding of BVPs
+theory of nonlinear PDEs
+pure initial-value problems
+new tools
+new approaches
+nonlinear integrable partial differential equations
+imposition of boundary conditions
+nonlinear version
+time-periodic boundary conditions
+periodic solutions
+initial conditions
+new asymptotic formulas
+project
+stationary axisymmetric Einstein equations
+black-hole solutions
+inverse scattering methodology
+long-standing open questions
+Inverse Scattering Transform
+Construct disk
+important developments
+important issues
+Einstein's theory of relativity
+series of wave
+study of space
+purpose
+place
+tank experiments
+colliding gravitational waves
+steepest descent method
+decades
+introduction
+laboratory
+field situations
+exciting sequence of events
+years
+higher dimensions
+number
+matrix Lax pairs
+century
+proposal
+objectives
+aim

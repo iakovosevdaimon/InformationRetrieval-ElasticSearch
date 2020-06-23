@@ -1,0 +1,55 @@
+human-robot interaction
+human-robot hand
+robot end-users
+program robot skills
+new tasks
+robot skills Future robots
+new situations
+invariant motion representation
+task variability
+new context
+task knowledge
+innovative invariant representation of motion
+non-industrial settings
+advanced manipulation skills
+similarity
+impact
+demonstrated data
+constraints
+multitude of complex tasks
+high variability
+interaction forces
+physical contact
+major challenges
+Major breakthroughs
+particular situation
+Additional knowledge
+free space
+close collaboration
+people
+home
+operators
+optimal control problem
+neighbouring field of biomechanics
+intuitive way
+required number of demonstrations
+factory floor
+assembly
+humans
+rigid objects
+generalization
+training effort
+project
+example
+cleaning
+proposal
+methodology
+motions
+Application
+nature
+model-based approach
+fundamental challenge
+conversion
+view
+intention
+lot of progress

@@ -1,0 +1,60 @@
+time-mode
+oscillating frequency
+frequency-mode operation
+self-injection-locking
+Self-Injection-Locked Integrated Analog
+Digital Converter
+simple digital frequency detector
+class of converters
+hybrid time
+mode ADC
+SIL-ADCs
+mainstream digital technology
+new class of data converters
+all-digital PLLs
+certain analog quantity
+advanced RF techniques
+novel architecture of time
+self-injected signal
+nonlinear VCO
+oscillator
+SIL technique
+RF wireless transceivers of IoT devices
+VCO-based ADCs
+RF building blocks
+proposed research attempts
+technology scaling
+input signal
+nonlinear characteristic
+thousands of autonomous devices
+new circuit topologies
+small area
+highest possible energy efficiency
+purpose of exchanging
+large communication network
+amplitude
+SILICON
+potential
+rise
+cutting edge training
+industry leaders
+delayed resonating waveform
+processing information
+opamps
+phase
+main target application of ICs
+well-controlled parameters
+inexpensive large-scale integration
+applicant
+filters
+hardware standpoint
+performance
+circuits
+Internet
+predictable relationship
+physical world
+fundamental limitations
+personalised career development plan
+field
+Things
+Studies

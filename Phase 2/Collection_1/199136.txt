@@ -1,0 +1,59 @@
+multi-dimensional optimization
+Multi-Objective Programming Approach
+parallel programming
+Generation Heterogeneous Parallel Computing Systems
+generation computing systems
+multi-objective scheduler
+PHANTOM
+heterogeneous hardware platforms
+reconfigurable multi-core
+multi-disciplinary expertise
+cross-market approach
+cross-layer design
+hardware-agnostic software platform
+Cyber Physical Systems
+code parallelization
+early parallel program verification
+new challenges
+parallelization toolset
+societal challenges
+data analytics
+big data
+system software
+application component
+technological progress
+unparalleled progress
+application-driven APIs
+abstraction of infrastructure complexity
+model based testing techniques
+ecosystem of academia
+proliferation of devices
+telecoms
+industries
+industrial sectors
+runtime monitoring
+developers
+annotations
+transformative nature
+security implementations
+productivity tools
+use cases
+surveillance
+adaptation
+research topic
+evolution
+order
+documentation
+low power
+sustainable solution
+programmer
+strong number of SMEs
+reduction of energy footpring
+position of Europe
+management
+reusability readiness evaluation
+service
+outcome
+respect
+layers
+compute

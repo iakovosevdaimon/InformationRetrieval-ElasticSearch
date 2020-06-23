@@ -1,0 +1,46 @@
+discrete optimization
+Continuous Optimization
+polynomial algorithms
+convex optimization
+polynomial computability
+new family of polynomial
+continuous techniques
+fundamental optimization problems
+new domains
+efficient algorithms
+new variants
+novel techniques
+linear programming
+theory of geometric rescaling algorithms
+novel scaling technique
+important applications
+time algorithms
+Scaling Methods
+geometric rescaling techniques
+classical scaling technique
+specific applications
+variants efficient
+novel approaches
+classical network flow theory
+broad classes of linear programs
+wide range of applications
+different domains
+recent work
+general problem
+order methods
+proposed project
+important open questions
+exciting recent developments
+generalized flows
+PI
+machine learning
+areas
+substantial progress
+submodular function minimization
+integer constraint matrices
+interface
+computer vision
+practice
+summary
+landscape
+fields

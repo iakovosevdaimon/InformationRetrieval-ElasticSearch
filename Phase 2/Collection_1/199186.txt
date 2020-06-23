@@ -1,0 +1,68 @@
+single chip
+Low Power
+SiP chip
+high power consumption
+power consumption of DC networks
+logic chip
+novel SiP matrix
+embedded laser sources
+low latency
+storage elements
+s scale
+single stage
+cost of DCs
+novel approach
+single mode fibres
+logic CMOS chip
+single mode nature
+Large Scale Silicon Photonics Matrix
+Low Cost Data Centers Cloud storage
+data centres
+need
+scale larger
+extended bandwidth
+V sources
+large networks
+L3MATRIX project
+modulators
+modern DCs
+big data analytics
+fields of silicon photonics
+multi-layered DC topology
+higher bandwidth communications
+discrete switch elements
+novel technological innovations
+bandwidth-distance product
+D device integration
+new method of building switching elements
+high radix
+long latency
+similar device
+conventional technology
+massive switching capabilities
+non-blocking network
+computing
+social media
+Gb
+waveguides
+innovative steps
+limitations
+performance
+profound effect
+noticeable change
+European market
+technologies
+external light source
+east-west direction
+SOI substrate
+servers
+Pb
+fold
+changes
+disaggregation
+virtualization trends
+result
+range
+devices
+traffic
+outcome

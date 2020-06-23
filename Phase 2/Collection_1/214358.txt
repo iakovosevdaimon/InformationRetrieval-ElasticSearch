@@ -1,0 +1,56 @@
+laser scanning data
+Automatic Bridge Assessment Bridges
+bridge inspection
+bridge assessment purpose
+bridge structure
+automatic methods
+UAV-images
+integrated laser scanning sensor
+D bridge model
+bridge condition rating
+Deficiencies of bridges
+proposed methods
+efficient methods
+BridgeScan project
+pieces of methods
+D topographic data points of bridges
+images subject
+based image
+bi-annual general inspections of bridges
+subjective results
+structural deficiencies
+timely manner
+visual inspection
+requirements of experienced inspectors
+expensive procedures
+aging
+high safety risks
+Europe’s transportation network
+environmental impact
+increased freight demands
+critical maintenance
+downsides
+damage
+monitoring
+predominant method
+finite element analysis
+objects
+urban modelling
+construction management
+repairs
+climate change
+approaches
+parameters
+unmanned aerial vehicle
+framework
+traffic closures
+point cloud
+expansions
+shadows
+noise
+issues
+low accuracy
+flight path
+catastrophic collapse
+infrastructures
+Success

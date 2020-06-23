@@ -1,0 +1,41 @@
+clusters form
+older clusters
+youngest clusters
+natal clusters
+combination of data
+massive stars
+Evolution of Young Massive Star Clusters
+observational data
+Herschel Study
+novel data
+combined datasets
+dimensional Gaia
+ESA space missions GAIA
+gas kinematical data
+ESA missions
+Myr old
+associations of stars
+density distribution of star formation regions
+required datasets
+new techniques
+development of new analysis
+hybrid large scale N-body
+SPH models
+ground-based observations
+better match
+visualization tools
+structures
+problem
+satellite
+complexity
+initial conditions
+tests
+tested methodologies
+studies
+final goal
+project
+mechanisms
+work
+galaxies
+goals
+simulations

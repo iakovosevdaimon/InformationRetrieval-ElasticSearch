@@ -1,0 +1,58 @@
+charge transfer processes
+isolated molecular complexes
+complex processes
+Coherent multidimensional spectroscopy of controlled isolated systems Fundamental quantum mechanical processes
+coherent femtosecond multidimensional spectroscopy
+fundamental heterogeneous complexes
+coherent dynamics of excitation
+multidimensional data acquisition
+detailed knowledge of coherent effects
+dissipation effects
+collective effects
+semiconductor systems
+quantum coherences
+quantum state
+order
+efficient collection of multidimensional datasets
+real-time data acquisition
+Advanced experimental methods
+Advanced mathematical methods
+Waals bound donor acceptor complexes
+parallelized phase
+properties of matter
+related dynamics
+dilute atomic gases
+evolution of dynamic properties
+specific heterogeneous synthesis
+novel phase modulation technique
+particular van
+aggregation
+autoionization
+exciton annihilation
+lock
+setup
+tailored external baths
+contact
+photovoltaics
+photosynthesis
+compressed sensing
+mass
+demodulation
+light harvesting
+superfluid helium
+needed sensitivity
+perturbing environment
+millikelvin temperatures
+combination
+solvent molecules
+low density
+photoelectron detection
+microsolvation
+complexity
+interactions
+perturbations
+large extent
+targets
+functionality
+individual mechanisms
+project

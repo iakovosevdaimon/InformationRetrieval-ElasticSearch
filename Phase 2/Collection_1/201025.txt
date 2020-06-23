@@ -1,0 +1,40 @@
+topological media
+superconductive materials Flat bands
+topological properties
+different topological invariants
+high critical temperature
+high-Tc superconductors
+high density of states
+carbon-based superconductors
+lattice systems
+topology
+mean-field
+superfluidity
+Dynamical Mean Field Theory
+finite superfluid mass density
+lattice structures
+Density Matrix Renormalization Group
+different symmetries
+useful results
+Quantum Hall systems
+transparent link
+dimensionality
+essential qualitative understanding
+nonzero Chern number
+order
+DMFT
+reliable methods
+interparticle interactions
+DMRG
+superconducting transition thanks
+theoretical predictions
+ultracold gases
+general picture
+cases
+ones
+tantalizing relation
+BCS
+aim
+characterization
+ideal platform
+supercurrent

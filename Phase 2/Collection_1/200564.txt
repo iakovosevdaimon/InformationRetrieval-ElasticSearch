@@ -1,0 +1,58 @@
+causal model
+departure-time
+new airspace demand-capacity balance
+operational decision
+tactical decision
+departure slots
+flight execution level
+demand-capacity imbalances
+free flight
+Decision Support Tools
+tight interdependencies
+strategic decision variables
+airport level
+airspace volume
+different events
+departure sequence
+potential proximate events
+constraint-programming model
+potential synergies
+soft flight level capping constraints
+time stamp concurrency
+time clearance’s distribution
+airspace users’ preferences
+potential controller interventions
+scheduled slots
+DT interdependencies
+landside resources
+programmed traffic
+airside resources
+future traffic scenario
+robustness of different solutions
+new cutting edge procedures
+compeTitive ATM networK sErvice
+integration of RPA’s
+design of advanced DSTs
+trajectories
+ASAS
+loss of safety distances
+bounded adjustment process
+trajectory adherence
+zones
+present freedom degrees
+cooPerative depArtuRes
+negative impact
+interfacing
+realistic scenarios
+gap
+ATFM
+proposed method
+TBO paradigm
+minimum perturbation
+SWIM
+SOA applications
+RBT’s
+project
+way
+maximum
+adjustments

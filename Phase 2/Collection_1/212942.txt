@@ -1,0 +1,52 @@
+data preprocessing
+data intensive
+optimized data management
+data lifecycle management
+policy driven data management
+project
+Life Science
+computing infrastructures
+Photon Science
+European Open Science Cloud
+research communities
+Clinical Research
+research experiments
+eXtreme DataCloud
+Worldwide LHC Computing Grid
+XDC software
+Open Source platforms available
+federating storage resources
+federation of storage resources
+European Grid Infrastructure
+distributed computing environments
+targeted platforms
+generation e-Infrastructures
+real life use cases
+smart caching solutions
+Astrophysics
+High Energy Physics
+standard protocols
+metadata handling
+Quality of Service
+manipulation
+EOSC
+encryption
+EGI
+scalable technologies
+WLCG
+ingestion
+variety of scientific domains
+consortium partners
+plugins
+general exploitation
+new functionalities
+capable of operating
+unprecedented scale
+prototypes
+access patterns
+TRL6
+existing tools
+TRL8
+main high-level topics
+upcoming H2020 EINFRA
+services

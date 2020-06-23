@@ -1,0 +1,53 @@
+G network services
+application-aware network services
+physical network functions
+G-READY APPLICATIONS
+network functions developers
+supported Virtual Network Functions
+set of network management activities
+G-ready application components
+required network slices
+set of mechanisms
+G marketplace
+G end-to-end services operational framework
+services provider
+set of optimisation mechanisms
+unified orchestration mechanisms
+Multi-site management
+set of control abstractions
+lifecycle management
+profiling mechanisms
+lifecycle of design
+development of software
+application-oriented analytics
+unified programmability model
+set of monitoring streams
+open development environment
+multi-site virtualized infrastructure manager
+SLICED PROGRAMMABLE INFRASTRUCTURE
+creation
+multi-site NFV Orchestrator
+runtime policies enforcement
+deployment plans
+open-source
+INNOVATIVE FRAMEWORK
+runtime adaptation
+definition of proper abstractions
+cloud
+commercial purposes
+extension
+high level objectives
+Graphs
+maintenance
+re-use
+collected data
+IoT resources
+edge computing
+adoption
+vision of MATILDA
+VNF-FGs
+posteriori processing
+NFVO
+behalf
+radical shift
+automated placement

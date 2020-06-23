@@ -1,0 +1,58 @@
+wave oscillator
+oscillator oscillator waveform
+study of phase
+phase noise filtering
+output phase
+wave-locked loop system
+phase-domain all-digital phase
+band phase noise
+Conventional analog Phase-Locked Loop
+controlled oscillator
+degree phase resolution
+fine phase detection
+wide-loop bandwidth
+noise reduction
+wave LC
+bulky loop filter
+small-sized ring oscillator
+input waveform
+model waveform
+digital domain
+flicker noise corner reduction
+resolution TDC
+reference clock
+digital converter
+digital samples
+Frequency Synthesis
+innovative frequency synthesizer
+precise frequency
+WLL
+discrete-time filtering
+low-flicker
+study of oversampling
+DCO
+traditional TDC
+proposed synthesizer
+fast lock time
+clock generation systems
+system integration
+sampling clocks
+wide dynamic range
+single sampling point
+robustness
+tapeout
+distortion
+delay error
+large area
+advanced CMOS technology
+tradeoff
+power
+fellowship program
+amplitude information
+design of building blocks
+PVT variations
+Preliminary data
+possibility
+project
+ADPLL
+performance

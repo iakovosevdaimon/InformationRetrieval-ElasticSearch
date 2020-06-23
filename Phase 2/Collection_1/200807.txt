@@ -1,0 +1,51 @@
+Vdc H
+project Induction Starter Generator
+electrical power
+Vdc network
+rotating machine - Induction Starter
+Vdc internal power bus
+power converter
+wind turbines electrical generator
+C network compliant
+power electronics
+automotive engine starter
+brush DC machine
+Electrical Control Unit
+electrical networks
+ISG technical proposal innovation
+generation mode
+DC converter
+C engine turbine
+generation control functions
+Low Voltage Direct Current controlled Starter
+phase squirrel cage induction machine drive
+high powered PMG machines
+use of ground applications
+innovative TRL6 High Voltage Direct Current
+variable reluctance machines
+claw-poles machines
+common ground applications
+real technological innovation
+proposed innovative system
+HVDC
+classic aeronautic Wound Field
+options
+objectives
+MIL-STD
+adaptation
+demonstration
+thanks
+test
+EN2282
+viable solution
+automobile industry
+aeronautical environment
+main idea
+manufacture
+development
+solutions
+ECU
+LiFeCraft Helicopter
+requirements
+CFP
+inverter

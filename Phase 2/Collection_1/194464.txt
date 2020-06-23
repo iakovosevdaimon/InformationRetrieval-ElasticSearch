@@ -1,0 +1,48 @@
+symplectic manifolds
+dimensional symplectic geometry
+symplectic structure
+Riemannian geometry
+current techniques of symplectic geometry
+symplectic geometry of anti-self-dual Einstein metrics
+four-dimensional Einstein manifolds
+Classification of general symplectic
+Riemannian metrics
+Reimannian manifolds
+existence theory
+Maxwell's theory
+project
+language of gauge theory
+new approach
+new idea
+new formulation of Einstein's equations
+results
+new progress possible
+manifold Z
+aims
+anti-self-dual Poincaré
+formation of singularities
+fundamental problem
+fundamental objects
+metric g
+fresh input
+surprising link
+electromagnetic potential
+relationship
+field
+curvature
+certain connections
+critical points
+minimal surfaces
+degenerating families
+fibres
+omega
+interplay
+directions
+total volume
+situations
+main goals
+action S
+way
+state
+time
+co-authors

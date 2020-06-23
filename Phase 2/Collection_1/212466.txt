@@ -1,0 +1,47 @@
+elasto-acoustic phenomena
+area of applied geophysics
+applied mathematics
+parallel joint inversion workflow
+elasto-acoustic borehole measurements
+multi-physics electromagnetic
+context of elasto
+High-Performance Simulators
+inversion software infrastructure
+Multiscale Inversion of Porous Rock Physics
+robust parallel solvers
+porous rocks physics
+acoustic wave propagation phenomena
+latest super-computer architectures
+distributed-memory parallel machines
+target computer architectures
+parallel high-continuity isogeometric analysis
+high-performance computing
+earthquake propagation
+advanced numerical methods
+seismic geophysical measurements
+MPI software framework
+collaborative research results
+latest Intel Xeon Phi processors
+linear equations
+workshops
+geothermal energy production
+new researchers
+optimal locations
+publications
+IGA
+simulation
+regular updates
+dedicated webpage
+technology transfer
+postgraduate courses
+exchange knowledge
+deep-azimuthal resistivity
+visits
+HPC
+hydrocarbon reservoirs
+hybrid OpenMP
+companies
+Gap
+significant role
+s subsurface
+tools

@@ -1,0 +1,58 @@
+RING E3s
+challenging RING E3-E2
+mechanisms of RING E3-catalyzed ubiquitination
+knowledge of RING E3-mediated ubiquitination
+RING E3-mediated ubiquitination Ubiquitin
+mechanisms of RING E3-catalyzed poly-ubiquitination
+Ub chains
+transfer of Ub
+Ub selectivity
+Ub-ligases
+key aspects of RING E3 functions
+mechanisms of substrate ubiquitination
+Ub-intact substrate complex
+Successive rounds of E3
+Ub-conjugating enzyme
+catalyzed substrate ubiquitination lead
+substrate peptide
+deregulation of E3s
+exploiting E3s
+ubiquitinated Cbl-substrate mimetic
+largest family of E3s
+structural determination
+structural biology
+substrate protein lysine sidechain
+formation of poly
+biochemical studies
+molecular basis
+molecular snapshot
+Cbl-b
+biochemical approaches
+crystal structure
+recent structure
+conjugation
+therapeutic development
+strategies
+mechanistic insights
+degradation
+myriad of cellular processes
+starting point
+multi-monoubiquitination
+substrate’s fate
+pivotal role
+different biological fates
+years
+way
+eukaryotic cell
+diseases
+members
+E2s
+substrates
+advances
+catalysis
+S proteasome
+Expected results
+group
+cancers
+humans
+structures

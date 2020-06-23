@@ -1,0 +1,33 @@
+vorticity
+fixed boundary
+mathematical theory
+Mathematical aspects of three-dimensional water waves
+steady three-dimensional water waves
+free boundary context
+free surface
+interaction of surface waves
+nonlinear elliptic free boundary problem
+three-dimensional ideal flows
+mathematical model
+project
+methods
+infinite-dimensional bifurcation theory
+irrotational flow
+lot of progress
+two-dimensional case
+incompressible Euler equations
+example Beltrami flows
+given shear flow
+stream function formulation
+ideas
+domains
+goal
+non-uniform currents
+detailed study
+structure
+dimensions
+different approaches
+restriction
+analogue
+decade
+resonances

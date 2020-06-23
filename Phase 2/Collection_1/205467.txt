@@ -1,0 +1,51 @@
+manufacturing processes
+production line multi-physics simulation models
+Real Time
+flexibility of production processes
+real-time capable models
+Zero-defect manufacturing
+European manufacturing
+defect production
+line flexibility
+computational cost of models
+parametric solutions of complex models
+different types of production methods
+different batches
+actual data
+big data
+product variability
+real process chains
+data analysis techniques
+linking of simulation tools
+different suppliers
+product quality indicators
+values of critical input parameters
+higher potential
+critical steps
+engineering tools
+huge potential
+online measurements
+customised batches
+real-time control of applications
+new generation of techniques
+exact design specifications
+online deployment of ROMs
+measurement devices
+products
+components dimensions
+automotive sector
+response
+synergistic loop
+Defects Facts
+concept demonstrations
+systems
+materials
+material properties
+Reduced Order Modelling
+main challenges
+model prediction
+proof
+tablets
+smart phones
+project
+objectives

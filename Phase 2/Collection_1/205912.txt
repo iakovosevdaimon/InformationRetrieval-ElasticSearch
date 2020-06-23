@@ -1,0 +1,50 @@
+development of type systems
+proof systems
+study of type systems
+development of functional type systems
+type systems of functional programming languages
+mathematical specification of type systems
+state-of-the-art systems
+development of concurrent programming languages
+mathematical study of distributed software
+distributed setting
+modern programming languages
+mathematical representation of distributed software
+Proof theory
+mathematical understanding of software
+development of trustworthy software
+project
+mathematical foundations
+well-behaved distributed programs
+Concurrency Theory
+Proof-theoretical Approaches
+modern distributed computer architectures
+computational logic
+formal logic
+concurrent programs
+parallel setting
+particular linear logic
+standard setting of sequential
+sequentiality of computing steps
+precise relation
+reliable support
+integration of explicit sequentiality
+connection
+main objectives
+associated techniques
+process calculi
+extensions
+key
+recent work
+typeability
+validity
+establishment
+crucial step
+features necessary
+major point of contention
+logical perspective
+flexible tool
+question
+cornerstone
+implementability
+goal

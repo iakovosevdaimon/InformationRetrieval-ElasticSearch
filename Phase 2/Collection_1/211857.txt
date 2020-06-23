@@ -1,0 +1,23 @@
+Conformational Dynamics of Proteins
+function of proteins
+cryo-Electron Microscopy
+advent of Time
+microsecond time resolution
+understanding
+implementation of real-time imaging of single particle dynamics
+direct electron detection cameras
+liquid phase
+established single-particle reconstruction techniques
+graphene liquid cell technology
+atomic spatial resolution
+recent technological advances
+large-amplitude domain motions
+potential
+experimental approach
+extrapolation
+timescale of microseconds
+nanoscale machines
+static structures
+biomedical applications
+millisecond
+absence of tools

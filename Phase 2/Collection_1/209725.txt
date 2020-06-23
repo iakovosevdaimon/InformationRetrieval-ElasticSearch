@@ -1,0 +1,62 @@
+SQ limit
+photoconversion limit
+QD materials
+HP matrix
+transport properties
+recombination properties
+solar energy
+higher energy
+Photovoltaic Performance
+BG
+polycrystalline materials
+QD systems
+embedded materials
+energy lower
+energy equivalent
+cell performance
+expected performance
+outstanding performance
+states of embedded QD
+polycrystalline halide perovskites
+charge transport
+excellent transport
+higher potentiality
+Intermediate Bandgap Solar Cells
+host matrix
+photons
+monocrystalline matrix
+Synergistic Interaction of Halide Perovskites
+HP benign defect physics
+incorporation of quantum dots
+Semiconductor Quantum Dots Photovoltaic conversion
+IBSCs concept
+ground-breaking synergistic system able
+maximum efficiency
+strain relaxation
+intermediate steps
+coupled system
+layer strain
+preparation of HPs
+Tandem cells
+achievements of IBSC
+electric power
+available electrical power
+enhanced light collection efficiency
+extraordinary property
+benefit
+defects
+order
+interactions
+single absorber
+strategies
+so-called Shockley-Queisser
+limitations
+injection
+colossal impact
+expensive configurations
+Alternative approaches
+stability
+porous structure
+photovoltaics
+project
+thermalization

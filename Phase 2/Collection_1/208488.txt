@@ -1,0 +1,45 @@
+new language
+language learners
+Natural Language Processing
+sense of human language
+huge network of language
+multilingual semantic parsing
+hard problem of Natural Language Understanding
+task of semantic parsing
+resourced languages
+multiple languages
+structured semantic representations of sentences
+entire Web
+current semantic parsers
+supervision
+NLP
+structured representations
+machine learning sense
+new directions
+societal impact
+input text
+Open-text Unified Syntax-independent SEmantics
+knowledge-based paradigm
+efficacious use of lexical knowledge resources
+heavy requirement of annotating training data
+exponential growth
+long-lasting challenge
+proposal
+areas of AI
+innovative algorithms
+vast amounts of online content
+multilinguality
+project
+research program
+power
+obstacle
+extension
+key intuitions
+playing field
+popularity
+easy reach
+information
+stages
+Computers
+time
+order

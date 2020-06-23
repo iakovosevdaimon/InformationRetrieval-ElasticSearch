@@ -1,0 +1,57 @@
+reactivity of electrode
+computational electrochemistry community
+complex electrochemistry problems
+Redox reactions
+redox reactivity
+nanoporous electrode
+cutting-edge MD software
+fields
+importance of polarization effects
+electrolyte interfaces
+simulation of electrochemical systems
+complex effects
+mutual polarization
+gap
+computational point of view
+fundamental electrochemical investigations
+fuel cells
+solar cells
+molecular dynamics
+difficulty of accounting
+degree of metallicity
+selected applications
+development of future capacitive energy storage devices
+discovery of new electrolytes
+set of new methods
+inaccurate molecular-scale picture
+conventional solutions
+prominent tool
+higher voltage
+collaborations
+GROMACS
+biochemistry
+supercapacitors
+structure
+material science
+standard theories
+key role
+LAMMPS
+revolutionary liquids
+technologies
+batteries
+theory
+unprecedented light
+explicit electron transfers
+leading experimental partners
+research programs
+Current understanding
+semimetals
+supercomputers
+perfect conductors
+salts’
+core
+world
+tools
+water
+results
+objective

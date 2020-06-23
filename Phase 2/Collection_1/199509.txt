@@ -1,0 +1,44 @@
+automated formal methods
+precise specifications
+usage of DDSs
+coherent formal specifications
+rigorous engineering of DDSs
+efficient automated reasoning techniques
+design time
+design procedures
+automated validation of DDS implementations
+design of software systems
+exchange of data
+high-quantity data
+theoretical foundations of DDSs
+verification of distributed data structures
+rigorous engineering methodologies
+wide range of automated services
+proposal
+new principles
+engineering process
+practical programming principles
+precise requirements
+complex systems
+building applications
+foreseeable future
+developed methodologies
+high-frequency parallel accesses
+traditional relational databases
+computing technology
+explicit guarantees
+fast access
+transformation
+reliability
+conception
+scalable alternatives
+large-scale networks
+best practices
+understanding
+basis
+fundamental challenge
+confidence
+objective
+targeted breakthrough
+Internet
+correctness

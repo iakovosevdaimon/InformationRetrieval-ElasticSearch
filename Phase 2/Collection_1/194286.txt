@@ -1,0 +1,47 @@
+optical layer
+multi-layer
+layer structure
+service requirements
+grooming layer causes
+Optical Network Orchestration
+Application Centric IP
+protection requirements
+ACINO’s approach
+vendor-agnostic approach
+ACINO’s open source
+effective service fulfillment
+Specific application needs
+novel application-centric network concept
+small numbers
+needs of emerging medium-large applications
+lack of dynamic control of optical networks
+ACINO consortium
+set of lightpaths
+large numbers of small flows
+vendor-agnostic modular orchestrator
+operation planning module
+static lightpaths
+emergence of open industry standards
+optimization processes
+data centers
+re-optimization
+data center connectivity
+set of high level primitives
+obstacle
+database migration
+limitations
+testbed
+commercial equipment
+latency
+Internet
+complex custom services
+strong industrial foundations
+carrier environment
+configuration tasks
+catering
+traffic
+way
+OTN layers
+advantages
+timely manner
+vision

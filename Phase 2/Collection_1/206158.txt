@@ -1,0 +1,37 @@
+GMV
+EUROPEAN ROBOTIC GOAL-ORIENTED AUTONOMOUS CONTROLLER European Robotic goal-oriented autonomous COntroller
+terrestrial robotic applications
+operational autonomous space robotic missions
+goal oriented autonomy
+collaborative space robotic means
+surface applications
+flexible space autonomous framework
+UGA-UGA
+ADS
+SciSys
+high level of autonomy
+adaptable levels of autonomy
+surface rovers
+challenging objective
+specific objective
+orbital
+robust operations
+on-board critical software design
+system suitable
+development
+robotics
+planning
+King College
+formal validation
+art expertise
+University of Basel
+verification
+guidance
+navigation
+state
+intrinsic similarities of addressed scenarios
+strong background
+thaen
+Ellidiss
+order
+team

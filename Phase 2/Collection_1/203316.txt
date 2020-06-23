@@ -1,0 +1,48 @@
+multi-time integral equations Multi-time wave functions
+multi-time wave functions of N
+differential multi-time equations
+theory of multi-time Schrödinger equations
+possibility of integral equations
+long time
+theory of Fredholm integral equations
+quantum-mechanical wave functions
+rigorous multi-time formulation of quantum field theory
+particular integral equation similar
+Wigner functions
+Hagedorn wave packets
+N particles
+classical limit
+relativistic quantum dynamics
+consistent interacting dynamics
+interacting toy models
+typical ultraviolet divergencies of quantum field theory
+distance formulation of classical electrodynamics
+classical world-lines
+Bethe-Salpeter equation
+N space-time arguments
+Schrödinger picture
+faces
+long-term goal
+Schwinger
+manifest Lorentz invariance
+Fokker
+Gauß
+restrictive consistency condition
+natural way
+suitable conserved tensor currents
+Tomonaga
+positive density component
+mind
+partial results
+Nobel laureates Dirac
+Tetrode
+Wheeler
+functional-analytic methods
+existence of solutions
+probabilistic meaning
+physics literature
+Feynman
+project aims
+series of papers
+action
+objectives

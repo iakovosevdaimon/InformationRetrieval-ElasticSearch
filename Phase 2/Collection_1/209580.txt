@@ -1,0 +1,22 @@
+Geometry of Nonnegative Rank
+tensors of nonnegative rank
+definition of matrix rank
+polyhedral geometry
+geometry of matrices
+numerical nonnegative matrix algorithms
+real algebraic geometry
+statistics
+project
+optimization
+address questions
+dimension
+techniques
+proposal
+symbolic algebra
+nested polytopes
+mixture models
+notion
+numerics
+basic research
+knowledge
+Computing

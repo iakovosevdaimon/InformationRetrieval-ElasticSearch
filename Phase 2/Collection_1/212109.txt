@@ -1,0 +1,54 @@
+network outages
+real network code
+abstract network models
+network-wide properties
+high-level analysis of network
+individual network elements
+exhaustive network symbolic execution
+Correct Networks Networks
+network-wide policy compliance checking
+deployed networks
+efficient code
+misconfigured networks
+desired policy
+efficient executable code
+instrumentation of real networking code
+operator’s policy
+correct implementations
+guarantees
+low-level security concerns
+low level analysis
+symbolic execution semantics
+security breaches
+low-level errors
+model transformations
+runtime guards
+runtime efficiency
+key proposal
+key contributions
+novel theoretical equivalence framework
+memory bugs
+different targets
+operator policies
+loop freedom
+users
+operators
+hurt company revenues
+accurate representation
+directions
+reachability
+headline
+verification
+error-prone
+P4
+conclusions
+correctness
+respect
+legacy boxes
+backbone
+millions of customers
+algorithms
+great challenges
+society
+compilers
+Existing research

@@ -1,0 +1,59 @@
+fracture processes
+fracture initiation
+fracture toughness KIc
+D study of fracture
+fracture mechanics models
+Microscopic Origins of Fracture Toughness
+macroscopic fracture experiments
+crack advance
+crack tips
+model materials
+crack-tip plasticity
+well-characterized fracture specimens
+microscopic crack-tip processes
+varying crack orientation
+bcc-based materials
+typical semi-brittle materials
+microstructure-sensitive
+important properties of structural materials
+propagation
+development of new failure-resistant materials
+dislocation nucleation
+detailed understanding
+micromechanical model
+predictive models
+presence of dislocations
+interactions of cracks
+aim of microKIc
+current mechanistic understanding
+large-scale atomistic simulations
+ultimate goal of microKIc
+coupled finite element - discrete dislocation dynamics code
+improved design guidelines
+steels
+situ micro-mechanical tests
+refractory metals
+NiAl
+safety-relevant structures
+focused ion beam milling
+phenomenological material parameter
+voids
+precipitates
+resistance
+dependence
+order
+obtained criteria
+semiconductors
+temperature
+quality
+physics
+constituents
+experimental calibration
+grain boundaries
+multiscale modelling framework
+components
+microstructural obstacles
+strain rate
+mesoscale
+arrest
+time

@@ -1,0 +1,55 @@
+data migration
+data consistency
+relational databases
+hybrid data persistence architectures
+Big Data Analytics
+specific databases
+non-critical data
+large-scale data management
+reduced durability of data
+fields of databases
+high-availability NoSQL databases
+Hybrid Persistence Architectures
+research partners
+scalable architectures
+levels of availability
+increased availability
+term NoSQL
+leading research
+research results
+organisations
+industrial partners active
+text mining
+software modelling
+monitoring of large volumes of hybrid
+horizontal scalability
+value of natural language content
+aim of TYPHON
+domain-specific languages
+sophisticated text processing
+open-source software
+industrial advisory board of world-class experts
+built-in support
+motorway operation domains
+need
+banking
+earth observation
+cost of temporary inconsistency
+fault-tolerance
+primary concern
+business intelligence
+long track record
+new generation of purpose
+emergence
+global consortium
+methodology
+graph
+document
+form of robust
+integrated technical offering
+future
+requirements
+trend
+ACID
+consensus
+sectors of

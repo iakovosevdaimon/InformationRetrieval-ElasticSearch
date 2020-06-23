@@ -1,0 +1,53 @@
+G Mobile Transport Platform
+Mobile Transport Networks
+respective transport slices
+federation of transport networking
+Federate transport networking
+Computing Platform
+G-TRANSFORMER project addresses
+G PPP Research
+computing requirements
+computing resources
+G FlexHaul Network objectives
+customised MTP slices
+underlying unified transport stratum
+computing fabric
+Vertical Slicer
+specific needs of vertical industries
+Network Slicing
+new networking paradigm
+service requirements
+diverse range of networking
+Verticals
+slice management of virtualized resources
+Service Orchestrator
+promising approach
+technical approach
+federated virtualized infrastructure
+Validation of critical technologies
+SDN
+today’s rigid interconnection solutions
+integrated fronthaul
+NFV
+provisioning
+multiple domains
+short time-scale
+systems
+logical entry point
+pre-structuring model
+TA11
+ICT
+Aggregate
+proposed solution
+novel building blocks
+challenge
+edge
+creation
+special focus
+stop shop
+cloud
+order of minutes
+healthcare
+media
+core
+allocation

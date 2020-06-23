@@ -1,0 +1,38 @@
+KDD process - experts
+established process model of KDD
+KDD problems
+data model
+new process model
+collaborative KDD software platform
+Software Actors
+autonomous KDD software tools
+autonomous software
+KDD-CHASER project
+workflow model
+expert-driven process
+requirements
+special types of KDD processes
+intelligent software tools
+personal data
+collaborative knowledge discovery
+non-expert individuals
+useful knowledge
+human expert
+non-expert humans
+non-experts
+diverse actors
+Collaboration of Human
+foundation of new
+teams
+design solutions
+various roles
+test scenario
+representation
+fundamental concepts
+charge
+tasks
+interactions
+different incarnations
+possibility
+turn
+models

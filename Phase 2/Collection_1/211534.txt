@@ -1,0 +1,51 @@
+Application of Cognitive Models Cognitive models
+important cognitive models
+cognitive neuroscience
+classes of cognitive models of particular impact
+drift decision models
+reinforcement learning models
+field of cognitive modeling
+stop-signal race models
+new techniques
+new methodology
+new standard
+model classes
+model parameters
+model-averaged assessment of changes
+new generic methods
+assessment of Bayes factors
+Core Application Team
+JASP
+researchers
+practitioners
+Quantitative Development Team
+hierarchical designs
+latent processes
+unified program
+Unified Framework
+development of diagnostic experiments
+popular experimental designs
+terms of constituent psychological processes
+substantive theory
+observed behavior
+measurement tools
+user-friendly statistical software package
+construction of plausible parameter priors
+students
+relative goodness
+foundations of Bayesian inference
+bewildering proliferation of ideas
+growing popularity
+fit
+efficient algorithms
+data
+people reason
+unique ability
+theoretical appeal
+lab
+clinical psychology
+Current applications
+lack of systematicity
+proposed work
+proposal
+Practical relevance

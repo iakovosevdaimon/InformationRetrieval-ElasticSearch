@@ -1,0 +1,55 @@
+operation of smart IoT systems
+operation of trustworthy Smart IoT Systems
+realm of trustworthy smart IoT systems
+Smart Actuation
+potential of IoT
+complex systems
+smart city
+smart manufacturing
+new IoT platforms
+intelligent transport systems
+novel IoT platform enablers
+DevOps movement
+DevOps framework
+complete DevOps support
+trustworthiness
+current DevOps methods
+actuation conflicts
+actuation conflict handling
+set of novel mechanisms
+quality assurance
+novel concepts
+Quality of Service
+new environment
+end-to-end security
+privacy management
+software industry
+unpredictable environment
+set of software engineering best practices
+application domains
+eHealth
+delivery
+rapid innovation cycles
+continuous testing
+tools
+foster agility
+digital society
+approaches
+edge
+agile development
+flourishing innovations
+cloud spaces
+techniques
+robustness
+resilience
+creation
+FIWARE
+account
+challenges
+ease of use
+SOFIA
+user experience
+ability
+main technical goal
+TelluCloud
+smooth integration

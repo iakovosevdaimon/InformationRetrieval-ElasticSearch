@@ -1,0 +1,42 @@
+network resources
+switched Ethernet network
+computational engine
+computational analysis engine
+specific packet
+computational model
+real-time networks TCN TimeAnalyzer
+limited speed of physical network devices
+frame latency
+jitter
+packet scheduling mechanisms of certain switches
+real-time scheduling analysis
+innovation activities
+set of formulas
+different packets
+simulation models
+different configuration parameters
+maximum frame buffer space
+testing
+contention
+timing predictions
+computation of upper bounds
+unique application
+industrial readiness
+maturity
+piloting
+worst case traffic situations
+demonstration
+product
+scaling
+market introduction
+prototyping
+result
+rise
+economic viability
+design
+nodes
+component
+observation
+research
+entity
+feasibility study

@@ -1,0 +1,42 @@
+neuromorphic processing
+neuromorphic system
+neuromorphic processor devices
+neuromorphic vision sensing
+Embedded Neuromorphic Sensory Processor Neuromorphic computing
+state-of-the-art neuromorphic processors
+neuromorphic combined sensing
+neuromorphic Dynamic Vision Sensor
+proof of concept Neuromorphic Sensory Processor
+processing systems
+recent availability of state-of-the-art neuromorphic sensors
+high potential
+technology demonstrator
+processing system available
+ERC NeuroP project
+ultra-high performance
+ultra-low power visual processing
+high latency
+emerging brain-inspired technology
+computing systems
+unreliable sensory signals
+wearable devices
+commercial advantages
+detailed commercial business case
+ambient surveillance
+robustness
+driver assistance
+Neumann architectures
+current practical need
+path
+asynchronous event-based output
+energy efficiency
+magnitude improvements
+problem
+legacy
+order
+general usage
+Possible applications
+input data
+robotics
+promising solution
+significant roadblock

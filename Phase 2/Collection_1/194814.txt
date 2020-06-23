@@ -1,0 +1,47 @@
+families of curves
+families of surfaces
+study families of subvarieties
+study curves
+geometric study of various families of subvarieties
+families of hyperplane sections
+following kind of families
+curves of given degree
+projective spaces
+given genus
+prescribed invariants
+K3 surfaces
+complex algebraic geometry
+prescribed singularities of hypersurfaces
+union of projective planes
+certain complex algebraic varieties of small dimension
+geometric genus
+given variety X
+unexpected singularities
+Severi varieties
+X degenerate
+general K3 surface
+important enumerative invariants
+enumerative problems
+prescribed number of ordinary double points
+moduli
+Calabi-Yau threefolds
+relation
+dual graph
+typical example
+mind
+irreducibility properties
+triangulation
+special attention
+cases
+analysis
+degeneration
+things
+Hilbert polynomials
+dimensions
+smoothness
+singularity
+degrees
+central feature
+sphere
+instance
+limit

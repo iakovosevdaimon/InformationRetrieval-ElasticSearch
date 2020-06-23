@@ -1,0 +1,56 @@
+DCs location
+DCs administrators
+autonomy of single DCs
+integrated management of interconnected DCs
+energy consumption
+VMs migrations
+carbon emissions
+GREEN WORKLOAD MANAGEMENT
+Reduction of energy costs
+massive migrations of VMs
+INTERCONNECTED DATA CENTERS Data Centers
+multi-site scenario
+Quality of Service Management
+efficient distribution
+location-wise
+time-wise
+Reduction of power consumption
+Better efficiency
+EcoMultiCloud
+world
+minimum number of physical resources
+new workload distribution strategy
+efficient utilization of resources
+fastest growing category of emissions
+HIERARCHICAL APPROACH
+hierarchical architecture
+poor scalability
+poor ability
+business goals
+business opportunities
+non-utilized servers
+large number of parameters
+Service Level Agreement
+Inter-DC Com
+conditions
+ICT field
+comparison
+opportunity
+limitation
+load balancing
+tunable rate
+Virtual Machines
+strong competitive advantage
+risk of originating
+centralized fashion
+solutions
+global electricity production
+Compliance
+customers
+novel topic
+company
+Current approaches
+international patents
+sites
+Eco4Cloud
+algorithms

@@ -1,0 +1,64 @@
+safe train positioning system
+train satellite positioning
+on-board safe train integrity
+safe On-board Train Integrity
+Fail-Safe Train Positioning
+Traffic Management Evolution
+use of traditional train detection systems
+intelligent traffic management
+Advanced Traffic Management
+train separation concepts
+train self -localization
+European Train Control System component
+Traffic Management System functions X2RAIL
+automation systems
+integration of Traffic Management processes
+Control Systems
+TD2
+existing European Rail Traffic Management System
+railway signalling systems
+project aims
+decision support system
+existing signalling
+validation processes
+IP2
+formal methods
+approach
+following Technology Demonstrators
+related design
+standard interfaces
+Virtual Block
+field of railway
+evolution phases
+preferred technology
+backward compatibility
+ERTMS
+application of new
+multi-sensor concept
+scalability
+innovations
+test
+commissioning
+GNSS
+implementation
+functionalities
+choice of functional service module
+ETCS
+attainment
+Shift2Rail members
+selected key technologies
+research
+operation
+maintenance
+flexibility
+standardisation
+domain
+significant reduction
+time
+challenge
+proposal
+TDs
+MAAP
+market costs
+pillar
+TRL5

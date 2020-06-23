@@ -1,0 +1,44 @@
+fabless plasmonic
+plasmonic sensors
+associated photonic-plasmonic interfaces
+low footprint plasmonic modulator
+high performance photonic devices PLASMOfab
+volume manufacturing of low energy
+CMOS-compatible fabrication platform
+plasmonic bio-sensor
+high complexity
+generic CMOS-compatible platform
+CMOS-compatible metals Aluminum
+functional advantages of PLASMOfab technology
+small size
+record-high sensitivity
+co-integrated plasmonics
+high performance mass manufactured PICs
+electronics PICs
+pool of meaningful elementary plasmonic waveguides
+commercial CMOS fabs
+photonic IC eco-system
+new integration technology
+seamless co-integration of active plasmonics
+novel functional prototypes
+Si3N4 photonics
+multichannel capabilities
+cost reduction capabilities
+wafer-scale fabrication
+label-free inflammation markers detection
+way
+datacom applications
+SiGe
+electrical contacts
+SiO2
+Titanium Nitride
+s NRZ transmitter
+EDA software design kit library
+platforms
+biofunctionalization techniques
+Gb
+Copper
+outstanding performances
+needs
+single monolithic chip
+microfluidics

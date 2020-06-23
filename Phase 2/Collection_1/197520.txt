@@ -1,0 +1,53 @@
+RobustSENSE system
+sensor system reliability
+Automated Driving Today’s driver assistance systems
+Advanced Driver Assistance Systems
+automated driving functions
+respective system level
+higher system level
+level of assistance
+systems able
+automation systems
+reliability measures
+decision
+adverse conditions
+harsh environment conditions
+robustness
+safe driving status
+sound environmental conditions
+Reliable Environment Sensing
+algorithms
+safety
+appropriate actions
+improvement of perception
+sensing methods
+performance reduction
+safe mobility
+area of operation
+present available performance
+reduced sensor information quality
+comfort
+Situation Prediction
+order
+real world requirements
+trustable sensors
+software
+self-diagnosis
+levels
+technical failure
+planning
+self monitoring
+independent subsystems
+yield
+things
+project
+metrics
+holistic approach
+complexity
+adaptation
+platform
+time
+approaches
+main challenges
+diversity
+goal

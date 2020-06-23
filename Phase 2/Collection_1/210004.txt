@@ -1,0 +1,47 @@
+design of morphing structures
+deflected positions of morphing structures
+pertinent morphing mechanisms
+inclusion of morphing technologies
+aircraft design process
+aerodynamic performancesand specific mechanical morphing boundary conditions
+optimal aerodynamic characteristics
+multi-fidelity approach
+multi-objective
+mechanical feasibility
+morphing wing leading edge
+OPTIMOrph project
+multi-constrained optimization procedure able
+mechanical considerations
+reliable numerical optimization methodology able
+optimized shapes ofmorphing structures
+unprecedented design opportunities
+implementation
+optimal solutions
+advanced optimization engine
+series of optimal indications
+target shapes
+compliant way
+consistent way feasibility issues
+new upcoming aircraft architectures
+Development of methods
+re-engineering of current aircraft
+low-fidelity
+project objectives
+early stages
+reconstruction
+acceptable limits
+GAs
+materials limitations
+unique operators
+surrogate model
+computational effort
+structural proof of concept
+account
+complexity
+step-change
+material properties
+key features
+industrial application
+turn
+high-fidelity FSI solver
+requirement

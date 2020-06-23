@@ -1,0 +1,57 @@
+open software
+research groups
+recent research
+Open Digital Research Environment Toolkit
+research life-cycle
+Virtual Research Environments
+actual research practice
+innovative open source software solutions
+varied needs of research projects
+existing mathematical software
+large-scale open source code development
+Advancement of Mathematics OpenDreamKit
+flexible toolkit
+databases
+flexible UI
+produced code
+sustainability
+sociology of mathematical collaboration
+software developers long track record
+computational researchers
+pure mathematics
+grid services
+popular tools
+UI components
+global impact
+varied platforms
+novel component-based VRE architecture
+Jupyter Notebook environment
+existing building blocks
+Europe-wide demand-steered collaboration
+leading mathematicians
+publications
+applications
+physics
+scientific computing
+beneficiaries
+exploration
+social challenges
+respective communities
+proof
+chemistry
+LinBox
+MPIR
+Interfaces
+standard HPC
+biology
+sustainable ecosystem of community
+executable documents
+PariGP
+LMFDB
+GAP
+Sage
+adaptability
+teachers
+industrial practitioners
+variety of demonstrator VREs
+ease

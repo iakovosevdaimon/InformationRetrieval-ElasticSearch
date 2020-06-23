@@ -1,0 +1,53 @@
+preknowledge of UI design
+Combinatorial UI optimization
+UI designers
+UI designs
+prevailing design approaches
+immense design spaces
+combinatorial optimization methods
+Computational User Interface Design PROBLEM
+novel interactive UI optimization paradigm
+appropriate optimization methods
+broader range of design tasks
+good user interface
+hard problems
+well-defined problems
+scope of optimizable problems
+complex user behavior
+constraints
+predictive models of user behavior
+good results
+good solutions
+objective functions
+multiple objectives
+formal analysis of decision problems
+solving of well-known sub-problems
+COMPUTED researches methods
+given HCI task
+fruitless iteration
+prevailing approach
+algorithmic support
+main human factors
+human-computer interaction
+extensive research
+strong complement
+high chance
+fast convergence
+reference
+face of uncertainty
+quality of interfaces
+structured search process
+improvements
+optimality
+novices
+cost-efficiency
+incomplete knowledge
+everyday life
+usability
+heuristics
+foundations
+IMPACT
+great UIs
+previous work
+keyboards
+widgets

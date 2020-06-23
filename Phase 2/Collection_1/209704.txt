@@ -1,0 +1,51 @@
+acoustic development of building systems
+acoustic design of building systems
+Virtual building acoustics
+entire building acoustics frequency range
+acoustic performance requirements
+modelling framework
+accurate vibro-acoustic modelling
+optimization framework
+design optimization
+accurate prediction framework
+efficient analysis
+high-frequency subsystem modelling
+frequency increases
+efficient way
+robust optimization approach
+relevant non-acoustic performance criteria
+overall sound insulation performance
+accurate prediction models
+uncertainties
+built-up systems
+general design rules
+sufficient sound insulation of buildings
+large effect
+new approach
+combined effect
+thermal requirements
+fundamental nature
+fundamental breakthroughs
+noise transmission reduction
+multiple transmission paths
+high degree of geometric
+current statistical energy analysis paradigm
+accounts
+complex problem
+limitations
+uncertain parameters
+switches
+experimental prototype tests
+control of mechanical wave propagation
+time consuming
+study
+different component model types
+material complexity
+huge computational effort
+disciplines
+applications
+result
+profound impact
+suboptimal designs
+developments
+project

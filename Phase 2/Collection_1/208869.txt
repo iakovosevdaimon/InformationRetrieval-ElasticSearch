@@ -1,0 +1,52 @@
+variable p-adic
+theme of p
+critical slope p-adic
+base change p-adic
+p-ordinary forms
+p-adic Gross-Zagier formulae
+p-adic height pairings
+adic variation
+p-non-ordinary
+p-ordinary modular forms
+p-adic Beilinson-Kato elements
+Critical Slope Gross-Zagier formula
+desired formula
+main body
+Coleman family
+Coleman families
+main objective
+conjecture of Perrin
+proposal
+final step
+work of Denis Benois
+work of Francesc Castella
+Perrin-Riou's
+Heegner points
+Heegner cycles
+field of rationals
+suitable imaginary quadratic field
+individual
+cyclotomic derivative
+functions
+precise comparison
+Benjamin Howard
+projects
+long-term collaborator Antonio Lei
+thanks
+members
+generalisation
+higher weights
+proof
+construction
+brief account
+Joel Bellaiche
+goals
+context
+affinoid
+things
+Kobayashi
+major steps
+right
+duration
+fellowship
+approach

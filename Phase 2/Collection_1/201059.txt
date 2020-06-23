@@ -1,0 +1,44 @@
+equilibrium physics
+equilibrium dynamics
+equilibrium behaviors
+equilibrium phenomena
+body systems
+entangled systems
+body continuous systems
+project
+equilibrium signatures of topological order
+effective framework
+analytical framework
+numerical tools
+numerical methods
+dimensions
+framework of tensor network techniques
+body localized phases of matter
+continuous matrix product states
+integrable models
+fundamental challenge
+effective approaches
+contemporary physics
+fundamental aspects
+solvable models
+Bethe ansatz techniques
+time-dependent Density Matrix Renormalization Group
+quantum spin liquids
+special attention
+Monte Carlo
+interdisciplinary approach
+comparison
+tDMRG
+state-of-the-art entanglement
+integrability
+recent experimental results
+low-energy approximations
+quest
+complete understanding
+proposed research
+disorder
+interplay
+context
+goal
+aim
+contrast

@@ -1,0 +1,51 @@
+Based Applications
+Heterogeneous Parallel Systems
+programming parallel heterogeneous architectures
+automatic parallelization of model
+WCET-Aware Parallelization of Model
+WCET-aware automatic parallelization
+parallel programming
+programming heterogeneous multi-
+real-time applications
+core architectures
+ARGO approach
+time-critical embedded applications
+model-based design environments
+programming process
+core platforms
+WCET calculation
+comprehensive time-critical applications
+user-guided parallelization
+Recore Systems
+automatic tool
+core technologies
+cross-layer programming approach
+cyber-physical systems
+aerospace
+system-level WCET analysis
+holistic approach
+unique ARGO consortium
+industrial automation domains
+customized computing platforms
+European domains
+outstanding expertise
+necessary performance
+challenging research
+leading research institutes
+key de-mands
+industry
+AbsInt
+code transformations
+need
+complex toolchain
+programmability
+Scilab Enterprises
+diverse know-how
+costs
+low energy consumption
+safety levels
+High class SMEs
+universities
+challenge
+innovation action
+academic partners

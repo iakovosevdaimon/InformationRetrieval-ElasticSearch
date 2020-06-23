@@ -1,0 +1,59 @@
+Breast Cancer Breast cancer
+breast cancer cases
+Patient cases
+novel digital breast cancer patient
+multidisciplinary management of primary breast cancer
+breast conservative therapy
+Multidisciplinary Breast Units
+data model
+previous cases
+common type of cancer
+existing guideline-based decision support systems
+disease data available
+Iintuitive web-based tools
+specialized BUs
+guideline-based quality procedures
+web-based software ecosystem
+Information Management System
+biomarkers of diagnostic
+set of data mining
+difficulty
+large amounts of retrospective data
+multi-scale physiological model
+visual analytics tools
+novel sources of information
+advanced imaging biomarkers
+evolving knowledge model
+available therapy options
+variables relevant
+digital era
+specialized visual exploratory interfaces
+influence of new variables
+multi-modality image analysis
+DBCP
+outcomes
+experience
+PBC
+prognostic value
+healing process
+fusion
+psychological implications
+tumor characterization
+high standard of care
+intervention
+holistic view
+coordination
+woman
+limitations
+predictive tool
+DSS
+patients
+aesthetic outcome
+pressure
+complexity
+situation
+order
+daily practice
+EU
+guidelines
+DESIREE

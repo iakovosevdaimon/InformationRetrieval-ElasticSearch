@@ -1,0 +1,42 @@
+structural analysis
+Thermoelastic Stress Analysis
+structural tests
+Thermoelastic analysis
+structural test environment
+structural test tools
+stress hotspots
+simple structural features
+rich stress fields
+detailed stress information
+INfrared STRUctural monitoring of Cracks
+aircraft structure tests
+data acquisition
+computational models
+use of automation
+proposed work
+fast acquisition of data
+laboratory-based technique
+well-established set of laboratory
+small test coupons
+low cost
+based techniques
+fracture mechanics
+lower cost
+damage mechanics
+industrial environment
+innovative methodologies
+characterising strain fields
+post-processing capabilities
+large aerospace components
+proposal
+meaningful comparison of experimental results
+TSA
+higher confidence
+production enVironmEnts
+service life evaluations
+productivity
+feasibility
+aim
+applicability
+technical objectives
+moment

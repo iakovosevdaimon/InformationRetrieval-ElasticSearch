@@ -1,0 +1,46 @@
+split linear shallow-water equations
+various structure
+corresponding discrete equations
+mathematical structure
+structured rotating covariant shallow-water equations
+resulting discretizations of conventional covariant nonlinear shallow-water equations
+equations of geophysical fluid dynamics
+novel form of covariant equations of GFD
+split nonlinear case
+topological terms
+metric terms
+split form
+geophysical applications
+discrete case
+discretization recipe
+systematic discretization
+various models
+ocean
+terms of easiness
+climate applications
+computational models
+metric-free
+practical use
+research project
+derivations
+finite element exterior calculus Accurate
+geophysical model community
+metric-dependent parts
+reliable simulations of weather
+open-source software
+software libraries Firedrake
+FEEC
+desirable properties
+Thuburn
+Cotter
+advantage
+splitting
+different order of accuracy
+mass
+energy conserving
+approach
+efficiency of implementation
+FEniCS
+Differential Geometry
+differences
+guideline

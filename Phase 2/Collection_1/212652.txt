@@ -1,0 +1,39 @@
+EM properties of concrete
+building properties of concrete
+concrete impacts
+concrete walls
+wireless performance of concrete embedded antenna array
+optimal wireless performance
+wireless performance of CEAAs
+constraint of mechanical performance
+simplified concrete model
+desirable EM properties
+inhomogeneity of EM properties
+concrete embedded Large Scale Antenna Array Large scale antenna array
+optimal design of Admixtures
+layout of admixtures
+ratio
+typical building structures
+project
+visual impact
+D Poisson point process
+lattice
+weight
+wind load
+multilayer
+negative consequences
+BS
+PPP
+physical dimension
+base station
+models
+G cellular networks
+capacity crunch
+LSAAs
+potential solution
+relationship
+account
+metrics
+simulations
+measurements
+completion

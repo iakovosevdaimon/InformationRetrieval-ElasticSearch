@@ -1,0 +1,59 @@
+certification of software
+Seamless Assurance
+certification of CPSs
+supplier assurance
+reuse of certification assets
+architecture-driven assurance
+Certification of Cyber-Physical Systems Embedded systems
+multi-concern assurance
+product-based model-driven safety certification
+compositional assurance of security
+lower certification costs
+Common Certification Language
+certification open tool platform
+interconnected systems
+OPENCOSS
+de-facto European-wide assurance
+intensive critical systems
+model-based approaches
+reuse-oriented approach
+rise of complex Cyber-Physical Systems
+component model
+safety-oriented process lines
+third-party activities
+safety aspects
+engineering activities
+SafeCer technological solutions
+automation of labor-intensive activities
+compositional development
+harmonized approach
+contract-based verification techniques
+seamless interoperability
+technological risks
+large-scale projects
+changing product features
+largest CPS vertical markets
+self-sustainable community
+ecosystem
+impact analyses
+compliance demonstration
+CCL
+face
+different industries
+unifying concepts
+external assessments
+technical complexity
+presence of human
+AUTOSAR
+end-user
+standards
+cost overheads
+time
+market needs
+tools
+ultimate aim
+dependability
+new areas
+initiatives
+research
+problem

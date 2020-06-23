@@ -1,0 +1,51 @@
+GEiMS platform
+GEiMS framework
+GEiMS project
+DS infrastructure
+GEiMS thanks
+goals of GEiMS
+field of MV DS
+integrity of SE
+SE methods
+forward SE framework
+host institution of GEiMS
+GridEye State Estimation of Medium Voltage Distribution Systems GEiMS
+special characteristics of DS
+complementary decentralized SE method
+GBM equipment
+GridEye Base Module
+GridEye Network Supervision
+control ICT platform
+prompt application of decentralized State Estimation
+practical value
+optimization problem
+improved efficiency
+actual test-bed distribution feeder
+distributed optimization techniques
+practical critical issues
+operational monitoring
+European DSOs
+close collaboration
+hand
+recent years
+available features
+vast experience
+DEPsys
+proper time domain models
+D panel
+correlation of errors
+types
+ample potential
+studies
+opportunities
+pseudomeasurements
+devise
+tool
+phasors
+processing
+electricity
+limited availability of metering
+circumstances
+novel
+Experienced Researcher
+calculation

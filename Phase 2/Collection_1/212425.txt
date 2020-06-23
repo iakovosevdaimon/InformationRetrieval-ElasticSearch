@@ -1,0 +1,53 @@
+tracking of TIDs
+Mitigation Technologies
+occurrence of TIDs
+formation of TIDs
+operational systems
+geolocation systems
+radio systems
+space based navigation systems
+TechTIDE services
+proposed mitigation techniques
+potential users
+ground-based HF communication
+TechTIDE products
+ionosphere
+applications
+new viable TID impact mitigation strategies
+Ionospheric Disturbances Effects
+overarching objective of TechTIDE
+EGNOS services
+TID characteristics
+real-time identification
+N-RTK
+reliability
+way
+added value
+consortium partners’ algorithms
+inferred perturbation
+wide world regions
+South Africa
+parameters
+additional geophysical information
+functionality
+systematic exploitation
+Europe
+efficiency
+warnings
+close collaboration
+operators
+threat
+interplanetary medium
+improved methodologies
+physical processes
+magnetosphere
+following specific objectives
+GNSS
+nuisance
+risks
+sustainable operation
+main goal
+drivers
+atmosphere
+understanding
+Work

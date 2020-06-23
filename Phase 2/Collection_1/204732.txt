@@ -1,0 +1,43 @@
+algebraic varieties
+Hyperkähler varieties
+Abelian varieties
+moduli of K3 surfaces
+arithmetic algebraic geometry
+K3 Surfaces Algebraic geometry deals
+systematic study of supersingular varieties
+arithmetic moduli spaces
+Enriques surfaces
+Moduli of Crystals
+mysterious class of varieties
+complex geometry
+new stratifications of moduli spaces
+new tools
+general framework
+arithmetic situation
+open new research areas
+general theory of period maps
+period domains
+F-crystals
+good theory
+supersingular ones
+aforementioned classes
+unrelated fields of research
+explicit linear algebra problems
+deformations
+curves
+finer invariants
+systems of polynomial equations
+formal group laws
+emphasis
+positive characteristic
+classification
+geometric interpretation
+best results
+Torelli theorems
+twistor space
+reach
+ultimate goal
+projects
+constructions
+detailed understanding
+integers

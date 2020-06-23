@@ -1,0 +1,51 @@
+KPZ equation
+fractional KPZ
+coupled KPZ
+KPZ fixed point
+KPZ universality class
+stochastic systems
+stochastic PDE
+d stochastic dynamics
+stochastic Burgers equation
+different IPS
+Equilibrium Fluctuations
+derivation of SPDE
+universal SPDE
+strong asymmetric systems
+new SPDE
+d conservative microscopic dynamics
+underlying microscopic dynamics
+general weakly asymmetric systems
+macroscopic laws
+states
+mean
+field of interacting particle systems
+large class
+stationary solutions
+stationary state
+universal process
+strong conjectures
+fractional versions
+classical problem
+partial differential equations
+boundary conditions
+long jumps
+physical system
+growing interfaces
+renormalization group operator of space-time scaling
+thermodynamical quantities
+reservoirs
+contact
+SBE
+defects
+Hydrodynamic Limits
+integrated counterpart
+rigorous description
+particles
+literature
+research project
+purposes
+conserved quantity
+convergence
+study
+goal

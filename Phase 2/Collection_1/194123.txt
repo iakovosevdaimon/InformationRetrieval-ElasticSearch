@@ -1,0 +1,59 @@
+cloud security
+Managed Security
+security policies
+security mechanisms
+new security
+security protocols
+CLOUDS OF CLOUDS
+USER-CENTRIC MANAGEMENT OF SECURITY
+autonomic security management framework
+self-service clouds
+self-protecting clouds
+distributed cloud computing
+inter-cloud architectures
+diverse cloud providers
+dependability infrastructure management paradigms
+SUPERCLOUD methodology
+resource management framework
+promotion of open source cloud technologies
+different administrative provider domains
+dependability concerns
+protection requirements
+Implementation
+provider-agnostic resources
+proprietary infrastructure technologies
+trust statements
+administration complexity
+Proposition of trust models
+distributed medical imaging platform
+robust manner
+major standardization bodies
+composition of services
+real-world use cases
+primitives
+Development
+testbed integration
+unravelling business benefits
+lack of interoperability
+increase
+compute
+network layers
+flexibility
+healthcare domain
+partners
+market validity
+lock-ins
+customers
+compliance
+Root causes
+laboratory information system
+research findings
+storage
+users
+SDN
+Resilience
+automation
+consortium
+industry
+following objectives
+expertise

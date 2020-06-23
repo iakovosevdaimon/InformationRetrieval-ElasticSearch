@@ -1,0 +1,52 @@
+Fluid Flows
+flows of ordinary differential equations
+theory of flows
+irregular phenomena
+mixing phenomena
+continuity equations
+kinetic equations
+nonlinear PDEs
+mathematical analysis
+important partial differential equations
+Euler equation of fluid dynamics
+mathematical description of physical phenomena exhibit transport features
+Irregular Transport
+theory of characteristics
+mathematical point
+smooth setting of transport
+precise mathematical formulation
+multidimensional systems of conservation laws
+physical quantities
+underlying physical systems
+challenging important questions
+intrinsic lack of regularity
+structure of solutions
+major difficulty
+major advances
+robust formulation
+crucial role of geometric measure theory techniques
+fundamental tool
+actual properties
+shocks
+Rigorous bounds
+time
+velocity fields
+discontinuities
+instance
+guiding thread
+use
+standard methods
+proposal
+Deep insight
+study
+problems
+case
+ubiquitous feature
+unifying factor
+nonlinearity
+behaviors
+irregularity
+nonlocality
+consideration
+reasons
+project

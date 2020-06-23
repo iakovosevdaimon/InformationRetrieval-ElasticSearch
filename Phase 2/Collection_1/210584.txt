@@ -1,0 +1,54 @@
+volcano-seismic classes
+volcano monitoring
+VM scenarios
+automatic VSR system
+automatic Volcano Seismic Recognition
+VM area
+VM observatories
+VM facilities
+VM centre
+Volcano-seismic Unsupervised Labelling
+PSA-VSR
+volcano crisis difficult
+VSR prototypes
+real-time seismicity analysis
+precursory seismicity
+type of precursory events
+recognising events
+system applicability
+state-of-the-art VSR technologies
+Parallel System Architecture
+class description
+unsupervised scenarios
+models robust
+proper class
+Real-time Scenario Volcanic activity
+population risk
+given type
+manual supervised classification
+online risk assessment
+eruption forecasting tools
+different types of volcanoes
+specialised recognition channels
+structured Hidden Markov Models
+statistical means
+big impact
+collaborative framework software able
+standard solution
+useful feedback information
+increase
+expert technicians
+massive data
+volcanology
+key
+machine learning
+interaction
+economy
+society
+human casualties
+efficient way
+proposal
+variability
+goal
+objectives
+aim

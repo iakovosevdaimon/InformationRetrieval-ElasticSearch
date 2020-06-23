@@ -1,0 +1,65 @@
+Evolution Of Transform
+Earth Transform
+transform-ridge systems inception
+global models
+transform fault dynamics
+database of simulated global transform-ridge patterns
+offset of transform faults
+global mantle flow
+distribution of ridge
+ridge interactions
+global physical controls
+regional-scale models of transform fault inception
+account global forces
+D spherical models of global mantle convection
+evolution of plates
+plate tectonic forces
+Earth’s plate tectonics
+physical properties of mantle rocks
+large-scale plate kinematics
+gravity data
+synthetic data
+organization of plate motions
+physical processes
+aim
+observed field data
+orthogonal patterns
+rock healing
+rock damage
+geophysical modeling
+multidisciplinary project
+state-of-the-art convection code
+geodynamical modeling research
+numerical technics
+fundamental features
+bathymetry
+structures
+Behavior
+nucleation
+new physics
+scope
+vanguard
+magmatism
+crustal melting
+seismicity
+advances
+unprecedented approach
+factors
+gap
+long periods
+critical role
+available computational power
+Europe
+ETH Zurich
+active boundaries
+formation
+relationships
+variability
+knowledge
+assessment
+long-term expertise
+Accounting
+Generation
+result
+methods
+centers

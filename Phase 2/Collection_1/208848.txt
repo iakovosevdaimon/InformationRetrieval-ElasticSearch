@@ -1,0 +1,55 @@
+process of antigenic variation
+antigenic variation of Plasmodium falciparum
+CRISPR-Cas9 genome
+cis-regulatory elements of var genes
+dCas9
+inactive Cas9
+developed CRISPR-Cas9 tool
+var gene members
+Cas9 targeted immunoprecipitations
+situ genetic manipulation of var gene regulatory elements
+role of cis genetic elements
+silencing of specific var genes
+dead Cas9 version
+technology Malaria
+project
+multi gene families
+epigenetic effector molecules
+natural epigenetic context
+important virulence factor
+study malaria parasite virulence
+variant molecules
+Plasmodium type
+important immune escape process
+human pathogens
+state-of-the-art techniques
+desired locus
+lack of tools
+new tools
+specific DNA regions
+infectious human disease
+native chromatin context
+molecular mechanisms
+generation of point mutations
+surface
+parasitic protozoans
+implication of epigenetics
+focused data
+exchange
+activation
+PfEMP1
+infected host cells
+major scientific efforts
+activators
+factors
+erythrocyte
+selective marker
+Pathogenesis
+expression
+protein tags
+lethal form
+RNA guide
+effectors
+deaths
+reason
+targeting

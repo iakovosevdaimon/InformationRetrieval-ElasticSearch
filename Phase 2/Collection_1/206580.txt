@@ -1,0 +1,58 @@
+Full-scale housing
+NDI techniques
+full-scale gearbox housing components
+powder bed fusion techniques
+c drive system housing
+powder feed direct energy deposition techniques
+novel tiltrotor drive system housing
+iltrotor HO
+functional tests
+structural substantiation
+powder precursors
+design rules
+processes
+Direct Laser Deposition - DLD
+features of additive manufacturing techniques
+technological potential
+chemical compatibility
+general functional aspects of r
+Characterisation methodologies
+technological peculiarities of rotorcraft main gearbox housings
+terms of chemical nature
+Selective Laser Melting - SLM
+damage tolerance
+corrosion endurance
+procedures
+engineering cost
+aluminium
+machinability
+stainless steel
+fracture mechanics
+industrial capability assessment
+NextGenCTR Demonstrator
+titanium alloy
+magnesium
+weldability
+dedicated specimens
+Electron Beam Meelting - EBM
+test activity
+heat-treatability testing
+fatigue
+flight clearance
+basis of specific suitability
+compliance
+optimisation
+AMATHO
+final trade-off process
+particles granulometry
+optimal materials
+addition
+degree of maturity
+relevant requirements
+start-up of high-volume production
+morphology
+numerical tools
+set-up
+technologies
+proof of concept
+meantime

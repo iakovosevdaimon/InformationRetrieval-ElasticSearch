@@ -1,0 +1,51 @@
+intractable problems
+isomorphism problems
+satisfaction problems
+graph theory
+general theory
+fundamental partition problems
+strategy-design problems
+problems of practical relevance
+mathematical game theory
+status of important algorithmic problems
+large family of computational problems
+Unified Theory of Algorithmic Relaxations
+tighter relaxations
+NP-hardness
+important gap
+mathematical logic
+mathematical programming
+original classification project
+CSPs
+original problem
+current candidate algorithms
+new hardness-hypotheses
+alternative hardness-hypotheses
+hard instances
+cases
+knowledge
+hierarchies of convex relaxations
+computational complexity
+decades of research
+resist classification
+current understanding
+strength
+combinatorics
+indistinguishability pebble games
+constrained optimization
+polynomial-time solvable
+approaches
+different areas
+methods
+analysis
+significant advances
+recent discovery
+partial progress
+need
+field
+novelty
+point
+components
+ultimate goal
+thesis
+way

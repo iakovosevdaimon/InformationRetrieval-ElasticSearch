@@ -1,0 +1,59 @@
+radiating Particle acceleration
+advanced studies of charged particle acceleration
+fast particle behaviour
+resulting fast particle dynamics
+velocity-space particle distribution
+magnetic fusion plasmas
+acceleration processes
+numerical models
+complementary models
+common framework
+resulting theoretical framework
+large scale phenomena
+focus areas
+layer
+large scale energy production
+small scale physics
+strong coupling
+kinetic equations
+complex interactions
+systematic way
+EM-field
+complex systems
+interdisciplinary approach
+self-consistent coupling of Maxwell’s equations
+new way of studying
+advanced collision operators
+flexible ensemble of theoretical
+improved design of fusion devices
+instabilities
+non-Maxwellian distributions
+Planck solvers
+evolution
+novel instrument
+radiation
+shock-wave formation
+corresponding code-suite
+lightning initiation
+time
+laser
+wide variety of applications
+cancer therapy
+Interesting aspects
+kinds
+Vlasov-Fokker
+key object of study
+numerics
+project
+avalanches
+waves
+theory
+main challenge
+deeper understanding
+principles
+experimental observations
+overlapping regions
+generality
+applicability
+particles
+goal

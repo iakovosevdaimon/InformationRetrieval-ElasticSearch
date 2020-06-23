@@ -1,0 +1,50 @@
+fairing rotor head design
+fairing beanie
+fairing configurations
+fairing geometries
+hub fairing
+pylon fairing
+Fairing Rotor Head Aerodynamic Design Optimization
+rotor head wake
+non-spinning rotor head
+pre-development of potential rotor head
+rotor head blade sleeve fairings
+effect of rotor rotation
+wake flow analysis
+series of simplified flow conditions
+project results
+numerical design optimization
+refined aerodynamic optimization of promising
+forward flight conditions
+method development
+optimizer software
+following development phase addresses
+significant drag reduction potential
+software functionality
+phase concentrates
+structural components
+high precision aerodynamic simulations
+developed software tools
+blade sleeves
+CPU-intensive CFD simulations
+existing CFD
+structural integrity
+overheating of components
+proper flight dynamics
+sound data base
+Low Impact
+Efficient Rotorcraft
+seamless integration
+empennage
+computations
+respect
+preliminary optimisations
+compound helicopter configuration
+topic leaders
+LifeRCraft
+complex
+tasks
+Strong unsteady airloads
+special focus
+demonstrator
+consecutive steps

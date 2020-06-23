@@ -1,0 +1,55 @@
+Broadband Superconducting Nanowire Single Photon Detectors Single-photon detection
+state-of-the-art single-photon detectors
+new generation of broadband superconducting nanowire single-photon detectors
+impinging photon
+superconducting layers
+limited detection efficiency
+enabling technology
+emerging technology
+technology platform
+quantum computer
+transparent band
+waveguide band gap
+realization
+fundamental quantum optics
+development of quantum information science
+new geometry
+SuSiPOD project
+project success
+best suited waveguide material system
+unity absorption probability
+fabrication of high quality
+space communication
+LIDAR systems
+unavoidable dark counts
+substrate
+wide spectral range
+medical imaging
+large timing jitter
+pulsing
+AlN
+lattice
+applications
+evanescent field propagating
+help
+century
+NbN
+semiconductor-based avalanche photodiodes
+normal state
+devices
+way
+establishment
+critical current
+transition
+infrared light
+voltage spike
+working prototype
+nitride waveguides
+tapered optical fibre
+photons
+GaN
+main challenges
+proposed alternative
+operation wavelength
+target
+nm

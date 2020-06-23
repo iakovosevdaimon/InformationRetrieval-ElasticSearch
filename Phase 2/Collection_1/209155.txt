@@ -1,0 +1,57 @@
+customized structural health monitoring
+healthcare monitoring
+functionality of standard Structural Health Monitoring
+body signal monitoring
+health assessment
+current developed system
+prototype
+different environmental monitoring sensors
+proposed system
+body temperature
+humidity
+SHM
+developing board
+indoor localization
+Integrated Smart Device
+current ones
+real smart watch
+wearable wrist band device
+STM Nucleo-F401 board
+systems
+RF
+GSM
+project IDEAL SENSOR
+Emergency Management
+heart rate
+Bluetooth low energy
+comprehensive solution
+quality
+radio frequency
+GPS
+transceiver
+communication modules
+GPRS
+features
+images
+location
+general purpose services
+price
+respect
+fitness
+entertainment
+feasible product
+software
+best available solutions
+OLED display
+shape
+user friendly package
+STMicroelectronics
+sub-module
+needs
+requirements
+infrastructure
+rapid prototyping
+components
+emergencies
+electrical parts
+order

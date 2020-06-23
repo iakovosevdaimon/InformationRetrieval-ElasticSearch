@@ -1,0 +1,48 @@
+management of automated vehicles
+MAVEN project
+infrastructure systems
+vehicle systems
+MAVEN results
+tasks of traffic management systems
+road authorities
+road automation
+reduction of vehicle delay
+introduction of vehicle
+Network
+technologies
+smart city principles
+smart city environment
+development
+Traffic lights
+inclusion of vulnerable road users
+impact assessment
+adaptive traffic light optimization
+reduction of emission
+user assessment
+future cities
+near future
+substantial better utilization of infrastructure capacity
+maneuver planning
+field tests
+ADAS techniques
+broader perspective of passenger transport
+role
+trajectory
+high-precision maps
+signalized intersection
+corridors
+extensive modeling
+communication standards
+system prototype
+understanding changes
+signal timing
+platoon organization
+white paper
+movement of organized platoons
+roadmap
+technology
+negotiation algorithms
+service delivery
+groups
+urban areas
+guidance

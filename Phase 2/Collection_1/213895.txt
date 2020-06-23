@@ -1,0 +1,58 @@
+new simulation
+physiology-based simulation
+patient-specific simulation research
+Autonomous Patient-specific Simulation Workflows
+Multiscale Imaging
+new generation of imaging
+patient-specific models
+wider adoption of predictive simulation
+automation
+diagnostic imaging data
+analysis Methods
+manual intervention
+new paradigm
+overarching goal of ImageToSim
+analysis prototype
+analysis tools
+geometry segmentation
+clinical protocols
+clinical practice
+scale parameters
+liver perfusion
+existing framework
+macro-scale failure
+liver surgery planning
+robust active contour segmentation
+unifying finite element framework
+series of novel comprehensive variational multiscale methodologies
+vascular networks
+casting image processing
+transition of micro-
+upscaling of voxel
+osteoporosis prevention
+intricate process
+tight budgets
+response times
+associated cost
+substantial progress
+complex physiological geometries
+fundamental technology gaps
+osteoporotic bone fracture
+dependence of state-of-the-art procedures
+varying length scales
+preventive
+urgent decision-making
+automated operation
+pathways
+significant roadblock
+evidence
+transformation of healthcare
+context
+trained analysts
+developed techniques
+hospitals
+medical clinics
+clinicians
+key objective
+technical scope
+collaboration

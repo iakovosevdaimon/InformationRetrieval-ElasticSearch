@@ -1,0 +1,55 @@
+Extreme scale solvers
+high-quality open source software
+free open source extreme scale finite element software
+software project
+Extreme Scales
+extreme scale super-computers
+free open source software paradigm
+forthcoming extreme scale machines
+numerical linear algebra
+numerical algorithms
+best approach
+high-quality libraries
+high performance scientific software able
+ability of scientific computing
+Scientific Computing Library
+numerical approximation of PDEs
+nonlinear domain decomposition
+staggered approach
+external libraries
+innovative approach
+local work
+local kernel detection
+future exascale scenario
+generation of exascale computers
+expense of extra local flops
+best option
+time loops
+black-box solvers
+grid-based methods
+physics-based preconditioners
+time-space parallelization
+Frontier Simulations
+synchronization
+linearization machinery
+great impact
+result
+end experts
+ground-breaking advances
+researchers
+inter-processor communications
+complexity
+strong way
+collaborative research
+boundary terms
+PoC proposal
+different fields
+field of science
+solver-aware discretizations
+objective
+target
+billions of cores
+benefits
+idea
+Multiphysics problems
+order

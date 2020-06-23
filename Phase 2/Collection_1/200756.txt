@@ -1,0 +1,51 @@
+computational foundations of VEM
+Virtual Elements
+respect
+Virtual Element Method
+approximation of PDEs
+recent theoretical challenges
+non-convex elements
+large grid distortions
+Finite Element Method
+accurate domain approximation
+deeper theoretical insight
+flexible refinement
+benchmark problems
+grid adaptivity
+stronger robustness
+novel technology
+promising technology
+de-refinement procedure
+up-to-date problems of practical
+large deformation elasticity
+discrete spaces of arbitrary C
+MRI data
+advantages
+discretization of partial differential equations
+shape functions
+innovative construction
+propagation
+wider numerical experience
+limit
+curved faces
+cardiac bidomain model
+Advancements
+stiffness matrixes
+interesting properties
+regularity
+method's potentials
+project
+variational background
+efficient handling of material inclusions
+standard Galerkin methods
+exact satisfaction of conservation laws
+better understanding
+hexahedral grids
+explicit integration
+breakthrough
+attention
+main scope
+applicative purposes
+applications
+coding complexity
+instance

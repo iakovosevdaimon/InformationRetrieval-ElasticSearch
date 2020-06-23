@@ -1,0 +1,47 @@
+EXA2PRO environment
+EXA2PRO use cases
+EXA2PRO optimization tools
+vision of EXA2PRO
+EXA2PRO outcome
+EXA2PRO programming environment
+application developers of exascale application
+application evaluation
+EXA2PRO tool-chain
+efficient application deployment
+Increased applications performance
+parallel applications
+Exascale Computing Systems
+source code maintainability
+significant exascale challenges
+efficient exploitation of exascale systems' heterogeneity
+Performance Portability
+wide range of scientific applications
+scientific community
+source code quality
+Efficient exploitation of heterogeneity
+Evaluation of various fault-tolerance mechanisms
+productive deployment
+reusability
+data
+performance monitoring features
+memory management optimization
+significant impact
+reduced effort
+reduced developers' effort
+industry relevant
+major impact
+supercomputing centers
+Supercapacitors industry
+industrial community
+different characteristics
+different domains
+JUELICH supercomputing center
+runtime system level
+design qualities
+CO2 capture
+user
+constraints
+energy consumption
+Programmability
+Identification of
+complex problems

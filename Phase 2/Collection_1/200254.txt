@@ -1,0 +1,42 @@
+confidentiality of data
+encrypted data
+Secure Big Data Processing
+dependable processing of Big Data
+cloud stack
+confidentiality of computations
+large volumes of data
+cloud provider
+trusted computing base small
+Untrusted Clouds SecureCloud
+Intel's Secure Guard Extensions
+upcoming hardware extensions of commodity CPUs
+secure fashion
+untrusted administrators
+hypervisor
+distributed computing infrastructure
+computers
+operating systems
+approach
+little physical security
+use case context
+concept of microservices
+different administrative control
+context of smart grids
+source code
+integrity
+partial offloading
+SGX
+availability of applications
+millions of lines
+application logic
+network
+rest
+transit
+shuffles
+attackers
+compromised hosts
+functionality
+operators
+help
+main problem
+encryption

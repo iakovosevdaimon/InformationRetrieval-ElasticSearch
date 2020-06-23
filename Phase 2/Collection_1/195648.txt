@@ -1,0 +1,36 @@
+Drosophila TEs
+gene promoters
+regulation of TE promoters
+impact of TEs
+mammals TE-derived promoters
+TE insertion
+strain-specific TE-derived promoters
+TE copies
+differential gene expression
+sites devoid
+population-specific
+host genomes
+Drosophila melanogaster populations
+potential platforms of gene regulatory networks
+Regulation Transposable elements
+regulatory changes
+intrinsic regulatory elements
+wild-derived strains
+host transcriptome
+aim
+Transposable element Impacts
+genome-wide high throughput sequencing method
+new field
+RAMPAGE
+instance
+histone modifications
+research project
+DNA sequences
+chromatin maps
+evident harmful effects
+fruit flies
+perfect model
+main goal
+transposition
+important discoveries
+comparison

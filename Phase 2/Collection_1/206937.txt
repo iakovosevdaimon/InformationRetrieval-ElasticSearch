@@ -1,0 +1,44 @@
+pathogen proliferation rates
+pathogen interactions
+pathogen persistence
+immune system
+time probing pathogen proliferation
+dynamics of immune cells
+dynamics of immune responses
+differential immune cell dynamics
+pathogen's proliferation
+optogenetic pathogen inactivation
+distinct pathogen proliferative states
+proliferation-deficient mutants
+execution of protective immune responses
+differential dynamics of phagocyte
+reporter system
+T cell-APC
+different states
+critical information
+variety of microbial physiological states
+profound implications
+induction
+involvement
+design of efficient vaccines
+treatment strategies
+low proliferating pathogens
+antimicrobial therapy
+use
+link
+relationship
+molecular mechanism
+cellular level
+role
+antibiotic resistance
+knowledge of host
+insights
+interplay
+infections
+tissue niche
+difficulties
+order
+project
+ImmProDynamics
+pathways
+question

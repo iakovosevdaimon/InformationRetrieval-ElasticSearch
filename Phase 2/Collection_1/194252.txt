@@ -1,0 +1,61 @@
+system integration
+waTEr qUality Sensing Water management
+water flow energy
+high cost
+system validation
+cognitive water quality monitoring
+majority of multifunctional water sensors
+sensing board
+microfluidic sensing chip of carbon
+high level system design
+evolving requirements
+reduced cost
+low cost of additional sensing components
+resistive chemical sensors
+rheological resistive sensors
+multifunctional adaptive deep-submicron CMOS system
+unit function cost
+energy budget
+PROTEUS
+Energy autonomy
+differentiated applicative goals
+cognitive capabilities
+predefined goals
+nano-enabled sensor platform
+smart systems
+heterogeneous integration
+model deployments
+appropriate inclusion of business requirements
+end users
+low-cost monitoring means
+large scale deployments
+post-project exploitation
+industrial use cases
+service time
+cost-effectiveness
+manufacturability
+MEMS physical
+nanotubes
+reliability assessment
+packaging
+size
+redundancy
+building blocks
+value chain
+benchmarking
+offering x10 reduction
+interfaces
+reconfigurability
+interoperability
+different levels
+field testing
+life span
+consistency
+renowned actors
+state
+Innovative embedded software
+increased number of functions
+efficiency
+main challenge
+approach
+consortium

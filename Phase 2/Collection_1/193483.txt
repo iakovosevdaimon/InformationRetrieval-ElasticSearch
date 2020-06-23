@@ -1,0 +1,57 @@
+novel datasets
+Analysis HESPERIA
+novel operational forecasting tools
+goals HESPERIA
+forecasting systems
+HESPERIA consortium
+objectives of HESPERIA
+space physics
+available large datasets
+space weather community
+high-energy solar particle events
+dedicated web interface of HESPERIA
+gamma-ray observations
+gamma-ray emission
+proven concepts
+future innovative space weather services
+derived results
+unexploited tools
+SEPServer
+NMDB
+order
+measurements
+time
+neutron monitor observations of relativistic SEPs
+High Energy Solar Particle Events
+neutron monitor database
+FERMI mission
+available software
+physical mechanisms
+depth analysis
+physical parameters
+radio emission
+databases
+electromagnetic proxies
+partners
+GBM
+individuals
+Russia
+public
+complementary expertise
+aspects
+PAMELA
+number of institutes
+situ
+UMASEP
+AMS
+examination
+related servers
+understanding
+REleASE
+efficient dissemination
+lower energies
+systematic exploitation
+recommendations
+AU
+possibility
+FP7 projects

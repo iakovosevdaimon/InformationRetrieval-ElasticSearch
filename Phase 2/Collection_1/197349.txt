@@ -1,0 +1,46 @@
+Network metrics
+network failures
+network infrastructures
+SELF-ORGANIZED NETWORK MANAGEMENT
+autonomic network management framework
+autonomic network maintenance
+potential network problems
+major network management problems
+automated network monitoring
+Network Function Virtualization
+Strand Network Management challenge
+operational costs of network operators
+novel intelligent network management framework
+range of common network problems
+significant number of current labour-intensive network management tasks
+SELFNET - FRAMEWORK
+self-organizing capabilities
+Self-Organizing Networks
+key management tasks
+Self-healing capabilities
+Self-optimization
+proposed SELFNET project
+SOFTWARE DEFINED NETWORKS
+Software-Defined Networks
+Self-protection capabilities
+autonomic corrective
+QoE
+Quality of Experience
+user experience
+automatic deployment of NFV applications
+distributed cyber-attacks
+preventive actions
+high-level tactical measures
+Cloud computing
+Artificial intelligence
+system-wide awareness of Health
+SON
+real status
+SDN
+smart integration of state-of-the-art technologies
+precise knowledge
+generation networking
+business context
+performance
+cases
+users

@@ -1,0 +1,58 @@
+potential
+visual testing
+simple measurement system
+lab-based system
+Non-Contact Ultrasonic Scanning Surface defect detection
+non-contact ultrasonic techniques
+promise of surface
+characterizing surface-breaking defects
+viable techniques
+viable detection methods
+safety-critical non-destructive testing
+on-line measuring system
+individual defects
+lower capital costs
+related economical costs
+Proof of Concept unit
+demonstrator unit
+NDT approaches
+old components
+removal of parts
+radiographic methods
+Rapid Defect Characterisation
+characterization
+wave ultrasonics
+aerospace
+gas
+oil
+electromagnetic acoustic transducers
+industry
+place
+need
+energy generation
+railway networks
+regulated industries
+various crack formations
+scattered waves
+laser ultrasound
+developed theory
+significant effect
+single device
+metals
+measurements
+common use
+situ examination cycle times
+civil infrastructure
+processes
+terms
+coatings
+service
+productivity improvements
+number of operational drawbacks
+project
+presence
+geometry
+requirement
+NonContactUltrasonic
+Grant
+hazardous environments

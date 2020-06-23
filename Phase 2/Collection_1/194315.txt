@@ -1,0 +1,44 @@
+Design applications
+design solutions
+DISTRIBUTED APPLICATIONS DEVELOPMENT PARADIGM
+underlying infrastructure
+NOVEL RECONFIGURABLE
+heterogeneous programmable infrastructure
+Development Methodology
+Application-Developers
+application developers
+development of novel software paradigms
+optimal configuration
+Application State
+optimal infrastructural configuration
+extensible Context Model
+Proper Context-Model
+registered programmable resources
+Infrastructural State
+configuration plan
+generated executables
+ARCADIA project
+Smart Controller
+proposed framework
+generated executable files
+aforementioned ARCADIA toolset
+tasks of translating annotations
+emerging programmability
+IDEs
+account
+conditions
+meaningful semantics
+advantage
+testbeds
+inability
+high performance
+failure
+runtime environment
+ARCADIA’s vision
+order
+changes
+heterogeneity
+source-code level
+IDE-plugins
+direction
+use cases

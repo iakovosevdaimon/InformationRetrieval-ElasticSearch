@@ -1,0 +1,67 @@
+medical scans
+medical image
+medical institutes
+effective medical imaging analysis tool
+medical imaging Diseases characteristic
+powerful automatic medical imaging tool
+Bayesian learning
+Deep learning
+DeeBMED project
+small sample size DNN
+small number of examples
+labeled data
+Bayesian inference
+Development of new effective automatic tool
+Bayesian Distillation
+costs of analysis
+various diagnostics techniques
+early diagnostics
+accessible diagnostics
+multimodality of data distribution
+multi-source learning
+new strategy
+convolutional nets
+feedforward nets
+disease label
+various approaches
+probabilistic framework
+disease progression
+probabilistic relationships
+large number of dimension
+different deep neural networks
+modern western civilization
+modelling weights uncertainty
+lead
+cancer
+Dropout
+hidden variables
+complex images
+PET
+specific control of incidences
+millions of deaths
+cardiovascular disorders
+year
+diabetes
+main problems
+latent factors
+Gaussian processes
+supervision of
+time
+stage
+robustness
+MRI
+overfitting
+case
+enormous quantity
+future
+European Union
+transformations
+radiologists
+possible remedy
+identification
+Novel automation
+University of Amsterdam
+Max Welling
+therapy
+aim
+result

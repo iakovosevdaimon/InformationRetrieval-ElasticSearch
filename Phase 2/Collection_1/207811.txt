@@ -1,0 +1,61 @@
+control of Modular Robots Motor control
+project
+motor control tasks
+fine motor control
+spiking modular cerebellum
+Novel modular robots
+Biomimetic Learning Control Scheme
+motor skill
+plausible control scheme
+modular structure
+sensory-motor signals
+adaptive predictive control system
+brain processing
+computational learning model
+cerebellar mechanisms of learning
+formation of long-term motor memories
+machine learning techniques
+implementation of spiking networks
+human brain
+novel computing paradigms
+novel bio
+important feature
+fields
+candidate
+embodied artificial brain
+neuromorphic computing
+aforementioned model
+key role
+sensory input
+cerebellar topology
+discovery of important insights
+spectrum
+potential
+cellular properties
+terms
+body agent
+H2020 objectives
+robotic manufacturing
+long expertise
+collaborations
+research groups
+UGR
+performance
+Fable
+information
+multiple relevant contributions
+run time
+years
+TUM
+forefront of advances
+position
+scientific training
+DTU
+interplay
+involvement
+hardware
+behaviors
+biological basis
+approach
+purpose
+environment

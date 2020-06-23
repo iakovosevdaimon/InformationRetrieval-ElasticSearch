@@ -1,0 +1,41 @@
+quantum simulations
+single quantum dots
+quantum physics
+quantum photonics
+Scalable Quantum Photonic Networks
+scalable quantum architectures
+larger quantum networks
+scalable quantum-information processing
+photonic quantum-information processing applications
+deterministic interfacing of multiple quantum dots
+Deterministic single-photon sources
+single-photon transistor
+photonic-crystal waveguide
+probabilistic single-photon emission
+photonic-crystal nanostructures
+giant photon nonlinearity
+deterministic photon-emitter interface
+multiplexed array of single photons
+solid-state photonic systems
+giant nonlinearity
+project objectives
+deterministic CNOT gate
+present project focus
+ambitious research project
+fundamental obstacles
+outstanding challenge
+extended dipole-dipole interaction
+fundamental limits
+present proposal
+concept experimental demonstrations
+frontrunner technology
+complexity
+small proof
+weak nonlinearities
+scaling
+size
+passive nonlinear scatterer
+decade
+successful accomplishment
+coupling
+Area

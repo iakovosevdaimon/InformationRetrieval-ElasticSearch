@@ -1,0 +1,49 @@
+safety of road users
+main communication needs of road users
+successful communication
+Communication Planning Unit
+acceptance of AVs
+mixed traffic environments
+user-centric communication
+test vehicles
+behaviour prediction of surrounding road users
+improvement of traffic flow
+good means of communication
+integrated communication protocols
+cooperative interaction of automated vehicles
+future traffic scenarios
+novel software
+planning algorithms
+software algorithms
+chances of safe deployment of AVs
+trajectory planning
+safety layer
+novel methods
+catalogue of interactions
+smooth flow
+main objective
+cooperation strategy
+overview of current human-machine interactions
+intention recognition
+HMI hardware components
+reduction of crashes
+sensor capabilities
+high desire
+manufacturers
+multi-actor simulators
+ease
+SAE level
+social-psychological models
+appeal
+value
+obstacle detection
+actors
+impact
+reliability
+society
+intentions
+limitation
+cyclists
+pedestrians
+market
+Prototypes

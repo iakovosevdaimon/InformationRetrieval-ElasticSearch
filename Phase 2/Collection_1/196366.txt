@@ -1,0 +1,53 @@
+UNICON project
+UNICON simulation technology
+FEniCS project
+computer simulation of fluid
+Simulation of turbulent flow
+ERC StG project UNICON
+Project ID
+simulation tools
+simulation result
+competing simulation software
+UNICON computational technology
+project FEniCS-HPC
+goal of UNICON
+ERC PoC project
+computer implementation
+Industrial implementation of adaptive computational methods
+fluid-structure interaction
+new adaptive finite element methods
+world leading open source software
+PI
+customer
+outstanding computational challenge
+ADAPTIVE targets civil
+subsonic fluid dynamics
+industry
+non-military
+support
+methodological framework
+focus
+unique features
+state
+differential equations
+problems
+PRACE Tier
+respect
+accuracy
+downloads
+education
+integration
+significant progress
+scientific results
+efficiency
+services
+products
+year
+deliverance
+workflow
+algorithms
+idea
+powerful supercomputers
+Europe
+strategy
+Hoffman

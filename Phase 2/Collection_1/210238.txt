@@ -1,0 +1,52 @@
+climate models
+project
+Climate Simulations
+Reliability of Weather
+variety of models
+nonlinear climate system
+reliability of comprehensive weather
+forecast reliability
+generation weather
+negligible information
+information-theoretic diagnostics
+Information Theoretic Approach
+new scientific understanding
+new synergy
+variety of new tools
+proposed increase
+precision of small-scale variables
+precision arithmetic
+numerical precision
+scientific basis
+scale-dependent estimates of information content
+testable scientific hypothesis
+forecast model’s vertical resolution
+movement of bits
+model variables
+Earth-System modules
+estimates of irreducible uncertainty
+stochastic sub-grid parametrisations
+example
+PI’s pioneering research
+different scales
+energy efficiency
+advent of exascale supercomputing
+dynamical core
+process representation
+areas
+computational resources
+benefits of mixed
+cost
+computer science
+accuracy
+single biggest determinant of power consumption
+high-wavenumber components
+persistent atmospheric flow regimes
+emerging hardware capable
+ensemble size
+emulators of imprecision
+reduction
+aim
+development
+ideas
+degradation

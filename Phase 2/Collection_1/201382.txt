@@ -1,0 +1,39 @@
+electric-gate tuning of GPs
+tuned states of GPs
+application potential of GPs
+electric GP tuning
+all-optical switching functionalities
+electric-gate voltage
+all-optical plasmonic signal processing
+subwavelength optical imaging
+fields of optical sensing
+control of light
+limitations
+metamaterials
+potential applications
+phase-change materials Graphene plasmons
+switchable phase change materials
+consuming signal control
+extreme subwavelength scale
+ultrafast time scale
+plasmonic switches
+GP electro-optic devices
+graphene-plasmon
+new functionalities
+numerous applications
+development of tunable transformation optics devices
+tunable infrared biosensing
+strong light-matter interactions
+absorption spectroscopy
+modulation
+low-energy
+dynamic tunability
+volatile method
+computing
+simple way
+memory
+digital metasurface
+metasurfaces
+transport
+applied bias
+proposal

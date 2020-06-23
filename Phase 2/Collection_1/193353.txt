@@ -1,0 +1,60 @@
+user feedback
+data-centers
+User Profiler
+user profiles
+real-time measured data
+non-real-time data
+mobile nature of data
+Tariff Scheme Designer exploits platform data
+goods
+travel information
+innovative communication network BONVOYAGE
+innovative information-centric communication network
+request time
+communication channels
+travel itinerary
+personalized travel instructions
+personalized profile
+door transport of passengers
+people
+innovative networking paradigm
+urban transport systems
+transport operator partners
+heterogeneous databases
+corresponding Context
+multimodal door
+tariff schemes
+ticketing services
+necessary services
+Multi-Objective Optimizer
+real life application scenarios
+special needs
+road
+weather forecasts
+Quality of Experience parameters
+intermodal mobility solutions
+interfaces
+railway
+traffic
+normal business operations
+Oslo
+requirements
+sensors
+vehicles
+static binding
+Bilbao
+communications
+Metadata Handler
+entities
+constraint
+particular location
+Internames
+tools
+trip
+Current networks
+Internet
+source
+parcel
+Actuator
+hosts
+destination

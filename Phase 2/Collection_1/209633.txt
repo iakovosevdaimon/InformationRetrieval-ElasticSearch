@@ -1,0 +1,42 @@
+nonlinear dynamics
+magnetic vortex dynamics
+vortex oscillator
+symbolic dynamics
+Chaos-based information processing
+particular chaos
+nanoscale spintronic device
+project builds
+chaotic phases
+chaotic state
+frontier research project
+spintronic nano-oscillators ChaoSpin
+rich behaviour of nonlinear systems
+state-of-the-art experiments
+quantitative theories
+host institution’s recent discovery of novel commensurate
+universal building block
+random number generation
+key technological functionalities
+nanomagnetism
+development of high-performance simulation tools
+high- frequency electrical characterisation
+complexity
+need
+interface
+communication
+important scientific questions
+possible cognitive functions
+computation
+utility
+spintronics
+complex array of interconnected subsystems
+premise
+feedback
+nature
+feasibility
+single system
+alternative computing paradigms
+external forcing
+primary objective
+underlying idea
+technical objectives

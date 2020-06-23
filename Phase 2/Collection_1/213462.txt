@@ -1,0 +1,49 @@
+Topological Mechanical Metamaterials Mechanical metamaterials
+topological mechanical systems
+mechanical materials
+topological phonons
+topological band-theory
+unobserved topological phases of matter
+sample design
+dimensions
+complexity of topological phonon models
+theoretical framework
+application of known design algorithms
+new design principle
+theoretical model
+concrete applications
+proposed materials
+challenge
+actual sample
+principle results
+Crystalline symmetries
+novel algorithm
+use of topology
+lcoal symmetries unnatural
+power of genetic algorithms
+quantum condensed matter physics
+man-made structures
+tailored vibrational properties
+energy harvesting
+earth-quake protection
+extensive finite element simulations
+feasibility
+discovery
+required large-scale parameter scans
+vibrometer
+classical mechanics
+designs
+hand
+current approach
+medical imaging
+manufactured metamaterial samples
+exciting opportunity
+proof
+group cohomology techniques
+successful implementation
+central shortcoming
+axis
+neural network
+date
+objective of TopMechMat
+ideas

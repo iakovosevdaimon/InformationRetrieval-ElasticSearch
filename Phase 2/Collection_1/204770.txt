@@ -1,0 +1,55 @@
+data formats
+CAE data
+interoperable data reuse
+costs of design
+lack of information
+different design stages
+Virtual Prototyping system
+reliable multi-disciplinary modeling capability
+industry specific lifecycle modeling technique
+conceptual hull design
+LCCA
+environmental assessments
+development of industry modeling coherence schemes
+risk assessments
+Life Cycle Cost Analysis
+cycle time
+marine industry
+key purchasing decision criteria
+virtual prototyping simulation models
+criterion decision analysis techniques
+new techniques
+useful implicit information
+Building Information Modelling
+risk assessment  criteria
+Ship Lifecycle Software Solutions SHIPLYS
+incompatible tools
+new paradigm
+life considerations
+reliable decision-making
+time consuming
+key BIM Product Model principles
+better ship concepts
+detailed designs
+finite element calculations
+Buyer Utility
+existing CAD
+end
+increasing requirements
+explicit formulation matrix
+persistence
+long term
+SMEs
+large overhead of trained staff
+difficulties
+order
+shipowner members
+architect
+shipbuilder
+production
+ISO10303 standards
+experience
+effective evaluation of alternatives
+standardization aspects
+world market
+differentiators

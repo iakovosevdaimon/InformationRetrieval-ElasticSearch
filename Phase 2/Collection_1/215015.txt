@@ -1,0 +1,53 @@
+Automated Mitigation of BGP Prefix Hijacking Attacks
+BGP prefix hijacking events
+network of networks
+Real-time Detection
+mitigation cycle
+victim networks
+new technologies
+entire networks
+independent networks
+cost of outages
+inaccurate detection mechanisms
+novel detection algorithms
+resulting network outages
+slow mitigation processes
+pest network operators
+hours
+days
+Internet
+services
+high cost
+fundamental technologies
+network of potential future customers
+cost millions of dollars
+new approach
+Proof of Concept implementation of PHILOS
+prominent cases
+numerous false alerts
+low immediate benefit
+unprecedented success
+global scale
+duration
+necessary environment
+critical impact
+results
+manual
+users
+human error
+Border Gateway Protocol
+decade old design
+automation
+sensitive information
+capability
+Current approaches
+business plan
+commercial customer of
+traffic
+legitimate destinations
+news
+Offenders
+project
+goal
+norm
+seconds

@@ -1,0 +1,49 @@
+electron spin
+spin lifetimes
+Spin readout
+spin ensembles
+Absolute Spin Dynamics
+coherence times of single spin systems
+understanding of spin dynamics
+individual spin interactions
+absolute spin polarization
+coherence times of arbitrary single spin systems
+feasibility of quantum spin information processing
+arbitrary single spins
+coherence measurements
+detection of information
+detection limit of spins
+special systems
+atomic scale
+Quantum Materials
+quantum computing
+electron charge
+atomic level
+STM
+concept of pulsed electron paramagnetic resonance
+new concept
+coherent manipulation
+coherent excitation
+novel time
+different decoupling surfaces
+relaxation
+important missing links
+orders of magnitude
+scalability
+microscope
+low-temperature scanning
+greatest challenges
+Meservey-Tedrow
+Fulde effect
+immediate surroundings
+superconducting tip
+long-standing problems
+direct impact
+innovative setup
+light source
+conserved quantity
+successful demonstration
+addition
+decay mechanisms
+principal investigator
+goal

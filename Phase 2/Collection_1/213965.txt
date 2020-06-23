@@ -1,0 +1,59 @@
+detailed soil model
+ANAFORE model
+effect of soil fauna
+important effects of soil fauna
+Implementation of soil fauna effects
+forest ecosystem model ANAFORE
+new model
+new soil submodel
+new ANAFORE soil submodel
+active role of soil fauna
+Forest ecosystem models
+simple model
+Yasso model
+soil organic matter decomposition
+better prediction of soil processes
+foodweb effects
+crucial role of fauna
+modeled effects
+ecosystem functioning
+stand-scale mechanistic forest model
+project
+similar models
+previous version of ANAFORE
+previous simpler models
+fluxes of carbon
+nitrogen
+simulated fluxes of water
+long-term research
+terrestrial ecosystems
+original data
+increasing understanding
+sustainable use of soils
+historical experimental data
+main research question
+effect of different management strategies
+Sokolov post-mining ecosystems LTER site
+future global changes
+effective protection
+aggregation
+macropore formation
+restoration
+bioturbation
+plants
+additional literature
+litter quality
+forests
+fragmentation
+performance
+reliable tools
+key interactions
+climate
+need
+example
+nutrients
+abiotic factors
+general consensus
+modelling purposes
+phosphorus
+specific objectives

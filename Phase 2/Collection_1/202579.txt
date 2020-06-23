@@ -1,0 +1,52 @@
+Colloidal Quantum Dot Quantum Optics Colloidal semiconductor nanocrystals
+unique sources of quantum states of light
+quantum dot molecules
+single photon sources
+tunable sources
+large quantum yield
+broad synthetic toolbox of colloidal semiconductor quantum dots
+room temperature sources
+organic ligand layer of quantum dots
+significant use
+colloidal synthesis of complex multicomponent semiconductor nanocrystals
+correlated photon pairs
+significant limitations of present-day solid state sources of nonclassical light
+entangled photon pairs
+carrier interactions
+control of carrier
+single nanocrystal level
+deterministic number of emitted photons
+edge photophysical studies
+saturated excitation
+fidelity
+color tunability
+entanglement
+type of system
+composition
+bioimaging
+photostability
+rods
+ease of assembly
+epitaxial growth
+concerted effort
+suggested schemes
+fundamental properties of coupled carriers
+material requirements
+size
+implementation
+various arenas
+new types of emitters
+platelets
+confined structures
+potential pathway
+time reordering
+lighting
+photovoltaics
+devices
+present attempts
+fabrication
+catalysis
+shape
+platform
+program
+versatility

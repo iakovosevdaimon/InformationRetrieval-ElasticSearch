@@ -1,0 +1,45 @@
+Evolution of Antibiotic Resistance
+Streptococcus pneumoniae Streptococcus pneumoniae
+multiple-niches models
+simplest epidemiological models
+extensive antibiotic consumption
+series of novel models
+maintenance of coexistence
+different rates of antibiotic administration
+robust coexistence of resistant
+complex simulation model
+treatment structures
+epidemiological datasets
+Multiple genotypes
+complex mechanism
+past years
+better treatment policies
+sensitive strains
+increasing realism
+relevance
+pneumococcus
+realistic contact
+large-scale patterns of spatial variation
+analytical solutions
+strong selection
+antibiotics
+local adaptation
+separate fields of population genetics
+death
+humans
+epidemiology
+bacterial species
+context
+infants
+infections responsible
+initial insights
+average
+work
+factors
+major pathogen
+stable frequency
+possibility
+project
+Europe
+Output
+analysis

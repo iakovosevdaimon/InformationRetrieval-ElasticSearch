@@ -1,0 +1,49 @@
+security properties
+Physical properties Of security Protocols
+security analysis of protocols
+modern security protocols
+traditional security protocols
+account physical properties
+security goals
+traditional protocols
+privacy properties
+security of modern contactless systems
+physical proximity
+physical world
+novel security requirements
+rigorous analysis of cryptographic protocols
+contactless nomadic devices
+ill-conceived systems
+POPSTAR project
+proliferation of portable computing devices
+practical tools
+secure localisation
+foundations
+secure neighbourhood discovery
+cryptographic primitives
+standard models
+developed techniques
+devise models
+use of formal verification
+high level of trust
+citizens
+confidence
+transmission delay
+serious concerns
+network topology
+consumers
+shrinking size of microprocessors
+encryptions
+hash functions
+forthcoming expectation
+meaningful conclusions
+prominent role
+basic building blocks
+addition
+Reasoning
+node positions
+ubiquity of wireless communication
+main objective
+applications
+contrasts
+instance

@@ -1,0 +1,56 @@
+Modular Interface
+standard interfaces
+electrical interface
+thermal interfaces
+mechanical interfaces
+modular design
+data connections
+modular spares
+Future Space Missions
+logistics support
+coupling of payload
+common infrastructure
+modular reconfigurable system
+building blocks
+EXtendable SATellite
+Common maintenance standards
+Robotic Manipulation of Payloads
+account long duration missions
+multiple payloads
+Reduced logistics
+Future Low
+main objective
+robotic manipulator
+set of connections
+integrated form
+Mission flexibility
+architecture flexibility
+design aspects
+end-effector
+separated form
+Main benefits
+existing standards
+SRC end goals
+demonstration of robotics servicing technology
+heat regulation
+power transmission
+different components
+standardization
+modularization
+validation
+verification
+large clusters of modules
+manipulators
+properties
+interchangeability
+interoperability
+configuration changes
+development
+realization
+things
+architectures
+APMs
+layout
+operational capacity
+output
+servicer

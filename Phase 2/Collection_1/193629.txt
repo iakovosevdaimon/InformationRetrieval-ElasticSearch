@@ -1,0 +1,58 @@
+mechanical objects
+mechanical properties of complex objects
+slender mechanical structures
+underlying mechanical properties
+inverse modeling of complex mechanical structures
+captured objects
+geometrical data
+rich geometrical configurations
+mere geometrical shape of physical objects
+complex problems
+wide range of objects
+nonsmooth inverse problems
+fast image-based measurement of diverse mechanical materials
+slender structures subject
+design of robust
+design of reduced
+classical inverse reconstruction methods
+original inverse modeling strategy
+minimal set of geometrical poses
+D geometry
+Computer Vision
+Computer Graphics
+considerable advance of automatic image-based capture
+dynamic cases
+efficient numerical tools
+recent capturing tools
+high-order discrete models
+creation of dynamic human doubles
+rods
+well-posed mathematical formulation
+frictional contact
+plates
+latest years
+significant advances
+folded cloth
+shells
+biology
+physics
+proposal
+Motion
+non-invasive method
+thorough experimental validation
+research
+addition
+long run
+ease
+contrast
+realistic virtual worlds
+intricate shapes
+twined filaments
+manufacturing
+claim
+GEM challenge
+little study
+property
+communities
+goal
+dynamics

@@ -1,0 +1,58 @@
+energy networks
+future electricity generation
+Energy system decarbonisation
+alternative energy carriers
+future energy system scenarios
+virtual thermal energy storage
+distribution grid
+optimising energy flows
+electricity end
+heat networks models
+Intermittent generation
+variability of RES generation
+PLANET tools
+grid operational planning
+grid balancing
+network stability
+operational tools
+storage systems
+avoidance of RES generation curtailment
+distribution network operators
+district heating networks
+storage technologies models
+extensive electricity demand flexibility
+actual benefits of PLANET solutions
+unpredictable grid stresses
+conventional solutions
+holistic Decision Support System
+power
+current solutions
+natural gas
+variable RES
+PLANET aim
+use of novel conversion
+actual premises
+stability insufficient
+real-world solution deployments
+high VRES times
+boundary constraints of real deployments
+synergies
+EU projects
+evolution
+customers
+policy makers
+management
+volatility
+solid testbed
+reliability
+Italy
+France
+order
+integration
+information
+conversions
+responsiveness
+process
+simulation
+optimal strategies
+metrics

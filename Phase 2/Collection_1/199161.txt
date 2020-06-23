@@ -1,0 +1,55 @@
+low power
+real-time embedded super-computing platforms
+generation real-time applications
+Low-Power Embedded Systems
+reduced power consumption
+generation embedded platforms
+embedded computing market
+real-time guarantees
+critical computing activities
+new applications
+renewable power sources
+multiple computing element
+Higher computing workloads
+heterogeneous multi-core platforms
+predictable performance
+real-time scheduling techniques
+High-Performance Real-time Architectures
+cutting-edge heterogeneous CTOS multi-core platforms
+impressive performance capabilities
+high performance
+daily activities
+multiple sensor data
+predictable guarantees
+safety-critical human activities
+smaller frequencies
+smaller batteries
+automotive domain
+avionic domain
+systems designers
+prompt elaboration of sensor data
+Higher criticality
+integrated framework
+visual recognition system
+impressive average performances
+pioneering autonomous driving system
+innovative industrial use cases
+guaranteed bounds
+response times
+execution models
+order
+shelf
+cost
+COTS
+advent of commercial
+required technological infrastructure
+number of additional requirements
+magnitude improvement
+series of opportunities
+environment
+Project HERCULES
+converging needs
+objects
+research community
+Quicker interaction
+functionalities

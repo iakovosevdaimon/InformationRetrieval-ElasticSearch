@@ -1,0 +1,44 @@
+Web Security
+secure web applications
+enforcement of security properties
+adequate security foundations
+dynamic nature of web applications
+strong security properties
+required security guarantees
+innovative security enforcement technologies
+malicious applications
+lack of solid security enforcement tools
+Client
+BROWSEC
+end users
+theoretical foundations
+lightweight monitoring approach
+holistic approach
+program verification
+promising practical impact
+infeasible program analysis
+novel monitoring technique
+software engineering
+breakthrough advancements
+multidisciplinary research effort
+rigorous understanding
+various disciplines
+JavaScript semantics
+outputs
+order
+gigantic attack surface
+number of attacks
+proposal
+present
+proofs
+worthwhile efforts
+dangerous information flows
+rapid development
+blackbox
+inputs
+browser
+way
+core
+machine
+code
+extension

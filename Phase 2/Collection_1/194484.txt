@@ -1,0 +1,56 @@
+aster motion
+aster size
+aster friction
+aster-pairs orientation
+subsequent aster positioning
+aster large-scale motion
+sperm aster migration
+aster micro-mechanics
+scale of asters
+Positioning of Microtubule Asters Cells
+subcellular force measurements of MT asters
+force-generators self-
+single force-events
+de-centration processes
+early stages of Sea urchin development
+spindle orientation
+various stages of development
+nuclear positioning
+dynamic spatial organization of force
+multiple scales
+hour scales
+global forces
+MT-associated motors
+position internal components
+large portions of cells
+early divisions of Sea urchin embryos
+cell manipulation
+cell surface
+arrays of MTs
+stereotyped division patterns
+Couple computational models
+large-egg center
+polarity
+boundary conditions
+D imaging
+cytoplasm
+unprecedented insights
+millimeter
+shape
+physics
+sites
+centrosome
+quantitative model
+system
+fertilization
+suit of biophysical experiments
+speeds
+trajectories
+framework
+function
+tissues
+physical designs
+mechanisms
+nanometer
+active matter
+order

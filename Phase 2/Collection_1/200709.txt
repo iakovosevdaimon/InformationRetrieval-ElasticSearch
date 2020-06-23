@@ -1,0 +1,62 @@
+Multi-modal Context Modelling
+context types
+appropriate modelling of multi-modal context
+human language
+new machine learning
+Statistical Machine Translation
+form of non-textual context
+global multi-modal information
+global textual content
+rich context models
+language pair
+non-standard language
+user-generated content
+NLP
+multilingual multi-modal representations
+new ways
+new breakthrough
+wider surrounding textual content
+Human translators
+SMT systems
+field of Natural Language Processing
+wide range of text types
+social media posts
+visual cues
+inference algorithms
+related texts
+challenging user-generated datasets
+relevant information
+Twitter posts
+example images
+related documents
+translations useless
+number of contextual cues
+interdisciplinary research proposal
+claims
+enormous potential
+Computer Vision
+topic
+metadata
+expertise
+reference
+lower communication barriers
+long sought-after goal
+date
+access
+economic impact
+actual segment
+dominant paradigm
+author
+reading comprehension
+methods
+test beds
+disruptive approach
+source
+novel
+ambitious idea
+product reviews
+incorrect meaning
+results
+issues
+focus
+examples

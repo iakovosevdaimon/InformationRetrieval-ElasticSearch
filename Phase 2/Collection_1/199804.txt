@@ -1,0 +1,54 @@
+Voice Emotion detection
+Current vocal emotion detection approaches
+basic emotion categories
+subtle emotions
+subcategories of emotion families
+prototypical emotions
+voice analytics
+Real life emotion detection application fields
+marketing research partners
+clinical diagnosis
+media impact analysis
+sophisticated acoustic voice analysis
+Market analysis
+automated sensing of human emotions
+companies
+Strong impact of VocEmoApI
+vocal nonverbal behavior
+small set of basic
+development of VocEmoApI draw’s
+large markets
+public security
+robot markets
+physiological sensing
+concept software
+subtle differentiations
+different approach
+prototype software
+reference set of expression clips
+household robotics
+forensics
+finer distinctions
+therapy
+Appraisal
+machine learning
+applicant’s Advanced Grant
+results
+product value
+feedback
+solid theoretical basis
+need
+telecom
+entertainment
+industry contacts
+professional products
+hot topic
+building blocks of emotional processes
+Sympalog
+Aldebaran
+kind proof
+lot of commercial attention
+drawback
+method
+technology
+states

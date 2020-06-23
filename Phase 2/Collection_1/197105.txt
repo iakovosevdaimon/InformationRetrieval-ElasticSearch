@@ -1,0 +1,55 @@
+numerical simulation of complex environmental porous media flows
+established numerical simulation codes
+complex porous media
+numerical linear algebra
+porous media simulations
+important subject of numerical analysis
+numerical simulations of partial differential equations
+analysis of PDEs
+final outcome
+total simulation error
+tailored inexact solvers
+multilevel algebraic solvers
+linearization solvers
+novel inexact algebraic
+error reduction
+complex issue
+computational load
+scientific computing
+reliable outcome
+adaptive algorithms
+posteriori error estimates
+current computational burden
+Efficient use of computational resources
+new algorithms
+key novel ingredients
+urgent environmental applications
+local adaptive stopping criteria
+assessment
+grid levels
+nuclear waste storage
+online interconnecting
+definite target
+industrial benchmarks
+problem
+parts
+unknown constant
+prolongation
+modeling
+yielding mass balance
+geological sequestration of CO2
+discretization-dependent restriction
+optimality
+project
+Implementation
+decades
+orders of magnitude
+disconnected domains
+theoretical results
+step
+CPU time
+accuracy
+cardinal technological advance
+convergence
+reason
+goal

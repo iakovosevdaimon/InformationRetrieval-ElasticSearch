@@ -1,0 +1,49 @@
+Safe Robot Navigation
+mobile robots
+Today’s robots
+new robot capabilities
+navigation abilities
+crowd motion
+robot operation field
+development robot cuyBot
+safe navigation tasks
+available Pepper robot
+safe motion
+crowd state
+compact crowd
+crowded environments
+Dense Crowds CROWDBOT
+crowded areas
+crowd traffic management
+sensing abilities
+cognitive abilities
+close interactions
+close range
+humans
+unexpected movements of people
+high dynamic environments
+safety concerns
+project addresses
+new applications
+realistic scenarios
+frequented areas
+Safety Advisory Board
+short term evolution
+trajectory
+guidelines
+required expertise
+open software components
+vicinity
+demonstrators
+gap
+knowledge
+possibilities
+results
+semi-autonomous wheelchair
+achieving step changes
+industrial impact
+user
+obstacle
+acceptable manner
+pedestrians
+contact

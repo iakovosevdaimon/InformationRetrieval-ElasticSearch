@@ -1,0 +1,28 @@
+ROS ecosystem
+robot ecosystem Micro-ROS
+computational devices
+smart embedded devices
+constrained resources
+constrained computational resources
+deep embedded robot components
+seamless integration of resource constrained devices
+Robotic framework
+robot application development
+IoT sensors
+common framework
+smaller robots
+distributed robotic systems
+interoperability of traditional robots
+robotics
+intermittent operation
+wireless low bandwidth connections
+Platform
+increasing overlapping
+battery
+minimum real time
+special characteristics
+class participants
+advantage
+standard
+sleep periods
+tools

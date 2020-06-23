@@ -1,0 +1,60 @@
+membrane trafficking disease genes
+Systems Biology of Membrane Trafficking Membrane trafficking
+membrane trafficking modules
+date membrane trafficking
+entire membrane trafficking system
+functional spatiotemporal map of membrane trafficking genes
+discrete sets of trafficking genes
+mutations of single trafficking genes
+EGEL genes
+molecular organization of membrane trafficking machineries
+internal membrane system
+functional MTMs
+epistatic functional analysis
+high degree of functional redundancy
+systems biology approach
+co-regulated MTMs
+tissue-specific human diseases
+human health
+neuronal cells
+protein interactions
+global view
+studies of protein
+tissue development challenge
+high-content siRNA screening
+proximal tubular epithelial kidney cells
+CLCN5
+rise
+proteins
+differential effects
+OCRL
+chondrocytes
+ubiquitous expression
+important implications
+TRAPPC2
+homeostasis
+different regulatory layers
+specialized cell types
+osteoblasts
+antibody microarrays
+VAPB
+Sec23A
+physical networks
+impact
+interplay
+Golgi
+Endosomes
+transport
+RNA-seq
+Lysosomes
+constitutive process
+fact
+unique resource
+detailed knowledge
+interconnected approaches
+regulation
+list
+art technologies
+combination of state
+SYSMET
+extracellular medium

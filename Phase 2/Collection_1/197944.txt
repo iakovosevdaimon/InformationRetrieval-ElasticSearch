@@ -1,0 +1,57 @@
+exascale engine
+exascale supercomputers
+Exascale software
+Exascale Hyperbolic PDE Engine
+new exascale hyperbolic simulation engine
+efficient exascale codes
+energy consumption
+ability
+accurate weather forecast
+high computational efficiency
+general hyperbolic solver
+dynamic adaptivity
+simulation of earthquakes
+computational costs
+compute kernels
+dynamic rupture processes
+high-order communication
+solution of large systems of partial differential equations
+cutting-edge research questions
+current numerical methods
+disruptive hardware changes
+latest supercomputing hardware
+complex earthquake physics
+subsequent regional seismic wave propagation
+Discontinuous-Galerkin schemes
+collision of compact stars
+grand challenges
+patients
+Finite-Volume
+time
+hinge
+life
+severe constraints
+hematic flows
+inherent fault-tolerance properties
+precise scientific goals
+modeling of relativistic plasmas
+scientist
+astrophysics
+burden
+diverse areas
+aspects
+spacetree grids
+conservation laws
+low memory footprint
+explosive phenomena
+problems
+performance
+induced hazards
+catastrophic events
+development
+predictive power
+astrophysical objects
+universe
+models
+human losses
+observations

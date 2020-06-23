@@ -1,0 +1,55 @@
+ExaNoDe compute element
+integrated compute element
+heterogeneous compute element
+exascale compute goals
+ExaNoDe approach
+aspect of ExaNoDe
+deployment of multiple compute elements
+European Exascale Processor  Memory Node Design ExaNoDe
+Unimem memory
+advanced low-power processors
+exascale computing
+advanced nanotechnologies
+low- power processors
+analysis of high-performance applications
+low-latency
+scalable computing
+development
+necessary support of HPC applications
+resilient memory access
+system design paradigm
+advanced thermal characteristics
+deployment of associated nanotechnologies
+multiple European initiatives
+generation of system interconnect
+evaluation of Unimem
+mechanical requirements
+essential research
+FPGA processing elements
+storage virtualization techniques
+hardware emulation of interconnect
+high-bandwidth
+multi-way
+PGAS
+OpenMP
+SIMD
+connectivity
+accelerators
+EUROSERVER FP7 project
+aware runtime capabilities
+GPGPU
+first-hand experience
+innovation
+potential
+Exabyte levels
+technology readiness level
+abstractions
+building blocks
+investigations
+MPI paradigms
+tuning
+mini-application
+kernels
+work
+Integration
+ETP4HPC

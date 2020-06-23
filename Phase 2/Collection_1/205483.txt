@@ -1,0 +1,54 @@
+electrical system
+electrical power distribution system
+HVDC distribution system
+power generation system
+advance TRU system
+Flight Control System
+HVDC Electrical Power cOnversion
+real system performance
+electrical power supply of essential loads
+integration of System Bite
+new electrical power conversion
+Vdc power
+HVDC Distribution Equipment
+power density
+electrical performance
+HVDC systems
+Design
+advance control
+characteristics of TRU
+IADP Regional Aircraft FT2B
+existing equipment
+safety requirements
+order
+realistic model
+Regional FTB2 Demonstrator
+new intelligent energy management concepts
+advance semiconductor technologies
+High Voltage Direct Current
+HEPODIS project
+integration problems
+current architectures
+qualification of new regulated Transformer Rectifier Unit
+elec-trical efficiency
+high level of criticality
+global energy demand
+main objectives of HEPODIS
+processes
+functionality
+reconfigurations
+manufacturing
+relation
+reliability
+development
+Protections
+Redundancy
+working conditions
+Vac
+permit
+models
+rest
+certification strategies
+effectiveness
+manufacture
+phase

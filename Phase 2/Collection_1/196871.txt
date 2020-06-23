@@ -1,0 +1,48 @@
+photonic devices
+classes of nonlinear devices
+GRAphene nonlinear PHotonic Integrated CircuitS
+main classes of nonlinear optical devices
+reconfigurable intelligent optical devices
+all-optical signal processing devices
+light-graphene interaction
+distinct nonlinear features of graphene
+integrated photonic platform
+compact chip-scale devices
+novel generation of photonic integrated circuits
+disruptive optical routing
+high-speed optical data
+slow light photonic crystals
+photonic-microelectronic convergence
+nonlinear Kerr response
+capability of tuning graphene properties
+optical peak power necessary
+novel chip
+processing technology
+low interaction of light
+GRAPHICS
+resulting architectures
+pulsed microlaser
+semiconductor hybrid platforms
+realization of CMOS compatible platforms
+communications
+silicon chips
+saturable absorption
+nanophotonic toolbox  -microcavities
+cornerstone
+Datacom
+monolayer of carbon atoms
+project
+significant achievements
+Si microlasers
+long-term vision
+way
+addition
+interconnect applications
+research program
+key role
+technological challenges
+instance
+relevant strategies
+right
+draw
+device miniaturization

@@ -1,0 +1,48 @@
+cloud customers
+Traditional cloud security
+cloud providers
+cloud platform
+cloud computing services
+benefits of cloud services
+security issues
+security operations
+solid security mechanisms
+current security mechanisms
+sound security practices
+set of security auditing services
+data storage
+CLARUS framework
+privacy features
+USER CENTRED PRIVACY
+sensitive data
+processing of data
+stored data
+compelling customers
+CLARUS solution
+lack of control
+secure framework
+greater control
+trusted domain
+main objective of CLARUS
+user’s domain
+end users
+dedicated proxy
+confidentiality
+cost
+assurance
+negative impact
+attacks
+server
+edge device
+functionality
+potential
+countermeasures
+major concerns
+result
+management
+applications
+good level of service
+client computer
+vulnerabilities
+router
+location

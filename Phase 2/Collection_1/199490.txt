@@ -1,0 +1,59 @@
+high density bandwidth
+High density scalable
+scalable bandwidth optical interconnectivity
+roadmap of bandwidth density growth
+data centers
+accumulation of data
+intra data center optical communications
+ultra-high density
+requiested bandwidth
+continuous growth of traffic
+s Board Optical communications
+possible data exchange
+continuous growing of transport
+intra data center photonic platform
+transceiver chip
+continuous growing of traffic congestion
+intraboard transceiver bank
+wavelength transceiver interface
+Teraboard interconnection platform
+interconnected Tb
+target of lowest energy cost
+silicon photonics transceiver circuits
+processing
+manufacturing cost
+Teraboard project
+cm2
+novel WDM optical connector
+growing number of users
+target values
+edge single
+Single wavelength laser arrays
+point photonics
+need of aggregation
+limited aggregation
+processor interconnection layer
+intrarack
+low insertion loss
+x reduction respect
+fiber ribbons
+commercial state
+metro netwotks
+channel
+pJ
+crucial role
+capacity
+Gb
+latency
+content
+bottleneck
+effect
+passive
+convergence of Telecom
+major limiting factor
+Datacom
+signals
+timeframe
+years
+volumes
+decade

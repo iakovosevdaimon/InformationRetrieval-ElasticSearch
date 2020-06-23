@@ -1,0 +1,55 @@
+multiple navigation avionics
+performance-based navigation operations
+Navigation of Airborne Vehicle
+affordable non-inertial navigation systems
+price of navigation grade gyroscopes
+existing legacy navigation aids
+small aircraft
+Atomic Signals Global Navigation Satellite System Positioning
+non-GNSS signals
+novel concept of APNT
+atomic spin
+novel technologies
+performance requirements
+PNT services
+flight operations
+multiple GNSS constellations
+required level of performance
+air traffic operations
+flight safety level
+novel concept of atomic micro-gyroscope
+Timing
+miniature atomic clocks
+event of GNSS interference
+efficiency
+security
+ground-based infrastructures
+worldwide air traffic
+Integrated Space
+avionic systems
+major reengineering
+adequate capacity
+airspace capacity
+major impact
+Current solutions
+NAVISAS Consortium
+high precision alternative positioning
+market constraints
+DME
+VOR
+GPS
+outage
+nuclear magnetic moment precessions
+NDB
+similar cell
+growth
+Secondary Radar
+Galileo
+GLONASS
+enhancement
+gap
+improvements
+disruption
+support
+disturbing reality
+technology

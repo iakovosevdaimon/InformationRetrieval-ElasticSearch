@@ -1,0 +1,32 @@
+different cryptographic primitives
+basic cryptographic primitives
+security amplification of cryptographic primitives
+complicated primitives
+quantities of cryptographic hardness
+Foundations of Cryptographic Hardness
+efficient symmetric-key cryptographic primitives
+goals
+fundamental research challenge
+modern cryptography
+different types of computational entropy
+fundamental tools
+fundamental questions
+computational notions of entropy
+realm of foundational cryptography
+positive answer
+understanding
+mere existence of one-way functions
+necessary hardness assumptions
+computational complexity communities
+new concepts
+power of security reductions
+randomness extractors
+ramification
+effective methods
+techniques
+dramatic result
+great bearing
+relationship
+equal NP
+tremendous success
+years

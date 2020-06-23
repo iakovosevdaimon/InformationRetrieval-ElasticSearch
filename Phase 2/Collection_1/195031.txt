@@ -1,0 +1,45 @@
+Web of Data
+data structures
+data publishing workflow
+living document
+Scientific publications aggregate data
+KOPAR project
+authors
+aggregator
+aggregation
+inclusive nature of scientific documents
+Knowledge Publishing
+Conceptual elements
+type of documents
+integrative-interoperable semantic perspective
+machine procesable elements
+standards
+nanopublications
+references
+Research Objects
+Application Programing Interfaces
+heterogeneous resources
+Acquisition
+Representation
+self-describing
+tooling necessary
+methods
+experimental protocols
+identification
+order
+novel paradigm
+characterization
+processes
+Existing ontologies
+external sources
+scholarly communication
+assemblage
+paper
+arrangements
+pivot
+archive
+myriad of formats
+collaboration
+scientists
+problem
+persuasive narrative

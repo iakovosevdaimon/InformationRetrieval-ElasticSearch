@@ -1,0 +1,57 @@
+new network experimental infrastructure
+order
+SoftFIRE
+project
+programmable experimental network infrastructure
+new services
+new technologies
+new platform functionalities
+federated infrastructure
+existing experimental testbeds
+parties able
+real world infrastructure
+Network Function Virtualization Testbed
+integration of existing experimental facilities
+programmable solutions
+applications
+properties
+use
+G oriented platform
+terms of efficiency
+adopted solutions
+broad ecosystem of companies
+general terms E2E QoS
+functional responsiveness
+Hackathon
+creation
+Software Defined Networks
+specific events
+Research
+Innovation actions
+NFV
+SDN
+programmability
+Open Calls
+Plug-tests
+partners
+laboratories
+evolution
+possibility
+key elements
+interoperability
+Challenges
+level of maturity
+effort
+budget
+step
+usage
+consolidation
+Consortium
+environment
+security
+federation
+potential
+main objective
+initiative
+goal
+mechanisms

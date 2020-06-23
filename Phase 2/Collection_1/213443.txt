@@ -1,0 +1,53 @@
+mathematical theory of inverse problems
+Inverse boundary problems
+unified theory
+nonlinear problems
+geometric inverse problems
+Gel’fand problems
+various different inverse problems
+transport theory
+solution of integral geometry problems
+control theory arguments
+Calderón problem
+boundary rigidity problem
+Gel'fand problem
+new research questions
+general pseudo-linearization approach
+PDE
+unified point of view
+Prominent questions
+geodesic X-ray
+use of normal forms
+seismic imaging
+electrical imaging
+fields of mathematics
+applied mathematics
+harmonic analysis
+introduction of microlocal normal forms
+different topics
+analysis of convex foliations
+nonlinear operator equations
+exciting new connections
+vibrant research field
+nonlocal models
+systematic Carleman
+intersection of pure
+reductions
+invertibility of ray transforms
+controllability methods
+potential unifying principle
+techniques
+larger picture
+inversion
+remarkable consequences
+uniqueness results
+proposal
+unexpected connection
+linear ones
+applications
+possibility
+explicit appearance
+work
+Particular objectives
+project
+examples

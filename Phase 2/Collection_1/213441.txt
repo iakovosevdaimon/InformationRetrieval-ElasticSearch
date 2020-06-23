@@ -1,0 +1,49 @@
+data storage
+Ultra-Low Latency Internet
+low latency guarantee
+cloud servers
+guaranteed low latency
+latency of key societal services
+Spatial Correlation of Logical Units of Data
+limits correlation of data requests
+cloud computing infrastructure
+popular cloud services
+way data flows
+inter-data center levels
+so-called tail-latency
+server work units
+key societal system
+existing cloud infrastructures unsuitable
+time-critical societal applications
+number of time
+key culprits
+large degree of correlation
+server overloads
+critical applications
+problems
+project
+large number of users
+high reliability
+high cache
+slow memory subsystems limit server effectiveness
+slowest responses
+prime example
+congestion
+different actors
+orders of magnitude
+excess buffering
+throughput
+computation
+maximum processing speed
+ample bandwidth
+daily basis
+median response times
+reasons
+unpredictable delays
+tools
+knowledge
+rates
+overarching goal
+network
+result
+aim

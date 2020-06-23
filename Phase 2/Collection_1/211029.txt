@@ -1,0 +1,48 @@
+C hydraulic system equipment
+C representative hydraulic installation
+hydraulic generation
+hydraulic ones
+C environment
+C conditions
+C network
+wireless system
+electro-hydraulic integration of hybrid surface actuation systems
+type of systems
+electrical systems
+corresponding sensors representative of flight test instrumentation
+actuation of hybrid surfaces
+FTI sensors
+volume
+pressure loss
+development phase
+ailerons
+Commercial components
+essential step
+aircraft device
+critical aircraft control surfaces
+related equipment
+ground rigs
+qualification tests
+Performance conditions
+developing test benchs
+distribution
+full-scale in-flight demonstration of novel architectures
+integrated mode
+huge number of innovative technologies
+order
+Clean Sky
+aeronautics
+project HYDRO
+configurations
+increase
+Demonstrator
+Validation
+framework
+Regional FTB
+key issue
+Current trends
+requirements definition
+ambitious goal
+Verification process
+certification
+operation

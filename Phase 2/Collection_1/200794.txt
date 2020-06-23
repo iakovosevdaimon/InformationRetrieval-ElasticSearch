@@ -1,0 +1,25 @@
+research
+theory of quantum error correction
+Engineering Quantum Error Correction
+error information
+logical quantum information
+transmon qubits
+physical qubits
+universal fault-tolerant architecture
+universal fault-tolerant surface code architecture
+logical universality
+real physical devices
+particular superconducting transmon qubit systems
+coding overhead
+technology-independent
+application
+shed light
+efficiency
+numerical studies
+experiments
+novel ways
+design
+electromagnetic field
+microwave
+cavity
+proposals

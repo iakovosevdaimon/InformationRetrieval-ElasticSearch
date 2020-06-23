@@ -1,0 +1,57 @@
+targeted laser pulse parameters
+pulse energy
+pulse duration
+combination of maximum pulse peak powers
+ultrafast laser source
+separated amplification of ultrashort laser pulses
+maximum average powers
+coherent pulse stacking
+capabilities of today’s laser systems
+Multi-dimensional interferometric amplification of ultrashort laser pulses Ultrafast lasers
+scope of current laser technology
+coherent combination
+medical applications
+performance results
+sequence of pulses
+outstanding performance
+new realms of performance
+optimum beam quality
+excellent beam quality
+fundamental physics
+high efficiency
+cutting-edge fundamental research
+single-emitter systems
+extreme cases
+industrial production technologies
+PW
+petawatt
+megawatt
+key element
+number of experiments
+demands
+TW
+MW
+kHz repetition rate
+encoded phase pattern
+modern sciences
+ytterbium
+medicine
+space
+time
+concentration of light
+orders of magnitude
+system output
+fs
+compact configuration
+scaling limitations
+seminal discoveries
+biology
+fibers
+multicore fiber
+basic idea
+common demand
+breakthroughs
+MIMAS project
+scalable architecture
+wall
+addition

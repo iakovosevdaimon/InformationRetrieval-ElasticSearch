@@ -1,0 +1,53 @@
+networked control systems
+control actions
+event-triggered control systems
+TRIGGERED CONTROL TASKS
+electronic communication
+ETC’s communication traffic
+wireless water-distribution control applications
+efficient implementation of control loops
+digital systems
+shared communication resources
+data communication collisions
+ETC’s great communication reductions
+timely communication of sensor measurements
+ubiquity of Cyber-Physical Systems
+SCHEDULING OF EVENT
+energy efficiency of wireless NCS
+water distribution
+prescribed performances
+prescribed functionalities
+advances
+unpredictable traffic
+prescribed performance levels
+reduction of implementation
+true potential
+timing of communications
+communications engineering
+construction of models
+scientific methods
+potential economic impact
+sorts of physical processes
+following scientific challenges
+theoretical computer science
+chemical reactors
+cross-roads
+game-automata
+computation
+timed-priced
+power networks
+maintenance costs
+TPGAs
+bandwidth savings
+orders of magnitude
+modeling
+CPSs
+games
+design of schedulers
+algorithms
+mean
+attention
+goals
+techniques
+step approach
+problem

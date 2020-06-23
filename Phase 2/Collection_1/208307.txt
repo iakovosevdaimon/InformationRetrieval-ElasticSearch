@@ -1,0 +1,55 @@
+corresponding extremal problem
+variety of extremal problems
+s problem
+Probabilistic Combinatorics Extremal
+element subsets
+type of problems
+additional assumptions
+work of Turán
+prominent open problem
+innocent looking problem
+number theory
+hypergraphs
+ergodic theory
+additional restrictions
+fact
+Erdős
+field
+theory of quasirandom discrete structures
+given n-element
+growing area
+hyperedge distribution
+pseudorandom graphs
+discrete mathematics
+set E
+central theme
+elements of V
+mathematical areas
+theoretical computer science
+finer control
+essential tools
+Rödl
+strong ties
+fundamental contributions
+development of new techniques
+regularity lemma
+current methods
+uncounted guiding questions
+hypergraph extension
+Gowers
+maximum cardinality
+great deal of effort
+line of research
+important discipline
+main goals
+triple
+Szemerédi
+reach
+analogous question
+PI
+knowledge
+years
+manageable subproblems
+unifying framework
+variant
+Sós

@@ -1,0 +1,52 @@
+computational electromagnetics Computational Electromagnetics
+degrees of freedom
+linear paradigm shift
+Linear complexity
+fast solver
+cubic complexity
+emerging technologies
+design cost
+number of degrees
+computational complexity reductions
+practical impact of CEM
+dynamic fast direct solver
+applied electromagnetics
+future technologies
+configuration of degrees
+entire new paradigm
+CEM classical problem
+CEM scientific community
+design challenges of emerging
+rupturing impact
+multi-scale scenarios
+Holy Grail
+project
+Grand Challenge
+arbitrary number
+new modeling
+electromagnetic engineering
+electromagnetic science
+scientific field
+multi-right-hand
+impacting algorithms
+higher density
+Maxwell Problems
+origin
+trend
+FFT’s quadratic
+simulation tools
+technology
+transformation
+years
+matrix inversion
+applications
+game
+steep increase
+reason
+previous attempts
+recent breakthrough
+failure
+PI
+technological fields
+discipline
+fact

@@ -1,0 +1,36 @@
+new capabilities
+new languages
+new semantics
+new rules
+new features
+language dynamics
+language statics
+evolution of languages
+preexisting language
+foundational principles of programming  language evolution
+cost of evolution
+Evolving Language Ecosystems
+new type system
+evolution of complete ecosystems
+ELE project
+programming methodology
+migration of code
+language's implementation
+axis
+compiler
+novel programming disciplines
+existing code artifacts
+project proceeds
+basic capabilities
+language's specification
+major axes
+practical tools
+shift
+technologies
+hardware trends
+runtime libraries
+interpreter
+need
+knowledge bases
+static restrictions
+behavioral information

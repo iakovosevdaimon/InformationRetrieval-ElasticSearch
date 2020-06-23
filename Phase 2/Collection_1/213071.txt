@@ -1,0 +1,70 @@
+Smart Energy Hub
+high power
+optimized Local Energy
+power electronics
+system modelling
+energy needs
+fuel cell mode
+high efficiency
+high flexibility
+dynamic operation
+power round-trip efficiency
+detailed system design
+Technology Readiness Level
+reversible Solid Oxide Cell
+definition of advanced operation strategies
+cells
+local production
+H2
+heat exchangers
+excess electricity
+Reversible solid oxide Electrolyzer
+stacks development
+REFLEX project
+techno-economical
+different markets
+electrolysis mode
+modelling tasks
+field test
+technological park
+field demonstration
+different scales of products
+improvements of rSOC components
+techno-economic performance
+mini-hydro renewable sources
+innovative renewable energies storage solution
+Denmark
+Italy
+organisations
+France
+testing
+CEA
+DTU
+VTT
+SYLFEN
+manufacturing
+USE
+GPTech
+SOFC
+Estonia
+member states
+cross multidisciplinary consortium
+ELCOGEN
+Envipark
+competences necessary
+cost optimum
+Spain
+market analysis
+multistacks
+SOEC
+TRL
+multimodules arrangements
+ENGIE
+Finland
+objectives
+partnership
+challenging issue
+specifications
+real environment
+headquarters
+studies

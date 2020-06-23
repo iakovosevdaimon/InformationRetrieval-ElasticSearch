@@ -1,0 +1,37 @@
+new building blocks
+new constructions
+constructions of new cryptographic building blocks
+new challenges
+Modern Applications
+cryptographic methods
+cryptographic tools
+specific applications
+practical real-life applications
+existing constructions
+secure communication
+secure outsourcing of computations
+Cryptography
+powerful multilinear maps
+code obfuscation
+relevant schemes
+concrete schemes
+practical use cases
+Cloud Computing
+Big Data
+possibility results
+homomorphic encryption
+order
+ground
+game
+cyclic groups
+technical means
+goals
+work
+strong sense
+project
+door
+cryptanalytic attacks
+recent years
+extended functionality
+instance
+fact

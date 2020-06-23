@@ -1,0 +1,25 @@
+engine system
+engine bay
+novel air-oil engine cooling system
+engine ground tests
+Integrated Air Cooling Oil Cooled System
+heat rejection
+addition
+proposed heat management model
+project aims
+ACOC installation
+conventional ACOC systems
+smaller overall dimensions
+lower weight
+Computational Fluid Dynamics
+demonstrator hardware
+use numerical simulations
+CFD
+aerodynamic impact
+design
+D AMESIM simulation
+manufacture
+improved integration
+better configurations
+assessment
+cooler efficiency

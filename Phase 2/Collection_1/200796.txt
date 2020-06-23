@@ -1,0 +1,47 @@
+new schemes
+required security
+simple schemes
+symmetric schemes
+impractical schemes
+tight security bounds
+stronger security guarantees
+stronger security properties
+practice stronger adaptive security
+simple existing schemes
+non-tight security proofs
+exact necessary security degradation
+known proxy re-encryption schemes
+Pseudoentropy
+new tools
+Old Crypto New Tricks
+Symmetric Cryptography
+research directions
+years
+best known attacks
+huge gap
+modern cryptography
+tools available
+proof technique
+poor quantitative bounds
+work horses of crypto
+popular LKH multicast encryption
+bulk
+constrained PRFs
+IPsec
+SSH
+SSL
+authentication
+HMAC
+deployed ones
+Sponge family
+selective adversaries
+TLS
+nested hybrids
+Computational notions of entropy
+different contexts
+SHA3 standard
+case
+applications
+large discrepancy
+substantial progress
+project

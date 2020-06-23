@@ -1,0 +1,62 @@
+RAWFIE effort
+RAWFIE initiative
+RAWFIE consortium
+Unmanned Aerial Vehicles
+Unmanned Ground Vehicles
+vision of Experimentation
+Aerial Testbed
+Unmanned Surface Vehicles
+Future Internet Experimentation
+remote operation
+remote controlled ground vehicles
+Vehicular Testbed
+Maritime Testbed
+challenging experimentation domain
+mixed experimentation environment
+UGVs
+UAVs
+remote programming
+data collection
+Air
+purpose
+Road
+USVs
+technology creators
+technology dimensions
+Support software
+mobile units
+federation of different network testbeds
+numerous testbeds
+maritime environments
+Internet connectivity
+performance of different technologies
+large number of robotic devices
+significant number of UxV nodes
+sensing
+experiment management
+networking
+possible actors
+experimenter
+integrators
+space
+post-analysis
+pilots
+Water
+autonomic application domains
+facility owners
+VT
+MT
+resources available
+common framework
+vast test infrastructure
+dynamic node architectures
+basic idea
+central controlling entity
+respective mechanisms
+case
+overview
+Service
+EaaS
+IoT paradigm
+items
+world

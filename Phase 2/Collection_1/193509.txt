@@ -1,0 +1,47 @@
+Neumann algebras
+Rigidity theory
+Neumann algebra theory
+representation group theory
+geometric group theory
+free group factors
+group actions
+structure
+Voiculescu's Free Probability theory
+measure equivalence rigidity
+Lie groups
+free product
+rigidity conjecture
+research project
+higher rank lattices
+fine classification of factors
+Shlyakhtenko's free Araki-Woods factors
+orbit equivalence relations
+measured equivalence relations
+Baumslag-Solitar groups
+classes of discrete groups
+related questions
+hand
+higher rank semisimple
+measure spaces
+related objects
+fundamental questions
+amenability
+boundaries
+Popa's Deformation
+striking theorems
+Connes
+property
+new ones
+type
+interplay
+process of mutual enrichment
+study of interactions
+topics
+outstanding conjectures
+trees
+analysis
+main directions
+problems
+years
+tools
+general aim

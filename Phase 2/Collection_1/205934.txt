@@ -1,0 +1,64 @@
+INSPEX System
+systems of systems
+low power system
+processing power
+objective of INSPEX
+low power spatial exploration system
+power consumption
+Integrated Smart Spatial Exploration System
+generations of miniaturised smart integrated systems
+systems integration
+main INSPEX Demonstrator
+use of supply power
+power efficient data fusion
+obstacle location
+smart objects
+obstacle detection capabilities
+data processing
+environmental conditions
+outdoor environments
+validation
+laboratory environments
+D detection
+IoT environments
+D spatial audio feedback
+state-of-the-art range sensors
+drone obstacle avoidance
+innovative MEMS
+MEMS ultrasound
+mobility impaired
+environmental sensing
+warning of obstacles
+communication capabilities
+mobile obstacles
+technological breakthroughs
+reduced visibility conditions
+safer human navigation
+industrial-relevant technological developments
+LiDAR
+wireless communications
+small robot
+signal
+UWB radar
+embedded memory
+wearable multi-sensor
+modelling
+user interface
+actuators
+autonomous vehicles available
+miniature
+safety
+health
+solutions
+partners
+white cane
+ethical issues
+security
+IMU
+reliability
+consideration
+manufacturing
+project
+Challenge
+ICT
+Applications

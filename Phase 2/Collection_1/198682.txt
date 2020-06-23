@@ -1,0 +1,52 @@
+Non-unitary QFT
+non-unitary Quantum Field Theory
+Hall Plateau Transition
+non-unitary case
+conformal field theory
+QFT description
+delocalization transition
+QFT models
+string theory
+non-perturbative solution
+magnetic field
+Integer Quantum Hall Effect
+mix of advanced representation theory
+long delayed comparison of theory
+effective description of open quantum systems
+lattice regularizations
+IQHE
+Numerical studies of lattice models
+results
+plateaus of quantized Hall conductance
+disordered systems of statistical mechanics
+conformal invariance
+numerical techniques
+areas of physics
+effects of disorder
+cross-disciplinary strategy
+renormalization group flows
+ideas
+tools
+central role
+universality classes
+understanding
+dimensions
+powerful way
+strong coupling
+CFT duality
+D Anderson insulators
+QFTs
+experiment
+AdS
+interactions
+quantitative predictions
+task
+algebraic properties
+mathematics
+landmark step
+topological origin
+unexplored topic
+existence
+Key
+sharp contrast
+Hamiltonian

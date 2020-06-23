@@ -1,0 +1,46 @@
+ADS-B Surveillance Infrastructure
+local airports safe
+surveillance display
+airport stakeholders
+airport surface coverage constraints
+affordable surface movements surveillance capabilities
+LIDAR technology
+complement of ADS
+Aviation Infrastructure
+prohibitive infrastructure costs
+Airport Collaborative Decision Making
+technical solution
+use of technical progress
+intrinsic attributes of current surveillance technologies
+CCTV cameras
+CDM services
+SMGCS systems
+advantage of reduced equipment costs
+ATM application-oriented research project
+multiple sensors of different kinds
+ATC
+medium size platforms’ reach
+constant growth of air traffic
+Video Integration
+SESAR
+milestones
+image processing techniques
+costly infrastructures
+economic feasibility
+Programme
+feed
+positioning data
+deployment
+CNS
+topic
+Situational Awareness
+MLAT
+identification
+efficiency gains
+benefits
+pressure
+SMR
+safety
+stepwise approach
+consortium
+capacity

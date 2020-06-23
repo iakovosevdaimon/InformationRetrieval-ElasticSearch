@@ -1,0 +1,50 @@
+Sentinel data
+data clustering
+non-EO data
+analysis of Earth observatioN data Earth Observation data access
+big data sources
+enhanced data fusion
+Copernicus big data content
+Copernicus data distributor systems
+EOPEN users
+Processing of large streams of data
+EO product-oriented data management activities
+Earth Observation sector
+main objectives of EOPEN
+Copernicus-related information
+semantic linking of information
+change detection
+monitoring capabilities
+climate change monitoring
+interoperable solutions
+social media information
+Information Governance architecture
+future EO downstream sector
+flood risk monitoring
+opEn interOperable Platform
+user-oriented feedback
+unified access
+event detection
+Joint Decision
+open-source
+semantic level
+wider user community
+involvement of mature ICT solutions
+food security
+weather
+observations
+user-friendly visualisations
+real use case scenarios
+scalable algorithms
+decisions
+reasoning mechanisms
+way
+early warning notifications
+major challenges
+changes
+EU borders
+visual analytics
+aforementioned goals
+High Performance Computing infrastructures
+technical solution
+interactions

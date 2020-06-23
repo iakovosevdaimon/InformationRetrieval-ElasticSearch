@@ -1,0 +1,41 @@
+theory of stability conditions
+new theory
+theory of triangulated categories
+theory of Bridgeland stability conditions
+theory of derived
+notion of stability
+space parametrizing stability conditions
+Calabi-Yau categories
+moduli problems
+higher categorical enhancements of triangulated categories
+admissible subcategories of derived categories
+new techniques
+new results
+derived category
+big open questions
+cubic fourfolds
+corresponding moduli spaces of stable objects
+main applications
+interesting geometry
+hyperkaehler geometry
+uniqueness
+comprehensive approach
+algebraic geometry
+successful approach
+intricate problem
+study of moduli spaces of rational normal curves
+Calabi-Yau threefolds
+category of perfect complexes
+deep relations
+effective description of exact functors
+fundamental questions
+sets of problems
+semiorthogonal decompositions
+order
+problematic aspects
+following innovative long-term projects
+canonicity
+related conjectures
+projective varieties
+challenging ones
+solution

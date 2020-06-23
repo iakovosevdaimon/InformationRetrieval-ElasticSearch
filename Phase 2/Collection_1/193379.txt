@@ -1,0 +1,65 @@
+RCMS performance
+RCMS solution
+testing of RCMS
+impact of RCMS
+quantified benefits of RCMS
+well-defined RCMS control logic
+container handling technologies
+Rethinking Container Management Systems Container terminals
+current technologies terminals
+Gdansk
+Koper
+performance indicators
+set of generic simulation tools
+used handling systems
+detailed simulation model
+Robotic Container Management System
+AGV behavior
+non-simulation experts
+set of validated
+ports
+dynamic physical AGV model
+set of Key Performances Indicators
+simulated transport network
+Project main objectives
+thousands of ships
+terminal automation
+gate control
+Project duration
+Main results
+introduction of larger ships
+port surface extension
+efficient entire terminal design
+capacity
+terms of efficiency
+various sites
+definition of operational procedures
+Research
+travel times
+Automated Ground Vehicle
+reliability
+comparison
+average speed
+Academic Centers
+impacts
+SMEs
+focus
+leading industries
+months
+air pollution
+yard cranes
+store billions of TEUs
+implementation
+growth
+noise
+vessel
+new challenges
+contribution
+different features
+trends
+quality of service
+eligible costs
+Consortium
+advances
+End-users
+Spezia

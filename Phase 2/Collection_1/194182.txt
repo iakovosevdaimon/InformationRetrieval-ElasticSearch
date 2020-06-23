@@ -1,0 +1,46 @@
+smart home functionalities
+smart-home web-enabled functionalities
+smart home automation functionalities
+Smart Home Environments
+Web Applications
+smart homes
+Hands-free Voice-enabled Interface
+web search
+web services
+specific natural voice interface
+hands-free system operation
+natural control
+robust hands-free speech capture system
+robust hands-free large-vocabulary voice-based access
+specific Internet applications
+large-vocabulary automatic speech recognition system
+complete system
+assistive control of important everyday functionalities
+people
+remote control
+users
+automatic speech recognition research communities
+central objective of LISTEN
+automation schemes
+wireless acoustic sensor network
+email dictation
+media
+heating
+cooling
+gap
+lighting
+software
+hardware components
+common goal
+communication
+WASN
+social networks
+disabilities
+boundaries of current state-of-the-art
+device
+life
+case of emergency
+elderly
+appliances
+microphone
+headset

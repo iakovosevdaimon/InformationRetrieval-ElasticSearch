@@ -1,0 +1,41 @@
+electrical parameters of electrical high voltage lines Feasibility study
+electrical ones
+environmental parameters
+real time
+order
+market condition monitoring sensors
+Medium voltage lines of Distribution System Operators
+GSM communication
+lines' availability
+grid's availability
+Renewables integration
+Renewables penetration
+data communication backbone
+SME-Instrument Phase
+EDF
+Ores
+Elia
+DSO's SCADA
+wind
+industry
+Belgium
+France
+temperature
+snow accetion
+faults
+Radio
+CREOS
+preventive maintenance
+IoT protocols
+load
+low cost
+key players
+Luxembourg
+evaluation
+Ampacimon
+things
+efficiency
+development
+DSOs
+products
+project

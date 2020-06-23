@@ -1,0 +1,44 @@
+large IR detectors
+use of HgCdTe detection layers
+types of detectors
+Sofradir
+ASTronomy EuROpean Infrared Detection Large infrared
+Europe non-dependent
+ROIC processing
+technology available
+Megapixel detectors necessary
+large dimensions Si
+CdZnTe processing
+Astronomy missions
+VLWIR wavelengths
+Europe needs
+VLWIR wavelength ranges
+visible wavelength range
+CdZnTe substrates
+CEA-LETI
+CEA-IRFU
+chemical composition
+future missions
+goal of ASTEROID
+Earth observation
+critical requirements
+example
+imagers
+NIR
+building blocks
+IFAE
+Science
+Integrated Circuits
+different fields
+connectivity characterization
+object temperature
+procurement
+partners
+optic
+contributions
+information
+EVG
+Hybridization
+Mechanical Modeling
+ADDL
+Mega pixel

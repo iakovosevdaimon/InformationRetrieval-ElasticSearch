@@ -1,0 +1,44 @@
+training data MMT
+MMT architecture
+goal of MMT
+scalability of data
+new training data
+translation memory
+machine translation systems
+monolingual data
+terabytes of data
+Matecat data
+data gap
+machine translation technology
+MMT de-facto
+best translation quality
+personal translation system
+data collection infrastructure
+new open-source machine translation distributed architecture
+language independent commercial online translation service
+web-based service
+training segments
+initial training phase
+context
+linear scalability
+thousands of nodes
+millions of users
+building domain specific systems
+Quality of translations
+cluster of commodity nodes able
+Translated’s MyMemory
+TAUS
+unprecedented  amounts of clean parallel
+facilities
+topic
+Common Crawl
+high performance
+companies
+processing pipeline
+expensive ad
+set-up
+single product
+hardware installations
+MT industry
+information
+software

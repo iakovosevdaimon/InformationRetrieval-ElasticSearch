@@ -1,0 +1,63 @@
+new device
+new software
+pharmacogenetics analysis
+new diagnostic device-software combination
+new diagnostic Nanostring-based device
+lung samples
+analysis of fusion genes
+ALK
+Lung cancEr fusiOn geNes
+lung cancer patients
+lung cancer treatment
+technical feasibility analysis
+throughput of biomarkers
+secondary analysis of data
+analysis of laboratory tests’ results
+detection of
+low throughput labs
+ROS1
+associated software
+oncology business
+clinical validation
+Diatech Pharmacogenetics
+time
+European medium-high throughput labs
+proprietary oncology EHR
+existing standards
+existing products
+fusions detection
+results standardization
+clinical performance
+Diatech PGx
+potential customers
+company’s approach of potential European distributors
+specialized technical expertise
+main variants of EML4
+main scope of LEONID project
+tyrosin kinase inhibitors
+molecular pathology laboratories
+predictive power of response
+costs
+development
+hospitals
+FISH
+unknown partners
+sensitivity
+specificity
+rearrangements
+year
+panel of features
+experimental verification
+standardized solution
+error rate
+IHC
+hands
+multiplex assay
+end users
+CE-IVD kit
+robustness
+reproducibility
+personal interpretation
+entrance
+GeneticLab
+BiMind

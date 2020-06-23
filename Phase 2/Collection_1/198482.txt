@@ -1,0 +1,57 @@
+plume dispersion
+D Tracer Dispersion
+dispersion modelling
+time
+absolute dispersion
+UV cameras
+plume releases of SO2
+D images of SO2
+D tracer concentration distribution
+passive tracer
+Lagrangian dispersion models
+plume rise
+cameras sensitive
+understanding of turbulence
+high space
+simultaneous observations
+large improvements of tracer transport
+existing SO2 sources
+high sensitivity
+radiation
+Atmosphere COMTESSA
+accuracy of UV
+novel campaign observations
+D radiative transfer model
+advanced data analysis
+project results
+atmospheric models
+IR retrievals
+concentration probability density function
+smelters
+power plants
+art
+value
+fast sampling
+PDF
+infrared
+sulfur dioxide
+tomographic reconstruction
+volcanic fumaroles
+velocity vector field
+Special turbulent phenomena
+altitudes
+Controlled puff
+limits
+underlying parameterizations
+Camera Observation
+Richardson-Obukhov constant
+eddy
+COMTESSA’s vision
+line of sight
+optical flow code
+Hz
+resolution
+ground
+state
+instance
+tower

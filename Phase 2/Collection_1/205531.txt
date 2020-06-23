@@ -1,0 +1,65 @@
+process design
+process engineers
+process optimization system
+critical process industries
+development of process automation
+standard process sensors
+physical process models
+Process Industries Machine learning
+impact of process modifications
+good data
+data reconciliation
+data bases
+bad data
+classification of data
+new sensors
+new functionality
+new types of sensors
+new components
+automation industry
+base platform
+system performance
+machine learning functions
+analysis of large data sets
+end-user industries
+larger site-wide system demonstrators
+base functionality
+FUDIPO project
+open platform
+statistical models
+Future Directions of Production Planning
+power production sectors
+major automation platforms
+small-scale technology demonstrators
+proven simulation models
+Optimized Energy
+wide scale
+key technology
+advanced functions
+good picture
+fault diagnostics
+model library
+model-based control
+competitiveness of European industry
+paper
+radical improvements
+decision support
+FOM
+resource efficiency
+set of tools
+actual operations
+pulp
+refinery
+concurrent engineering
+measurements
+modified plant
+way
+direct output
+computers
+approach
+research institutes
+university
+add-ons
+aim
+Operators
+NIR

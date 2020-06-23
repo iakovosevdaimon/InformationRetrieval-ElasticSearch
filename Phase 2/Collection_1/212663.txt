@@ -1,0 +1,56 @@
+Cavity-mediated ion-photon coupling
+ion qubit arrays
+separate ion arrays
+short ion arrays
+linear ion arrays
+cavity-enhanced ion-photon
+cavity-mediated entanglement of arrays
+trapped-ion qubits
+long ion chains
+D ion crystals
+large ion numbers
+high-fidelity individual-ion control
+multi-zone ion trap
+Cavity-mediated entanglement of trapped
+arrays of N ions
+inefficient free-space ion-photon
+demonstration of cavity
+shared cavity mode
+Sr ions
+Coulomb-mediated entanglement capabilities
+Strong collective coupling
+quantum information processing
+quantum bus
+integrated optical cavity
+internal states of ions
+shared motional mode
+individual-qubit control
+interfaced quantum computing nodes
+trap axis
+motional mode spectrum
+implementation of quantum error correction protocols
+Coulomb interactions
+N-fold enhancement
+separate vacuum systems
+fault-tolerant QIP
+coherence times
+attractive platform
+photonic interface benefits
+Vuletic’s MIT group
+neutral atoms
+high fidelities necessary
+potential
+apparatus
+promising avenue
+Oxford's drive
+type of gate
+Prof
+regime
+scalability
+techniques
+Photons
+Entangling gates
+Cooperativity measurements
+length
+specific modes
+MSCA fellow

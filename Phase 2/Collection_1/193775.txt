@@ -1,0 +1,47 @@
+Maxeler hardware
+Maxeler programming tools
+Maxeler Technologies
+hardware-accelerated simulation platforms
+field of brain
+minutes of brain time
+current Maxeler setups
+underlying simulation platform
+neuromodelers
+little hardware knowledge
+BrainFrame
+brain models Traditional methods of software modeling
+modeling research
+neuron-network
+specific knowledge
+programming tools of unprecedented user friendliness
+rapid simulations of high
+comprehensive software toolflow
+prohibitive amounts of time
+realistic neuron populations
+companies active
+impressive acceleration rates
+high-performance computing capabilities
+labs
+hours
+integrated solution
+dataflow machines
+complexity
+Automated framework
+size
+Inferior-Olive
+novel system
+international neuroscience community
+powerful tool
+problem - common
+hands of modelers
+abstraction level
+orders of magnitude
+FPGA
+applications
+modern PC workstation
+x10000
+process
+shop
+instance
+achieved speeds
+Engineering personnel

@@ -1,0 +1,48 @@
+high angular resolution imaging capability
+Ultimate Angular Resolution Astrophysics
+super-resolution capability
+general purpose high angular resolution imaging tool
+scientific exploitation of future high angular resolution instrumentation
+proposal
+interferometric techniques
+aperture interferometry Astronomy
+existing generation
+robustness
+hand
+sensitivity of observations
+framework
+development of new advanced AO concepts
+high-dynamic range mode
+extraction of self-calibrating observables
+generalized self-calibrating observables
+sparse aperture masking interferometry
+meter class telescopes
+kernel-phases
+conventional AO-corrected images
+large telescopes
+upcoming generation
+meter giants
+work-packages
+adaptation of interferometric image reconstruction techniques
+reinterpretation of existing archival data
+astronomers
+design
+challenging use-cases
+major impact
+special focus
+Europe
+increasing challenge
+expansion
+wavefront control experts
+project
+effect
+Adaptive Optics
+infrared
+improvement
+E-ELT
+telescope size
+PI
+qualities
+atmosphere
+consequences
+capabilities

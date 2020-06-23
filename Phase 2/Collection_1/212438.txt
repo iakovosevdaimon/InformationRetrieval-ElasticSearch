@@ -1,0 +1,55 @@
+Si process
+nm GaN
+evaluation process
+Si technology
+objective of MiGaNSOS
+Si technologies
+evaluated technology
+Single-Chip Front-End
+Single-Chip integration
+OMMIC
+preliminary evaluation
+circuit performance
+open foundry use
+developed technologies
+simultaneous use
+integrated SCFE
+Ka Band active antenna
+circuit design flexibility
+Single-Pole Double
+Millimetre wave Gallium Nitride Space evaluation
+demonstration of future application
+new industrial products
+advanced space equipment
+available commercial foundry processes
+industrial communities
+MiGaNSOS proposal
+Ka Band Synthetic Aperture Radar
+Low Noise Amplifiers
+basic monolithic functionalities
+High Power Amplifiers
+basic building block
+new market opportunities
+date
+Observation Satellites
+real technological breakthrough
+LNAs
+HPAs
+SAR
+activities
+natural extension
+SPDT
+Switches
+unique feature
+higher frequency applications
+obtained results
+demonstrators
+art
+realisation of test vehicles
+competitiveness
+reference
+state
+following objectives
+realization
+wafer
+possibility

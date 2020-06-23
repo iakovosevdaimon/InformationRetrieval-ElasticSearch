@@ -1,0 +1,52 @@
+Test systems
+aerospace industry Test market
+hydraulic load profiling control systems
+technology
+commissioning Aircraft Testing
+different load profiling requirements of bespoke systems
+reduction of commissioning costs
+control algorithms
+control laws
+aircraft test rig development
+control parameters
+Digitech controller
+novel solution
+Test Rigs
+Delta Motion Systems
+xPC Target Systems
+entire aerospace industry
+additional significant engineering costs
+aircraft actuator
+novel generic digital controller
+hydraulic load tests
+engineering staff
+engineering productivity
+market analysis
+COTS solutions
+Phase
+new generation digital controller
+complete remote monitoring capability
+remote fault monitoring
+regulatory requirements
+diagnostic capability
+lack of adaptability
+commercial production
+faster testing times
+elimination of adaptability problems
+different flight conditions
+strict adherence
+cost-effective ways
+final adaptation
+technological field
+European Aviation Safety Agency
+simulations methods
+associated software
+hardware
+project
+operational business plan
+months
+shelf
+coupled benefits
+user needs
+yearly revenues
+stage

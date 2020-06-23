@@ -1,0 +1,70 @@
+CEI security
+cyber-physical threats
+cost-effective security management
+cyber-physical threat detection
+appropriate security levels
+novel security governance model
+potential threats
+effectiveness of DEFENDER
+aim DEFENDER framework
+distributed Cyber-Physical Systems
+security management fragmented operational policies
+European Energy Infrastructures Critical Energy infrastructures
+CEI lab emulator
+model CEIs
+technologies
+mobile devices
+range of devices
+fixed sensors
+virtual sensors
+overall energy value chain
+emergency response
+adaptable framework
+potential reciprocal effects of cyber
+DSO network
+everyday life
+peer trustworthiness
+people interaction
+real life demonstrators
+TSO HV network
+level emergency responders
+nuclear generation plant
+decentralized RES generation
+PMUs
+silos
+resilience
+situational awareness
+intelligent processing
+drones
+BFP
+Germany
+protection
+advanced video surveillance
+lifecycle assessment
+ENGIE
+Belgium
+ELES
+toolbox
+self-healing
+utmost importance
+incomplete attack models
+design
+ASM
+Italy
+incident mitigation
+Slovenia
+RWTH
+Loop
+TRL7
+time
+system-theoretic approaches
+centre stage
+blockchain technology
+isolation
+number of TRL
+Human
+business prosumer
+view
+address
+workforce
+challenges

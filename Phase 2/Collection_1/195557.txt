@@ -1,0 +1,34 @@
+specific regulatory elements
+T2D susceptibility
+common SNPs
+T2D risk
+common genetic variation
+specific interactions
+tridimensional chromatin structures
+Diabetes-Associated varianTs
+common sequence variation
+associated SNPs
+selected disease-relevant regulatory elements
+level of broad regulatory domains
+genetic modification experiments
+Analysis of tridimensional changes
+existing reference regulatory datasets of expression profiles
+allele-specific chromosome conformation capture maps
+novel insights
+function of allele
+histone modification marks
+identification of novel non-coding functional variants
+worldwide growing incidence of type
+Genome Wide Association Studies
+transcription factor occupancy
+transcriptional activity
+GWAS
+clusters of islet
+dozens of loci
+human islets
+end
+molecular mechanisms
+influence
+nucleus
+host lab
+project

@@ -1,0 +1,59 @@
+ergodic theory of dynamical systems
+Hamiltonian flows
+translation flows
+functional limit theorems
+systems of geometric origin
+investigation of intermediate chaos
+Borodin-Olshanski problem
+surfaces of higher genus
+symbolic substitution systems important
+determinantal point processes
+real case
+study of quasi-crystals
+mathematical physics
+Structures
+space of infinite real matrices
+development of entropy theory
+infinite-dimensional analogue
+Pfaffian point processes
+spectral measure of interval exchange maps
+ergodic decomposition
+complex case
+intense study
+Specific tasks
+Specific examples
+central theme of investigation
+PI of project ANR
+Vershik-Kerov entropy conjecture
+Hausdorff dimension
+invariant measures
+Katok
+description
+chaotic properties
+key questions
+asymptotic combinatorics
+GAFA
+harmonic analysis
+question of
+order
+mix of deterministic
+proposer's past work
+Government
+Programme
+computation
+problems of geometry
+transition
+Annals of Math
+Investissements d'avenir
+Grassmann manifold
+proposed research
+euro
+solution
+preprint
+Ya
+Sinai
+French Republic
+budget
+proof
+IDEX
+decades

@@ -1,0 +1,51 @@
+mutational model of chemoresistance
+stochastic model
+chemoresistant AML disease
+driven chemoresistance model
+Acute Myeloid Leukemia Acute Myeloid Leukemia
+mutationally-induced chemoresistance
+mutationally-induced chemoresistant mouse model
+common leukemia
+emergence of MRD
+MRD genesis
+comprehensive cell autonomous
+re-expansion of leukemia
+chemoresistant minimal residual disease
+mutational status
+cell fraction
+molecular mechanisms
+biological mechanisms
+cell non-autonomous characterization
+stochastic MLL-AF9
+consecutive rounds of chemotherapy
+shRNA libraries
+functional effectors
+combinations of mutations
+paradigm of resistance
+modes of resistance
+targeted therapies
+front-line therapy
+functional screens
+ChIP-sequencing
+RNA-sequencing
+shRNA screening experiments
+collection of chemoprotective mutations
+pooled mutant open reading frame
+order
+chemotherapeutic agents
+patients
+initiating cells
+exome
+standard treatment
+initial sustained remission
+genomic profiling
+adults
+persistence
+consequence
+virtue
+fundamental relevance
+mice
+hematology
+decades
+goal
+proposal

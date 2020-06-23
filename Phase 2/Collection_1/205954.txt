@@ -1,0 +1,53 @@
+EP system
+new electric propulsion system
+HiperLoc-EP technology
+disruptive electric propulsion technology
+High performance low cost electric propulsion system development
+Electrospray Colloid Electric Propulsion System
+micro propulsion consistent
+HiperLoc-EP project
+critical propulsion functionality
+conventional EP procurement
+technology domain
+emerging technology
+ECEPS
+micro satellite constraints
+resources of micro-satellites
+low volume
+satellite constellations
+performance target
+small satellites
+low power demands
+micro-satellite based systems
+thrust head active area
+broad range of Isp
+Power Processing Unit
+radical improvement
+terrestrial applications
+potential applications
+multi-unit CubeSat
+typical current PPT designs
+mass
+Samsung’s Earth-wide internet
+dawning market
+scales
+orders of magnitude
+novel route
+times
+GIE
+customers
+propellant costs
+Fabrication
+integration
+methodology
+space sector
+thruster
+efficiency
+multilayer PCB
+COMPET
+Core
+response
+design approach
+element
+mN
+cm2

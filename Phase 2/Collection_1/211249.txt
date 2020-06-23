@@ -1,0 +1,50 @@
+Single-Cell Mechanomics of Bone Adaptation
+bone mass
+bone remodeling process
+induced bone adaptation
+single cells
+Regeneration
+MechAGE
+established mouse models of bone adaptation
+load-regulated bone remodeling
+multiple cell types
+different cell types
+Aging Mouse Osteoporosis
+well-established tissue-scale models of bone mechanobiology
+process of load
+multiscale process
+molecular mechanisms
+better understanding of diseases
+detailed understanding
+mechanical usage
+mechanical signals
+systems level understanding
+identification of molecular targets
+investigation of molecular responses
+micro-CT
+underlying mechanisms
+Cas technology
+multiscale computational modeling
+fluorescent reporter mice
+prevalent degenerative diseases
+micro-finite element analysis
+laser-capture microdissection
+technologies
+silico simulations of real-world events
+spatio-temporal regulation of gene expression
+time
+complex interactions
+changes
+reduction
+transcriptome of hundreds
+increased fracture risk
+high quality
+development of novel therapies
+mechanomic data
+D environments
+RNA-sequencing
+decrease
+skeleton
+CRISPR
+addition
+Findings

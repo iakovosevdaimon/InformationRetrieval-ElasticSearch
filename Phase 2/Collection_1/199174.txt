@@ -1,0 +1,49 @@
+MBaaS smart city mobility API
+market products
+smart parking
+Robust Service EMBERS
+city manager
+smart traffic management products
+M2M communications
+ETSI M2M
+device developers
+municipalities
+party developers
+parties
+project
+domain-specific API lowers barriers
+app challenge
+best-of-breed devices
+innovative SMEs
+set of components
+wireless sensor devices
+potential emerging machine
+oneM2M
+entry
+OMA LWM2M
+entire ecosystem
+FIT IoT-LAB
+FUSECO Playground
+variety of generic interfaces
+cities
+municipality
+apps
+European small enterprise
+development
+real world pilots
+FIWARE NGSI
+all-in-one systems
+final step
+OneLab facility
+single vendor
+successful experimentation
+Portugal
+communication standards
+demonstrators
+hackathon
+way
+primary goal
+rigorous testing
+testbeds
+constraint
+activities

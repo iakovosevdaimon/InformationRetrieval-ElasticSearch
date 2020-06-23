@@ -1,0 +1,56 @@
+real fuel
+fuel injectors
+representative fuel injector
+understanding of fuel injector coking
+approved aviation fuel
+lean burn fuel injector systems
+jet fuel injection systems
+coking model
+Aviation Fuel Thermal Stability Test Unit
+autoxidation results
+Autoxidation Prediction
+robust autoxidation kinetic mechanism
+experimental results
+detailed mechanism
+incorporation of coking calculations
+project team
+proposal
+low cost development of VHBR
+low TRL level experiments
+Low Carbon Combustion Centre
+Experimental investigation of surface deposition
+surrogate hydrocarbons representative
+impact of surface roughness
+automated mechanism reduction
+Validation of mathematical model
+build-up of surface carbonaceous deposits
+prediction capability
+Advanced Manufacturing
+advanced engines
+three-year programme
+core team
+proposed programme
+number of modelling tools
+robust theoretical framework
+simulated burner feed arm
+geared turbofan architecture
+near isothermal plug flow reactor
+Department of Chemistry
+combination of experimentation
+conditions
+high heat sink requirement
+significant expertise
+University of Sheffield
+parameter optimisation
+respect
+simulations of various scales
+aim
+acceptable maintenance frequency
+life span
+range of temperatures
+species
+CFD packages
+complexities
+reaction
+Construction
+objectives

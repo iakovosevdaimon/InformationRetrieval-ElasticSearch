@@ -1,0 +1,43 @@
+DCOPs
+real-world optimization problems
+project
+kind of optimization problems
+communities of optimization
+Dynamic Constrained Optimization Problems Evolutionary computation
+design
+theoretical analysis of EC
+applications of EC
+effective EC methods
+developed EC methods
+different kinds of stationary optimization problems
+set of benchmark dynamic constrained optimization test environments
+standardized dynamic test
+real-world point of view
+real-world scenarios
+theoretical foundation
+theoretical understanding
+present
+evaluation environments
+great potentials
+standardized performance indicators
+different constraint-handling techniques
+decision variables
+constraints
+objective function
+environmental parameters
+rail networks
+fields
+significant benefit
+key aspect
+aim
+novel
+academia
+industries
+way
+main aspects
+time
+area
+research results
+efficient tool
+attempts
+gap

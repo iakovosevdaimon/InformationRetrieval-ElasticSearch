@@ -1,0 +1,64 @@
+Quantifying Flexibility
+lack of flexibility
+Communication Networks Communication networks
+selected aspects of flexibility
+Existing networks
+SDN-based networks
+network graph
+dynamic changes
+dynamic resource allocation
+graph model
+centralized control plane
+control plane programmability
+data plane
+QoS control
+respect
+resource usage
+certain network scenarios
+required resources
+available resources
+networking research
+demands
+analytical cost model
+fundamental design space
+general graph properties
+Software Defined Networking
+contra certain design choices
+social media
+application areas
+social events
+comprehensive analysis
+basic infrastructure
+basic concept
+New requirements
+detailed analysis
+small time-scale
+set of quantitative arguments pro
+node capacities
+use cases
+society
+connectivity
+need
+virtualization
+industrial production
+link rate
+healthcare
+concepts
+example
+split
+art
+traffic
+ossification
+size
+trade-off
+state
+delay
+limitation
+resilience
+efficient way
+deeper understanding
+recent years
+outcome
+Internet
+project
+objective

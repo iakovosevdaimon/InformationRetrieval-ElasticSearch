@@ -1,0 +1,60 @@
+G systems
+G MWFs
+G requirements
+G communication systems
+Massive MIMO precoding technique
+energy-efficient
+FD capability
+new digital signal processing
+mitigating RF impairments
+essential RF impairments
+emitted RF power
+new efficient joint approach
+duplex capability
+ADAM5 target
+energy consumption of wireless devices
+MWF design
+total energy consumption
+set of new algorithms
+reliable digital signal processing
+low-power components
+ADvanced multicarrier wAveforms
+low-power hardware
+spectral-efficient
+development of practical solutions
+mMTC devices
+post-OFDM Multicarrier Waveforms
+Joint optimization
+advanced techniques
+true-world radio signal measurements
+extensive use of low-cost
+quality of future wireless communications
+algorithm performance assessments
+PAPR reduction
+various services
+flexibility
+reduced latency
+IoT
+terms of capacity
+concepts
+particular focus
+multiple access
+PA linearization
+receiver sides
+simplification
+analysis verifications
+transmitter
+mobile network
+BER
+composite
+prototyping system
+laboratory measurement
+robustness
+interference
+PSD
+effect
+promising direction
+Trade-off
+efficiency
+linearity
+goals

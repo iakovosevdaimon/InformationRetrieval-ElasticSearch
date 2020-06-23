@@ -1,0 +1,62 @@
+Eigenstrain Theory
+development of components
+creep deformation of welded components
+inertia welded components
+creep behavior of materials
+eigenstrain reconstruction method
+better understanding of creep behavior
+eigenstrain reconstruction process
+visco-plastic model
+creep behavior of post weld heat
+Analysis of Creep Behaviour of Welded Rotating Components of High Temperature Applications
+realistic model
+experimental data
+high-temperature conditions
+super-alloy components
+residual stress field
+effect of residual stress
+stress fields
+high accuracy
+data collection
+proposed research
+stages
+post-weld heat
+complex loading
+numerical models
+numerical tools
+use of inertia friction welding
+aerospace industry
+experimental measurements
+modeling of complex geometries
+fusion welding techniques
+nickel
+European Union
+dissemination
+lower cost
+need
+high-quality joints
+public engagement
+United Kingdom economies
+large scales
+diffraction
+training
+longer service life
+ABAQUS commercial finite element software
+joint quality
+positive impact
+communication activities
+societies
+contour methods
+management
+samples
+improvements
+innovative approach
+years
+researcher
+target
+developed methodology
+plan
+Experiments
+study
+success
+Results

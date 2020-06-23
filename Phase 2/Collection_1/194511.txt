@@ -1,0 +1,60 @@
+commercial services
+banking services
+privacy
+physical access control
+unsupervised authentication
+delegation of authentication
+hybrid ASV systems
+proliferation of smart services
+mission-critical services
+commercial-grade
+textual passwords
+Objective Control
+text-independent
+text-dependent
+OCTAVE platform
+biometric authentication service
+interoperability
+addition
+distributed TBAS
+latest environmental robustness
+today’s state-of-the-art ASV systems lack robustness
+real commercial trials
+single points of failure
+environmental variability
+telephone banking
+new opportunities
+wider exploitation
+user-friendly solutions
+TAlker VErification Industry
+automatic speaker verification
+anti-spoofing technologies
+critical airport infrastructure
+e-commerce
+alternatives
+mobile devices
+example
+customer care
+use of electronic identification
+practical burdens
+future applications
+trust
+password loss
+rapid breach notification
+design ethos
+biometrics technology
+inconvenience
+data-sensitive
+scalability
+remediation
+recovery
+persons
+Flexibility
+barriers
+Concerns
+appealing solution
+relieving end-users
+distance
+modes
+standards
+tokens

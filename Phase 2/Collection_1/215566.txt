@@ -1,0 +1,64 @@
+Deep Learning Deep learning
+information theory of representation learning
+machine learning
+involved fields of information theory
+improved design of deep learning architectures
+information bottleneck method
+AE learning process
+information-theoretic criteria
+deep neural networks
+Distributed Representations
+good representations
+AEs
+expertise of researcher
+expertise of supervisor
+TC
+model selection
+recent insight
+mathematical understanding
+thorough understanding
+structured architectures
+fellow researcher
+successful recent paradigm
+model-free approach
+low-dimensional codes
+high-dimensional inputs
+multilayer neural network
+generative adversarial nets
+record-breaking performance
+transfer of knowledge
+intimate relationship
+statistical tradeoffs
+collaborative endeavor of researchers
+statistics
+Communications
+descriptive power
+fertile concepts
+variety of methodologies
+rich potential
+observed variables
+basic building block
+strong complementary backgrounds
+numerous applications
+use of stochastic complexity
+proposal
+idea
+LIA Lab
+labels
+workpackages
+practice
+algorithms
+state
+art
+project
+innovative research work
+reconstruction
+order
+gap
+challenging goals
+Individual autoencoders
+main innovation
+planned objectives
+CNRS
+new framework
+explanations

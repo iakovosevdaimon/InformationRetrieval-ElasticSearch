@@ -1,0 +1,58 @@
+combinatorial problems
+discrete geometry
+combinatorial Hodge theory
+toric geometry
+arrangement theory
+understanding of geometry
+combinatorial settings
+combinatorial isoperimetries
+combinatorial methods
+intersection theory
+new combinatorial approaches
+Reisner theory
+commutative algebra
+Modern combinatorics
+realization problems of discrete objects
+old problems
+branches of combinatorics reliant
+discrete PDEs
+proposal
+vital contribution
+central contribution
+interplay of curvature
+relative Stanley
+new ideas
+work of Hochster
+study of arrangement complements
+classification of face numbers of simple polytopes
+deep results
+initial success lead
+wealth of research
+relation of enumerative questions
+Grothendieck's standard conjectures
+early stone carvings
+isoperimetry
+topology
+Connes
+geometric analysis
+Saito's hard Lefschetz theorem
+structures
+Neolithic period
+ubiquity
+ancestors
+Hirsch conjecture
+counterexamples
+diameter of polyhedra
+analytic structure
+applied mathematics
+type
+factors
+tools
+development
+spirit
+classical topics
+ahler package
+addition
+subjects
+review
+caveat

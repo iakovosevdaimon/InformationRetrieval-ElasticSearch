@@ -1,0 +1,48 @@
+key algorithmic verification questions
+discrete linear dynamical systems
+Infinite-State Systems
+practical verification methodologies
+novel verification algorithms
+verification of Markov chains
+practice of formal verification
+algorithmic insights
+software model checking
+counter automata
+termination of linear loops
+tools
+synthesis problems
+mathematical questions
+extensions of Linear Temporal Logic
+range of specific algorithmic problems
+fundamental mathematical structures
+key deliverables
+central objective
+parametric form
+line of research
+fundamental theoretical contributions
+parametric real-time reasoning
+industrial research laboratories
+various fragments
+colleagues
+lead
+collaboration
+project
+academia
+powerful methods
+LTL
+map
+predicate abstraction computations
+breakthroughs
+use of engineers
+specifications
+right
+series of recent advances
+areas
+applications
+module
+complexity landscape
+PI’s team
+programmers
+years
+Analysis
+decades

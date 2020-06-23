@@ -1,0 +1,59 @@
+analysis of differential inclusions
+context of differential inclusions
+partial differential relations
+associated partial differential equations
+nonlinear partial differential equations
+Fluid Mechanics Important problems
+work of Tartar
+work of Gromov
+behavior of turbulent flows
+rigidity phenomena
+aim
+project
+solid-solid phase transitions
+study of oscillation phenomena
+non-smooth structures
+important challenges
+macroscopic behavior
+Morrey's conjecture
+multiphase flows
+Onsager's conjecture
+terms of applications
+mathematical analysis
+fine phase mixtures
+complex mixing patterns
+outstanding open problems
+K41 statistical theory of turbulence
+solutions
+science
+celebrated constructions of Nash
+crucial way
+isometric immersions
+ultimate goal
+analytic foundation
+descriptions
+h-principle
+situations influence
+overall effect
+typical examples
+recurring issue
+formation
+quasiconvexity
+rank
+system
+field
+interaction
+instabilities
+development
+large variety of models
+great scientific challenge
+distinct length scales
+approach
+influx of ideas
+boundaries
+methods
+recent success
+microstructures
+common ground
+background
+state

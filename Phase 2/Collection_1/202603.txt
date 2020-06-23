@@ -1,0 +1,57 @@
+functional IDRs
+sequence-function relationship of IDRs
+discovery of genes
+function-gene relationship of IDRs
+IDR sequence
+IDR mediated transcription
+synthetic biology
+selectable function
+IdrSeq
+systems biology
+cell biology
+structural biology
+principles of sequence
+characterization of functional disordered regions
+structured regions
+cellular context
+broad range of IDR functions
+disordered proteins
+functional variants
+discovery platform
+generation sequencing
+cellular model
+molecular principles
+critical functions
+protein segments
+integrative vision of synthetic
+influence protein stability
+human health
+genetics
+direct implications
+enormous potential
+proposal
+millions
+computation
+experiments
+code
+genotype
+vast libraries of sequences
+large fraction
+novel therapeutic targets
+high-throughput approach
+form higher-order assemblies
+phenotype
+yeast
+IDPs
+numerous diseases
+neurodegeneration
+cancer
+eukaryotic genome
+selection experiment
+technology exploits
+contrast
+regulation
+unique feature
+assembly formation
+defined tertiary structure
+organisms

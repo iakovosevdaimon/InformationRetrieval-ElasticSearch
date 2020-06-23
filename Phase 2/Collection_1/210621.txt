@@ -1,0 +1,45 @@
+robot base
+axis lightweight robot arm
+laser ultrasound excitation
+hybrid materials technology
+laser head system
+pulsed ultrasound
+Aerospace Composite Components - Ultrasonic Robot
+barrel demonstrator panel
+system cell
+long barrel demonstrator component panel
+LUT Signal processing algorithms
+non-contact laser
+acoustic damping materials
+LUT synthetic aperture
+advanced prototype system
+Random signal
+area coverage
+optimum technology
+volume coverage
+rail track
+scan windows
+thick composite structures
+noise ratio enhancement
+flexible optical fibres
+reduction of coherent noise
+future generation hybrid aircraft
+Testing
+detection pulses
+delivery
+non-destructive inspection
+high speed
+deployment
+Programme
+raster
+Clean Sky
+overall goal
+project
+single location
+surface
+technical approach
+speeds
+8m2
+length
+hour
+increments

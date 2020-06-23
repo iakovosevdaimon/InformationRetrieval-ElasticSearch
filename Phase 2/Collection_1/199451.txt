@@ -1,0 +1,58 @@
+Project
+scalable algorithms
+development of numerical models
+scientific potential of DA models
+Scalable Data Assimilation
+development of scalable approaches
+OCMs
+predicted data
+new algorithms
+sustainable development
+Ocean Circulation Models
+area of oceanographic Data Assimilation
+ROMS
+UNINA
+DVar model
+numerical algorithms of computational science environments able
+North Sea
+real applications
+iNnovative Approaches
+scientific context of Uncertainty Quantification
+real time
+Caspian sea
+main expected scientific result
+enclosed seas
+domain decomposition methods
+exchanges of research personnel
+Regional Ocean Modeling System
+UQ
+hybrid parallel implementations
+efficient use
+multi-thread paradigms
+multiprocess
+study of various observed
+communication
+West Africa
+Angola
+ANL
+oCeanography
+high performance
+possibility
+intercontinental network
+participating Partner Countries
+improvement
+ICL
+UCSC
+design
+emerging supercomputers
+transfer of knowledge
+consortium partners
+BSC-CNS
+long-lasting collaboration
+popular framework
+expertise
+Ethical issues
+principal objective
+exascale
+focus
+Realization

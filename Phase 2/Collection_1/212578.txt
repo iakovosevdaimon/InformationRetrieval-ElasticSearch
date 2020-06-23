@@ -1,0 +1,45 @@
+Optimal WPP control
+WPP production
+WPP controller
+WPP WT’s
+optimal WPP performance
+WPP power production
+WPP operational costs
+advanced integrated WPP
+suggested integrated WPP
+WPP control design phase information
+optimal economical WPP revenue
+WPP life time
+WT control schemes
+WT control approach
+WPP flow field information
+wind turbine control
+operational control of Wind Power Plants
+Total Control project
+on-line operational control available WT
+optimal economic performance
+optimal system performance
+optimal economic balance
+individual WT controllers
+individual wind turbines
+Reduction of COE
+COE reduction
+optimal operation of large Wind Power Plants Cost of energy
+current operational state
+energy system
+COE objectives
+state of individual turbines
+energy price
+use of current market information
+parameter optimization problem
+external grid demands
+multi objective optimization problem
+set of superior grid operator
+maintenance requirements
+component lifetime consumption
+deployment of renewables
+essential interactions
+important single factor
+ancillary services
+things
+load aspects

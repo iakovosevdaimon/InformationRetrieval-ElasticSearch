@@ -1,0 +1,50 @@
+Control System
+test of actuators
+system parameters
+control computers
+loop control
+fluidic AFC actuators
+special requirements
+requested number of actuators
+integrated flow control actuator
+smart power amplifier solutions
+specific requirements of piezoelectrically driven Synthetic Jet Actuators
+miniaturized solutions
+needed power
+project FloCoS
+specific application
+harsh environmental requirements
+electromagnetic compatibility requirements
+special concepts
+outer wing
+remote access
+power supply connectors
+specific region
+efficient solutions
+hand
+State-of-the-art power recovery technologies
+Smart AFC Drive
+pylon-wing junction
+large scale wind tunnel test studies
+amplifier unit
+aerodynamic concepts
+miniaturized electronic module
+dedicated measurement circuit
+relevant environmental conditions
+addressed application scenarios
+measurement values available
+account
+advanced monitoring
+regions
+different main parts
+Manufacturing
+output
+WT
+logging functionality
+short term plan
+piezoelectric elements
+Development
+integration aspects
+testing
+conformity
+point of action

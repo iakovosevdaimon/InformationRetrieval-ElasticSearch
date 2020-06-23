@@ -1,0 +1,56 @@
+new dedicated acquisition strategy
+brain
+single acquisition strategy
+different acquisition strategies
+long acquisition times
+D MRF acquisition
+optimized acquisition trajectories
+new protocols
+novel algorithm
+magnetic resonance imaging
+quantitative MRI protocols
+magnetic resonance fingerprinting Alterations
+magnetic susceptibility
+system imperfections
+new approach
+dedicated novel genetic algorithm
+sequence parameters
+slow reconstruction algorithm
+estimation of multiple parameters
+intrinsic physical tissue parameters
+strategies sensitive
+MR fingerprinting
+patient groups
+relaxation times
+Initial data
+group differences
+accelerated reconstruction software
+major neurological conditions
+healthy volunteer groups
+balanced steady state free precession bSSFP
+useful signs
+prompt application
+disease stage
+clinical facilities
+image contrasts
+transverse
+dimensional datasets
+sensitivity
+parameter quantification
+monitoring treatment efficacy
+T2
+Previous attempts
+high accuracy
+T1
+close interaction
+marker
+method
+great promise
+pediatric patients
+acceptable time
+graphics processing units
+Statistical parametric maps
+date
+addition
+technique
+project

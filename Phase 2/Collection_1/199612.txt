@@ -1,0 +1,60 @@
+RHINOS - Railway High Integrity Navigation Overlay System
+RHINOS pillar
+objective of RHINOS
+train control system application
+high-integrity applications
+rail community
+rail application
+GNSS-based system
+RHINOS work programme
+RHINOS dissemination plan
+GNSS infrastructure
+rail requirements
+US community
+aviation application
+fast growing train
+railway safety standards
+GNSS performance
+use of EGNSS
+safety-critical train localization function
+difficult railway environments
+Western European community
+Eastern European community
+proliferation of GNSS platforms
+GPS
+regional applications
+Stanford University
+challenging requirements
+specific Workshops
+localization of trains
+ARAIM techniques
+reference infrastructure
+global solution
+global markets
+EU-US Cooperation Agreement
+international cooperation
+add-on specific assets
+Prague
+satellite stakeholders
+investigation of candidate concepts
+hazards
+results
+sensors
+provision
+Roma
+additional layers
+positive step
+potential benefits
+existing projects
+undeniable knowledge
+local augmentation elements
+WAAS
+world market
+EGNOS
+environmental effects
+detected position
+GALILEO
+birth
+value
+definition
+ambition

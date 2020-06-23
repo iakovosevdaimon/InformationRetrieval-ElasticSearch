@@ -1,0 +1,43 @@
+app vendors
+innocuous app
+testing
+unexpected changes of app behavior
+sensitive data
+BOXMATE approach
+mobile logs
+malicious behavior
+user data
+Automatic App Protection Today’s industry
+advanced persistent threats
+mobile security solution
+mobile infrastructure providers
+proposal
+production
+attack surface of mobile applications
+software test generation
+combination of test generation
+Mining Sandboxes
+specification mining
+corporate network
+program’s accesses
+binary code
+code analysis
+biggest threat
+world’s leading experts
+technology
+Andreas Zeller
+end users
+generated tests
+principal investigator
+knowledge
+source
+potential customers
+ERC SPECMATE project
+specific company
+key idea
+full-fledged prototype
+adequate marketing strategy
+needs
+obscure third-party apps
+tracing
+time

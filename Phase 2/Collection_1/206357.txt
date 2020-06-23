@@ -1,0 +1,67 @@
+performance evaluation
+performance effectiveness
+performance characteristics
+CLoud Orchestration
+Cloud providers
+Cloud adopters
+Cloud environments
+orchestration processes
+present performance vs cost tradeoffs
+provider selection processes
+Cost Efficiency Tools
+independent validators of Cloud QoS features
+owners of SaaS
+owners of time
+SLA auditing
+according SLA levels
+SLA  c
+QoE Enhancement
+evaluation process
+critical applications
+lack of stability
+SaaS level
+time of procurement
+set of tools
+TRL levels
+IaaS customers
+understandable QoS metrics
+role of QoE Assessment Broker
+consultancy domain
+constant monitoring
+mature existing prototypes
+decisive step
+current brokerage
+services
+applicability
+relation
+CFD
+adaptation
+previous EC
+gap
+deployment
+competitiveness
+competitive advantage  b
+heavy-weight industrial cases
+Toolkit Consultant
+computational nature
+CRM
+extensive experimentation
+ERP
+projects
+innovation action
+order
+benchmarking
+parties
+migration
+maintenance
+infrastructures
+optimal groupings
+envisioned toolkits
+runtime analysis
+overall value chain
+overheads
+facilities
+modelling
+spin-off entity
+domains
+consortium

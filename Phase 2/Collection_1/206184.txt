@@ -1,0 +1,63 @@
+cancer treatment monitoring
+breast cancer
+cancer types
+cancer stem cells
+reliable cancer diagnosis
+cancer early diagnosis
+BIOCDx photonic
+hormone-independent prostate cancer
+detection platform
+detection reliability
+cancer stem cell-specific transcription factor TWIST1
+limit of detection
+nano-biochemical
+sensitivity
+multi-analyte detection
+packaging platforms
+photonic elements
+project
+companion diagnostics tool
+desktop PoC device
+miniature Bio-photonics Companion Diagnostics platform
+virtue of expression
+current technologies
+circulating proteins
+tumorigenic cell compartment
+Current diagnostic options
+TriPlex technology
+specificity
+imaging techniques
+asymmetric MZI waveguides
+smart concept of signal multiplexing
+number of photodetectors
+biomarkers POSTN
+array
+emlploy
+compactness
+respect
+reader
+fluidics
+limitations
+development
+silicon nitride substrates
+disruptive Point of Care
+PCOLCE
+proper assessment of therapeutic response
+fold improvement
+bloodstream
+tumors
+LOD
+melanoma
+femtomolar
+advanced concepts
+substantial reduction of chip size
+cost issues
+clinical setting
+validation
+TGBI
+scientific breakthroughs
+sandwich assay
+nanoparticles
+use
+antibodies
+RIU

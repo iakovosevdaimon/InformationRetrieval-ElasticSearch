@@ -1,0 +1,59 @@
+requirements tools
+requirements dependencies
+requirements reasoning
+requirements work
+Requirements Intelligence
+Community-Driven Requirements Engineering Requirements engineering
+reuse of requirements knowledge
+software projects
+integrated open-source requirements management platform
+community-driven ICT projects
+similar projects
+relevant stakeholders
+collaboration tools
+Intelligent Recommendation  Decision Technologies
+stakeholders’ participation
+stakeholders’ workflows
+stakeholders survey alternatives
+various dependencies
+Group Decision Support
+Software domain
+hidden dependencies
+OPENREQ Interfaces
+modern recommender algorithms
+actual software usage
+semantic technologies
+advanced recommendation
+Cross-Platform
+proactive support
+Dependency Management
+group decisions
+release planning
+machine-learning algorithms
+Stakeholder’s Personal Recommender
+following decision-making capabilities
+set of connectors
+key activity
+data-mining
+issues trackers
+users’ feedback
+questions
+complex
+resolution of preference conflicts
+current user needs
+aggregates
+efficient answer
+social media
+identification of consensus
+properties
+requirement’s quality
+Transportation
+success
+Telecom
+information
+requirement cost
+predictive analytics
+effort
+trade-offs
+inconsistencies
+trials

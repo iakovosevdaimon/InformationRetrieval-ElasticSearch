@@ -1,0 +1,53 @@
+finite automata
+finite words
+state recognisability Finite-state devices
+theory of automata
+unified theory of finite
+existing finite-state models
+spectrum of existing finite-state devices
+weighted automata
+correct notion of finite
+classical automata
+logic-automata connection
+infinite trees
+infinite inputs
+fields of theory
+infinite objects
+infinite alphabets
+Boolean like
+diverse inputs
+settings
+tens of models
+existing software
+project
+system
+fundamental tools of logic
+diverse outputs
+important similarities
+advanced results
+advanced aspects
+simple testing
+tens of thousands
+natural potential
+primary goal
+simple problems of wide applicability
+monoids
+extensions
+existence of canonical
+applications
+computer science
+decidability of emptiness
+numbers
+accepted choice
+literature
+text transformations
+sheds light
+rudimentary theoretical techniques
+learning
+students
+powerful ones
+examples
+search
+users
+exercises
+proofs

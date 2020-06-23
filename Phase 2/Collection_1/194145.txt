@@ -1,0 +1,55 @@
+low-entropy random numbers
+entropy degradation
+secure systems
+secure implementations
+lower entropy random numbers
+demonstrable entropy
+secure cryptographic primitives
+robust hardware implementations
+hardware-friendly
+hardware efficiency
+random number generators
+fly entropy testing
+physical attacks evaluations
+low-latency
+weak random number generator
+PUFs
+RNGs
+physical attack countermeasures
+gradual security degradation
+impact potential
+pseudo randomness
+certification bodies
+easier certification
+main objective
+low-power requirements of constrained embedded devices
+security building blocks
+mathematical heaven of cryptographic algorithms
+collective ambitions
+real-time memory encryption
+evaluation labs
+track records
+complementary expertise
+academia
+inputs
+high throughput of future terabit networks
+standardization
+publications
+dissemination
+RNG designs
+broader ICT
+industry
+gap
+strength
+uncloneable functions
+quality metrics
+European relevant use cases
+customers
+experts
+proposal
+companies
+State-of-the-art cryptography
+flexibility
+Results
+objectives
+unknown

@@ -1,0 +1,66 @@
+Autonomous magnetic field
+magnetic field variations
+magnetic field lines
+indoor location
+standalone magnetic tags
+geomagnetic field
+Indoor navigation
+modelling structure of magnetic fields
+high accuracy
+current solutions
+office buildings
+people
+relative positioning technology
+outcomes approach
+interior navigable space of buildings
+Current Internet-connected tracking solutions
+high-micro-scale accuracy
+coverage area
+visibility area
+well-established outdoor navigation technologies
+market surveys
+tags work
+market adoption
+initial fingerprinting
+extensive computing power
+extensive sensor networks
+French Space Agency
+real-time tracking of mobile assets
+data
+great promises
+shortcomings
+hospitals
+steel structures
+large objects
+factory floor
+benchmarking magnetometers
+need
+patent family
+challenges
+retail centers
+real time information
+reinforced concrete
+efficiency
+logistics sector
+infrastructure network
+signal propagation
+universal IoT solution
+economic feasibility
+site
+inertial measurement units
+pay
+sectors
+significant advantages
+RTLS
+manufacturing industry
+quality of services
+security
+SME Phase
+things
+varying way
+facility
+business model
+Freedom
+longer run
+customized value
+Devellyn

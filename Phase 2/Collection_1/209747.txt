@@ -1,0 +1,54 @@
+sequencing instrumentation
+sequencing reactions
+pre-sequencing workflow
+faster sequencing methods
+high throughput sequencing
+number of pre-sequencing steps
+field-based DNA sequencing
+development of second-generation sequencing methods
+implementation of sample preparation pre-sequencing steps
+DNA fragmentation
+lower sample volumes
+library preparation
+seamless integration of fragmentation
+NGS instruments
+applications of NGS
+lower powers
+clinical diagnostics
+microbial resistance
+growing area
+longer term
+near term
+treatment of infectious disease
+emergence of drug resistance
+size selection
+processing
+demand
+completion
+smaller sizes
+surface acoustic waves
+related fields
+important technological bottleneck
+human genome sequence
+use
+rapid advances
+target enrichment
+public health
+volume of research
+epidemiology
+precision medicine
+platforms
+laboratories
+new method
+Acoustics
+possibility
+need
+potential
+industry
+year
+techniques
+genomics
+creation
+activity
+developments
+proposal

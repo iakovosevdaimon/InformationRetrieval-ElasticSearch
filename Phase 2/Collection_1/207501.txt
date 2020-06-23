@@ -1,0 +1,49 @@
+Flight Object concept
+Flight Object Interoperability VLD Demonstration
+flight coordination
+current air traffic
+Air Traffic Controllers
+Air Traffic Management
+Air Navigation Service Providers
+deployment roadmaps
+deployment scenarios
+real operations
+deployment activities
+coordination of PCP AF
+SESAR Deployment Programme
+ATM stakeholders
+ATM Network performance
+real world upper En-route airspace environment of Air Traffic Control Centers
+Network Manager
+transfer operations
+RBT
+fallback operations
+PCP Regulation
+real aircraft
+essential goal
+D-trajectory
+participating ACCs
+ATCOs clearances
+SESAR approach
+large area of European core airspace
+Single European Sky
+Reference Business Trajectory
+situational awareness
+DFS
+SWIM equipped systems
+demand
+important milestone
+capacity balancing
+set of Shadow Mode trials
+EUROCONTROL
+valuable input
+ENAV
+DSNA
+introduction
+key enabler
+proof
+main objective of PJ27
+ultimate step of validation
+benefits
+difference
+project

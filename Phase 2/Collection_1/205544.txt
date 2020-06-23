@@ -1,0 +1,59 @@
+production resources
+production equipment
+sensors of multiple resources
+mobile robots able
+mobile dual arm robots
+multiple operations
+serial production model
+creation of production concepts
+high cost of maintenance
+standard robots
+reconfigurable shopfloor
+new products
+perceived environment
+reallocating tasks
+Manual tasks
+vision of THOMAS
+objective of THOMAS
+Mobile dual arm robotic workers
+Safe human robot collaboration
+automatic execution of new tasks
+Low cost labour
+collaborative perception
+Fast programming
+robot program
+human operators
+dynamic environments
+good ratio of cost vs robustness
+high product variability
+dedicated process equipment
+reconfigurable manufacturing systems
+fast rise of wages
+Dynamic balancing of workload
+embedded cognition
+hybrid
+physical barriers
+productivity
+increasing costs of energy
+individual resource’s
+skills
+cognitive abilities
+challenge lays
+EU manufacturers
+behaviour
+option
+expert users
+dexterous tooling
+need
+autonomy
+detection of humans
+aeronautics industrial sectors
+logistics
+developments
+required adaptations
+common network
+changes
+intentions
+answer
+mobility
+reasoning

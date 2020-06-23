@@ -1,0 +1,46 @@
+Infinitary Rewriting
+rewriting community
+Type Systems Infinite objects
+infinitary normalisation
+infinitary confluence
+rewriting-based work
+Pure Type Systems
+operational perspective of rewriting
+theory of Infinitary Combinatory Reduction Systems crucial
+infinite computations
+infinite list
+coinductive approach
+theoretical computer science infinite objects
+previous type
+safe software systems
+coinductive types
+coinductive proofs
+compositional typed formalisms
+higher-order typed formalisms
+automata theory
+simple theory
+higher-order programs
+corecursion
+reasoning
+typed lambda calculus
+mathematical methods
+stream of responses
+important role
+typable terms
+Böhm models
+exact real number arithmetic
+programming languages communities
+new viewpoint
+present proposal
+strong expertise
+requests
+Endrullis
+results
+supervisor
+productivity
+investigations
+objective of InfTy
+interactive program
+chosen methodology
+techniques
+fellow

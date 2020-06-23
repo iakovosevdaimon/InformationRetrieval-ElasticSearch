@@ -1,0 +1,51 @@
+D models
+D LIDAR
+RGB-D
+D modelling
+colour inspection of surface quality
+sensor processing algorithms
+automated Testing of Aircraft interiors
+sensor suite
+quality reports
+efficient automated testing
+multi-sensor platform
+cabin
+store sensor measurements
+data transmission
+vision sensors
+components
+post-assembly testing of aircraft interior installations
+Vision-based Inspection Systems
+automated guided vehicle
+high-level algorithms
+on-board image processing hardware
+cargo units
+terms of texture
+cargo areas
+Augmented Reality
+VISTA project
+line scan cameras
+suitable interfaces
+omnidirectional laser profilometers
+mobile system
+respect
+gap
+flush
+order
+human operators
+positioning
+AGV
+development
+implementation
+tolerances
+material
+stereo
+metadata
+multiple optical devices
+reliability
+documentation
+addition
+defects
+collection
+visualization
+goal

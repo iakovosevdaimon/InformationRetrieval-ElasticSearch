@@ -1,0 +1,50 @@
+ultra-tight porous media
+simulating gas flows
+new gas kinetic solver
+Efficient pore-scale kinetic simulation of gas flows
+low-speed gas flows
+unconventional gas reservoirs
+direct pore-scale simulations of gas flows
+realistic porous media samples
+emerging research area of gas transport
+quantifying extraction of natural gas
+non-equilibrium flow physics of gas transport
+design of porous material
+pore sizes
+conventional models
+University of Strathclyde
+conventional Darcy-type
+multi-level parallel kinetic solver
+new simulation capability
+Aix-Marseille University
+Heriot-Watt University
+efficient numerical scheme
+non-intuitive flow phenomena
+current phenomenological Darcy-type
+D scanned digital images of rock samples
+systematic examination
+experimental validations
+access
+timely award
+rapid progress
+thermal protection systems of entry vehicles
+unified approach
+modelling
+entire range of Knudsen number
+applicant
+Marie Skłodowska-Curie Fellowship
+expertise
+impact
+continuum fluid theory
+necessary resources
+hosting institutions
+independent researcher
+forefront of international advances
+shale rocks
+nano scales
+project
+Boltzmann-BGK equation
+support
+nanometres
+work
+microns

@@ -1,0 +1,55 @@
+high order numerical methods
+High-order Numerical Schemes
+D kinetic models
+numerical analysis of kinetic models
+high order AP
+kinetic descriptions
+kinetic equations
+Kinetic theory
+nonlinear kinetic models
+D gyro-kinetic
+D drift kinetic
+high order asymptotic preserving
+numerical tools
+systematic numerical methods
+dissipative high order Hermite methods
+high order PP flux limiters
+high dimensional problems
+spurious numerical oscillations
+IMEX schemes
+study of turbulent plasma physics
+multi-scale stiff problems
+physical conservations
+wide applications
+hand
+large time scale simulation
+physical meaningless values
+time discretizations
+mathematical modellings
+asymptotic regimes
+developed approaches
+Tao Xiong
+WENO
+reconstructions
+positive density distribution functions
+Host
+semi-conductors
+polymers
+Francis Filbet
+discontinuous Galerkin
+challenging difficulties
+social sciences
+Experienced Researcher
+principle
+particles
+implicit-explicit
+complex geometries
+expertise
+traffic networking
+collisions
+stiffness
+class
+positivity
+proposed research
+project
+account

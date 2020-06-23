@@ -1,0 +1,54 @@
+chemistry Commercial quantum-chemistry computational packages
+standard quantum chemistry packages
+traditional quantum chemistry packages
+Imaging-XChem
+ERC AdG project XCHEM
+ERC AdG XCHEM project
+developed software
+quantum mechanical description
+accurate description of molecular ionization
+new applications
+new technology
+new compounds
+order
+chemical industry
+coherent attosecond control of chemical reactions
+large variety of chemical processes
+service-oriented software system
+widespread use
+future use
+different itineraries
+different architectures
+ultrafast electronic control
+attosecond laser pulses
+single-molecule imaging
+outputs
+attochemistry
+reliable predictions
+huge European infrastructures
+emerging scientific disciplines
+private sector companies
+experimentalists
+theoreticians
+framework
+friendly version
+powerful tool
+proper exploitation
+scientists
+incorporation
+properties
+reactivity of molecules
+science
+material
+stakeholders
+codes
+expert users
+need
+place
+training sessions
+user interface
+product
+drugs
+Main efforts
+document
+laboratory

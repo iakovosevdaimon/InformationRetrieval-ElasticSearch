@@ -1,0 +1,47 @@
+hydrodynamic noise
+engine noise components
+noise ratio
+noise-ratio
+aircraft components
+hydrodynamic pressure noise
+aeroacoustic sources localization
+number of incoherent sources
+ADvanced Aeroacoustic Processing Techniques Airbus
+broadband cyclostationary components
+effective techniques
+number of microphones
+various parameters
+proposed approaches
+methods
+project
+de-noising techniques
+aeroacoustic source separation
+various experimental studies
+specific microphone
+installing microphones
+microphone measurements
+correct assessment of acoustic signals
+low signal
+separating airframe
+cyclostationarity
+wind tunnel test section
+wall
+space
+tool
+economical requirements
+systematic study
+parameter boundaries
+acceptable results
+flow
+fuselage
+sounds
+wing
+ability
+dB error
+example
+order
+case
+proposal
+beginning
+consortium
+efficacy

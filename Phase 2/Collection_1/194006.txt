@@ -1,0 +1,56 @@
+FESTIVAL testbeds
+smart city
+Japanese testbeds
+smart building
+Japanese IoT testbeds
+smart shopping
+city scale
+federation of testbeds
+smart public services
+interoperable SmarT ICT services deVelopment
+small scale
+small platforms
+IoT experimentation platforms
+Smart ICT service developments
+large scale deployments
+FESTIVAL project’s vision
+physical environments
+physical world
+testing pLatforms
+Test-beds
+large community of experimenters approach
+Japanese societies
+European enablers
+strong impact
+dedicated physical spaces
+added value services
+lab environments
+cyber world
+real-life settings
+real-life trials
+homogeneous access APIs
+active community of application developers
+various domains
+interaction facility
+participatory sensing
+efficient communication
+collaboration
+hardware available
+practices
+reuse of existing software
+common testbed infrastructure
+gap
+stakeholders
+step
+end-users
+key asset
+experimental facilities
+long years of research work
+model
+challenges
+EaaS
+Internet of Things
+essential enabler
+aforementioned component technologies
+current state
+aspects of society

@@ -1,0 +1,46 @@
+new RNN programs
+large RNNs
+novel RNN
+today's best RNNs
+new tasks
+lots of real-world tasks RNNs
+Algorithms Recurrent neural networks
+original learning algorithms
+entire learning algorithms
+biggest open RNN problems
+hottest RNN research topics
+sub-networks
+natural short-term memory-intensive tasks
+important types of algorithms
+systems existing benchmarks
+supervised Long Short-Term Memory
+efficient transfer learning
+separate large short-memory structures
+handwriting recognition
+fast weights
+pattern recognition contests
+challenging multi-task benchmarks
+Related Machines
+world's
+speech
+valuable public companies
+internal spotlights of attention
+Google
+performance
+LSTM
+set of
+machine translation
+known results
+general parallel-sequential computers
+mini-brain
+practice
+billions of users
+Apple
+GPU
+algorithmic information
+detailed questions
+ERC project
+theory
+videos
+words
+potential

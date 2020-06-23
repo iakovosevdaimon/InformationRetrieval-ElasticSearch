@@ -1,0 +1,62 @@
+lidar measurements
+measurements of lidar
+space measurements
+new LIDAR space
+use of new space
+airborne lidar systems
+retrieval of aerosol microphysics vertical-profiles
+NASA mission
+column-integrated aerosol microphysics
+upcoming Aerosol-Clouds
+aerosol direct effects
+knowledge of aerosol microphysical vertical profiles
+experimental measurements
+polarimetric space
+NASA field campaigns
+multi-wavelength lidar
+Different configurations of lidar
+Airborne Cloud-Aerosol Transport System
+NASA GEOS
+cost-effective ACE mission
+polarimeters
+knowing of absorption profiles
+uncertainties
+joint inversion
+task
+approach
+Development of GRASP radiative transfer code
+sensors open new possibilities
+Generalized Retrieval of Atmosphere
+large field campaigns
+PARASOL system
+microphysical parameters
+use of synthetic database
+impact
+Surface Properties
+situ instruments
+Ecosystems
+current techniques
+SHADOW
+AQ
+project deals
+ACATS
+HSRL
+low signal
+noise ratio
+applicability
+core
+evaluation studies
+goal
+details
+constraints
+POLDER
+model
+SEACR4S
+IPCC
+University of Lille
+objective links
+daytime
+Multiangle SpectroPolarimetric
+reference
+results
+end

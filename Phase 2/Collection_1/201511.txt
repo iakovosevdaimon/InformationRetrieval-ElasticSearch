@@ -1,0 +1,55 @@
+Microwave quantum illumination
+quantum communication
+Optical Quantum Link
+quantum coherent link
+large-scale quantum networks
+microwave regime
+cavity Optomechanics Quantum processing
+distant superconducting microwave circuits
+Continuous variable quantum teleportation
+high fidelity quantum-limited operation
+superconducting circuits
+single intra-cavity microwave photon
+superconducting systems
+advanced microwave tomography methods
+chip integrated converter
+electro-opto-mechanical converter
+chip integrated acousto-optic converter
+fiber optic technology
+classical technology
+electro-opto-mechanical coupling
+capacitively coupled compact superconducting LC resonator
+resonator-based system
+high scientific impact
+compliant telecom wavelength photonic crystal cavity
+optical photons
+limited bandwidth
+proposed project
+future era of information technology
+telecom band
+fiber optics
+traditional acousto-optic modulators
+main scientific objective
+exponential speedups
+room temperature channels
+certain computational problems
+turn
+noisy background
+experimental demonstration
+hand
+transmission losses
+sensitivities inaccessible
+presence
+basic building blocks
+generated entanglement
+squeezed states of light
+Josephson parametric amplifiers
+scalable platform
+modulation powers
+related applications
+weak signals
+electronic noise
+effectiveness
+development
+device
+order

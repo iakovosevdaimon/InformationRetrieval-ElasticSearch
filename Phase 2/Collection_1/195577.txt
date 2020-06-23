@@ -1,0 +1,34 @@
+effective photon-photon interactions
+photon gates
+controllable interactions
+Cold Rydberg Atoms
+high photon numbers
+basic building blocks of Quantum Information Processing
+fundamental way dipole-dipole interactions
+fragile quantum properties
+generated single-photons
+solid state
+Fock state discriminator
+different technologies
+Fock state emitter
+different strengths
+Different implementations
+context of multiple stored photons
+project
+photonic systems
+ideal system
+fundamental knowledge
+best system
+QIP tasks
+study of hybrid systems
+requirements
+interacting medium
+operations
+weaknesses
+nonlinearities
+materials
+EPICA
+components
+individual
+time
+aims

@@ -1,0 +1,54 @@
+SFM
+Sparse Familiarity Model of visual word recognition
+learning model
+fundament of lvOT functioning
+object recognition
+generalized model
+word recognition research
+brain response
+visual words
+prominent lvOT benchmark contrasts
+brain networks
+left ventral occipito-temporal cortex
+sample brain activation
+ventral visual processing stream
+high temporal resolution
+theoretical assumptions
+stages
+MEG measurement
+computational basis
+face
+project
+different time windows
+current theoretical approaches
+different time points
+statistical patterns of letter string familiarity
+fMRI measures
+terms of neuronal
+current debates
+neuronal populations
+computational implementation
+influence of learning
+reasonable spatial resolution
+neurocognitive basis of language
+multiple fMRI studies
+simulations
+connectivity analysis
+strong focus
+Frankfurt University
+topics
+high-density electrophysiological measurements
+present proposal
+addition
+access
+association
+main aim
+host
+Fiebach
+cognitive mechanisms
+domain specificity
+single assumption
+course
+investigations
+goal
+generalization

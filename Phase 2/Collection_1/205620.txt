@@ -1,0 +1,45 @@
+compressor configuration
+entire compressor stage
+Radial cOmpresSor Surge INception Investigation Centrifugal compressor stages
+surge phenomena
+surge inception scenario
+rotating stall
+stall cells
+onset of instabilities
+industrial reference case of centrifugal compressor
+rotor
+unsteady flow phenomena
+proposed project
+wide operating range
+underlying flow physics
+localized flow separation
+safe operating margins
+vaneless diffusers
+in-depth investigations
+high quality experimental data
+effect investigations
+high aero-elastic loads
+given academic
+hazardous self-excited pressure oscillations
+sub-harmonic rotational speeds
+major effort
+associated modeling
+existing theoretical analysis procedures
+design behavior
+premature aging
+ultimate failure
+Kulite array
+present study
+fatigue
+improved computational models
+validation
+prerequisite
+PIV measurements
+physical understanding
+low-order methodologies
+time
+cause
+objective
+impeller
+statement of work
+proposal

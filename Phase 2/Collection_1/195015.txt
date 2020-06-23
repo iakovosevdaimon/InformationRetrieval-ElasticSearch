@@ -1,0 +1,30 @@
+Collective Behaviour
+self-diffusiophoresis
+self-electrophoresis
+Janus colloids
+Self-Propelled Colloids
+platinum-coated Janus particles self-
+mechanism
+catalytic self-propulsion
+description of experiments
+improved understanding
+Effective Field-Theoretical Descriptions HydroCat
+coarse-grained molecular dynamics simulations
+Fine-Grained Hydrodynamic Simulations
+large number of particles
+theory study
+development of applications
+relevant physical effects
+account
+hybrid-model
+single-particle level
+experimental results
+investigation focusses
+solid foundation
+pronged strategy
+candidates
+input
+lattice-Boltzmann
+step
+project
+sufficient insight

@@ -1,0 +1,41 @@
+music analysis
+music composition
+music cognition
+music signal analysis
+Automatic music transcription of polyphonic audio DoReMIR Music Research
+context of music teaching
+distribution of music notation
+polyphonic audio transcription solution
+audio engineering
+large user base of monophonic audio analysis
+certain analysis problems
+project builds
+high-level musical knowledge
+interdisciplinary approach
+novel approach
+high-level terms
+product suite
+ScoreCloud concept
+limitations of current automated transcription methods
+user-driven design
+agile iterative solution development
+end-user participation
+acoustics
+focus
+computing
+easy creation
+stylistic conventions
+modelling
+cognitive science
+successful products
+resulting systems
+better solutions
+musicology
+results
+performance
+addition
+machine learning techniques
+desktop apps
+users
+Google
+order

@@ -1,0 +1,62 @@
+project
+satellite-based positioning systems
+High precision positioning
+accurate positioning technologies
+important applications
+infra-structure-based positioning
+enhanced European-wide positioning service platform
+applications Cooperative intelligent transport system
+open European standards
+traditional satellite systems
+open-access
+open-source
+concept systems
+facilities layer of ETSI C
+wireless communication technologies
+road users
+infrastructure devices
+certain challenging
+reference vehicles
+developed solutions
+challenging use cases Traffic Safety of Vulnerable Users
+accurate position information
+geographical positions of vehicles
+enhanced Local Dynamic Maps
+innovative use of on-board sensing
+test site
+Autonomous Driving
+common environments
+Zigbee
+UWB tracking
+TASS
+Wi-Fi
+GPS
+building blocks
+urban canyons
+Helmond
+Bluetooth
+LTE
+real conditions
+G5
+platooning
+prototypes
+offline processing
+strong commitment
+architecture
+knowledge
+ego
+capabilities
+problem
+larger research community
+objective
+standardization bodies
+automotive industry
+codes
+technical publications
+Galileo
+end
+tier events
+tunnels
+Proof
+results
+achievements

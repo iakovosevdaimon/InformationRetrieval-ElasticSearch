@@ -1,0 +1,48 @@
+neural integration of hand prostheses
+sensory feedback integration
+efficacy of myoelectric prostheses control
+neural integration of bidirectional prostheses
+Ideal bidirectional hand prostheses
+natural prosthesis control
+lost hand
+artificial sensory feedback
+real time Independent Component Analysis Hand loss
+robust performance necessary
+robust multifunctional myoelectric control algorithms
+natural replacement of missing hands
+aim of BIREHAB
+new upper limb rehabilitation strategies
+robust extraction of muscle synergies
+quality of life
+implementation of BIREHAB
+near future
+personalization of post-stroke rehabilitation protocols
+long term efficacy
+new blind source separation algorithm
+Motor Unit Action Potentials
+high density surface electromyogram
+neuromorphic electrical stimulations
+electrodes cross talk
+remnant afferent pathways
+neurophysiological responses
+amputees
+cortical activity
+ulnar nerve
+reliable decoding
+disabling event
+user’s intentions
+volume conduction
+commercial applications
+achievement
+delivery
+robustness
+current issues
+healthy subjects’s
+findings
+decade
+protocl
+rich sensations
+effort
+results
+object
+researchers

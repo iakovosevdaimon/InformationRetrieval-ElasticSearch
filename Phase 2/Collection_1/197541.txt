@@ -1,0 +1,63 @@
+extreme scale systems
+runtime systems
+power systems
+linear algebra software
+Future Extreme-Scale Systems
+sparse linear systems of equations
+new software solutions
+software libraries
+software support
+immense scale
+algorithm design
+online auto-tuning
+Parallel Numerical Linear Algebra
+critical set of fundamental linear algebra operations
+evaluation of novel strategies
+Development of novel algorithms
+parallelism
+novel architecture-aware algorithms
+challenging scientific applications
+co-design effort
+wide range of real-world applications
+scalable performance
+direct response
+algorithm-based fault tolerance
+strong scalability
+Exploration of advanced scheduling strategies
+study of energy solutions
+supporting runtime capabilities
+escalating fault rates
+emerging power constraints
+sustainable set of methods
+FETHPC work programme
+iterative solvers
+materials science
+algorithmic approaches
+characteristics
+NLAFET proposal
+help
+demands
+multi
+tools
+communication bottlenecks
+resilience
+overwhelming complexity
+theory
+open-source library modules
+data analysis
+eigenvalue problems
+core
+heterogeneity
+heterogeneous architectures
+radical improvement
+Recognized experts
+astrophysics
+hybrid environments
+dissemination of results
+main research objectives
+validation
+project
+issues
+deliverables
+focus
+necessary tradeoffs

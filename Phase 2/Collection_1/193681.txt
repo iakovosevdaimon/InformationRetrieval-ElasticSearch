@@ -1,0 +1,50 @@
+Dynamics of Amorphous Semiconductors
+amorphous materials
+dynamics of electrical excitability intrinsic
+Neuromorphic Hardware
+electrical properties
+employed amorphous semiconductors
+structural dynamics
+neuromorphic circuits
+electrical spikes
+neuromorphic chip
+Intrinsic Nature
+synaptic access elements
+synaptic functionality
+spike-timing
+distinct amorphous states
+molecular dynamics simulations
+dependent plasticity
+compact way
+new kind of synaptic device
+efficiency of neural networks
+variety of materials
+fundamental understanding
+relaxation processes
+inherent working principles of biological neural networks
+inherent problems
+weight modifications
+larger number of synapses
+compact circuit element
+various memristive devices
+established way of computing
+immense number of artificial neurons
+fundamental logic of today’s computers
+Application
+challenge of imitating
+temporal evolution
+decades
+elemental composition
+prototype
+relationship
+leap
+large-scale
+wide-range
+years
+experimental results
+measure
+Existing attempts
+proof of concept
+amorphization conditions
+NEURAMORPH project
+control

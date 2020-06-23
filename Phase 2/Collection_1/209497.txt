@@ -1,0 +1,57 @@
+single neurons
+output of subicular neurons
+pyramidal neurons
+input origins of individual neurons
+neuronal input
+dendritic input patterns
+functional input diversity
+free behaviour
+different synaptic inputs
+transformation of inputs
+sense of inputs
+dissection of inputs
+membrane potential of subicular neurons
+neuronal basis of behaviour
+realistic synaptic inputs
+prediction of output
+output conversion
+chemogenetic silencing of input synapses
+photon Ca2
+photon imaging of Ca2
+different origins
+dendritic spines
+understanding
+targeted single-cell
+biophysical model capable
+Dendritic encoding of movement
+functional decoding approach
+spatial tuning map
+model parameters
+central quest
+central component
+distributed representation of space
+cell patch-clamp recordings
+precise behavioural observations
+exciting new perspectives
+navigational tasks
+navigating mice
+network analysis
+transients
+hippocampal-neocortical interface
+field faces
+relationship of neural networks activity
+neuroengineering
+mono-transsynaptic tracing
+fundamental units of computation
+data
+cellular-resolution
+project
+outputs
+memory-guided navigation
+dorsal subiculum
+greatest challenges
+brain
+generation
+neuroscience
+attempt
+final models

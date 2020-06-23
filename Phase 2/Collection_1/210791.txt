@@ -1,0 +1,56 @@
+SAFER TRANSPORT Road transport
+road safety
+model aspects
+SIMULATOR OF BEHAVIOURAL ASPECTS
+real world data
+transport modes
+road users
+road-traffic crashes
+dangerous conditions
+real world conditions
+factors
+developed model
+naturalistic driving tests
+pedestrians
+safety devices market
+safety-related systems
+transit environment
+driver error
+driver education
+FESTA-V model methodology
+traffic accidents
+realistic multi-agent behavioural models
+multiple monitored actors
+collective behaviour of actors
+subsequent impact
+motorcycles
+bicycles
+pro-active measures
+prevention
+scene
+mitigation
+drivers
+significant factor
+regulations
+individual
+major societal challenge
+vehicles
+cars
+development
+Virtual Reality
+collision
+researchers
+wheelers
+interaction
+infractions
+goal of SIMUSAFE
+base
+EU
+services
+changes
+simulations
+influence of substances
+simulators
+evaluation of scenarios
+test environments
+knowledge

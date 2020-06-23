@@ -1,0 +1,56 @@
+different modalities
+different data formats
+natural language text
+electronic data
+non-linguistic data
+textual data
+simplifying language
+language learners
+different translation tasks
+Multiple Modalities
+Text Recent years
+source code
+retrieval tools
+standard tools
+images
+web content
+translation problem
+recent advances
+scalable models
+human languages
+necessary intermediate representations
+mainstream computer users
+new types of models
+novel internet-based applications
+individuals
+development
+computers
+interactions
+unsupervised manner
+proposed research
+units
+deep  learning
+databases
+wide range of computational methods
+meaningful descriptions
+low-literacy readers
+unified framework
+comparable corpora
+extensive feature engineering
+Thanks
+query
+order
+documents
+documentation
+topic
+correspondence
+sentiment analysis
+fundamental aspect
+collections
+direct translations
+proposal
+pair
+Systems
+Google
+project
+accessibility

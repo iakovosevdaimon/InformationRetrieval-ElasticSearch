@@ -1,0 +1,40 @@
+edge networks
+Mobile Edge Computing
+networks of Internet
+computing nodes
+distributed computing
+Internet applications
+Lightweight Computation
+new programming models
+new industrial applications
+peer models
+hybrid gossip algorithms
+mobile devices
+general-purpose computations
+today’s state
+goal of LightKone
+synchronisation-free programming
+data center nodes
+shared mutable state
+Things
+points of presence
+personal computers
+scientific understanding
+startup company
+security
+solution
+recent advances
+validated model
+large set of heterogeneous
+Project results
+logical extreme
+latency
+Common examples
+local decision making
+large-scale realistic settings
+scalability
+resilience
+problem
+natural combination
+collaboration
+industry

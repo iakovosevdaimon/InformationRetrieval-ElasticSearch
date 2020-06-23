@@ -1,0 +1,58 @@
+CMOS integration
+integration approach
+Nanonets2Sense Nanonets2Sense
+IC integration of NN
+D SoC integration
+D integration scheme
+integration process
+based sensing devices
+NN-based sensing device
+CMOS platform
+IC integration of nanonet
+sensing material
+CMOS read-out
+NN-based devices operation
+sensor performance
+sensing element
+new technological approach
+CMOS detection circuit
+CMOS chip functionality
+synergetic approach
+low cost
+concept integrated sensor
+device dimensions
+compact sensor
+high performance
+new technological building block
+engineering nanonet properties
+associated technological burden
+large variety of NW
+low processing temperature
+advantages of nanowires
+large company
+circuit issues
+random networks of nanowires
+applied research
+products development
+foundry
+SME
+proof
+recognized European partners
+physical concepts
+exploitation
+chain
+target molecules
+biosensing capability
+biosensors
+medical applications
+readout
+impact
+industrial vision
+technologies
+fact
+project
+viability
+final objective
+breath
+biofluids
+smart combination

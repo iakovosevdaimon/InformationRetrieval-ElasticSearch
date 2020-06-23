@@ -1,0 +1,33 @@
+device dimensions
+device operation
+memory element
+Piezoelectronic Transduction Memory Device Computer clock speeds
+power
+use of internal transduction
+CMOS technology able
+voltage state external
+new low-voltage
+nanoscale dimensions
+simultaneous reduction of line voltage
+order of magnitude lower
+internal acoustic signal
+viable alternative
+scalability
+Moore’s Law
+voltages
+mechanism
+properties of known materials
+nm scale
+result
+successor
+performance improvement
+transistors
+key requirements
+dimensional scaling
+insulator-metal transition
+great impact
+industry
+Modelling
+challenge
+aims
+orders

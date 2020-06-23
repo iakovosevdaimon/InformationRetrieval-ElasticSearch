@@ -1,0 +1,65 @@
+diffusion equations
+quantitative models
+mathematical biology
+Mesoscopic models
+complex PDE models
+hyperbolic equations
+individual-based models
+nonlocal Hamilton-Jacobi equations
+respect
+multiscale analysis of PDE
+mathematical challenges
+anomalous diffusion
+MESOPROBIO project
+local heterogeneity
+biologists
+evolutionary dynamics of phenotypical traits
+biological propagation phenomena
+life-history traits
+new mathematical methods
+different properties
+different directions
+nonlocal terms
+quantitative results
+biological applications
+complexity of problems
+concentration waves of bacteria
+parabolic reaction-transport
+basic features of reaction
+field of life sciences
+evolutionary aspects of structured populations
+optimal foraging strategies
+dispersal ability
+structure variable
+approximation of geometric optics
+microscale
+phase space
+velocity
+age
+French hub
+order
+macroscale
+intermediate level of description
+competition
+scattering
+fronts
+classical upscaling arguments
+strong feedback
+Lyon
+need
+kinetic theory of gases
+various scales
+collaborations
+Europe
+UK
+Austria
+analogy
+interplay
+close interaction
+great challenge
+specific feature common
+mesoscale
+maximum principle
+appropriate questions
+Emphasis
+outcomes

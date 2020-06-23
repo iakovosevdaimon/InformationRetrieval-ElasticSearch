@@ -1,0 +1,29 @@
+Building Energy System
+building efficiency
+Building Energy Management Systems
+TABEDE system
+novel building energy management strategies
+Demand rEsponse TABEDE
+TABEDE solution
+dedicated TABEDE interface
+representative of EU building stocks
+energy grid demand response schemes
+thermal management
+dedicated smart grid communication protocol translator
+dispatchable loads
+database of dispatchable load drivers
+proposed solutions
+terms of electric load
+limitations
+buildings
+tertiary
+conditions
+connection
+test sites
+extensive simulation-based testing
+evolving environment
+order
+missing interoperability
+purpose
+acceptance
+continuous monitoring

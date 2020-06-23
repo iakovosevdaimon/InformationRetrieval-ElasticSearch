@@ -1,0 +1,59 @@
+iCIRRUS C-RAN
+intelligent Cloud-Radio Access Network
+intelligent network functions
+iCIRRUS focusses
+iCIRRUS Ethernet-based C-RAN
+intelligent Converged network consolIdating Radio
+intelligent processing
+network resource utilisation
+use of Ethernet
+D2D communications
+wireless resource management
+mobile cloud processing
+device monitoring
+G networks
+C-RANs
+low latency
+control latency
+mobile device caching
+self-optimizing network functions
+wave D2D mesh networks
+optical access
+wireless domain
+radio signal transport
+digitised radio signals
+use of virtual mobiles
+communication tasks
+clones
+flexible Ethernet networking
+important work area
+G performance targets
+offloads of infrastructure communications
+current standardisation
+USer equipment
+research work
+important focus
+wave spectrum
+energy consumption
+energy efficiency
+virtualising mobiles
+increased user densification
+optical fibre technology
+mind
+bandwidth-hungry applications
+midhaul
+project
+fronthaul
+proposition
+cost
+rate
+time
+jitter
+technological questions
+requirement
+order
+major obstacle
+Gb
+attractiveness
+high throughput
+significant factor

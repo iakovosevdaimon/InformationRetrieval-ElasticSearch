@@ -1,0 +1,66 @@
+G architecture
+G mobile
+G network testbeds
+G technologies
+Terrestrial Network
+optimal satellite
+Satcom systems
+integration of satellite solutions
+network management
+demonstrations of satellite integration
+key stakeholders
+key feature of SaT5G
+global satcom industry
+terrestrial stakeholders
+SaT5G External Advisory Board
+network dimensioning issues
+cellular network operation
+MNOs
+content multicast
+best value of satcom capabilities
+research centres
+vertical stakeholders
+GPP
+project
+win
+scenarios
+Advisory Board members
+specific research pillars
+business modelling
+architecture design
+global roll
+mobile platforms
+targeted markets
+novel business models
+required technology bricks
+traffic offloading solutions
+low ARPU regions of emerging markets
+unserved areas
+virtualisation
+expertise
+coverage
+security
+transmission
+underserved
+optimum efficiency
+viable operational collaborations
+SMEs
+introduction
+consortium partners
+eMBB service
+technological synergies
+resiliency
+VNF delivery
+order
+ETSI
+Q3
+ubiquity
+future
+economic solution
+main vector
+inherent constraints
+vessels
+aircraft
+caching
+standardisation effort
+latency

@@ -1,0 +1,36 @@
+computational complexity
+cryptographic hardness of random local functions
+hardness of local functions
+Low Complexity
+efficiency of cryptographic constructions
+basic cryptographic tasks
+theory of computer science
+circuit complexity
+possibility of cryptography
+pseudorandom functions
+efficiency of basic cryptographic building blocks
+minimal computational resources
+computational learning theory
+different regions of computer science
+central problems
+general landscape of theoretical computer science
+efficient circuits
+conjectured average-case hardness of constraint satisfaction problems
+theoretical understanding of garbled circuits
+random combinatorial structures
+combinatorial optimization
+wide applications
+fundamental subject
+real-world applications
+fundamental question
+better understanding
+efficient schemes
+strong notions of security
+clean formulation
+core
+insights
+suggested project
+limitations
+main objectives
+proposal
+nutshell

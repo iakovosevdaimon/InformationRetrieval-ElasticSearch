@@ -1,0 +1,57 @@
+Information Theory of Simple Interaction
+information theoretic characterization of interaction
+information propagation
+feedback information theory
+quantifying interaction
+fundamental limits of information transfer
+standard information theoretic framework
+study measures of information transfer
+understanding of optimal interaction
+large networks
+feedback communications
+large homogeneous networks
+resource-limited systems
+stochastic dynamical systems
+optimal performance
+wireless sensor networks
+various biological systems
+problem of reliable communications
+deep relations
+dynamical system contraction factors
+system design
+fundamental tradeoffs
+paradigm shift
+simple finite-state rules
+natural phenomena
+different paradigm
+limited noisy observations
+macro level phenomena
+multiuser setups
+two-way channels
+dissipation
+bio-molecular interactions
+individuals
+light
+recent progress
+battery-life
+complex codes
+underlying mechanisms
+cumulative effect of local actions
+human conversation
+research
+breakthrough
+important practical applications
+market behavior
+communicating parties
+asymptotic unidirectional regime
+cross-disciplinary impact
+bottleneck
+broad spectrum of models
+ability
+long time epochs
+cellular automata modeling
+robust solutions
+investigation
+complexity
+Finance
+fly

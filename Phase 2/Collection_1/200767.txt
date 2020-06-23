@@ -1,0 +1,58 @@
+Advanced Computational Applications
+Advanced Reduced Order Methods
+development of Advanced Reduced Order Modelling techniques
+capabilities of reduced order methodologies
+advanced developments
+Computational Fluid Dynamics
+AROMA-CFD deals
+computational domains
+medical applications
+advanced developed  framework
+mathematical modelling
+demanding applications
+aim of AROMA
+extensive exploitation of computational science
+fluid-structure interaction problems
+thermal flows
+important problems
+turbulent flows
+geometrical framework
+real time computing
+nonlinear inverse problems
+open questions
+biomedical engineering
+attractive capabilities
+strong methodological developments
+high performance computing
+complex geometrical parametrizations of shapes
+new open source software library
+general coupled phenomena
+focus
+dedicated supercomputing centers
+optimal flow control
+common devices
+numerical analysis
+special emphasis
+study of bifurcations
+shape optimization
+instabilities
+shore
+wind
+sport
+solids
+SISSA
+uncertainty quantification
+applied sciences contexts
+cardiovascular surgery
+stability
+Reynolds number
+porous media
+extended networks
+art
+ITHACA
+state
+team of scientists
+current limitations
+visualization
+multiphysics
+tasks

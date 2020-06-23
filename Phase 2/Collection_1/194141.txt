@@ -1,0 +1,47 @@
+CPS aspects
+CPS nodes’ processing
+accurate CPS simulation environment
+system simulator
+Security-Aware CPS Simulator
+processing simulation sub-system
+existing simulation tools
+complex CPS handle
+CPS designers face
+novel simulator framework
+system design
+existing solutions
+required simulation time
+processing parts
+lack of simulation tools
+novel network simulator
+existing tool
+terms of performance
+end framework
+COSSIM project
+terms of power consumption
+security measurement models
+underlying security
+innovative power consumption
+accurate results
+energy consumption
+open-source framework
+Faster approaches
+extreme amounts of processing resources
+simulations orders of magnitude
+computation time
+integrated way
+main problems
+use of field programmable gate arrays
+hardware acceleration
+critical aspect
+FPGAs
+needs
+exact behavior
+networking
+Report
+accuracy
+analysis
+majority
+high levels of abstraction
+relevant tasks
+requirements

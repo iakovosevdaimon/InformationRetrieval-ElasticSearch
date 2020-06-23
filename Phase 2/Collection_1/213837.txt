@@ -1,0 +1,57 @@
+global scale data
+model data partitioning
+distributed model
+water quality
+data processing
+data fusion
+land use
+model nitrogen
+water resources
+spatialparameterization of SWAT
+soil properties
+parameters of precipitation
+model partition computations
+Water Assessment Tool
+Diffuse water pollution
+impacts SWAT modelling results
+nutrient runoff
+new ways of data management
+computational effort
+hydrological modelling
+computational load
+computational demands
+higher resolution
+novel method
+current published studies
+multiple computing nodes
+specialised High Performance Computing
+available computing power needs
+phosphorus runoff
+nutrient transport
+landscape changes
+Sensitivity analysis
+spatial resolution of core input datasets
+underlying landscape processes
+distributed computation paradigm
+HPC
+MPI
+population
+growing economy
+types
+world
+increasing pressure
+parallelisation
+MapReduce framework
+clusters of limited size
+proposed project
+catchments
+automated calibration
+variety of scales
+major problems
+Message Passing Interface
+limitations
+flow
+parallelization
+countries
+computers
+order

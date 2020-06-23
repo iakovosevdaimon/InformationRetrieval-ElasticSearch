@@ -1,0 +1,46 @@
+shielded emitters
+test prototype hyperfluorescence OLEDs
+innovative OLEDs
+demonstration hyperfluorescence microdisplays
+molecular hosts
+hyperfluorescence organic light
+high efficiency
+TADF hosts
+novel shielded fluorescence emitters
+high-brightness levels
+high-brightness microdisplay demonstrator
+use
+display applications
+molecular alignment
+solid state lighting
+Anisotropic molecular orientation
+low voltage CMOS
+project’s overall goal
+delayed fluorescence
+light outcoupling
+Development of high-performance
+enhanced performance
+efficiency gains
+saturated blue emission
+matching device architectures
+drive voltages low
+simpler device structures
+colour OLED microdisplays
+WVGA CMOS backplane
+materials
+MICROOLED’s
+diodes
+functionality
+white stack unit prototypes
+Design
+HyperOLED project
+plane electronics
+manufacturability
+significant improvements
+application example
+concept’s feasibility
+technical objectives
+30x30mm glass substrates
+ITO
+reliability
+Photo

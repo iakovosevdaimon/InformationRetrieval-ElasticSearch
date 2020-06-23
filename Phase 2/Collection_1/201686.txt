@@ -1,0 +1,52 @@
+microkinetic models
+elementary steps
+microkinetic engine
+microkinetic model construction
+Microkinetic modeling
+Elementary Kinetics
+relevant steps
+Large-scale chemical Reactions
+Chemical Technology
+concept software tool
+corresponding processes
+limited number
+corresponding determination of kinetics
+unique piece of software
+Catalytic Reaction Engineering
+enhanced robustness
+research group
+adequate understanding
+reaction mechanism
+anticipated commercialization
+detailed understanding
+underlying phenomena
+number of catalysts
+enhanced process design
+concerned catalytic materials
+academic research context
+complementary functionalities
+Laboratory
+proof
+Ghent University
+catalyst descriptors
+sound basis
+increased user friendliness
+so-called high-throughput techniques
+trial
+material development
+opportunity
+end-user
+area of catalysis
+simplifying assumption
+programming
+safer operation
+exclusive - collaborations
+better control
+in-house data
+advantages
+error procedures
+available version
+tools
+μKE
+view
+reactors

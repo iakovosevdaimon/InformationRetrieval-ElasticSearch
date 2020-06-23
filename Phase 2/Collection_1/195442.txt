@@ -1,0 +1,58 @@
+laser field
+D model of laser
+chromatic laser light
+monochromatic laser beams
+mixed laser wavelengths
+interaction of ultrashort laser pulses
+ionization of materials
+semiconductor materials
+quantum level
+Multicolor Ultrafast Laser Processing
+account quantum effects
+new level
+classical electrodynamics
+existing classical FDTD model
+developed model
+theory of photo
+materials of various properties
+quantum peculiarities of photo
+realistic response of materials
+nanostructuring of surfaces
+new irradiation conditions
+project
+functionalization of semiconductor surfaces
+matter interaction
+Broadening Boundaries of Classical Descriptions
+bi-chromatic irradiation regimes
+morphology of functionalized surfaces
+electronic structure theory
+time-dependent density functional theory
+various applications
+D domain
+action of bi
+key goal
+central goal
+simulations of ultrashort pulse excitation of semiconductors
+excited non-equilibrium matter
+collaboration
+nanoparticle generation
+experimentalists
+TDDFT
+large scale
+empirical methods
+smart computer-predicted technique
+work
+film deposition
+control
+development
+in-depth understanding of underlying physics
+modeling approaches
+way
+HiLASE
+free electron population
+power
+feedback
+Necessary steps
+goals
+Modelling
+topic

@@ -1,0 +1,53 @@
+piece of data
+queries management
+big data streams
+Large ScAle DaTa StrEams Large scale data analytics
+INtelligeNt ApplicatiOns
+huge volumes of data
+large scale data partitions
+intelligent decision
+management of continuous queries
+future data driven applications
+support of intelligent analytics
+incoming queries
+management process of continuous queries
+connection of big data systems
+intelligent methods
+optimization schemes
+processors responses
+controllers group management
+specific schemes
+efficient schemes
+specific processors
+pool of learning schemes
+group of query controllers
+Analytics services
+form of streams
+novel applications
+underlying processors
+optimization techniques
+Machine learning
+query response
+mechanisms
+controllers behavior
+efficient solutions
+derived responses
+key research domain
+challenging research issue
+ensemble learning model
+key adopted technologies
+challenging problem
+numerous of devices
+assignment
+Computational Intelligence
+necessary basis
+limited time
+final outcome
+processing
+dedicated processor
+horizontal
+real world
+users
+maximum performance
+early results
+axes

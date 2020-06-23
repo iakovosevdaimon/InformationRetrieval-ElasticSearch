@@ -1,0 +1,54 @@
+subsidiary Network Management
+INAP management
+integration of Local Network Management
+Network Operations
+subsidiary DCB
+local complexity management
+network performance targets
+Network Performance KPA
+powerful distributed network management function
+reconciliation of DCB measures
+arrival management activities
+PJ09 Advanced DCB
+existing DCB process
+Collaborative Planning
+Network impact assessment
+Trajectory Management principles
+D constraints management
+Solution PJ09
+SESAR1 Local DCB toolset
+extended ATC planning
+performance impacts
+INAP process
+effectiveness of ATM resource planning
+UDPP measures
+rolling NOP planning environment
+complexity assessment
+demand pattern
+demand forecast
+execution
+collaborative decision
+seamless process
+consideration of trade-offs
+ATM system
+capacity bottlenecks
+weather
+AUs priorities
+procedures
+Airports
+SWIM Technology
+respect
+logical follow-up
+S2020 project
+advantage
+shared situation awareness
+reliability
+ACCs
+agreed set of rules
+core functionality
+ASM
+computation of confidence indexes
+Traffic
+processes
+Europe
+KPI

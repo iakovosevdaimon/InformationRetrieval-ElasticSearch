@@ -1,0 +1,48 @@
+Cloud Wireless Networks
+Cloud communication networks
+networks information theoretic separation concepts
+limitation of cloud networks
+Network communications
+Information Theoretic Framework
+development of novel information theoretic concepts
+novel information theoretic views
+network coding
+Multi-terminal distributed networks
+Information-Estimation relations
+timely concepts of distributed coding
+general cover of information theory
+impact of distributed channel state information
+potential of different cloud radio network structures
+ultimate communications limits
+standard theoretical studies of communications links
+variety of fundamental concepts
+Index coding
+innovative communications design principles
+central signal processing
+optimal strategies
+basic tools
+simple basic components
+natural theoretical framework
+unified way
+fronthaul connections
+developed theory
+infrastructure links
+remote central units
+optimization
+perspectives
+future cellular technology
+years research proposal
+mind
+caching
+interference alignment
+hand
+fact
+techniques
+random matrix theories
+usage
+center
+systems
+path
+proposed view
+approach accounts
+domain

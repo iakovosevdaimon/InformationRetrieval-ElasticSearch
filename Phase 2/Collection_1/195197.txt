@@ -1,0 +1,44 @@
+locality of data
+programming abstractions
+new data-centric programming paradigm
+Advanced Programming Environments
+Application Programming Interface
+movement of data
+Exascale Systems
+generation of computing systems
+new programming challenge
+current programming environments
+Exascale Data-Centric Computing Power efficiency
+Exascale of applications
+project
+dual challenges of data locality
+computing elements
+emerging parallel computing systems
+generation of high performance systems
+energy efficiency reasons
+energy production
+proposed API
+real-life applications
+compute-centric approach
+critical need
+dominant source of energy consumption
+rich interface
+advanced technologies
+primary criterion
+smooth transition
+proposed research
+motivating application class
+primary design constraint
+realities of future platforms
+chip parallelism
+importance
+Turbulent Combustion
+theoretical foundation
+European leadership
+HPC
+decade
+architectural trends
+core chips
+ultimate goal
+shift
+way concurrency

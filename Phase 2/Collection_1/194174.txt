@@ -1,0 +1,55 @@
+large-scale parallel data-intensive applications
+software engineers
+software industry
+software evolution
+Software Engineering Approach
+range of large-scale data-intensive applications
+software development practice
+data analysis
+big data
+novel software engineering methodology
+Parallel Heterogeneous Resource-Aware Applications
+phases of typical software development
+Emerging heterogeneous parallel architectures
+popular low-level parallel programming models
+parallelism experts
+team of leading industrial
+important issue
+refactoring
+advanced pattern-based programming
+high-level programming model
+domain experts
+leading universities
+encountered kinds of industrial application
+research tools
+challenge of ICT
+massive-scale inherent parallelism
+machine learning
+systems developers
+large companies
+academic researchers
+implementation
+bio-medical image processing
+computer vision
+ideal platforms
+SMEs
+design
+Intel TBB
+different domains
+OpenMP
+verification
+major economic benefits
+long-term maintenance
+testing
+project
+adaptive-scheduling technologies
+railway diagnosis
+interoperable tool-chain
+standards
+OpenCL
+pthreads
+C++
+emergence
+CUDA
+problems
+generality

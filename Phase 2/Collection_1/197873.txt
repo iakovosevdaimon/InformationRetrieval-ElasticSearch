@@ -1,0 +1,61 @@
+Cancer CRPC clinical trials
+mining CRPC genomic data
+understanding of recalcitrant CRPC
+cancer genomics
+private CRPC datasets
+Cancer Evolution Analysis Prostate cancer
+resistant prostate cancer
+PCA genomics
+genomic events
+Aim
+exclusive genomic alterations
+landscape of lethal PCA
+PCA cell lines
+epigenetic alterations
+driver events
+ERC proposal
+focus
+new computational methodology
+Synthetic Lethal Phenotype Identification
+driver mutations
+years of expertise
+cell cycle
+prostate lineage-specific manner
+computational model
+potent drugs
+heterogeneous disease
+detailed evolution chart
+synthetic lethality combinations
+treatment harbour clues
+novel treatment approaches
+function validations experiments
+patient-derived tumour samples
+advantage of DNA sequencing data
+invasion
+emerging public
+innovative mathematical algorithms
+migration
+targeted hormonal therapy
+effective management of castration
+generation anti-androgens
+CRISPR
+study
+assays
+Cas9
+shRNA
+Achilles’ heel
+loss
+resistance
+Tet
+genes
+testing
+aggressive tumours
+Advances
+readouts
+candidate drivers
+gain
+Successful completion
+summary
+cancers
+candidates
+biomarkers

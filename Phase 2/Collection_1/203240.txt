@@ -1,0 +1,57 @@
+data matrix
+latent factor estimation Data
+data mining
+raw data
+data sample
+factor analysis
+New paradigms
+matrix completion
+matrix form
+new methodology
+frontiers of traditional LFE
+audio signal processing
+latent semantic analysis
+text processing
+novel statistical estimation paradigm
+factors
+low-rank approximation
+collection of features
+approximate factorisation
+traditional settings
+non-Gaussian models
+ubiquitous Gaussian assumption
+recurring patterns characteristic
+cosmic object discovery
+remote sensing
+music remastering
+soft clustering
+speech enhancement
+Earth observation
+dictionary learning
+societal impact
+real-world problems
+multimodal information retrieval
+unmixing
+coding
+recent work
+dimensionality reduction
+domain-specific names
+user recommendation
+marginal likelihood
+practical choice
+columns
+samples
+generic off-the-shelf transforms
+inducing transform
+diverse fields
+enhanced capabilities
+tasks
+dominant deterministic approach
+single step
+given constraints
+limit
+performance
+nature
+geometry
+project
+practice

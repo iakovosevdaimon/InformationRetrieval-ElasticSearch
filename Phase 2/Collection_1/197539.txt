@@ -1,0 +1,49 @@
+O performance
+new I
+scalable I
+O subsystems
+O hierarchy
+O workload simulators
+Exascale challenge
+NEXTGenIO project
+high-end HPC systems
+demanding HPC applications
+demand HPC service provider
+high-end academic HPC service provider
+limitations of today’s HPC
+appropriate performance
+high performance
+new system
+Systemware software
+Big Data applications
+performance analysis tools
+energy efficiency
+data storage
+use of NV
+NV-DIMMs
+associated systemware developments
+co-design process
+co-design approach
+partners
+Generation
+overall objective
+numerical weather forecasting service provider
+account data locality
+optimal use
+main system
+exploitable hardware
+software results
+domain of extreme parallelism
+degree of parallelism present
+energy efficient computing platform
+improved job schedulers
+optimised programming models
+APIs
+drivers
+end-user
+quantitative improvements
+line memory modules
+needs
+application user communities
+set
+variety of research configurations

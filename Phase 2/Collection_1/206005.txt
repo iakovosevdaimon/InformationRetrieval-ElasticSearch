@@ -1,0 +1,58 @@
+CPS development
+CPS engineering
+CPS devices
+engineering of CPS swarms
+increased CPS adoption
+integration of complex herds of heterogeneous CPS
+CPSwarm tools
+Project results
+new science of system integration
+safety-critical domains
+autonomous driving
+predictive engineering
+swarm performance
+design goal
+interactions
+single consistent science of system integration
+set-up collaborative autonomous CPSs
+CPSwarm Cyber-Physical Systems
+Model-centric design
+early design stages
+collection of separate tools
+expected significant reduction of development time
+different domains
+freight vehicles
+swarms of Unmanned Aerial Vehicles
+simulation of collaborative
+new behaviors
+smart cities
+maturation of solutions
+real-world problems
+unpredictable results
+smart bikes
+real-world use cases
+Rovers
+security purposes
+accounting
+various dynamics
+larger scale
+definition
+emerging properties
+composition
+verification
+constraints
+applications
+number of large-scale
+transportation
+pillars
+collective behavior capable
+error-prone task
+costs
+cost efficiency issues
+local policies
+respect
+designer
+complete toolchain
+advantage
+challenge
+unwanted byproduct

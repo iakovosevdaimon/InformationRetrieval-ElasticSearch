@@ -1,0 +1,63 @@
+appropriate EO images
+constraints of EO images
+content-based search of EO images
+Semantic EO Data Web Alert
+semantic queries
+EO image retrieval techniques
+semantic alert
+semantic image retrieval
+availability of satellite images
+specific needs
+high-level queries
+application specific basis
+specific research topics
+high-level user queries
+appropriate data
+specific phenomenon
+user-friendly web based platform
+application domains
+marine application domain
+users
+SEO-DWARF
+low-level image features
+experienced research team
+main objective of SEO
+Retrieval Framework Technological advances
+main constraint
+user's needs
+marine applications
+extracted metadata
+aware questions
+remote sensing
+storage
+management
+determination
+spectral characteristics
+algorithm development
+Sentinels
+design
+big archives
+existing approaches
+key challenge
+ontology formalization
+quantitative information
+problem
+generalization
+connections
+rate of increasing chlorophyll
+inherent question
+difficulty
+gap
+NATURA area
+Greece
+industrial partners
+formulated ontologies
+aspects
+architecture
+ENVISAT
+Switzerland
+France
+Cyprus
+Germany
+Italy
+project’s consortium

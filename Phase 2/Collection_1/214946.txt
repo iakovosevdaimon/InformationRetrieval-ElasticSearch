@@ -1,0 +1,55 @@
+Content-Aware Wireless Networks
+aware networks
+wireless networks design
+novel content-aware design
+novel content-aware approach
+Internet content
+proposed content-aware architectures
+Architectures Wireless communication networks
+wireless network nodes
+novel information theoretic formulation of content
+Wireless data traffic
+ever-growing on-board memory of wireless devices
+network coding
+information theory
+protocol design
+user throughput scalability
+demand access
+month
+increase
+large number of users
+new caching strategies
+channel coding
+new features
+recent results
+Fundamental Limits
+scalability problem of current systems
+demand requests
+fundamental question
+second peak rates
+conventional technology development
+PI’s recent work
+essential connectivity tissue
+Algorithms
+bounded transmission resources
+bandwidth
+affordable cost
+good Quality of Experience
+traditional Gigabit
+observation
+modern digital age
+paradigmatic shift
+killer application
+delivery
+Gigabits
+presence
+Key elements
+antennas
+Terabytes
+overarching goal
+proposal stems
+power
+thesis
+orders of magnitude
+CARENET’s vision
+years

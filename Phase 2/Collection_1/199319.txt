@@ -1,0 +1,62 @@
+Thermal energy
+power management
+performances of STREAMS thermal management solution
+thermal map variation
+embedded active cooling thermal management solution
+generic active cooling thermal management solution
+new leading thermal management paradigm
+eneRgy Efficient Active cooling
+temporal heat load variation
+advantage of existing thermal gradients
+power local functionalities
+harvested power
+advanced functionalities
+aim of STREAMS
+power efficient cooling control of application use-cases
+temporal heat flux variation scenarios
+Si-based interposer
+critical heat load spatial distributions
+systems performances
+cm2
+developed functionalities
+interposer level
+IC compatible passive heat flux sensors
+network use cases
+advanced Microelectronic Systems
+lateral spatial resolution
+IC future challenges
+real future high performance applications
+reduced footprint
+hotspot areas
+time response
+microfluidic valves
+Smart Technologies
+background areas
+reduced consumption
+control ASIC
+time scale
+high performance nanostructured thermoelectric generator
+Versatile microfluidic actuation
+sensitivity
+EU position
+best
+component
+servers
+Europe
+TRL4
+fluid flow rate
+thickness reduction
+circuits
+mW
+complementary experts
+nanoelectronic devices
+pressure loss
+500µm
+focused consortium
+forefront of ICT development
+reliability
+acceptable limits
+fluidic actuators
+temperature distribution
+mV
+Lay

@@ -1,0 +1,48 @@
+exploitation of Earth Observation data
+Earth Observation data distribution
+data mining
+Earth Observation exploitation
+federated data hub
+generation data hub
+main providers of Earth Observation data
+engagement of Earth Observation
+global data centres
+relevant data repositories
+NextGEOSS project
+Generation GEOSS
+user-friendly access
+Advocate GEOSS
+Innovation  Business
+innovative GEOSS powered applications
+re-processing
+processing methods
+business oriented applications
+EO-related communities
+user-friendly tools
+new discovery
+engagement of GEO
+creation of innovative
+federated sources
+sustainable European approach
+main general objectives
+Copernicus Collaborative Ground Segments
+analysis
+retrieval
+visualization
+combination of products
+OpenSearch
+middleware components
+charge
+Core Services
+connectivity
+Cloud technologies
+distributed capacities
+efficient operations
+number of initiatives
+set of demonstrative pilot activities
+view
+strong commitment
+GEO-DAB
+fundamental change
+system’s capabilities
+Web

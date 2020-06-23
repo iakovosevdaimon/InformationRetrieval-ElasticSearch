@@ -1,0 +1,53 @@
+project testbed
+DEEP Hybrid DataCloud project
+pilot applications
+INDIGO-DataCloud H2020 project
+large datasets
+developers of research applications
+deep learning
+intensive Processing
+low latency interconnects
+easy development of applications
+Hybrid Cloud approach
+support
+intensive computing techniques
+significant HPC resources
+latest generation GPUs
+TRL8 existing services
+E-infrastructures
+research communities
+EOSC framework
+DevOps approach
+parallel post-processing
+specialized HPC hardware
+current EU e-infrastructure
+analysis of massive online data streams
+neural networks
+need
+TRL6
+Biology
+key concept
+Earth Observation
+areas
+Medicine
+Astrophysics
+scale
+technologies
+prototypes
+set of building blocks
+Citizen Science
+Network Security
+relevant contributions
+performance
+new functionalities
+access
+pilots
+dissemination
+quality
+common label
+scalability
+solutions
+researchers
+software
+chain
+future

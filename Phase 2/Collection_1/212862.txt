@@ -1,0 +1,46 @@
+EEG calibration toolkit
+EEG biomarker
+EEG response
+EEG system
+Best practices of EEG calibration
+EEG amplitudes of different subjects
+commercial accessory EEG software device
+stroke rehabilitation
+monitoring rehabilitation of stroke patients
+required calibration step
+EEG records electric potential differences
+software toolkit
+simple monitoring device
+direct feedback
+direct comparison
+ideal device
+individual patient
+end
+direct measure of neural activity
+PoC project
+minimum of patient burden
+individual skull variations
+electrodes
+special workshop
+success
+healthcare workers
+art
+number of active cells
+conferences
+fixed external stimulus
+business development activities
+primary somatosensory cortex
+presentations
+wrist
+publications
+brain imaging technique
+current state
+applied therapeutic strategy
+users
+small add-on price
+optimal therapy
+influences
+human skin
+instance
+way
+prototype

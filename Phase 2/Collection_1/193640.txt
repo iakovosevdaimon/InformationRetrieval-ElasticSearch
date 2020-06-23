@@ -1,0 +1,54 @@
+body system
+body physics
+body dynamics
+atom-ion hybrid system
+single trapped ion
+body evolution
+system of atoms
+groundbreaking system
+atom-ion interactions
+atom-ion collisions
+quantum regime
+single atom probe
+quantum tomography
+quantum simulator
+quantum gases
+Quantum Simulations
+localized single impurity
+single localized impurity
+control of atom
+non-equilibrium dynamics
+non-equilibrium transformation
+time domain
+ultracold atoms
+ultracold gas
+time- correlation detector
+unexplored ultracold regime
+current systems
+current methods
+degenerate gas of fermions
+density
+physical paradigm
+seminal Tasaki-Crooks fluctuation relation
+work distribution
+limitations
+concept
+decisive advances
+emergence
+Anderson Orthogonality Catastrophe
+ion’s internal state
+role
+celebrated problems
+PlusOne project
+novel design
+condensed matter
+universality
+entanglement
+base
+optical lattice
+aim
+achievement
+thermodynamics
+phenomenon
+process
+means

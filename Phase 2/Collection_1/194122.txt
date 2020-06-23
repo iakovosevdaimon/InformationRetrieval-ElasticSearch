@@ -1,0 +1,47 @@
+execution model of time critical applications
+critical requirements
+self-adaptive cloud applications
+complete lifecycle of applications
+Software Workbench
+SWITCH consortium
+software tools
+SWITCH project
+system performance
+SWITCH results
+control model
+existing development
+infrastructure changes
+system productivity
+novel conceptual model
+well-tuned software architecture
+existing architecture
+application-infrastructure co-programming
+Cloud environments
+high development cost
+interactive environment
+networked Clouds
+real-time infrastructure planner
+high requirements
+adapting system behaviour
+autonomous system adaptation platform
+collaborative communication
+computing services
+programmable services
+application QoS
+business potential
+industrial backgrounds
+urgent industrial need
+expected business value
+sophisticated data communication optimisation
+disaster early warning
+complementary expertise
+monitoring
+live event broadcasting
+well-balanced partners
+programmability
+diverse use cases
+user experience
+fatal weakness
+QoE
+controllability
+exploitation

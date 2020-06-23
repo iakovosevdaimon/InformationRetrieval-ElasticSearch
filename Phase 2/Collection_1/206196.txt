@@ -1,0 +1,55 @@
+distributed systems
+optimized cloud computing systems
+self-configurable cloud computing systems
+emergency services systems
+generation of cloud
+limited cloud adoption of systems
+Distributed Cloud Applications Large-scale computing systems
+high availability systems
+provision of cloud services
+cloud infrastructure optimization
+fog computing capacity provisioning
+style of computing
+Reliable Capacity Provisioning
+network capacity
+automation
+components
+data centre energy efficiency
+high reliability requirements
+edge of access networks
+telecommunications infrastructure
+best effort provisioning models
+significant advances
+generation of agile
+simulation techniques
+targeted research advances
+particular latency-sensitive
+state-of-the-art data centres
+overarching result of RECAP
+Enhanced Remediation
+coarse-grained quality of service
+computational resources
+mechanisms
+system instrumentation
+cost
+reasons of scale
+QoS
+heterogeneity
+order
+advanced machine learning
+novel concept
+IoT
+face
+coming evolution
+radio base stations
+major hindrance
+recent years
+way
+current state
+end-users
+networked society
+project
+limitations
+clients
+devices
+outcomes

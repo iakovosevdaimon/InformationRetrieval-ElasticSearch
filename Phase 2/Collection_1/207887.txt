@@ -1,0 +1,41 @@
+Concurrent Software Verification Verification of concurrent software
+field of concurrent software verification
+extensive concurrent programs
+mechanized proofs of software
+verification problem
+concurrent garbage collectors
+implementation of stateful concurrent programs
+correctness proofs
+project
+feasible formal proofs
+scale dependent types
+popular open-source concurrent libraries
+existing verification methods
+scale complex mathematical proofs
+novel foundations
+modularizing power of dependent types
+novel linguistic abstraction
+significant open problem of present-day programming languages
+significant hands-on implementation
+formal method well-known
+terminating programming model
+semantics research
+scalable foundations
+high risk
+high gain
+program semantics theory
+right linguistic abstractions
+deep intertwining of logic
+OS kernels
+realistic applications
+engineering
+development
+Proof Structures
+inability
+difficult subject
+experimentation
+complexities stem
+limitation
+encouraging preliminary results
+observation
+grand challenge

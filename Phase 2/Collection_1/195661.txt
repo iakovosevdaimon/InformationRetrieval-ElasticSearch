@@ -1,0 +1,57 @@
+species phylogeography
+species traits datasets
+butterfly species
+main ecological traits
+butterfly biodiversity
+ecology
+restricted subsets of species
+partitioning of species genetic structure
+biodiversity patterns
+spatial scale Phylogeography
+Eco-PhyloGeo project
+genetic diversity
+geospatial analyses
+general rules
+scientific community
+European butterflies
+community levels
+West Mediterranean butterflies
+space
+genetics
+nestedness
+unprecedented geographic resolution
+mitochondrial gene COI
+R package
+wide use
+resources
+biogeography
+taxonomic completeness
+key step
+climatology
+gap
+creation of new phylogeographic indexes
+mathematical background
+studies
+feasible objectives
+computer science
+biology
+evolutionary framework
+effects of global changes
+large animal taxon
+organisms
+high-resolution assessment
+DNA
+turnover components
+integrative disciplines
+great impact
+addition
+taxonomy
+supervisor
+time
+area
+sequences
+novelty
+determinants
+training
+potential
+research

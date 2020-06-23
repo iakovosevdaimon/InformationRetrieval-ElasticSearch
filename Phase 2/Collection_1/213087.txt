@@ -1,0 +1,38 @@
+security Analysis
+energy consumption
+energy modeling
+energy usage
+low-energy systems
+parallel systems
+important non-functional properties of parallel software
+worst-case execution time analysis
+non-functional property analysis
+important software metrics
+TeamPlay project
+cyber-physical systems
+industrial use cases
+TeamPlay approach
+pressing problem of major industrial importance
+transparency
+paral- lelism
+compi- lation
+drones
+academic experts
+Multi
+right balance
+computer vision
+core heterogenous PLAtforms
+significant progress
+internet of things
+satellites
+techniques
+source code level
+cybersecurity domains
+task coordination
+developer
+reason
+success
+programs
+Results
+toolbox
+class citizens

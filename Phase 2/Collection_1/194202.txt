@@ -1,0 +1,53 @@
+performance of MBB networks
+flexible platform
+experimental platform
+performance of Mobile Broadband
+MONROE project
+G Mobile Broadband networks
+experiments
+external users
+main objectives of MONROE
+identification of key MBB performance parameters
+experimental design process
+multi-homing capabilities
+user-oriented closed-loop system design
+WiFi interfaces
+WIFI connectivity
+end user
+external experimenters
+objective data
+well-documented tools
+smartphones
+stability
+assessment
+policy makers
+strong need
+parties
+funding models
+operators
+MONROE's effort
+regulators
+consumers
+society
+experimenting
+meaningful monitoring
+high-level scripts
+businesses
+services
+FP7 measurement platforms
+different access technologies
+European-scale
+quality
+sustainability
+researchers
+Interoperability
+new ways
+EaaS
+usefulness
+results
+FIRE’s philosophy
+barrier
+innovators
+core
+information
+robustness

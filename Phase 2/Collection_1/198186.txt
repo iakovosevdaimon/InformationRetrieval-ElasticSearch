@@ -1,0 +1,32 @@
+RS devices
+potential applications of RS logic
+REsistive-Switch CompUting
+resistive switching
+resistive memory
+computing scenario
+CMOS Digital computers
+CMOS transistor size
+alternative logic switches
+design of new logic gates
+demonstration of computing circuits
+novel computing paradigm
+storage technology
+objective
+project
+approaches
+Moore’s law of downscaling
+emerging switching concepts
+future computer memory
+nm
+better scaling capability
+device fabrication
+complementary metal-oxide
+generation thanks
+levels of increasing complexity
+semiconductor
+performance
+resistance
+strength
+ReRAM
+basis
+redox reactions

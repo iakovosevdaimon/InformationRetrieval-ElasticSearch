@@ -1,0 +1,53 @@
+nonequilibrium DMFT
+nonequilibrium extension of DMFT
+nonequilibrium conditions
+nonequilibrium properties of correlated compounds
+ab-initio simulation of correlated materials
+correlated lattice systems
+Nonequilibrium dynamical mean-field theory
+exciting prospect of nonequilibrium control of material properties
+ab-initio framework capable
+GW ab-initio method
+materials Pump-probe techniques
+simulation of time
+computational techniques
+electron systems
+study
+implementation of dynamical mean field theory
+material-specific predictions
+Pump-probe experiments
+schemes capable
+time axis
+dependent phenomena
+recent development
+equilibrium context
+equilibrium state
+correlation phenomena
+new insights
+flexible tool
+new formalism
+significant recent advance
+powerful experimental tool
+lattice degrees of freedom
+models
+spin
+driven phonons
+external stimulation
+devices
+photoinduced phasetransitions
+unconventional superconductors
+novel transient states
+intrinsic timescale
+competing low-energy processes
+material's behavior
+realistic contexts
+combination
+subsequent dynamics
+laser pulse
+Mott
+solar cells
+screened interactions
+ambitious task
+goal
+research project
+strategy

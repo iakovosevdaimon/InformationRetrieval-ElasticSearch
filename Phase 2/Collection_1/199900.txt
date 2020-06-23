@@ -1,0 +1,64 @@
+chronic disease management
+chronic disease self-management
+innovation management
+personalised decision support system
+Predictive PERsonalised decision support
+Research
+innovative adaptive decision support system
+adaptive mobile decision support
+existing personal health systems
+lifestyle
+order
+chronic diseases
+wider adoption of personal guidance systems
+case-based reasoning
+glucose predictions
+dose advice
+bespoke advice
+adverse episodes
+Patient Empowerment
+patient needs
+innovation capacity
+social data
+real-time data
+risk of adverse events
+predictive computer modelling
+various sources of physiological
+proposal
+generic framework
+alarms
+basal-bolus insulin therapy
+healthcare professionals
+usability issues
+clinical outcomes
+human behavioural factors
+diabetes
+medical device standards
+uncertainties
+safety
+interoperability
+key aspect
+commercial products
+individuals
+development
+individual awareness
+regulatory requirements
+interactions
+underlying approach
+hypoglycaemia
+limits
+extent
+resulting architecture
+strong emphasis
+ambulatory setting
+components
+people
+hyperglycaemia
+stage
+tool
+impact
+design
+users
+applications
+quality of life
+project

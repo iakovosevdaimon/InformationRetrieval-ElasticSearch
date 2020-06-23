@@ -1,0 +1,44 @@
+lexical knowledge
+structured knowledge
+variety of knowledge
+web Semantic search engines
+imperfect nature of knowledge
+traditional web search
+messy real-world knowledge
+heterogeneous knowledge bases
+informed logics
+informed probabilistic logics
+robust reasoning
+family of logics
+existing logics
+relevant logical theories
+imperfect probabilistic theories
+comprehensive domain theories
+plausibility of logical models
+logical inference
+ability
+form of so-called plausible reasoning
+given domain
+various forms of commonsense reasoning
+classical logic
+robust data-driven approach
+true facts
+plausible conclusions
+relevant information
+vector-space representations of natural language terms
+conceptual simplicity
+proxy
+intensive applications
+unrealistic assumption
+Occam’s razor
+FLEXILOG
+fundamental progress
+regularities
+Current approaches
+potential
+challenges
+problem
+project
+questions
+domains
+users

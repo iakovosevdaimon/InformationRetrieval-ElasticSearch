@@ -1,0 +1,55 @@
+relevant phosphosites
+selected phosphosites
+thousands of phosphosites
+protein function
+functional relevance of phosphorylation
+conditional fitness of phosphosites
+study
+functional importance of eukaryotic protein phosphorylation Cells
+functional groupings
+predicted function
+dissecting gene-function
+importance of evolutionary changes
+phospho-regulation
+regulation of interactions
+genetic methods
+genetic information
+genetic approaches
+evolutionary history of  phosphorylation events
+extant species
+Mutations
+complex world of PTM regulation
+ascomycota fungal species
+abundant PTM
+environmental changes
+gene knock
+relevant pathways
+cerevisiae sites
+genomes of natural isolates
+natural populations of yeast
+intricate systems
+libraries
+biological role
+pleiotropy
+post-translational modifications
+PTMs
+library of non-phosphorylatable point mutants
+cues
+significant fraction
+initial response
+Phosphoproteomic datasets
+consequences
+proteome-wide level
+major challenge
+predictors
+mass-spectrometry
+systematic manner
+diverse mechanisms
+proteins
+different stress conditions
+past
+activities
+subset
+Improvements
+trained classifier
+mutagenesis

@@ -1,0 +1,42 @@
+computation of nonlinear Fourier
+fast nonlinear Fourier transforms
+so-called nonlinear Fourier transforms
+nonlinear phenomena
+conventional Fourier
+Action Nonlinear effects
+important nonlinear systems
+celebrated fast Fourier transform
+work
+prototypical applications
+engineering practice
+practical applications
+hydromechanical engineering
+analysis of linear systems
+potential applications
+Dirichlet boundary conditions
+vanishing boundary conditions
+conventional time
+linear approximations
+widespread use
+simple closed-form descriptions
+water-wave data analysis
+fiber-optic communications
+modern technology fields
+photonics
+lack of efficient numerical algorithms
+frequency-domain
+Gardner
+major roadblock
+signals
+treatment
+standard method
+Engineers
+nuisance
+discovery
+nonlinearities
+mathematics
+relevant case
+exact terms
+intuition
+physics
+years

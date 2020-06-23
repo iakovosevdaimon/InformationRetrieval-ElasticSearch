@@ -1,0 +1,63 @@
+monitoring layer
+coordination layer
+analysis layer
+new generation SCADA security monitoring framework
+human-machine layer
+heterogeneous monitoring events
+cyber security means
+smart-grids
+Things technologies
+proprietary technologies
+traffic probes
+uniform representation of monitoring data
+trusted SCADA
+field SCADA platform
+cryptographic data protection
+growing integration of Internet
+smart camera surveillance solutions
+energy pervasive sensing technologies
+running operational smart grid
+traditional industrial control systems
+system behavior
+automatic detection
+native control processes’ signals
+heterogeneous sources
+remote probes
+detection methodologies
+real time
+SCISSOR’s framework
+programmable traffic analyses
+human end user
+real world deployment
+physical access protection
+thwart targeted threats
+cloud-based development
+attribute-based encryption schemes
+disruptiveness of targeted cyber-attacks
+software integrity verification
+low cost
+IP connectivity
+identity
+critical infrastructures
+obscurity
+advanced correlation
+object classification
+mind
+usability
+certificate
+decision
+sensors
+layers
+open standards
+reliability
+decade
+novel
+disconnection
+innovative SIEM
+reliance
+single point of failure
+usable manner
+holistic approach
+viability
+deployability
+resilience

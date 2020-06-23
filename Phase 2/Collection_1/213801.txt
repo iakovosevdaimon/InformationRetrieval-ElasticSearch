@@ -1,0 +1,48 @@
+initial compressor
+duct design
+downstream compressor performance
+intermediate compressor ducts
+representative compressor stage
+Intermediate Compressor Case Duct Aerodynamics
+various compressor spools
+duct interactions
+integrated duct technologies
+high bypass ratio applications
+future potential duct technologies
+representative bleed port
+system performance
+robust performance
+design solution
+high bypass ratio turbo fan demonstrator
+smaller ultra-high pressure ratio core engine technologies
+UltraFan
+effective bleed extraction
+experimental work
+aggressive ducts
+low TRL
+programme of work
+thermal efficiency
+experimental data
+low-speed test facility
+lower impact
+aero gas turbines innovative
+CO2 emissions
+reasonable turn
+fuel
+CFD methods
+weight
+project
+increased numerical accuracy
+best practice
+flow separation
+stall margin
+change
+perspective
+time
+hybrid RANS
+radius
+methodologies
+development
+ability
+water
+results

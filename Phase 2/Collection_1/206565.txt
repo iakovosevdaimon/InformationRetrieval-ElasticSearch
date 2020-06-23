@@ -1,0 +1,58 @@
+chassis strains
+new chassis
+analysis of yeast strains
+new cell factory strains
+new set of chassis yeast strains
+Optimisation Of Versatile Chassis Yeast Strains
+prototype cell factory strains
+Current cell factory strains
+platform chassis
+chassis platforms
+yeast species
+oleaginous yeast
+thermotolerant yeast
+development of industrial cell factories
+production of high value compounds
+Aromatic Compounds CHASSY
+production of lipid
+high value metabolites
+Model-Based Construction
+specific high value products
+Production Of Valuable Lipid
+knowledge base
+metabolic circuits
+specific applications
+systems biology approach
+aromatic molecules
+thorough systems biology comparison
+integrative data analysis
+reconfigured metabolic networks
+model-based design
+Yarrowia lipolytica
+classes of product
+Kluyveromyces marxianus
+genome scale metabolic models
+existing synthetic biology tools
+exploitation strategy
+commercial exploitation
+industrial conditions
+poor product tolerance
+limited precursor supply
+oleochemicals
+yeasts Saccharomyces cerevisiae
+European SMEs benefit
+principle levels
+nutraceutical
+Octanoic acid
+Docosanol
+potential
+host range
+resources
+lack of versatility
+white biotechnology sectors
+proof
+dissemination
+challenges
+major outcomes
+project
+Amorfrutin

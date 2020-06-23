@@ -1,0 +1,43 @@
+optical channels
+advanced optical modulation formats
+different modulation formats
+high-order modulation formats
+high-capacity
+wavelength channel
+High Capacity WDM System
+flexible WDM transmission systems
+Keyed formats
+adjacent channels
+low-linewidth optical comb source
+optical frequency combs
+optical fiber communications
+flexible transmission techniques
+transmitter wavelength
+individual sub-channels
+channel separation
+transmission link
+ever-increasing capacity demand
+wavelength-division multi
+enhanced DSP technologies
+available bandwidth
+unused bandwidth
+data rate
+comb line
+different symbol rates
+improved spectral efficiency
+digital signal processing
+properties
+dispersion
+legacy
+noise
+algorithms
+loss
+traffic
+adaptation
+project
+real time
+wander
+key component
+goal
+ways
+lines

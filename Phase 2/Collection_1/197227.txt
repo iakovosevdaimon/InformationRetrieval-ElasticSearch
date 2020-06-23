@@ -1,0 +1,53 @@
+Euclidean metric
+concentration of measure
+concentration properties of convex domains
+high-dimensional Euclidean space
+high-dimensional convex domains
+Euclidean setting
+Riemannian world
+trivial measure
+trivial metric
+general Riemannian context
+related Riemannian structures
+understanding of volumetric properties of convex domains
+substantial progress
+significant progress
+Riemannian Vantage Point
+High-Dimensional Convexity
+concentration of linear functionals
+Learning Theory
+Probability Theory
+study of questions
+Random Matrix Theory
+non-linear questions
+recent years
+related fields
+definition of Curvature
+class of uniform measures
+quantitative structure of isoperimetric minimizers
+long-standing fundamental conjectures
+Isoperimetry
+dramatic impact
+underlying space's
+Algorithmic Geometry
+Villani
+order
+generalized Ricci
+log-concave
+problems
+tandem
+priori
+works of Lott
+Sturm
+Bakry
+importance
+tools
+potential advantages
+Lebesgue
+important idea
+main paradigm
+Emery
+step
+decades
+contribution
+scope

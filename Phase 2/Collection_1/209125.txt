@@ -1,0 +1,62 @@
+retinal membrane
+retinal-tear
+retinal detachment
+retinal tears
+retinal damage
+Novel interventions
+Novel Retinal Interventions Intraocular treatments
+PIONEER
+Peri-Ocularly Navigated Exteroceptive Snake Robot
+proposed snake robot
+stem-cell delivery
+stem-cell suspension
+existing robot paradigms
+enabler of emerging stem-cell interventions
+Optimal robot compliance
+posterior scleral incision
+existing robots
+vitrectomy
+exteroceptive force sensing
+manipulation of structures
+novel tip-mounted probes
+force-adaptive peri-ocular steering conforming
+demanded dexterity
+Current robots
+limited manipulation bandwidth
+minimising RD risk
+human-dexterity limits
+on-line vessel detection
+optical coherence tomography
+futuristic procedures
+significant limitations
+drug-implant insertion
+well-trodden intervention protocols
+imposed virtual fixtures
+vessels
+micro-sensors
+lack of flexibility
+safe guidance
+nerve interfacing
+dimensions comparable
+clinical protocol
+depth perception
+path planning
+hand tremor
+eye’s exterior
+Enhanced navigation
+manipulations
+shape estimation
+millimetre
+alternative approaches
+tactile sleeve
+orbital muscles
+sight loss
+prerequisite
+robotic assistance
+cataract
+notable benefits
+induced risks
+sheet
+lens
+challenges
+Robotics

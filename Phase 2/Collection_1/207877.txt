@@ -1,0 +1,43 @@
+relevant motion
+complex physiological properties
+complex microcircuits
+individual neurons
+complex receptive fields
+specific pathway
+complex receptive field properties
+DS neurons
+relevant visual pathway
+extraction of visual motion cues
+specific neural computation
+relevant computation
+core visual pathway
+distinct downstream circuit properties
+individual synapses
+circuit components
+DS signals
+behavioral responses
+specific synaptic connection
+individual synaptic connections
+intricate circuit architecture
+current models of motion detection
+Drosophila visual system Neural networks
+sensory inputs
+critical computation
+specific computational role
+Microcircuitry
+pathways
+behavioral output
+spatiotemporal correlations of inputs
+extraction of direction
+single neuronal inputs feed
+redundant circuits
+outputs
+line
+Flp-TEV
+new tool
+minimum
+network implementation
+place
+Recent data
+hallmark
+computations

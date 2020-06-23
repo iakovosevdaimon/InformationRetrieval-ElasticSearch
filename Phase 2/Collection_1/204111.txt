@@ -1,0 +1,42 @@
+local circuit mechanisms
+underlying neuronal circuit mechanisms
+underlying mechanisms
+STM maintenance
+Spiking network mechanisms
+circuit-training phase
+short term memory Short term memory
+bridging-free STM-tasks
+neuronal level
+neuronal codes
+rapid manipulations
+loop manipulation of multiple circuit elements
+real-time jittering of spiking
+broad classes of manipulations
+high density multi-site
+high resolution
+relevant short-term memory traces
+intact animals
+training mice
+sufficient components
+necessary components
+multi-color optical stimulation
+focal real-time silencing of specific cell types
+large-scale extracellular recordings
+synthetic brain patterns
+novel associations
+rats
+hippocampus
+diode-probes
+old age
+prefrontal cortex
+multitude of psychological
+host of neuropsychiatric disorders
+approach
+timescales
+behaving rodents
+lack of experimental tools
+memories
+theoretical studies
+focus
+cells
+writing

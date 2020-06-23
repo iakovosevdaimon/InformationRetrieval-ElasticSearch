@@ -1,0 +1,61 @@
+dyadic harmonic analysis
+harmonic analysis achievements
+heart of harmonic analysis
+novel harmonic analysis methods
+Multi-parameter harmonic analysis
+Harmonic extensions
+Martingale methods
+Hilbert transform
+martingale estimates
+classical operators
+questions central
+use of numerical methods
+use of wavelet methods
+classical Nehari's theorem
+objects central
+Hilbert space valued functions
+probability theory
+martingale inequalities
+martingale standpoint
+combination
+array of questions
+arrays of questions
+weighted estimates
+Sharp estimates
+orthogonal martingales
+Page's theorem
+operator theory
+direction
+proposal
+boundedness of multi-parameter versions of classical Hankel operators
+relevant extension of Nehari's theorem
+Calderon-Zygmund operators
+bi-disk
+operator analog
+UMD space classification
+Burkholder
+characterizations
+Riesz transforms
+Shifts
+optimal control
+exploit advances
+scalar setting
+Bourgain
+important generalization
+interplay
+understanding of discretizations
+formula of Gundy
+Varapoulos
+new light
+project
+behavior
+recent years
+variety of settings
+long standing problem
+focus
+processes
+Commutators
+faces
+discrete groups
+role
+connection

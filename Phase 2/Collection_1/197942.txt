@@ -1,0 +1,63 @@
+power management
+heterogeneous architectures
+power-efficient
+power monitoring
+realistic levels of power consumption
+system architecture
+heterogeneous computing cores
+QoS-sensitive applications
+rack cooling levels
+heterogeneous acceleration nodes
+future QoS-sensitive HPC
+memory architectures
+various architectural levels
+Manycore Architectures
+GeneratiOn HPC systems MANGO targets
+generation high-performance
+PPP space
+predictability
+innovative two-phase passive cooling system
+run-time resource management
+extreme resource efficiency
+application-based customization
+ambitious cross-boundary architecture exploration
+large-scale capacity computing scenarios
+interrelated mechanisms
+native mechanisms
+sustainable performance
+multi-level innovative solutions
+high-performance requirements
+new positioning
+definition of new
+HN node infrastructure
+general-purpose compute nodes
+noticeable examples of application
+boundary homogeneous interconnect
+effective large-scale emulation platform
+chip
+interconnects
+essential building blocks
+energy optimization
+latency
+realization
+board
+isolation
+PFLOPS
+inexistent link
+HW
+SW effects
+service
+dynamic adaptation
+GN
+combined interplay
+ETP4HPC strategic research agenda
+quality
+bandwidth
+toolset
+MWatt
+enabler
+layers
+Project
+guarantees
+disruptive approach
+programming models

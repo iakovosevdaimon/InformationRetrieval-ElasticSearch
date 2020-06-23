@@ -1,0 +1,45 @@
+Ion Channels
+mechanism of ion channel modulation
+unliganded channel structures
+understanding of ion channel operation
+individual ion channel molecules
+mediated channel activation
+mechanism of ligand gating
+ligand binding
+binding of ligands
+precise mechanism of ligand
+high resolution structures
+single channel current recordings
+Cyclic nucleotide-modulated channels
+physiological conditions
+high spatiotemporal resolution
+HS-AFM imaging
+Receptors Operation
+comparable conditions
+functional data
+obtained data
+myriad of physiological processes
+action
+calcium-activated
+insight
+signal transduction
+crucial roles
+conformational changes
+opening
+closing
+intracellular domains
+inferences
+High-speed atomic force microscopy
+closed conformation
+static snapshots
+equilibrium
+Differences
+neuronal excitability
+prokaryotic homologues
+UV-laser pulses
+Ca2
+real time
+artificial membranes
+goal
+cAMP
+present proposal

@@ -1,0 +1,52 @@
+cancer cell Epigenetic alterations
+epigenetic regulators
+correlated epigenetic alterations
+thousands of epigenetic alterations
+functional roles of epigenetic alterations
+epigenetic drugs
+understanding of cancer
+cancer samples
+model cancer
+breaking cancer cells
+Aim
+defined sets of epigenetic alterations
+non-cancer cells
+recruitment of epigenetic modifiers
+large cancer datasets
+epigenome programming
+epigenome profiles
+experimental toolbox
+targeted epigenome
+functional epigenomics
+bioinformatic toolbox
+concrete functional roles
+bioinformatic methods development
+reasons
+availability of excellent functional assays
+candidate driver events
+relevant driver events
+human knockout cell collection
+proposed project
+cell-derived guide RNA libraries
+locus-specific editing
+CRISPR
+frequent defects
+low mutation rate
+limitations
+ambition
+ultimate goal
+biological function
+perturbation
+rescue experiments
+concepts
+predictions
+applicable methodology
+genetic disease
+prevalence
+application
+tools
+cancers
+successful creation
+leukemia
+patient
+summary

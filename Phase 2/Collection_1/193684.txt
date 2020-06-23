@@ -1,0 +1,43 @@
+new rad-hard nonvolatile RRAM memory
+Mbit RRAM memory
+Radiation Hard Resistive Random-Access Memory
+radiation hard non-volatile memory technology
+standard silicon memories
+specific memory technology
+development
+nonvolatile memories
+rad hard integrated circuit scenario
+radiation effects
+standard processes
+flash memories
+standard architectures
+Semiconductor memories
+project
+switching effect of RRAM devices
+standard CMOS silicon processing
+new approach
+strong methodology
+switching mechanism
+single event effects
+high-performance features
+good retention
+total ionizing dose
+design
+redundancy
+mission
+Error Correcting Code techniques
+re-programmability
+cycling
+failure
+chemical Redox-reactions
+heavy ions
+irradiation
+prototype
+exceptions
+order
+board level
+critical topics
+space applications
+charged particles
+final device
+basic goal

@@ -1,0 +1,54 @@
+network protocols
+network functionality
+network operators
+network operations
+deployment of new protocols
+network function virtualization
+public Internet
+experimental deployment
+uncooperative middleboxes
+proliferation of middleboxes
+large-scale measurements of middleboxes
+transport layer evolution
+flexible transport layer
+expanding deployment of encryption
+large-scale pervasive surveillance of Internet traffic
+face of pervasive surveillance
+increasing use
+new applications
+new demands
+applicability
+Middleboxed Internet Recent revelations
+face of increasing ossification
+end-user privacy concerns
+middlebox cooperation protocol
+proposed MCP
+cooperative way
+deployed encryption
+set of real-world use cases
+background of middlebox behaviour models
+approaches
+NFV
+interactive video
+access providers
+innovation
+balance
+Architecture
+management
+incremental deployability
+presence
+experimentation
+order
+purpose
+time
+provision
+extensions
+additional value
+fitness
+facilities
+development
+MAMI project
+trends
+collision course
+customers
+testbeds

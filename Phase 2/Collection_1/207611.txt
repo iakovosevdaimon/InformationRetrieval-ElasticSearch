@@ -1,0 +1,51 @@
+geometric deep learning methods
+deep networks
+adoption of deep learning
+geometric data
+deep neural networks
+generalizing deep learning paradigms
+recent dramatic success of deep learning methods
+computer vision
+Euclidean data
+project
+efficient optimization methods
+hard problems
+challenging problems
+unthinkable problems
+domains of computer graphics
+known tough problems
+genomics
+sensor networks
+non-Euclidean domains
+computational social sciences
+unprecedented performance
+meaningful framework
+variety of fields
+proposed framework
+social network analysis
+non-Euclidean nature of objects
+computational power of modern computers
+availability of large datasets
+biomedicine
+way
+acoustic signals
+mathematical model
+leap
+definition of basic operations
+wide range of applications
+scalable software implementation
+images
+decades
+complex models
+qualitative breakthrough
+videos
+object recognition
+today’s
+aim
+Existing methodologies
+MANifolds
+industrial world
+paradigm shift
+better results
+ambition
+research

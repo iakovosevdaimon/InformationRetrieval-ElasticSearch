@@ -1,0 +1,53 @@
+system of system architecture
+multi-source ADS-B system
+ADS-B messages
+Space based ADS-B
+system concept
+system configuration
+SATELLITE-BASED ADS-B
+global surveillance system
+multi-source ADS-B architecture
+context of separation standards
+enhanced separation minima
+separation minimum
+new separation standards
+system of systems approach
+ADS-B message update rate
+LOWER SEPARATION-MINIMA APPLICATION
+different scenarios of separation minima
+airspace capacity
+context of NRA
+revised minima
+sources of surveillance
+airspace management
+improved aircraft surveillance
+non-radar airspace
+ground
+number of standards
+procedural impact
+scope of SALSA
+analysis
+impact of performance
+study
+prevailing continuous surveillance constraints
+analytical modelling
+theoretical modelling
+oceanic relays
+significant benefits
+possible type of relays
+ATM operations
+ATC
+higher technology readiness level
+TRL
+exploratory research project
+flight safety
+stake-holders
+SESAR JU
+industry partners
+outcome
+assessment
+set of recommendations
+eventual implementation
+order
+Reduction
+aspects

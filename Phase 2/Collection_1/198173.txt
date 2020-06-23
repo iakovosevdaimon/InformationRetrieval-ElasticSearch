@@ -1,0 +1,63 @@
+cohesin-mutant AML
+cohesin-mutated AML
+mechanisms of cohesin
+COhesin Mutations
+cohesin complex
+biology of AML
+model AML
+cohesin mutant cells
+mechanisms of transcriptional regulation
+transcriptional alterations
+Generation of mouse models of cohesin
+Characterisation of transcriptional defects
+novel targeted therapies
+novel therapeutics Transcriptional dyregulation
+ChIP-Seq
+mechanisms of transformation
+DNA repair
+Acute Leukemia
+RNA-Seq
+important process
+function mutations
+normal hematopoiesis
+candidate therapies
+Evidence
+acute myeloid leukemia
+proper chromosome segregation
+proper chromosomal segregation
+common driver
+cancer
+modeling
+sister chromatid cohesion
+proteomics
+leukaemia
+roles
+genomic techniques
+specific vulnerabilities
+enhancer
+promoters
+SILAC
+preliminary data
+compounds
+coordination of communication
+patient samples
+Capture
+knowledge
+members
+COMAL
+insulator elements
+cell lines
+large screen
+Therapeutic targeting
+dismal survival rate
+aggressive disease
+binding
+understanding
+resources
+exemplar
+proposal
+loss
+outcomes
+research
+patients
+Objectives

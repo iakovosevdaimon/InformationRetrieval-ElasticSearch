@@ -1,0 +1,53 @@
+Superconducting Magnetic RAM
+superconducting magnetic-RAM
+superconducting processor
+superconducting computer
+conventional CMOS-based ones
+project
+films of FI
+S bilayers
+prototype of FI
+state-of-the-art technology
+S interfaces
+S mesoscopic junctions
+SMRAM technology ready
+physical limits of conventional silicon-based electronics
+magnetic configuration
+energy-efficient superconducting circuits
+hand
+objective
+conventional complementary metal-oxide
+Josephson junctions
+complete implementation
+orders of magnitude larger
+Generation of Supercomputers
+semiconductor
+superconductivity
+computing-power
+ongoing demand
+computational speed
+close contact
+limit different approaches
+non-classical superposition of logic units
+cryogenic temperatures
+ferromagnetism
+data-storage
+quantum computers
+materials
+host institution
+design of new architectures
+large-scale market
+interplay
+missing building block
+lack of memories
+view
+successful miniaturization
+patterning
+results
+realization
+fundamental physics
+growth
+protocols
+investigation
+bright perspectives
+scalability

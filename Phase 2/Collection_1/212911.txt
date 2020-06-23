@@ -1,0 +1,49 @@
+project
+D models of exoplanet atmospheres
+reliable characterization of exoplanet atmospheres
+ESA Space Science archives
+NASA Space Archives
+archival data
+molecular composition of giant exoplanet atmospheres
+novel data calibration
+ground-based data
+atmosphere of rocky exoplanets
+host star catalogues
+art tools
+modelling tools
+detection of exoplanets
+known exoplanets
+international space mission
+novel retrieval tools
+James Webb Space Telescope
+spectral extraction tools
+importance of star
+Exoplanet Athmosphere New Emission Transmission Spectra Analysis
+delivery of high level data products
+relevant properties of host stars
+scientific publications
+spectroscopic observations
+sound knowledge
+peer-review publications
+extra solar planets
+important ongoing field of activity
+state
+HST
+Gaia
+planet's formation
+years
+evolution
+Kepler
+XMM
+uniform database
+biosignature gases
+Spitzer
+fast development
+addition
+planet interactions
+date
+systematic noise
+galaxy
+signal
+lot
+end

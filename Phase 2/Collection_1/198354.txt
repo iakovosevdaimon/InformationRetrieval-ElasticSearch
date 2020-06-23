@@ -1,0 +1,55 @@
+quality of sleep
+sleep clinic
+automatic monitoring of sleep
+different sleep phases
+automatic sleep analysis
+certain sleep biomarkers
+Quick Diagnosis of Sleep Disorders
+standard method of diagnosing sleep disorders
+main limitation of ambulatory sleep monitoring
+Wearable  Brain Monitoring Technology
+time- single channel EEG wearable technology
+multiple channel
+patient
+uncomfortable wired sensors
+ambulatory system
+information
+lack of neurophysiological channels
+times smaller
+times lighter
+different places
+certain diseases
+user friendly
+existing system
+ease of use
+hardware design techniques
+state-of-the-art signal processing
+ultralow power
+novel
+PI’s ERC
+electrodes
+home
+heavy boxes
+trained specialists
+Grant
+wires
+head
+EOG
+EMG
+REM
+accuracy
+indicative of disease
+project
+comfortability
+repositioning
+associated difficulty
+size
+major breakthrough
+high number
+systems
+medical expert
+raw signals
+hours
+fact
+practice
+ones

@@ -1,0 +1,47 @@
+uptake of specific drugs classes
+available drugs
+uptake of cytotoxic approved drugs
+mediated drug uptake
+mediated transport
+specific SLC proteins
+SLC transporters
+CeMM Library Of Unique Drugs
+Solute carrier proteins
+cell membrane
+family of transporters
+active compounds
+CLOUD compounds
+well-characterized set of commercialized drugs
+transport of nutrients
+role of carrier
+specific members
+Specialized integral membrane proteins
+Human cell lines
+models of toxicity
+key step
+lipid membranes
+important step
+active molecules
+known class
+essential biological process
+physiological basis of transporter
+metabolites
+deletions
+development of improved pharmacokinetics
+systematic characterization
+future
+predominant entry method
+clinical use
+movement
+challenges
+pathological conditions
+chemical space
+studies
+evidence
+phenomenon
+ability
+compound activity
+study
+hypothesis
+information
+importance

@@ -1,0 +1,61 @@
+Security divisions
+security features
+secured module
+easiest security evaluation
+secured GNSS module available
+Vehicle
+ambition of FOSTER
+robustness of security functions
+FP7 TACOT project
+primary objective of FOSTER
+spoofing
+meaconing
+design
+new ecosystem merging GNSS
+increasing range of GNSS threats
+Trusted galilEo Receiver
+Level Of Confidence IP
+PVT data
+detection IP
+EGNOS Data Access Service
+Galileo OS Navigation Message Authentication Capability
+Target automotive grade
+MCU
+ST Microelectronics
+Intellectual Property
+organisations
+origin
+V2X
+key cabinet
+EDAS
+particular certificate
+speed
+GLONASS
+Infrastructure
+market
+greater resilience
+Novacom services
+secure Micro Controller Unit
+communication
+IEEE
+integrity
+FDC
+signal attack attempts
+Team
+experienced companies
+efficient background
+digital signature
+protocol
+NavCert
+users
+performance
+interface
+GPS
+products
+objectives
+proof
+consortium
+application
+indicators
+positioning
+addition

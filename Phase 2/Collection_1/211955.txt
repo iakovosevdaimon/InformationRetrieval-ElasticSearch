@@ -1,0 +1,57 @@
+European Energy system
+system flexibility
+energy provider
+energy systems
+power system
+system reliability
+multi-energy integration
+EUROPEAN OPTIMAL ENERGY SYSTEM MANAGEMENT TOOL Plan4RES
+system planning capability
+Allocation of multi-energy resources
+share of renewable energy
+SYNERGISTIC APPROACH OF MULTI-ENERGY MODELS
+Pan-European interconnected electricity system
+end-to-end planning tool
+innovative modelling platform
+flexibility resources
+European scale
+case studies
+TSO
+investment planning
+developed modelling framework
+integrated modelling environment
+targeted platform
+DSO flexibility Cost integration
+tailored versions of Plan4Res
+various stakeholders
+key advances
+large set of future uncertainties
+main stakeholders
+key features
+multiplicity of models
+complex systems
+future investments
+monolithic approach
+assets portfolio assessment
+impact assessment of regulation
+multi technology provider
+advanced ancillary services
+potential synergies
+collaborative research
+retail
+grid operators
+utility
+emerging technologies
+generation
+relevance
+benefit
+innovation project
+adequacy
+necessary validation
+decision
+data base
+analysis
+computational challenges
+functional hierarchy
+efficiency
+objective

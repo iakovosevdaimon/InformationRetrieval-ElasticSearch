@@ -1,0 +1,59 @@
+design of hybrid electric aircraft
+Turbo electRic Aircraft Design Environment
+Current aircraft
+aircraft technology
+aircraft structure
+aircraft level
+conceptual design environment
+engine conceptual design methodologies
+existing design tools
+engine weight
+new aspects
+engine operability
+hybrid electric propulsion
+assessment of handling qualities of diverging aircraft configurations
+electric power systems
+mission model
+thermal efficiency
+integration challenges
+propulsive efficiency improvement potential
+gas turbine performance
+extensive model assets
+advanced structural model
+performance trades
+configuration assessment
+gas turbines
+sub-system
+Key aspects of unconventional concepts
+consortium members
+thermal management
+on-board system models
+number of evolutionary improvements
+terms of material constraints
+flight dynamic analyses
+impact
+NOx emissions
+CS2
+nacelle
+intake
+structures
+sizing
+limits
+installation of heavy equipment
+revolutionary step change
+open-rotors
+conventional aero engines
+technological breakthrough
+air travel
+goals
+transmission losses
+topic requirements of JTI
+noise
+disciplines of aerodynamics
+optimization
+ACARE
+aeronautics community
+continuous increase
+CFP04-LPA
+Flightpath
+decades

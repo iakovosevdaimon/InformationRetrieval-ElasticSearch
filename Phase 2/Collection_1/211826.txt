@@ -1,0 +1,53 @@
+new primitives
+data private
+new advanced cryptographic primitives
+encrypted data
+proposed primitives
+basic cryptographic study
+modern data driven society
+future research
+persistent tension
+said tension
+foundational theoretical study
+new avenues
+art research
+free society
+cryptographic graded encoding schemes
+Realizable Advanced Cryptography
+attribute based encryption
+prior research success
+homomorphic encryption
+basic right
+level of security
+future realistic implementation
+personal information private
+fine grained access control
+barriers
+efficiency
+paper
+orders
+general purpose program obfuscation
+magnitude improvement
+computational complexity of underlying hardness assumptions
+direction
+obfuscators
+times
+reality
+cryptography's long standing problems
+utility
+privacy
+computing
+ability
+trapdoor paradigm
+real world applications
+LWE
+projection
+progress
+Citizens
+optimizations
+viewpoint
+State
+remote algorithms
+following objectives
+goal
+heuristics

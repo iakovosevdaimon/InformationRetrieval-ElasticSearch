@@ -1,0 +1,62 @@
+wireless network architectures
+wireless network capacity
+Wireless communications
+Increased Network Density
+Wireless System Group
+traditional wireless systems
+network performance
+network layers
+increased device density
+increased bandwidth
+antenna architectures
+new generation of wireless access networks
+ambitious redesign of classic wireless systems
+research field
+potential benefit of increased resources
+Antennas
+antenna arrays
+antenna dimensions
+Spectrum
+excellent research groups
+physical layer
+main research objectives
+capacity limit
+Heterogeneity
+action
+Mbps
+households
+SIGNET group
+large bandwidth
+Stanford University
+University of Padova
+Internet speeds
+new significant increments
+cross-layer interdisciplinary approach
+collaboration
+complementary expertise
+massive numbers of elements
+Europe
+simultaneous innovation
+order
+Digital Agenda
+higher frequency bands
+results
+goal
+Flagship Initiative
+H2020
+little attention
+relation
+optimal resource allocation schemes
+multiple fields
+EU citizens
+ease transfer of solutions
+signals
+creation
+demonstration tools
+industry
+project
+gap
+behaviors
+technical difficulty
+fundamental properties
+simulation

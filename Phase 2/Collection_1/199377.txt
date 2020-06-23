@@ -1,0 +1,44 @@
+internet security
+Mathematical Cryptology Cryptology
+algorithmic progress
+post-quantum security
+new algorithmic options
+applicability of recent algorithmic
+advanced algorithmic analysis
+foundation of information security
+mathematical techniques
+complexity theoretic hardness assumptions
+discrete logarithm problem
+recent techniques
+discrete logarithms
+cases
+post-quantum cryptography
+factoring
+main ambition of Almacrypt
+form of cryptography
+corresponding putative hard problems
+Today's internet
+extra functionalities
+main objective
+wide range of functionalities
+design new algorithm tools
+resolution
+key encryption
+algorithms
+subset-sum
+candidates
+elliptic curves
+better efficiency
+strengthened research community
+pillars of public
+codes
+efficient implementations
+digital world
+proposal
+addition
+scientific goal
+generalization
+applications
+issue
+sand
+Almacrypt's scope

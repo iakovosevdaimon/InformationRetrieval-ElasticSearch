@@ -1,0 +1,53 @@
+DPR Qualification Model
+Flight Qualification of Deployable Radiator
+TRL of DPR
+Loop Heat Pipes Qualification Model
+Deployable Thermal Radiator
+heat sources
+DPR levels
+flight qualification testing
+radiator area
+complete flight qualification
+LEO applications
+development of deployable radiator panels
+thermal testing
+different heat transport systems
+proposed design
+telecom applications
+thermal performance
+functional requirements
+QM
+proposed project
+scalability
+LEO specification
+Phase Technology
+system level
+solution flexible
+lightweight solution
+mechanism compliant
+functional needs
+deployment mechanism
+Technological Readiness Level
+Mechanical Pumped Loops
+Low Earth Orbit
+small scale models
+increasing demand of power rejection
+future satellites
+missions
+higher powers
+component
+main objective
+fulfilment
+telecommunications
+adaptability
+manufacturing
+device
+goal
+specifications
+technical challenges
+platform interfaces
+users
+product
+platforms
+launch
+modularity

@@ -1,0 +1,48 @@
+security properties
+security of large-scale
+new generation of security assurance systems
+increased security of critical systems
+graph signatures
+new architectures
+properties of graph data structures
+invention of graph signature schemes
+integrity of graph data structures
+new cryptographic primitives
+changing systems
+creation of new cryptographic techniques
+usable confidentiality
+proposal
+properties of topologies
+cross-system soundness
+anonymous credential schemes
+sensitive information confidential
+earlier research
+integrity proofs
+main research hypothesis
+efficient attribute encodings
+citizens
+paradigm shift
+verifier
+sense
+long journey
+EU governments
+users
+state
+system's blueprint
+WPs
+usability
+dependability
+objective
+way
+human trust
+preliminary investigation
+change
+work program
+time
+prototypes
+practice
+essence
+solution
+complex obstacles
+compelling advantages
+transactions

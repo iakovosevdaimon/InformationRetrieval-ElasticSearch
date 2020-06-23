@@ -1,0 +1,66 @@
+AIOSAT system
+AIOSAT consortium
+objective of AIOSAT
+AIOSAT concept
+Outdoor Safety Tracking System
+Autonomous Indoor  Outdoor SafetyTracking system
+subsystem integrators
+Communications Subsystem
+Advanced Positioning Subsystem
+integrated prototype system
+small consortium size
+rescue workers
+rescue interventions
+project results
+satellite-based positioning technology
+project outcomes
+GNSS positions
+technology provider
+ultimate objective
+main strengths
+main paths
+aforementioned limitations of GNSS usage
+university-level military academy
+successful prior experience
+dense forests
+thick smoke
+inefficiencies
+software
+Europe population experiences
+rough terrain
+accuracy
+fatalities
+example
+research topics
+world class organizations
+SMEs
+set of concrete
+EUFireAcademy states European countries
+reliability
+operations
+EGNOS
+service providers
+field tests
+alerting
+customized activities
+GPS availability
+larger projects
+position information
+knowledge
+inhabitants
+buildings
+application
+art
+end-user requirements
+deaths
+hazards
+IMU
+technologies
+goal
+purpose
+dissemination
+context
+reported injuries
+fires
+year
+order

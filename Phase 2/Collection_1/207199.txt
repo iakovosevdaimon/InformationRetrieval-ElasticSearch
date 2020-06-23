@@ -1,0 +1,58 @@
+security components
+integrated security
+security levels
+dynamic security enforcement
+holistic Dynamic Security
+holistic security framework
+user security policies
+unexpected security vulnerabilities
+security development paradigm
+security best practices
+ANASTACIA framework
+privacy standards
+Privacy Seal
+privacy solutions
+privacy policies enforcement
+ICT components
+ANASTACIA Consortium
+enablers
+ANASTACIA results
+dynamic CPS
+IOT Architectures
+Online monitoring
+ICT Systems Development Lifecycle
+IoT networks
+monitoring methodologies
+online testing
+end users
+qualitative run-time evaluation of privacy risks
+new networking technologies
+real time monitoring
+suite of distributed trust
+comprehensive suite of tools
+Trust Assessment
+secure SLCD
+testing techniques
+final users
+constant discovery of vulnerabilities
+high impact Use Cases
+business models of communication technologies
+Mobile Edge Computing
+NFV
+Smart Building
+philosophy
+SDN
+application developers
+actions
+compliance
+assurance
+autonomous decisions
+wide-ranging expertise
+main objective
+Advanced Networked Agents
+particular SMEs
+sustainable ecosystem
+automated adaptation
+phases
+leading partners
+design

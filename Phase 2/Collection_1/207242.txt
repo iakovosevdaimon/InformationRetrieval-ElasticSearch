@@ -1,0 +1,74 @@
+commercial SOFC system
+real SOFC Systems of monItoring
+SOFC stack replacement
+MDLT
+INSIGHT project
+monitoring approaches
+hardware necessary
+system integration
+Power system
+field tests
+diaGnostic tools
+ImplementatioN
+hardware development
+accelerated tests
+stack failures
+Durability tests
+outcome of experimental analysis
+specific low-cost hardware
+mathematical approaches
+real micro-Combined Heat
+experimental testing
+signal analysis
+competences necessary
+Lifetime Tool
+conventional dynamic stack signals
+algorithms developments
+project management
+MDL algorithms
+Total Harmonic Distortion
+cross multidisciplinary consortium
+Total Cost of Ownership
+Electrochemical Impedance Spectroscopy
+EIS
+addition
+advanced complementary techniques
+Solid Oxide Fuel Cell
+Denmark
+Italy
+France
+organisations
+EPFL
+THD
+DTU
+CEA
+IJS
+stacks
+fault mitigation logics
+outcomes
+Finland
+Austria
+Slovenia
+member states
+UNISA
+AVL
+validation
+VTT
+faults
+purpose
+costs of service
+HTC
+AK
+Technology Readiness Level
+TRL
+single board able
+experience of previous projects
+associated country
+application levels
+dissemination
+reduction
+degradation
+objectives
+perspective
+partnership
+EnGenTM

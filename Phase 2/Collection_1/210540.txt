@@ -1,0 +1,50 @@
+NLP applications
+based tokenization
+NLP needs
+capabilities of NLP
+noisy text
+machine learning
+text genres
+human-human communication
+human-machine interaction
+human-machine interfaces
+symbolic tokenization
+tokenization heuristics
+powerful non-symbolic text representation
+limitations of symbol
+computer-based processing of natural language
+tokenization replacement Natural language processing
+structure of language
+machine translation
+deep learning
+Non-sequence models
+languages
+high error
+information access
+embedding
+computer science
+surface forms
+error-prone
+aspects of form
+underlying structure
+high economic importance
+higher morphological complexity
+Czech
+expertise
+computational linguistics
+social media
+case
+poor performance
+unique position
+rates
+English
+domain
+Advances
+project
+basis
+foundations
+vector
+idea
+representations
+humans
+level

@@ -1,0 +1,65 @@
+low-power computing market
+low-power advanced computing
+state-of-the-art low-power components
+low-power computing systems exhibit
+value of dReDBox
+power management software
+terms of low system resource utilization
+market position
+design time
+box prototype
+prototype modular blocks
+low-latency opto-electronic system fabric
+market segments
+common design axiom
+memory
+generation datacentre
+integrated datacentre
+Recursive Datacentre
+sw stack design builds
+degraded energy proportionality
+terms of scalability
+purpose resource
+hardware components
+Network Analytics
+best position
+modular software-defined architecture
+server boundaries
+energy reduction
+proportionality of compute
+superiority of disaggregation
+concept of disaggregation
+SoC-based microservers
+conventional high-end server designs
+various integration form factors
+costly upgrade cycles
+known ramifications
+rest
+machine lifetime
+hw
+reliability
+efficiency
+storage resources
+monolithic building block
+superior features
+target scenarios
+baseline
+performance
+Security
+leading innovation
+pilot use-cases
+significant impact
+technological trends
+academic experts
+fit
+Europe
+materialization
+accelerators
+industry-lead consortium
+main-board
+game
+approach
+Telecom
+vehicle
+challenge
+arbitrary sets

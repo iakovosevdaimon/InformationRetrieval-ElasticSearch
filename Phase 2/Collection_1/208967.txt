@@ -1,0 +1,49 @@
+TNS suitable
+simple TNS ansatz
+Quantum Systems
+dimensional systems
+body localised systems
+objective
+realistic chiral topological systems
+Tensor Network States Tensor Network States
+variational calculations of Lattice Gauge Theories
+realistic gauge groups
+relevant wave functions
+absence of heat transport
+heat bath
+order
+class of variational wave
+High Energy Physics
+macroscopic properties
+higher dimensions
+physical properties
+unprecedented accuracy
+body localisation
+quantum computers
+Condensed Matter Physics
+high-temperature superconductivity
+quantised transport property
+phase diagram
+certain magnetic insulators
+rise
+experiments
+similar accuracies
+outstanding problems
+number of parameters
+Fermi-Hubbard model
+different situations
+fundamental interactions
+numerical implementation
+particles
+case
+diffusion
+ground state
+light
+standard tool
+overall aim
+phases
+Floquet
+effect of symmetries
+nature
+simplicity
+approximation

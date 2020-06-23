@@ -1,0 +1,60 @@
+service development
+novel service platform
+service patterns
+service packaging
+Service Programing
+service execution
+service packages
+SONATA’s platform service developers
+composed services
+contextualization of services
+software functions
+network stakeholders
+platform components
+network functions
+deployment
+SONATA addresses
+open source software
+Virtualized Software Networks Virtualisation
+G networks
+communications networks
+network operators
+key SDK
+efficiency of developers
+third-party developers
+rapid development
+customised SDK
+extensible orchestration framework
+incumbent stakeholders
+major impact
+flexible manner
+custom algorithms
+novel use-case
+major disruptive technology
+scaling
+scientific publications
+significant technological challenges
+driven pilot implementations
+description techniques
+life-cycle management
+extended DevOps model
+results
+shipment
+manufacturers
+continuous placement
+monitoring analysis tools
+applications
+approach
+functionality
+Thanks
+trust
+standards contributions
+plugin architecture
+market
+complex user
+catalogue access
+executives
+existing platforms
+commodity hardware
+issues
+conflict

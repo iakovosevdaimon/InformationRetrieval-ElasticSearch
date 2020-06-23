@@ -1,0 +1,47 @@
+Stability of Power Grid
+Control of Large-scale Stochastic Hybrid Systems
+secure power grid
+Renewable  Energy
+efficient grid operations
+renewable generation
+safe feedback control algorithms
+optimal control problems
+class of systems
+realistic power grid simulation platforms
+problems of stability
+ambitious renewable energy goals
+scalable numerical algorithms
+power system operations
+increasing uptake of renewable energy sources
+complex hybrid state interactions
+account uncertainties
+output of weather
+proposal
+liberalization of electricity markets
+advantage of recent advances
+effects of increased uncertainties
+numerical optimization
+continuous-valued voltages
+discrete-valued network topologies
+statistics
+order
+better quantifying
+participation of distributed producers
+sensing
+EU closer
+project
+consumers
+safety
+powerful modeling framework
+communication technologies
+study
+price
+efficiency
+theory
+end outcome
+economic implications
+frequencies
+face
+changes
+focus
+questions

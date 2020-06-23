@@ -1,0 +1,56 @@
+PID infrastructure
+PID Graph
+PID Commons
+PID Forum
+FREYA project
+New services
+resulting FREYA services
+core services
+deployment of new PID types
+FREYA consortium
+vision of FREYA
+existing trusted PID systems
+emerging e-infrastructure services
+FREYA e-infrastructure components
+research processes
+project partners
+THOR project
+context of established community-based services
+Use of Research Resources
+Open Identifiers
+global research e-infrastructures
+Research Data Alliance
+collaborative self-governance of PIDs
+EOSC
+European Open Science Cloud
+core component of European
+trusted framework
+good self-governance
+Persistent Identifiers
+stakeholder community
+wide range of resources
+Access
+responsibilities
+essential building block
+roles
+Discovery
+goal
+development
+information map of relationships
+robust environment
+key ideas
+members
+innovation landscape
+scale of Technology Readiness Levels
+basis
+consensual decision-making
+RDA
+technologies
+successes
+end
+evolution
+concern
+lifetime
+links
+disciplines
+sustainability

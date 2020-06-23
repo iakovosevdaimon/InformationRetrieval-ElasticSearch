@@ -1,0 +1,25 @@
+developed methods
+Large Discrete Structures
+novel methods
+analytic methods
+specific problems
+robust theory
+approximate large graphs
+new insights
+emerged theory of combinatorial limits
+discrete optimization
+sizes of input structures
+specific open problems
+possible asymptotic behavior of large graphs
+proposed project
+obtained insights
+new algorithmic frameworks
+solutions
+logic
+computer science
+structure of limit objects
+structural arguments
+extremal combinatorics
+dense cases
+conjunction
+need

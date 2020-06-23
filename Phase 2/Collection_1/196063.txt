@@ -1,0 +1,58 @@
+NGS data
+Model-based Data Analysis of Transcription
+gigabytes of data
+observed data
+art data
+model-based data analysis paradigm
+kinetics of splicing
+Splicing Gene expression
+effect of splicing
+multiple types of data
+interplay of transcription
+completion of transcription
+kinetics of coupled transcription
+understanding of gene expression
+Eukaryotic gene expression
+polymerization of mRNA
+NGS measurements of RNA processing
+modern biology
+messenger RNA
+nascent transcripts
+specific molecules
+nascent mRNAs
+partial knowledge
+underlying mechanism
+biological mechanisms
+decades of molecular biology
+thousands of distinct molecules
+genomic DNA template
+detailed information
+functional protein
+stochastic interactions
+fundamental process
+cells
+pathways
+components
+scientists
+constitutive genes
+time
+statistical framework
+polymerase elongation genome-wide
+probability distributions
+removal of non-coding regions
+models
+uncertainty
+state
+noisy observations
+generation sequencing
+cross-talk
+Recent evidence
+biologists
+insight
+project
+need
+consequences
+machinery
+approaches
+phenomenon
+experimentalists

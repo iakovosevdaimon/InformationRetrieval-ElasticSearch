@@ -1,0 +1,48 @@
+spatiotemporal activity patterns
+functional relevance of neural activity patterns
+identified population activity patterns
+task-specific population activity patterns
+complex time-varying patterns of activity
+neural code
+targeted manipulation of neuronal activity
+stimulus information
+information processing
+nature of neural dynamics
+neocortex
+behaving mice
+neuronal networks
+Sensory neurons
+Probing principles of neural coding
+advanced analysis tools
+neurons form networks
+task performance
+behaving mouse
+photon imaging
+behaving animal
+behavioural relevance
+large populations of neurons
+large-scale neuronal recordings
+photon calcium imaging
+context of behaviour
+fine-tuned texture discrimination task
+sensory pathway
+head-fixed mice
+patterned optogenetic manipulation
+all-optical interrogation
+causal link
+dimensionality reduction methods
+dynamical systems
+constraints
+higher cognitive functions
+outside world
+unprecedented insights
+computational models of neocortical function
+network simulations
+area
+electrical signals
+layer
+barrel cortex
+mechanistic understanding
+project
+order
+brain

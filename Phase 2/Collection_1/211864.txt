@@ -1,0 +1,51 @@
+Optical Frequency Combs
+optical frequency band
+optical chips
+optical waveform
+chip nonlinear optical interactions
+efficient nonlinear optical interactions
+radio frequency band
+field of frequency metrology
+use of
+precision laser spectroscopy
+nonlinear components
+current chip scale Kerr comb
+order nonlinear materials
+dual-comb spectroscopy
+Infrared  spectroscopy
+light sources
+narrower comb
+chip OFC generators
+mass manufacturable silicon chips
+ultra-high resolution
+millions of laser lines
+precision distant measurement experiments
+electromagnetic spectrum
+integrated low noise oscillators
+order of magnitude
+threshold of current
+powerful continuous wave laser
+advantageous properties
+unique properties
+application field
+low noise silicon nitride mode locked lasers
+broadband Fourier
+large bulky experimental setups
+soliton compression
+record acquisition speeds
+dispersion
+V waveguides
+plasmonic
+solutions
+wide deployment
+demonstrations
+microwave synthesis demonstrators
+performance of
+link
+real-life situations
+ELECTRIC
+challenge
+fold
+equifrequency
+property
+goal

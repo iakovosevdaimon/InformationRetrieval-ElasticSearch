@@ -1,0 +1,50 @@
+complex cloud applications
+multi-cloud applications
+multiple cloud providers
+ASPs
+CYCLONE project
+multiple cloud infrastructures
+cloud deployment engine
+secure cloud platform
+CYCLONE testbed
+users
+Complete  Dynamic Multi-cloud Application Management Application service providers
+CYCLONE software’s design
+network management
+application-level security features
+complex computing platforms
+aggregate resources
+energy sectors
+additional sectors
+end-to-end security
+continuous delivery
+continuous feedback
+initial platform development
+inter-site networking resources
+trust bootstrapping mechanisms
+appropriate resource abstractions
+cases
+implementation
+resilience
+responsiveness
+geographic redundancy
+open-source components
+lower barriers
+OpennNaaS
+StratusLab
+user experience
+reliability
+agile methodologies
+developers
+needs
+production quality
+SlipStream
+services
+Participants
+bioinformatics
+data
+elasticity
+Constant availability
+TCTP
+subsequent evolution
+tools

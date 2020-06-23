@@ -1,0 +1,47 @@
+protein-protein association
+protein kinetics
+atomistic models
+atomistic kinetic models
+kinetics of multi-body protein interactions
+all-atom models of small protein systems
+molecular kinetics
+Scalable Kinetic Models
+methods
+Markov State Models
+Molecular Dynamics
+mechanochemical protein dynamin couples atomic
+multi-scalar
+large biomolecules
+atomistic structures of biomolecules
+large systems
+cell reaction-diffusion simulations
+Biological processes
+multi-scale method
+scaling limitations of MSMs
+biomolecular processes
+fundamental limitations
+computational model
+extensive distributed MD simulations
+optimization of biotechnological processes
+structure changes
+long length-scales
+long-standing problem of sampling rare transition events
+cells
+network of local switches
+exponential increase of parameters
+single amino acid
+membrane constriction
+understanding of biology
+time evolution of locations
+endocytosis
+methodological groundwork
+leading experimentalists
+binding
+Recent breakthroughs
+effective force field
+following key technologies
+ERC project
+timescales of seconds
+collaboration
+macroscopic behavior
+open software

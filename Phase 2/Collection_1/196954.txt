@@ -1,0 +1,45 @@
+Chip Communication
+Century Wireless Chip
+wireless communication
+chip design
+new chip architectures
+chip level
+wireless links
+wireless interconnectors
+wireless C2C networks
+chip optimization procedures
+Noisy Electromagnetic Fields
+complex environments
+future emerging wireless C2C technology
+new insight
+new pathways
+sophisticated physical models of wireless interconnects
+wave modelling
+Efficient modelling strategies
+account input signals of modern communication systems
+Device modelling
+complex interference pattern
+dynamical systems theory
+Multiple Input Multiple Output devices
+revolutionary electromagnetic field simulation toolbox
+noise models
+breakthroughs necessary
+electrical engineering
+standard engineering design tools
+mathematical physics
+underlying physics
+random matrix theory
+associated signal processing strategies
+dominant features of future generations of integrated circuits
+printed circuit boards
+carrier frequency ranges
+Technological Platform
+wired connections
+information bottleneck
+energy efficiency
+Recent advances
+semiconductor industry
+electronic consumer market
+miniaturisation
+Moore era
+addition

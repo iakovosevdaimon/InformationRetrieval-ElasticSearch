@@ -1,0 +1,60 @@
+Securing Internet Routing
+BGP routing
+routing security
+securing routing
+future of Internet routing
+secure Internet
+major Internet outage
+Jumpstarting BGP security
+security vulnerabilities
+security solutions
+legacy BGP routers
+ASes
+new paradigm
+despite
+economic role
+new direction
+small businesses
+hierarchical paradigm
+economic hurdles
+proposed design
+today’s agenda
+today’s centralized
+small number of entities
+planned research project
+proposed alternative roadmap
+schools
+modern datacenters
+vast computational resources
+novel approach
+smaller networks
+flexibility
+researchers
+multinational corporations
+Internet's critical societal
+decade of Herculean efforts
+Autonomous Systems
+configuration errors
+Google
+dozens of thousands
+practitioners
+Party Computation
+obstacles
+Ground
+Border Gateway Protocol
+single root
+Deutsche Telekom
+dependency
+autonomy
+attacks
+aim
+BGP’s
+year
+news
+trust
+privacy
+glue
+vision
+steps
+deployment
+reasons

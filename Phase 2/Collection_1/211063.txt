@@ -1,0 +1,71 @@
+deployment of services
+Network Services qualification
+network operators
+G Development
+network transformation
+ETSI NFV
+packaged NFV
+G networks
+NFV-enabled Service Development Kit
+validation of new services
+validation platform
+global industry-specific network services
+adoption of NFV technologies
+network operational management systems
+advanced validation
+agile development
+GTANGO system
+diverse set of services
+modular Service Platform
+G-PPP Programme
+G-PPP projects
+extended NFV DevOps model
+broad-scale deployment of Network Function Virtualization
+service developers
+posterior deployment
+key contributions
+Current networks
+Open-
+Store
+Apps Telecommunication networks
+critical infrastructure
+vertical industries
+vertical pilots
+operational efficiency
+telecom operators
+advanced Manufacturing
+key open source initiatives
+integrated vendor-independent platform
+party contributions
+SDN controllers
+common existing Virtual Infrastructure Managers
+customizable orchestrator compatible
+verification mechanisms
+VIM
+VNFs
+business needs
+gap
+economic growth
+users
+OSM
+order
+applications
+outcome
+implementation
+requirements
+SDK
+Software-Defined Networking
+social prosperity
+immersive Media
+targeted KPIs
+future demands
+peer
+IETF
+s ambition
+flexible programmability
+end-to-end ecosystem
+SDOs
+market
+collaboration
+graph
+centre

@@ -1,0 +1,38 @@
+current methods
+difficult calculations of scattering amplitudes
+developing quantum field theory methods
+LHC
+computing Feynman integrals
+new structures
+large number of Feynman diagrams
+large contributions
+known physics
+long-distance physics
+results
+innovative methods
+computation of Feynman loop integrals
+current best theoretical understanding of particle physics
+supersymmetric field theories
+Large Hadron Collider
+discovered Higgs boson
+searches of new particles
+phenomenology of elementary particles
+Novel structures
+Theoretical predictions
+help of modern computers
+project
+cross sections
+differential equations method
+computations
+example
+properties
+scope
+fundamental parameters of Nature
+unprecedented precision
+couplings
+backgrounds
+experimental accuracy
+Major obstacles
+issues
+processes
+run

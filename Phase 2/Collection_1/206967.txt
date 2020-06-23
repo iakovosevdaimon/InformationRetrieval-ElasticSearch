@@ -1,0 +1,52 @@
+conjectures of Tate
+Tate conjecture
+work of Tate
+finite fields
+number fields
+long-standing conjectures
+Grothendieck period conjecture
+geometry of projective varieties
+topology of algebraic varieties
+Hodge conjecture
+modern arithmetic geometry
+boundedness properties of algebraic varieties
+number-theoretic
+recent work
+arithmetic counterpart
+goal
+chern classes of line bundles
+recent geometric proof
+cohomology classes
+transcendence theory
+finiteness results
+major results
+geometric insight
+related problems
+joint project
+theory of Donaldson invariants
+Jean-Benoît Bost
+different lines of attack
+moduli spaces of twisted sheaves
+complex-analytic understanding of universal vector extensions of abelian schemes
+Faltings
+Schneider-Lang
+Deligne
+divisors
+Masser-Wüstholz
+central role
+general web of questions
+curves
+certain cohomological objects
+relevance
+algebraization techniques
+aspects
+theorem of Lefschetz
+K3 surfaces
+known case
+instance
+main directions
+proposal
+novel direction
+important consequences
+existence
+Special cases

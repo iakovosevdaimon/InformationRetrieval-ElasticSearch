@@ -1,0 +1,56 @@
+photonic circuits
+silicon photonic MEMS technology
+Basic photonic MEMS
+photonic MEMS subcircuits
+dedicated photonic circuit
+low-power photonic MEMS actuators
+field-programmable silicon photonics
+non-volatile MEMS
+power Reconfigurable PHotonic ICs
+complex photonic ICs
+generic Field-Programmable Photonic Integrated Circuits
+established Silicon Photonics platform
+high-speed silicon photonics
+Programmable connectivity
+technology platform
+complete FP-PIC platform
+generic FP-PIC
+programmable microwave photonics filter
+MORPHIC consortium
+optical switch matrix
+optical beam
+field-programmable gate arrays
+optical 1x2
+circuit level
+reconfigurable connectivity matrix
+variety of optical functions
+low-power reconfigurability
+scale circuit complexity
+large-scale circuit matrix of waveguides
+time
+programming interface
+programming scheme
+complete technology portfolio
+volume manufacturing
+self-configuring circuits
+variety of specialized applications
+control electronics
+2x2 couplers
+non-volatile operation
+supply chain
+2x2 switches
+electronic feedback loops
+network
+high-level design methodologies
+monitor photodiodes
+performance
+mechanical latching
+built-in redundancy
+rapid access
+FPGA
+blocks
+tuneable phase shifters
+resilience
+ways
+ambition
+demonstrators

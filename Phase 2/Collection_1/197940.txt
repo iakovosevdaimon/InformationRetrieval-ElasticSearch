@@ -1,0 +1,47 @@
+reconfiguration technology
+faster reconfiguration
+proposed reconfiguration
+run-time reconfiguration built-in
+run-time reconfiguration techniques
+HPC applications
+new reconfigurable architectures
+run-time reconfigurable computing
+run-time reconfigurable exascale HPC systems
+low reconfiguration overhead
+reconfigurable technologies
+new tools
+coarse-grain reconfigurable architectures
+design tools
+optimization of applications
+necessary HPC hardware nodes
+specific HPC application features
+time synthesis tools
+eXascale Technology
+EXTRA project
+project EXTRA
+efficient co-design
+stringent performance requirements of future exascale High Performance Computing
+ultra-efficient heterogeneous compute nodes
+synthesis of application phases
+design concept
+EXTRA focuses
+joint optimization of architecture
+European platform
+flexible exploration platform
+fundamental building blocks
+Europe’s competitive edge
+leadership
+higher functionality levels
+specialized implementations
+intrinsic feature
+order
+complete chain
+conclusion
+Suggestions
+improvements
+start
+goal
+idea
+development
+power
+times

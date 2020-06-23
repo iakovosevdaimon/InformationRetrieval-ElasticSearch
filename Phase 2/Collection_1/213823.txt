@@ -1,0 +1,24 @@
+PHASE CHANGE
+existing models
+MULTI-PHYSICS METHODOLOGY
+phase transitions
+new models
+DEPRESSURISED TWO-PHASE FLOWS
+depressurised mist
+CFD calculations
+existing commercial tools
+nearfield CFD calculation
+tool chain
+coupling
+developed ideas
+penetration
+user defined function
+numerical results
+multiphase solvers
+Eulerian formulation
+confounding space
+relevant case
+small scales
+suppression system
+Lagragian
+experiment

@@ -1,0 +1,36 @@
+cohomology of moduli spaces of Riemann surfaces
+tautological cohomology of moduli spaces of pointed Riemann surfaces
+periods of moduli spaces of genus
+Topology of moduli spaces of Riemann
+tautological rings
+terms of tautological cohomology
+tautological classes
+recent work
+n-pointed genus
+study of multiple zeta values
+Pixton’s relations
+recent conjecture
+twisted coefficients
+concrete consequences of Pixton’s conjecture
+new irrationality results
+new perspective
+partial compactifications
+form of dihedral Koszul duality
+different flavor
+Brown’s breakthrough results
+mixed motives
+ramifications
+proposal
+operads
+extensive computer calculations
+number of markings
+natural continuation
+Qizheng Yin
+Mehdi Tavakol
+brief
+systematic way
+Johan Alm
+aims
+main projects
+cases
+information

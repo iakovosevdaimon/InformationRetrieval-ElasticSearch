@@ -1,0 +1,54 @@
+CMOS device
+CMOS advantages
+fabrication of low
+nm Si dots
+self-assembly of single
+self-assembly process
+power saving hybrid SET
+large-scale use of hybrid SET-CMOS architectures
+fabrication process
+tens of nm
+induced Si Nanodot Self-Assembly
+Hybrid SET-CMOS Technology Billions of tiny computers
+nanowire GAA-SET
+Si pillars
+reliable CMOS compatible process of co-fabrication of RT
+low-power consumption
+RT operation
+energy devices
+IONS4SET
+IoT
+low-energy dissipation devices
+nanopillar fabrication
+champion of low
+Dot self-assembly works
+thermal activation of self-assembly
+single dots of diameters
+Ion-irradiation
+ion irradiation
+SETs
+source
+Single Electron Transistors
+narrow pillars
+improved batteries
+tunnel distances
+Manufacturability
+roadblock
+vertical gate-all-
+embedded SiO2 layer
+communication
+high performance
+self-alignment
+advanced computation
+FETs
+way
+room temperature
+Unrivalled integration
+feature sizes
+discovery
+fabri-cated
+SET's intrinsic drawbacks
+Lithography
+Internet of Things
+plugs
+Gartner

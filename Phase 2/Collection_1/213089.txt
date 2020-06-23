@@ -1,0 +1,53 @@
+power management
+processor level
+power efficient HPC processor
+exascale-level power efficiency
+low-power System
+future low-power European processor
+MB2020 key components
+real-life applications
+modular design
+economic sustainability of processor development
+system level simulations
+vector instruction implementation
+applications mandatory
+great energy efficiency
+system software
+Mont-Blanc
+European consortium
+SoC
+key modules
+key choices
+High Bandwidth Memory
+Scalable Vector Extension
+co-design approach
+memory latency
+new technologies
+built-in security
+reliability features
+strong innovations
+different markets
+generation product
+innovative packaging technologies
+strong technological relevance
+NoC
+versatility
+competition
+Gflops
+Architecture
+successful market acceptance
+performance
+Chip
+Watt
+server workloads
+working prototype
+project ambitions
+building blocks
+D integration
+ARM ISA
+IPs
+foundation
+dynamic ecosystem
+reuse
+target
+time frame

@@ -1,0 +1,37 @@
+functions of representations
+dual groups
+classical theory
+classical problems
+case of classical groups
+irreducible representations of reductive groups
+representations of Kac
+reductive F-groups
+special representations
+Moody groups
+representations of depth
+local fields
+local nonarchimedian fields F
+higher category theory
+impressive development
+particular development
+proposal
+definition
+extension
+fields of finite characteristic
+Langlands conjecture
+categorical counterpart
+categorical realm
+spaces of functions
+Stable center conjecture
+terms of traces
+adic sheaves
+recent years
+construction of characters
+arbitrary representation
+proof
+little bearing
+Frobenious endomorphisms
+Harmonic Analysis
+technique
+main goal
+way

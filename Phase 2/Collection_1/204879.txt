@@ -1,0 +1,41 @@
+conceptual model of interaction
+Unified Principles of Interaction
+conceptual model of interactive systems
+substrates
+basic principles
+digital information
+digital worlds
+digital workspaces
+digital workbench
+digital environment
+flexible interactive environments
+conceptual models
+single device
+multiple users
+single type of content
+instruments
+wide variety of interaction styles
+single user
+extensible environments
+predefined set of tools
+multiple devices
+various levels of abstraction
+theoretical work
+today’s computer interfaces
+representation
+biology
+psychology
+closed application
+prototype development
+empirical studies
+challenge
+interleaved strands
+inspiration
+physics
+late seventies
+lab
+concepts
+applications
+field
+project
+goal

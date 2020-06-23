@@ -1,0 +1,54 @@
+hardware modelling
+heterogeneous parallel hardware architectures
+heterogeneous parallel hardware environments
+target hardware architecture
+Transparent heterogeneous hardware Architecture deployment
+heterogeneous clusters
+heterogeneous chips
+various hardware architectures
+reconfigurable power
+power consumption awareness
+significant power challenges
+software development
+software developers
+Operation Computer systems
+self-adaptive software systems
+Research Alliance
+programming model
+design modelling
+strong research collaboration
+reference architecture
+implementation
+effective integration of project results
+complementary research efforts
+novel programming approaches
+application quality factors
+fellow projects results
+eNergy Gain
+energy efficiency
+order constraints
+sustainability of TANGO’s
+application lifecycle
+built-in support
+TANGO’s goal
+new cross-layer programming approach
+programmable logic devices
+automatic code generation
+time criticality optimization
+data location
+security
+combination of requirements
+connected platform
+addition
+current position
+performance
+real-world applications
+system architects
+dependability
+foundation
+circuits level
+HPC
+years
+relation
+main contribution
+key novelty

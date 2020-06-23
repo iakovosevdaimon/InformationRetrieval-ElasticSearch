@@ -1,0 +1,66 @@
+unifying framework
+X-ray imaging
+advanced statistical framework
+generation reconstruction algorithms
+signal-related
+Global integrative framework
+complete signal
+imaging scientists
+testing of iterative reconstruction algorithms
+principled derivation of reconstruction methods
+parameter optimization
+phase-contrast X-ray tomography
+real-time MRI
+D space
+large-scale optimization
+bigger data
+larger quantities of data
+cryo-electron tomography
+structured illumination microscopy
+novel multipose fluorescence microscopy
+learning schemes
+corresponding set of fast linear solvers
+Fourier samples
+clear separation
+key components
+Computational Bio
+implementation
+incorporation of prior constraints
+single-particle analysis
+biological images
+forward model
+quality
+regularization
+measurements
+projections
+resolution of medical
+operator algebra
+powerful strategy
+modular software library
+spatio-temporal correlation
+sparsity
+following modalities
+aspects
+redundancy
+development
+design of future bioimaging systems
+close collaboration
+new multimodal digital microscope
+formulation
+problem
+reach
+integration
+result
+charge
+state
+underlying image sequence
+recent advances
+field
+successful outcome
+information available
+core technologies
+pillars
+team
+instrumentation
+instances
+way

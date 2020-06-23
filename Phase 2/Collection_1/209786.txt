@@ -1,0 +1,53 @@
+risk of HCC
+detection of common variants
+presence of rare variants
+HEGEMONIC project
+WES data
+exome sequencing
+analysis of rare germline variants
+NGS data
+cancer genome projects
+liver carcinogenesis
+Exome Aggregation
+common cancers
+host group
+conventional sequencing
+large effect sizes
+generation sequencing
+applicant
+HEpatocellular carcinoma GErmline MutatiONs ImpaCt
+extensive clinical data available
+common cause of cancer death
+small effect sizes
+genome-wide association studies
+new biomarkers
+GWAS design
+available sources
+genetic susceptibility
+new biological hypotheses
+somatic genetic landscape
+advantage
+variation pre-existing
+genomic information
+coding regions
+normal cells
+thousands of tumors
+integrative approach
+Candidate genes
+neglected field
+genotype-phenotype associations
+epi
+controls
+patients
+series
+pharmaceutical targets
+identification
+signals
+replication cohorts
+UK10K consortia
+major pathways
+affected individuals
+limited proportion
+heritability
+environmental factors
+validation

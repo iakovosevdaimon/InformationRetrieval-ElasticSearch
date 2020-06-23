@@ -1,0 +1,52 @@
+modelling proteins
+transmembrane proteins
+interactions of disordered proteins
+applications of covariation analysis
+transmembrane protein modelling
+particular protein family
+multiple conformations of disordered proteins
+objective
+new applications of amino acid covariation analysis
+new amino acid covariation techniques
+novo protein design techniques
+experimental techniques
+large complexes
+thousands of sequences
+beta-barrel type TM proteins
+critical aspect of TM protein modelling
+predicting aspects of protein structure
+large numbers of homologous sequences
+covariation-based approaches
+new kind of evolutionary analysis
+potential applications
+experimental work
+set of available sequences
+proposal
+given proto-family
+recent developments
+key developments
+particular emphasis
+issue of homomultimers
+specific focus
+higher orders of structure
+integrated programme of work
+idea
+families
+sequence data
+rapid development
+computational statistics
+D embedding
+access
+generation sequencing
+underpinning algorithms
+collaborator
+function
+result
+DNA
+existing FILM3 method
+significant networks of correlated mutations
+fold level
+viable models
+hundreds
+RNA
+goal

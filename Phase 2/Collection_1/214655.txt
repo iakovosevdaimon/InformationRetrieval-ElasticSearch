@@ -1,0 +1,52 @@
+medical data
+general data fusion methods
+clinical data
+fusion of heterogeneous data
+big data
+project
+efficient optimization methods
+computational understanding of data
+precision medicine
+systems-level omics data
+fixed point methods
+fusion paradigms of non-negative matrix factorization
+efficient training of complex models
+hard problems
+NMTF
+paradigm shift
+recent success of non-negative matrix tri-factorization
+mathematical models
+exciting examples of hard non-convex high-dimensional non-linear optimization problems
+new biomarkers
+rare diseases
+medical treatment
+risk groups
+known drugs
+better results
+modern computational power
+New Representation of Biology
+different patient groups
+domain of biomedical informatics
+generalizing network analytics
+creation
+wealth of diverse molecular
+comprehensive framework
+availability of large datasets
+scalable software implementation
+unprecedented performance
+individual
+genomics
+exposures
+time
+aim
+major bottlenecks
+Integrated Connectedness
+subtype patients
+domains
+biomedicine
+Existing methodologies
+qualitative breakthrough
+special variants
+ways
+ambition
+research

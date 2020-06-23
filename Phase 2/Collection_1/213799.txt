@@ -1,0 +1,56 @@
+jet-noise modelling tool
+jet velocity
+turbulent jet
+canonical jet
+propulsive jet
+jet-wing systems
+jet-wing separation
+European industry
+industry initiative
+standard industry tools
+flight stream
+semi-empirical modelling tool capable
+training industry-partner engineers
+flight-stream velocity
+industry partner’s acoustic research department
+take-off flight conditions
+low-noise aircraft architectures
+turbulent flow
+numerical databases
+acoustic solvers
+use
+generation of new experimental
+sound generation
+low-rank
+adjoint-based sensitivity analysis
+work concentrates
+key flow physics
+Navier-Stokes solvers
+mining of existing high-quality experimental
+JERONIMO
+order
+installed configuration
+following changes
+Boundary-Element
+small number of parameters
+solid surfaces
+ORINOCO
+Method
+Reynolds-Average
+input
+aeronautical challenge
+capacity
+Machine learning
+previous EU projects
+propagation
+proposal
+specific workpackage
+competitiveness
+interaction
+TRLs
+models
+bridge
+ultimate goal
+simplified model
+Special attention
+robustness

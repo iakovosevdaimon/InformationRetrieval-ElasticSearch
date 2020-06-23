@@ -1,0 +1,52 @@
+parameters of combinatorial objects
+asymptotic study
+existence of objects
+combinatorial questions
+asymptotic approach
+project themes
+current project
+study of algebraic structures
+combinatorial designs
+statistical physics
+typical structure
+asymptotic results
+context
+probabilistic perspective
+proposal
+probabilistic nature
+aim
+central theme of extremal combinatorics
+development of general tools
+given set of parameters
+central importance
+given class
+effective approach
+global nature
+counting result
+probability
+inter-related topics
+decompositions
+relationship
+Latin squares
+close connections
+focus
+interplay
+approaches
+new avenues
+driving force
+theoretical computer science
+matchings
+recent advances
+reach
+objectives
+early stages
+exact formulas
+initiated methods
+situation
+hypergraphs
+immediate question
+common feature
+fact
+constraints
+number
+step

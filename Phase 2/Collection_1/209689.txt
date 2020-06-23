@@ -1,0 +1,46 @@
+infinite-dimensional gauge theories
+BV Construction
+problem of quantizing non-abelian gauge theories
+Geometric Approach
+promising approach
+so-called BRST cohomology complex
+BV formalism
+infinite-dimensional case
+infinite ghosts
+discovery of NCG
+path integral approach
+case of finite
+mathematical framework
+project
+context of quantum fields theory
+fundamental starting point
+geometrical point of view
+important role
+preliminary results
+line of research
+recovery of important information
+study
+Becchi-Rouet
+notion of spectral triple
+Stora-Tyutin
+idea
+common tool
+strong connection
+relevance
+emergence
+Batalin-Vilkovisky
+presence of local symmetries
+action
+PhD thesis
+analysis
+Noncommutative Geometry
+unexplored territory
+way
+set of observables
+peculiar phenomenon
+quantization procedure
+dim spacetime
+renormalizability
+Despite
+goal
+credibility

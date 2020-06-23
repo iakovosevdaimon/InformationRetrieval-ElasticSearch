@@ -1,0 +1,53 @@
+polynomial algebra
+multi-linear models
+efficient multi-linear algebra tools
+well-known numerical linear algebra tools
+fitting linear models
+cutting edge multi-linear
+large systems of polynomial equations
+large polynomial systems
+symbolic algebra
+polynomial models
+large impact
+large number of applications
+numbers of equations
+Big Data developments
+Big Data research
+measured data
+large number of diverse fields
+game theory
+efficient numerical methods
+coding theory
+control theory
+polynomials
+noisy coefficients
+project
+small ranges
+larger ranges
+Work Programme
+local linearization
+foundational step
+rediscovered work of Sylvester
+modelling of real-life nonlinear processes
+bioinformatics
+statistics
+signal processing
+computer vision
+key priority
+machine learning
+robotics
+optimization
+general features
+matrix singular valued decomposition
+EU Horizon
+Macaulay
+higher-order generalizations
+high-dimensional datasets
+field of tensor decompositions
+variables
+problem
+degrees
+modes of variation
+model properties
+proposal
+important development

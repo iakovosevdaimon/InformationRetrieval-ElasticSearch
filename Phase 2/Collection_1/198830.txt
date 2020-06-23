@@ -1,0 +1,46 @@
+textual data
+streamed data
+Big Data requirements
+processing of massive data
+BIG Data Scientific REsearch
+development of innovative Big Data services
+convenience of moving data
+boundaries of protected data
+dynamic re-scheduling of data
+Development of advanced cloud services
+Cloud-Centric Applications EUrope-BRAzil Collaboration
+high impact
+main challenges
+main aims
+main scenarios of high
+business impact
+Quality of Service
+Business models
+privacy
+proposal
+horizontal elastic adjustment of resources
+dynamic adjustment of workloads
+best usage of resources
+multiple challenges
+performance restrictions
+innovative evolutions
+efficient programming models
+price
+resource provision
+vice-versa
+BigData
+deadlines
+connected societies
+provisioned infrastructures
+real-time transactions
+capture
+federation
+successful model
+MapReduce
+SLAs
+limitations
+order of PB
+annotation
+demonstration
+table
+partners

@@ -1,0 +1,45 @@
+neurons code information
+whisker information
+sensory information
+Transmission of Information
+neural code
+different information
+response of layer
+components of neural population activity
+whisker-informative components of layer IV population activity
+large-scale populations of layer IV
+electrophysiological responses of layer
+Mouse Somatosensory Cortex
+neuronal activity
+mammalian cortex
+computational neuroscience
+set of computational techniques
+Optogenetics techniques
+hypothesis
+novel theoretical framework
+specific encoding strategy
+optimal applicability of causal optogenetic techniques
+high temporal
+temporal scales
+response variables
+sensory stimuli
+theoretical developments
+Non-Negative Matrix Factorization methods
+spatial resolution
+opportunity
+issues
+major challenge
+interface
+comprehensive approach
+appropriate statistical analyses
+based method
+crucial step
+role
+neurophysiology
+experimental model
+downstream networks
+optical approaches
+Wavelet
+project
+main targets
+stimulation protocols

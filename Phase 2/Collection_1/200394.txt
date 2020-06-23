@@ -1,0 +1,50 @@
+ATM change management
+innovative ATM participatory change management process
+Participatory Architectural Change Management
+ATM Systems Air Traffic Management
+well-functioning ATM system
+implications of change
+innovative participatory change management process
+heterogeneous perspectives of ATM domain experts
+overall system
+large systems
+multiple layers
+PACAS concept
+PACAS consortium
+main objective of PACAS
+key elements of PACAS
+multiple perspectives
+different layers
+layers triggers changes
+additional strategic perspectives
+security
+architectural evolution
+support decision-making
+validation
+multi-objective reasoning techniques
+domain-specific modeling languages
+safety aspects
+key driver
+better handle
+art multi-view modeling methods
+impact propagation techniques
+limited number of strategic objectives
+extended versions
+desired characteristics
+stakeholders
+cost efficiency
+functionality
+performance
+potential
+gamification approaches
+state
+issues
+external advisory board
+gamified platform
+collaboration
+respect
+design choices
+difficult task
+complexity
+generality
+tight interdependencies

@@ -1,0 +1,54 @@
+Higher-order term rewriting
+Higher-Order Rewriting
+higher-order setting
+intensional program properties
+implicit complexity
+Intensional Properties of Programs
+special form of higher
+basic research
+applied followup research
+lines of research ripe
+international research groups
+HORIP project
+program computes
+expertise
+phase
+compressibility of logical circuits
+formal definition
+formal system
+strong results
+different fields
+different areas
+potential local collaborators
+potential future business applications
+intrinsic limitations of previous work
+success
+aid
+fellow
+recent advances
+parties
+compilers
+queries
+extension therof
+common programming languages
+Rose
+advantages
+open source
+related code
+year's experience
+compiler correctness
+ideas
+non-determinism
+CRSX framework
+dedicated techniques
+powerful option
+industry collaborator
+greater expressivity
+builds
+scientist
+methods
+supervisor
+safety
+theoretical goals
+charge
+algorithms

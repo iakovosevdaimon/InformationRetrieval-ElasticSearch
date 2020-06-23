@@ -1,0 +1,65 @@
+probabilistic winter weather forecasts
+winter weather solutions
+probabilistic forecasts
+PNOWWA project
+Probabilistic Nowcasting of Winter Weather
+deducing probability forecasts of winter weather
+probabilistic short-term forecasting of winter weather
+weather radar echoes
+usage of weather radar
+proposed PNOWWA  project
+deterministic forecasts
+Time Based Operations
+Trajectory-based Operations
+snowfall intensity
+ATM applications
+user needs
+initial concept of short-range snowfall forecasts improvement
+methods
+Step
+underlying terrain
+heavy snowfall
+D trajectory management
+future SESAR projects
+ATM decision making
+Operative User Environment
+extensive user consultation
+future growth
+necessary concept
+surface management
+time resolution
+phase  solutions
+selected parameters
+relevant parameters
+ongoing EU SESAR1 program
+local OUE
+various applications
+D trajectories
+site
+FMI
+operational planning
+connection points
+predictability of changes
+Airports
+snow depth
+extrapolation of movement
+air traffic
+airport capacity
+important thresholds
+visibility
+implementation
+influence
+roadmap
+ground
+assessment
+linkages
+delays
+products
+mountains
+context
+Research demonstrations
+safety
+uncertainty
+seas
+accuracy
+adjustment

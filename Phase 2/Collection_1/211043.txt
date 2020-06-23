@@ -1,0 +1,30 @@
+UHBR Fan broadband noise prediction
+trailing edge noise
+major sources of broadband noise
+wake interaction noise
+direct broadband noise computation
+existing semi-analytic models
+semi-empirical models
+prediction of Open Rotor
+Simulations of CrOr
+validated high-fidelity methods
+improved turbulence statistics data
+high-fidelity approach
+open challenge
+blade trailing edge
+UHBR engines
+numerical methods
+SCONE project deals
+rear blades leading edge
+steady low-resolution simulations
+high-fidelity Large-Eddy Simulation
+reduced order
+use of high fidelity CFD methods
+realistic configurations
+objectives
+enhanced inputs
+industry
+strong vortex
+inaccurate results
+development
+cost

@@ -1,0 +1,61 @@
+aircraft landing gear
+landing gear strain
+way landing gear
+Advanced Landing Gear Sensing
+system components
+smallest system
+landing gear slider tube assembly
+optical sensor system
+based load monitoring system
+Detailed design of system architecture
+future aircraft development
+aircraft control systems
+aircraft availability
+existing optical interrogator systems
+flight qualification
+flight test
+flight situations
+state-of-the-art equipment
+Airbus
+delivery
+integration
+project
+Systems ITD
+development of European capability
+appropriate Design Assurance Level
+safe operation
+topic requirements
+Topic Manager
+CFP02-SYS
+appropriate aerospace standards
+Fibre Bragg Grating
+accurate integrated photonics fibre-optic interrogator
+Wavelength Division Multiplexing
+FBG
+primary objective
+torque
+new paradigm
+DAL
+domain
+WDM
+techniques
+order
+ALGeSMo
+MIL-STD
+JTI-CS2
+loading
+calibration rigs
+operability
+technology
+end
+step change
+risk
+certification
+falls
+WP4
+world-class team
+Definition
+following
+goal
+Proposals
+TRL6

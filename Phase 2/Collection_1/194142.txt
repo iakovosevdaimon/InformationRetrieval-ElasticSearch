@@ -1,0 +1,58 @@
+INtegrated TOol chain
+tool vendors
+model-based design of CPSs
+CPS technology
+CPS project
+CPS development
+CPS approach
+CPS technologies
+design alternatives
+collaborative modelling of CPSs
+holistic modelling of CPSs
+model checking
+Design Space Exploration
+comprehensive model-based design of Cyber-Physical Systems
+standalone tools
+hardware prototypes
+Loop
+industrial partners
+software
+static checking of FMI interfaces
+existing industry-strength tools
+case studies
+results of analysis
+code generation
+powerful analysis techniques
+case study owners
+compatible co-simulation
+high Technology Readiness Levels
+comprehensive set of method guidelines
+radical innovation
+connection
+experimenting
+SysML
+entry barriers
+Test Automation
+aim
+overall concept
+Functional Mockup Interface
+railways
+agriculture
+TRL
+extensions
+time
+DSE
+requirements
+well-founded semantic foundations
+pragmatic integration
+system models
+areas
+SiL
+realisation
+need
+traceability
+stages
+consortium
+HiL
+application domains
+solution

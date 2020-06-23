@@ -1,0 +1,59 @@
+simulation approach
+functional representation
+existing simulation techniques
+D content
+fast simulation techniques
+tailored simulation techniques
+multi-scale representation of functional goals
+intuitive design
+D printers
+based modeling
+design approaches
+multi-material objects
+physical properties of materials
+novel computational approach
+D-printing technology
+coarse scale
+data
+Intelligent fabrication-oriented Computational Design
+stunning properties
+intuitive methods
+physical behavior
+resolution of modern
+fundamental challenge
+Existing tools
+content creation
+fabrication constraints
+sensing capabilities
+real world-materials
+underlying material composition
+fundamental re-thinking
+increasing object complexity
+capabilities of traditional manufacturing processes
+smart precomputations
+fabricating complex
+access
+revolutionary possibilities
+hybrid models
+accuracy
+required speed
+extraordinary variety
+relationship
+appearance
+fly
+solutions
+workflow
+lack of efficient
+deformation
+MATERIALIZABLE
+domains
+potential impact
+synthesizing model instances
+key aspect
+specific output device
+problem
+expert users
+principal applicability
+low-dimensional
+account
+challenges

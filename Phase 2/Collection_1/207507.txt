@@ -1,0 +1,43 @@
+repair of DSBs
+kinetics of DNA repair
+DNA repair specificity
+Spatial organization of DNA repair
+Cells repair DSBs
+efficiency of DSB repair
+D-genome
+DSB repair factors
+genome organization impact
+non-random genome organization
+genome integrity
+nuclear environment
+nucleus Faithful repair of double stranded DNA breaks
+origin of genome instability
+pathway choice
+nuclear compartmentalization
+nuclear architecture
+distinct nuclear compartments
+specific heterochromatin compartments
+frequency of chromosomal translocations
+time robust induction of DSBs
+different pathways
+genomic instability
+cancer
+different heterochromatin structures
+specific genomic locations
+D-topological maps
+efficiency of detection
+single nucleotide resolution DSB-mapping
+protein tethering
+promiscuous biotinylation
+CRISPR
+response
+mechanisms
+quantitative proteomics
+balance
+certain mutations
+regions
+Cas9-based system
+significant implications
+given locus
+proposal
+role

@@ -1,0 +1,57 @@
+Plasma Physics
+solar physics
+novel numerical methods
+fusion physics modelling
+Geometric Numerical Integration Methods
+numerical algorithms
+new methods
+research fields
+properties of mathematical equations
+derivation of geometric numerical integrators
+Discrete Dirac Mechanics
+experiments
+leading application codes
+innovative line of research
+independent research group
+important physical effects
+todays computer codes
+geo dynamics
+fluid dynamics
+important systems
+general framework
+application of structure
+physical correctness
+oceanography
+elasticity
+meteorology
+verification
+validation
+optimal control
+European leadership
+order
+direct comparison
+attention
+predictive capabilities
+preservation of certain structures
+recent years
+successful prototype implementation
+incorrect results
+development
+open source library
+position
+numerous applications
+astrophysics
+utmost importance
+proposed actions
+transferrable skills
+corresponding simulations
+scientific computing
+cosmology
+problems
+form understandable
+participants
+computers
+know-how
+progress
+expertise
+project

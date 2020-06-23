@@ -1,0 +1,27 @@
+BRAVE NG-FPGA
+FPGA-MEDIUM
+VEGAS project
+TRL
+software tools VEGAS
+end of BRAVE project
+Validation of European high capacity rad-hard FPGA
+additional software tools
+prototype of NG
+software development
+competitive software
+Software CAD tools improvement
+end users of rad
+mitigation tools
+LARGE prototype
+LUTs
+space applications
+ESCC rules
+Space evaluation
+key challenge of European non-dependence
+competitivness
+timing
+measurable main objectives
+ongoing ESA
+nm
+required steps
+hardware

@@ -1,0 +1,48 @@
+based approximation algorithms
+approximation results
+approximation areas
+approximation properties
+exact parameterized algorithms
+parameterized algorithms tools
+FPT
+local-search
+parameterized complexity
+practical effectiveness of randomized local search heuristics
+rigorous proofs of parameterized
+Exponential Time Hypothesis
+exponential running time
+Rigorous Analysis of Practical Heuristics
+potential
+Technology transfer
+fields
+frontier of fixed parameter tractability
+recognized algorithmic paradigms
+modern algorithmic paradigms
+theoretical computer science
+new inapproximability results
+understanding of superpolynomial
+following objectives
+NP-hard problems
+major long-standing open problems
+lower bounds
+recent years
+advantage of extended formulations
+research directions
+critical mass
+PCP theorem
+subexponential
+synergy effects
+times
+techniques
+consequences
+experience
+goals
+opinion
+substantial increase
+disciplines
+main theme
+project
+Complete resolution
+methods
+fact
+phenomenon

@@ -1,0 +1,44 @@
+spatial resolution of EEG
+downside of EEG
+EEG signals
+diagnostic capabilities of EEG
+EEG inverse problem
+significant advantage of EEG
+poor spatial resolution
+spatial filter
+novel concept of EEG measurement hardware
+high temporal resolution
+Spatial super-resolution of electrophysiological measurements Electroencephalography
+brain imaging modalities
+brain-computer interface
+non-invasive recording of electrical brain activity
+indispensable diagnostic
+skull bones
+pairs of measurement electrodes
+signal processing techniques
+narrow-band signal
+dynamic network of controllable impedances
+time constants of basics units of neural activity
+neuro-feedback
+source estimation
+combination
+critical impact
+electric conductivity
+hundreds of different configurations
+gradual replacement
+tens
+emerging applications
+Hz
+use
+independent equations
+costlier alternatives
+reasons
+sharp discontinuity
+observation
+research tool
+compressed sampling scheme
+BCI
+shape
+meaningful information
+order of magnitude
+idea

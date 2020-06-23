@@ -1,0 +1,61 @@
+processing rates
+processing stage
+intersection of signal processing
+frontier of signal processing
+analog sampling
+Transmission Digital signal processing
+sampling stage
+processing of physical data
+high-rate wideband sampling
+low-rate DSP
+signal bandwidth
+applications of sub-Nyquist sampling
+rate reduction
+large Nyquist rates
+analog signals
+ADC design
+hardware design
+Nyquist Barrier
+Data Conversion
+wideband sensing
+New Paradigm
+digital domain
+digital convertors
+low cost
+revolutionary paradigm shift
+information theory
+estimation theory
+preliminary data
+current ADCs
+high bandwidth
+state-of-the-art analog
+exploit structure
+systems capable of low
+medical imaging
+ultrasound imaging
+use signals
+compressed sensing
+exploiting structure
+important areas
+Modern applications
+radar detection
+current practice
+research plan
+overreaching goal
+ambitious goal
+multi-disciplinary research
+optimization
+dimensionality
+energy consumption
+efficient parameter extraction
+substantial savings
+communications
+finite length vectors
+rich history
+advances
+major bottleneck
+implementation
+interconnected objectives
+methodology ties
+knowledge
+traditional assumption

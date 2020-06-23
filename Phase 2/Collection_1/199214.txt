@@ -1,0 +1,44 @@
+differential transcription factor dynamics
+dynamics of transcription factor-chromatin interactions
+specific transcription factors
+function of transcription factors
+Different types of transcription factors
+unexplored aspect of transcription factor-chromatin interaction dynamics
+central role of transcription factors
+chromatin-transcripton factor
+dynamics shape regulatory mechanisms
+context of nucleosome binding dynamics
+regulatory outcome
+regulatory sequence
+rates genome-wide
+dissociation rates
+properties of regulatory DNA
+responsive regulatory programs
+mRNA synthesis rates
+binding site resolution
+differential promoter behaviour
+modelling promoter output
+play
+general principles
+different functions
+appropriate interactions
+biology
+RNA polymerase
+yeast
+additional perturbations
+comprehensive set of gene
+promoters
+pre-initiation complex
+stepwise process
+components
+degree
+disease
+association
+steady-state
+work
+objective of DynaMech
+technologies
+long-term aim
+Analyses
+systematic understanding
+data

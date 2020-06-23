@@ -1,0 +1,41 @@
+architecture work
+real HPC applications
+well-balanced architecture
+previous Mont-Blanc
+ARM architecture path
+power efficient HPC platform
+architecture studies
+new high-end HPC platform
+ARM based SoC
+real applications
+low-power embedded technology
+simulation work
+new level of performance
+new high-performance ARM processors
+future SoC
+predicted performance target
+co-design approach
+pre-exascale performance
+necessary software ecosystem
+needed software ecosystem
+main target
+system innovations
+FP7 projects
+creation
+Package
+SoP
+energy ratio
+throughput-oriented compute accelerators
+node
+BSC
+WP3
+computing efficiency
+impact
+hardware
+feed
+benefits
+Bull
+additional objective
+time frame
+market
+technical objectives

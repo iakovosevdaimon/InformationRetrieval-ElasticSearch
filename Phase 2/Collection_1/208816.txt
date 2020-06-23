@@ -1,0 +1,46 @@
+splash of memory
+preemptive use of memory
+wireless communication networks
+needed memory size
+feedback-information
+feedback information theory
+preemptive distributed data-storage
+theoretical foundations of transforming memory
+gains of wireless network capacity
+preemptive use of distributed data-storage
+data rates
+Wireless Communications
+network size
+Theoretical Foundations of Memory Micro-Insertions
+ultra-fast memory-aided communication algorithms
+communication technology
+increasing data-storage capabilities
+wireless PHY layer
+receiving communication nodes
+unbounded throughput gains
+variety of envisioned wireless-network architectures of exceptional promise
+unprecedented throughput gains
+indefinite increases of data volumes
+new proposed theory
+looming network-overload
+dreaded bottleneck of real-time channel-feedback
+new approach
+long-lasting open challenge
+key scientific challenge
+hidden duality
+transmission
+deep links
+existing solutions
+practical ramifications
+real-life testing
+basic principles
+early indications
+mathematical convergence
+potential
+exploratory downlink configuration
+development
+informational-structure
+end
+study
+resources
+wired MAC

@@ -1,0 +1,58 @@
+real-time Sensor fusion
+Smart Systems
+adaptive event-based sensor fusion
+water quality monitoring systems
+sensor drifts
+novel low-power event
+biological systems
+monitoring of water pollutants
+robust multisensor integration
+unexplored event-driven fusion of electrochemical
+critical real-world monitoring
+probabilistic processors
+low-power VLSI circuits
+Probabilistic neuromorphic architecture
+Large-Scale Integration
+technology
+ProbSenS
+multisensory information
+calibration-free multisensor solution
+process low-latency data
+largest water management company
+investigation of novel
+CMOS technologies
+uncontrolled real-world conditions
+CMOS-amenable computing paradigm
+bioinspired Generative Deep Neural Network
+varied set of solid-state transducers
+meaningful features
+diagnosis scenarios
+reliable self-learning
+perceptual confidence
+extended coverage of multiple detectors
+noisy signals
+time-dependent
+context-awareness
+computational units
+true EU societal challenge
+security
+Agbar
+models
+optical microsensors
+functional working prototype
+modelling of GDNNs
+embedded implementations
+health
+infancy
+insight
+Spain
+final outcome
+modern sensors
+following multidisciplinary areas
+lack of hardware able
+environmental care
+field
+constraints
+benchmark
+principles
+project

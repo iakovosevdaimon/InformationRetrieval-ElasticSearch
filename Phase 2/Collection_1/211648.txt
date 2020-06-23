@@ -1,0 +1,58 @@
+workflow methods
+standardisation of model interfaces
+extended versions of existing tools
+compliant versions of existing models
+e-machine
+e-drivetrain
+model parameterisation
+co-simulation tool
+data management tool
+heterogeneous testing
+tool vendor partners
+EV development
+extended software tools
+project results
+seamless workflow
+FMI
+Validation of standardised models
+fragmentation
+common e-drive components
+intensive users of virtual testing
+thermal management system
+domain-specific tools
+DC converter
+common scenarios
+functional interfaces
+automated methods
+Consortium partners
+project conclusion
+automotive product development cycle virtual
+vehicle-level simulation
+test case generation
+lot of redundant effort
+Loop test-beds
+relevant use cases
+widespread EV-industry adoption
+battery
+inverter
+HiL environments
+MiL
+content
+order
+interface recommendations
+High Fidelity Electric Modelling
+computing power
+communications bandwidth available
+Hardware
+format
+module
+ASAM XiL API
+fragmented manner
+field
+market
+number of standards
+limited scalability
+HiFi-ELEMENTS
+main mechanisms
+simulations
+times

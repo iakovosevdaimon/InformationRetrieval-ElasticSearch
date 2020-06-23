@@ -1,0 +1,54 @@
+development of LLS
+applicability of LLS
+LLS context
+complex systems
+Complex Fluids Nuclear magnetic resonance
+quantum chemistry studies of NMR
+NMR methodology
+computational engineering
+quantum-chemical calculations
+Quantum-Statistical Methods
+materials research
+state-of-the-art quantum-statistical simulation methodology toolbox
+decay constant TLLS
+Long-lived nuclear singlet states
+decay of nuclear spin magnetization
+conventional computational relaxation studies
+model TLLS
+molecular simulation
+excessive computational burden
+simulated TLLS
+research fellow
+potential applications of MRI
+Machine learning techniques
+Machine learning development
+colloidal systems
+ideal systems
+paramagnetic spin relaxation enhancement
+magnetic resonance imaging
+time constant T1
+important techniques
+molecular properties
+widespread applications
+paramagnetic molecules
+general understanding
+proposed project
+theoretical understanding
+project builds
+challenging quadrupole
+lipid
+experimental expertise
+simple solvents
+oxygen
+microscopic level
+experience
+environments
+physics
+thermal equilibrium
+water phases
+biological matter
+host institution
+medicine
+orders of magnitude
+conditions
+limitation

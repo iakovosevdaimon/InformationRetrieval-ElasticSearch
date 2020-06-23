@@ -1,0 +1,46 @@
+collective preference
+preference aggregation procedures
+general preference domains
+Complex Collective Decisions
+Structured Domains Algorithms
+finite set of alternatives
+realistic preference aggregation scenarios
+real-life preference data
+fixed-size set of alternatives
+efficient algorithms
+restrictive domains
+complex group decisions
+design specific procedures
+practice of collective decision making
+structured environments
+desiderata
+efficient computation
+decision-makers
+partial order
+partial rankings
+preferences
+decision-making body
+examples
+theory
+new tools
+field of Computational Social Choice
+predefined structure
+open-source software implementations
+feedback
+member
+goal
+associated restrictions
+malicious behavior
+cognitive burden
+gap
+winner
+step
+inputs
+form
+potential users
+practical applicability
+proposal
+methodologies
+settings
+runner-ups
+aim

@@ -1,0 +1,53 @@
+theoretical models of galaxy clustering
+Clustering Calculations
+new generation of galaxy surveys
+traditional clustering models
+clustering statistic
+new physics
+motivated galaxy formation models
+function of cosmological
+cosmological N
+future cosmological constraints
+based models
+new theoretical framework
+given cosmological setting
+new fundamental particle
+limits cosmological analyses
+comprehensive exploitation of future surveys
+overall power of future surveys
+galaxies
+recent advances
+restricted range of scales
+recent years
+body calculations
+based approach
+Maximising discovery
+large progress
+large uncertainties
+unified framework
+broad range of redshifts
+analytic treatment of structure formation
+velocity of individual dark matter structures
+position
+measurements
+set of physical assumptions
+hint
+state-of-the-art perturbation
+computational cosmology
+major improvements
+potential
+breakdown of General Relativity
+times smaller
+imminent opportunity
+spatial distribution of millions
+theory
+detailed comparison
+astrophysical parameters
+nature of cosmic acceleration
+main obstacles
+novel simulation
+statistics
+predictions
+Bias
+minute of CPU time
+formulation

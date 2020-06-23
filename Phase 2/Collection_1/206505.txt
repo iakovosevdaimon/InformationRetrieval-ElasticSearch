@@ -1,0 +1,54 @@
+ESS control
+Energy Storage Systems
+use of storage
+ESS Coordination
+Energy Router
+storage providers
+Advanced Cooperative ESS
+evaluation of storage technologies
+S4G pre-designs new storage control models
+hypothetical storage installations
+cost-efficient coordination of heterogeneous ESS
+Storage4Grid Future energy systems
+various energy use patterns
+Renewable Energy Sources
+compatibility of S4G models
+new challenges
+advanced scenario
+new tools
+existing standards
+regulatory landscapes
+grid stability
+engagement of utilities
+Cooperative EV Charging
+real-life settings
+scenarios
+provision of future grid services
+optimal grid planning
+Distributed Control methodology
+Decision Support Framework
+benefits of existing
+RES exploitation
+emerging technologies
+large deployments of EV charging stations
+interfaces
+growing shares of intermittent power generation
+costs
+end-users
+self-consumption
+efficient management
+External Stakeholders Group
+innovative Unbundled Smart Meter
+increasing diffusion of Electrical Vehicles
+prosumer level
+EVs
+participation
+MicroDERLab facilities
+Bucharest
+ESG
+DC buses
+valuable solutions
+different test site
+Fur
+DK
+Bolzano

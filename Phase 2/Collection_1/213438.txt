@@ -1,0 +1,46 @@
+statistical solutions of systems
+Statistical solutions i
+weak solutions
+global existence of statistical solutions
+well-posedness of statistical solutions
+valued solutions i
+statistical quantities
+analysis of statistical solutions of fluid flow Entropy
+efficient numerical approximations
+measure-valued solution
+art numerical methods
+standard solution framework
+hyperbolic systems of conservation laws
+inviscid fluid flows
+incompressible Euler equations
+turbulent fluid flows
+space dimensions
+appropriate solution paradigm
+case of scalar conservation laws
+alternative solution paradigms
+lack of convergence
+need
+lack of global existence results
+e Young measures
+promising framework
+proposed project
+main aim
+time-parametrized probability measures
+recent demonstration of non-uniqueness
+spaces of integrable functions
+astrophysics
+information
+climate science
+suitable additional admissibility criteria
+possible multi-point spatial correlations
+state
+computations
+deterministic initial data
+nonlinear PDEs
+way
+applications
+uncertainty quantification
+observations
+theories
+Successful completion
+regard

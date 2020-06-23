@@ -1,0 +1,53 @@
+Kondo lattice physics
+Ensembles of ultracold atoms
+system of Ytterbium atoms
+Kondo lattice model
+body systems
+ensembles of ultracold fermionic Ytterbium atoms
+body phenomena
+field of Kondo physics
+body model phenomena
+specific optical lattice potentials
+optical lattices
+aspects of quantum magnetism
+lattice defects
+well-understood quantum systems
+Quantum simulation of novel
+flexible quantum simulators
+state-dependent optical lattice potentials
+spin systems
+multi-orbital physics
+broad class of interesting quantum
+investigation
+project
+symmetry SU
+light fields
+new insights
+magnetic fields
+hand
+orbital structure necessary
+artificial gauge fields
+possible new route
+specific condensed matter system
+implementation of SU
+particular electronic structure
+phase transitions
+phases
+central topic
+use of internal states
+high degree of experimental control
+strong coupling
+example
+electric conduction
+parameters
+door
+possibility
+time
+imperfections
+attributes
+requirements
+goals
+crystal
+aim
+addition
+Hamiltonian

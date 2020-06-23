@@ -1,0 +1,26 @@
+Spectral Theory
+analytic number theory
+Random Matrix Theory
+Laplacian
+Random Models
+number fields
+function field analogues
+function field setting
+curvature measures of nodal lines of eigenfunctions
+strong arithmetic ingredient
+proposal studies deterministic problems
+angular distribution of prime ideals
+various conjectured universality classes
+connections
+Poisson
+corresponding quantities
+theme
+minimal gaps
+large eigenvalue limit
+new conjectures
+GOE
+eigenvalues
+fit
+projects
+classical subject
+size

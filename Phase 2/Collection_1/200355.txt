@@ -1,0 +1,44 @@
+THz ultra-short pulses
+THz QCLs
+modelocked pulses
+Terahertz Ultra-Short Pulses
+gain medium
+interleaved gain
+coupled gain
+compact semiconductor source of ultra-short pulses
+absorbing media
+possibility of interleaving gain
+absorbing medium
+demonstrations of short pulse
+SIT effects
+promising compact semiconductor THz source
+inherent fast gain recovery time
+demonstration of passive modelocking of QCLs
+stable THz frequency comb generation
+modelocked laser
+active modelocking
+mediated modelocking
+Self-Induced Transparency Modelocked Quantum Cascade Lasers
+ps
+stability
+engineered dipole moments
+frequency range
+dephasing times
+pulse widths
+growth direction
+proposed TERAULTRA research
+inter-subband coherence times
+atmospheric science
+applications
+ultrafast spectroscopy
+success
+electromagnetic spectrum
+absorption parameters
+resonant light
+ideal tool
+date
+principle
+technological challenge
+continuous waves
+section waveguide cavities
+goals

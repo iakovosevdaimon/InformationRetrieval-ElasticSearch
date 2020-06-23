@@ -1,0 +1,56 @@
+advanced features of ICT algorithms
+criticality of ICT compoNents
+New ICT paradigms
+ATENA outcomes
+innovative algorithms
+system components
+Advanced Tools
+new challenges
+ATENA project
+new anomaly detection algorithms
+innovative features
+Critical InfrAstructures
+control of devices
+efficient management
+flexible management
+OT
+considered CIs
+suite of integrated market-ready ICT networked components
+desired level of Security
+generation of IACS
+operational industrial maturity level
+Automation Control Systems
+above-mentioned interdependent scenario
+fast dynamic CI reaction
+correct static CI configuration
+Software Defined Security paradigm
+increasing number of interconnected devices
+outcomes of previous European Research activities
+risk assessment methodologies
+recent years
+dependencies
+CockpitCI
+presence of adverse events
+reference
+Resilience
+virtualization
+mono-operator
+distributed environment
+important role
+convergence
+operators
+respect
+aggregated-plant
+Operation Technologies
+Internet of Things
+MICIE EU projects
+introduction of multi-tenancy mechanisms
+silos vision
+information
+data traffic
+selected Use Cases
+innovation
+boundaries
+time
+threats
+emergence

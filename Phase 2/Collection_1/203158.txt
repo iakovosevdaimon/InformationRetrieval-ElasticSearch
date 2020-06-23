@@ -1,0 +1,44 @@
+compact massive MIMO arrays
+key challenging areas of massive MIMO communication systems
+generation wireless communication systems
+massive multiple input multiple output
+mobile data services
+Generation Wireless Communications
+wireless networks
+times data rate
+high data rates greater
+energy efficiency
+key enabler
+energy-hungry applications
+small remote antenna units
+large number of antenna elements
+rapid increase
+certain coverage regions
+practical signalling schemes
+network coordination
+design of innovative techniques
+increased capacity density
+view
+demand
+technology
+connected devices
+transformative methods
+processing power
+increasing numbers of users
+bandwidth
+proposed work
+transformation
+tens
+Gbps
+way
+reality
+management protocols
+base station
+BS
+requirements
+hundreds
+solution
+fundamental limits
+order
+transmission strategy
+caching mechanisms

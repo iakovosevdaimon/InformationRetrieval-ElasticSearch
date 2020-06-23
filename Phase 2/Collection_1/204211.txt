@@ -1,0 +1,31 @@
+flow control system
+flow control actuator concept
+flow control actuators available
+active flow control applications
+concept of local active flow control
+industrialization of local active flow control
+stage fluidic actuators
+manufacturing of robust fluidic actuators
+parts fluidic actuator systems
+aircraft system level
+project adresses
+real-aircraft constraints
+development work
+actuator technology
+real-aircraft integration requirements
+proposed research
+detailed research
+Clean Sky projects DT-FA
+use
+pulsed air
+understanding
+FloCoSys
+test
+considerations
+innovation
+view
+higher TRL experiments
+robustAFC
+Design
+aerodynamics disciplines
+scope

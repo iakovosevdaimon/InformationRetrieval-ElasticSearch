@@ -1,0 +1,56 @@
+CT consortium
+CT project
+clinical terminology SNOMED CT
+impact of SNOMED CT adoption
+current state of SNOMED CT
+EU eHealth Interoperability Framework
+EU-wide semantic interoperability framework
+EU-wide eHealth deployments
+EU-wide recommendations
+EU level
+better semantic interoperability of eHealth services
+technical fitness
+Large Scale eHealth Deployments
+successful adoption
+organisational aspects
+fulfilment of semantic interoperability use cases
+automated semantic annotation scenarios
+organisational drawbacks
+sampled clinical data
+large workshops
+alternative scenarios
+delivery of care
+governance aspects
+Committee of MS Representatives
+national focus groups
+Concrete strategy recommendations
+potential standard
+new evidence
+relationship
+term coverage
+Expert Panel
+business
+established evaluation approaches
+manual
+Europe
+socio-economic viewpoint
+selected languages
+list of distinguished experts
+IHTSDO members
+survey
+coordination
+working tasks
+parallel H2020
+social science
+series of studies
+management
+order
+actions
+year effort
+maintenance
+SDOs
+PHC34 projects
+domain-specific
+harm
+Validation
+Sufficient budget

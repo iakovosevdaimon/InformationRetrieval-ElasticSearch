@@ -1,0 +1,47 @@
+Verification of Cyber-Physical Systems
+reliable cyber-physical systems development
+operation-critical cyber-physical systems
+time open cyber-physical systems
+physical elements
+new methods
+development processes
+ground-breaking methods
+control design
+Unifying Control
+efficient development process of safety
+verification approaches
+unknown environments
+holistic approach
+continuous dynamics
+computing elements
+automated car
+system execution
+mix of discrete dynamics
+proposed research effort
+human-robot collaborative manufacturing
+vehicles
+formal guarantees
+UnCoVerCPS
+smart grids
+de-verticalisation
+balanced participation of academic
+code generation
+future certification
+project
+industrial partners
+consortium
+EU
+lane change
+modelling
+tools
+unanticipated situations
+fly
+action
+specifications
+uncertainties
+controllers
+impact
+instance
+passengers
+order
+developers

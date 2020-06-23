@@ -1,0 +1,58 @@
+high cost
+energy threshold
+High Energy Cosmic Rays
+increased sensitivity
+wider energy range
+short wavelengths
+shorter wavelengths
+fluorescence telescopes
+VHE Astronomy
+current generations of IACT telescopes
+low-cost SiPM-based pixels
+CTA system
+number of telescopes
+view of CTA cameras
+SiPM upgrade
+PMTs
+Ground-based gamma-ray astronomy
+unwanted longer wavelengths
+generation IACT experiment
+larger area
+potential upgrades
+new photodetectors
+standard SiPMs
+MAGIC camera
+direction of incoming gamma-ray photons
+small physical area
+Cherenkov Telescope Array
+agenda of future upgrades
+light-collection efficiency
+Imaging Atmospheric Cherenkov Technique
+PET scanners
+Whipple
+detection
+improved technology
+multi-disciplinary use
+universe
+reasons
+better angular resolution
+medical physics
+electronic noise
+productive sub-fields of astrophysics
+goals
+material
+Silicon-PMs
+source-classes
+real observations
+PhotoMultipliers
+drawbacks
+GeV
+HESS
+VERITAS
+research
+novel method
+background
+pixel cluster
+primary path
+regime
+design

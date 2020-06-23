@@ -1,0 +1,56 @@
+future ICT systems
+Universal microwave photonics programmable processor
+photonic chips
+Integrated Microwave Photonics
+optical ICT systems Information
+technology-agnostic universal MWP programmable signal processor
+communication technology
+wireless segments
+photonic segments of communication networks
+architecture design
+general-purpose programmable photonic integrated circuit
+incorporation of MWP functionalities
+power consumption systems
+main required functionalities
+Silicon Photonics chip
+application specific photonic circuits
+future-proof solution
+chip mask design
+validation
+IMWP
+seamless interfacing
+future-proof physical layer
+novel concept of photonic waveguide mesh optical core
+best positioned technology
+bandwidth bottlenecks
+hardware architecture
+specific objectives
+cost-effective industrial manufacturing processes
+reduced space
+integration
+terms of capacity demand
+weight
+fiber
+number of connected end-users
+need
+footprint
+applications
+heavy nature
+awesome pace
+fabrication
+testing
+optimization
+high-cost
+potential impact
+unrivalled characteristics
+ASPICs
+implementation
+record values
+experimental demonstration
+increasing growth rates
+infrastructure
+technologies
+project
+aim
+different approach
+widespread use

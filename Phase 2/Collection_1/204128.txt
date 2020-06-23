@@ -1,0 +1,43 @@
+cell morphology
+cell-cell
+tissue morphology
+cellular morphology
+regulatory processes
+genetic regulatory circuits
+coordinating tissue development
+differentiation processes
+interplay
+genetic circuits
+tissue level
+pairs of cells
+neighboring cells
+downstream consequence of cell fate decision processes
+context of Notch
+embryonic development
+Notch mediated patterning
+robust patterning
+robust differentiation patterns
+systems level understanding of development
+boundary
+mammalian inner ear
+morphological changes
+novel reporters
+novel hybrid modeling approach
+mathematical modeling
+cochlear inner ear explant imaging
+transition
+important role
+rise
+multiple examples
+disordered undifferentiated state
+pattern of hair
+conceptual tools
+micropatterning technology
+foundation
+questions
+molecular composition
+Multi-scale analysis
+properties
+feedback
+geometry
+vitro

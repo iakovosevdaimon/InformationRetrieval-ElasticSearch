@@ -1,0 +1,51 @@
+membrane fluid interface
+membrane interface
+Fluid Resistances
+new membrane systems
+New Instruments
+new means
+membrane surface
+new materials
+fluid based resistances
+prevalent mass transport resistances
+new nano
+selective membranes
+selective transport rates
+potential use of membranes
+representative membrane separation processes
+microfluidic transport studies
+field of synthetic membranes
+Membranes Today’s materials research
+Strategic Tools
+proposed research
+device systems
+irreversible fouling
+form diffusion limitations
+limitations of concentration polarization
+additive manufacturing techniques
+flowMRI
+microPIV
+solutes
+hydrodynamical properties
+D geometry of channels
+mesoscale material
+computational fluidic dynamics
+printing
+access
+biological matter
+fabrication
+mixing
+laminary boundary layers
+lateral patterning of chemical topology
+simulation methods
+dynamical gradients
+CFDEM
+colloids
+rigorous translational methodology
+stamping
+flow imaging
+process condition
+scaling
+ConFluReM
+phenomena
+order

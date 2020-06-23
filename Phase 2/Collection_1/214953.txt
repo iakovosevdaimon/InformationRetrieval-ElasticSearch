@@ -1,0 +1,52 @@
+photon source devices
+efficient single photon sources
+single-photon source industrialization
+Photon High Way - Integrated single-photon sources
+new generation of single photon sources
+source performances
+quantum optics
+source integration
+chasm Optical quantum technologies
+quantum-enhanced performances
+today’s sources
+semiconductor quantum dots
+quantum properties of light
+project
+self-optical alignment
+cryo-cooled plug
+trained specialists
+expensive optical collection setup
+operation procedures
+affordable prototype
+non-specialists
+customized cryo-cooler
+use
+robust architecture
+prototype's robustness
+discussions
+PI team
+resources
+communications
+sensing
+industrial partners
+necessary packaging
+big research facilities
+ERC StG QD-CQED
+stability
+computation
+monolithic fibre coupling
+electrical feedback controls
+simulation
+multiple cooling cycles
+IPR measures
+short-term commercialization
+cavities
+framework
+detailed testing
+efficiency
+critical step
+order of magnitude
+stabilized cryostats
+technology
+percents
+objective

@@ -1,0 +1,52 @@
+clinical DEcision Support
+optimization-based decision support
+Mathematical Optimization
+basic clinical data
+mathematical models
+clinical example
+important decisions
+ECG data
+mathematical core
+model-driven decision support system
+trains individual decision making
+complex decisions
+therapy decisions
+maturity of mathematical methods
+increasing availability of data
+single data-points
+terms of mathematical relations
+systematic model-driven training
+large number of clinical areas
+optimization algorithms
+Training Physicians
+training tools
+systematic approach
+circumstance-specific personalized medicine
+rural areas
+specific structures
+high-impact
+atypical atrial flutter
+discrimination of atrial fibrillation
+existing collaborations
+disciplinary expertise
+mixed-integer optimal control
+laboratory
+patient
+scheduling
+interdisciplinary work program
+available imaging
+educational experts
+computer
+software
+unwanted exception
+dosage of chemotherapy treatments
+expert knowledge
+developed ideas
+time
+life
+consultation
+tasks
+experience
+optimized solutions
+day
+future

@@ -1,0 +1,50 @@
+FOG-aided wireless networks
+theoretical principles
+algorithmic principles
+edge processing
+network edge
+algorithmic foundations of fog
+fundamental theoretical insights
+cloud processing
+theoretical framework
+algorithmic solutions
+design of existing networks
+new technologies
+operation of fog
+emerging class of wireless systems
+cacHing
+communication
+engineering insights
+signal processing
+distributed computing
+computing resources
+distillation of design principles
+key technologies
+fronthaul network
+novel fundamental research problems
+network information theory
+FOGHORN project
+G systems
+new academic opportunities
+initial research activity
+main aim of guiding engineering choices
+greening
+terms of capital
+optimization
+operating cost reductions
+optimal management
+benefits of centralization
+queuing
+complementarity of cloudification
+synergy
+topic
+evolution
+localized intelligence
+spectral e fficiency
+low-latency applications
+internet
+transmission
+contrast
+goal
+forefront
+time

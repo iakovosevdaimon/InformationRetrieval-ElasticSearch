@@ -1,0 +1,35 @@
+data warehouses
+data management
+low-level data communications
+overall performance
+Significant performance improvements
+data-intensive environments
+data communication domain
+Large Systems
+novel query execution system
+network communications
+large scale data-analytics community
+high-level query executions
+NEtwork-aware Optimization
+main performance challenges
+efficient execution of query operations
+gap of co-optimization
+co-optimization perspective
+network configurations
+project
+career development
+presence of different workloads
+increased research profile
+additional gains
+industry
+scenarios
+collaboration
+black box
+fields
+knowledge
+state-of-the-art methods
+design
+proposed techniques
+networks of UCD
+meantime
+success

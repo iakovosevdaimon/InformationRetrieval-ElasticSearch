@@ -1,0 +1,50 @@
+RS community
+compressed RS images
+RS image characterization
+scalable RS image indexing
+multi-source RS images
+large-scale RS CBIR problems
+existing RS CBIR systems
+image retrieval
+EO data applications
+scalable retrieval
+tools
+feature representations of different RS image sources
+spectral resolution of EO data
+massive EO data archives
+Scalable Processing of Big Data
+retrieval methods
+main challenges of Big EO data
+spectral information present
+characterization of high-level semantic content
+high level semantic content
+useful information
+massive archives
+huge number of earth observation
+innovative feature extraction
+unified form of feature representation
+search mechanism
+practical problems
+novel methods
+developed methodologies
+operational applications
+satellite systems
+application point of view
+satellites
+specific man-made structures
+Synthetic Aperture Radar sensors
+significant impact
+remote sensing
+extract features
+decade
+limitations
+great attention
+forest areas
+variety
+time
+mining
+benchmark archive
+end
+advances
+theory
+BigEarth project

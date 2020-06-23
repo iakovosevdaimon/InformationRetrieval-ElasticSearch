@@ -1,0 +1,50 @@
+cloud-based identity information
+Secure Cloud Identity Wallet
+secure handling of identity data
+digital identity information
+use of digital identity
+underlying cloud services
+identity provider
+secure access
+digital services
+innovative cloud
+used cloud platforms
+ubiquitous access
+high security
+high assurance domains
+critical personal data
+access management systems
+current password-based authentication schemes
+e-Government
+e-Health
+e-Business
+privacy requirements
+resilience approaches
+operating IAMs
+novel crypto-approaches
+technologies IAMs
+multi-factor authentication
+resulting variety of authentication
+various novel mechanisms
+high technical readiness
+use of sophisticated proxy cryptography schemes
+authorisation mechanisms
+used resources
+increasing mobility
+significant advantage
+Internet usage
+end-to-end encryption
+network
+trust issues
+combination of strong hardware
+demand
+outputs
+test
+trend
+additional degree of complexity
+easy-to-use way
+abstracting
+cases
+text
+order
+goal of CREDENTIAL

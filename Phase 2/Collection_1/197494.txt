@@ -1,0 +1,53 @@
+RNAi contribution
+potential of RNAi
+features of RNAi
+endogenous RNAi roles
+endogenous mammalian RNAi
+mammalian RNAi dormancy
+consequences of hyperactive RNAi
+species-specific roles of mammalian RNAi
+understanding RNAi function
+negative effect of hyperactive RNAi
+assessment of antiviral activity of RNAi
+Dicer-independent pathway
+full-length Dicer
+truncated Dicer
+mouse oocytes
+Dicer-Dependent Defense
+simple truncation of Dicer
+germline
+unique physiological roles
+miRNA pathway
+redundant roles
+D-FENS project
+mammalian immune system
+relationship
+piRNA pathways
+hamster oocytes
+genetic models
+Mammals Viral infection
+inefficient processing of dsRNA
+genetic animal models
+viral infections
+physiological significance
+stranded RNA
+RNA interference
+suppression of retrotransposons
+ancient eukaryotic defense mechanism
+maternal mRNA degradation
+co-existence
+organismal level
+cell-specific
+rules
+exceptions
+retrotransposon expansion
+genome
+implications
+bovine
+production of double
+bioinformatics analyses
+N-terminal
+factor
+human therapy
+synergizing objectives
+RNase

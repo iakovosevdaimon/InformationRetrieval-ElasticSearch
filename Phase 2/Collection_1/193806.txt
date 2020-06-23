@@ -1,0 +1,52 @@
+optical interconnects
+compact optical amplifier
+existing optical amplifiers
+colloidal HgTe QDs
+native optical gain medium
+type of QDs
+new type of optical amplifier
+gain peak wavelength of colloidal QDs
+commercial potential of optical amplifiers
+gain threshold
+Semiconductor QDs
+colloidal qDOT
+cheap solution-based techniques
+HgTe colloidal quantum dots
+traditional gain host media
+amplifier function
+silicon photonics chips
+silicon photonics’
+close industrial collaboration
+big industrial players
+ERC project ULPICC
+additional advantage
+performance testing
+power consumption
+increasing data-transfer rates elusive
+INTEL
+orders of magnitude lower
+rare earth
+wet chemical synthesis procedures
+terms of bandwidth
+reliability
+electronics
+IBM
+board-level OIs
+efficiency
+discovery
+licensing
+ones
+requirements
+application
+lack
+spin-off creation
+V semiconductors
+knowhow
+NTT
+intrinsic losses
+objective of INTERDOT
+total
+value
+investigated approach
+size
+market

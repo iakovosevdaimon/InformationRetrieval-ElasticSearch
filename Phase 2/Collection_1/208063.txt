@@ -1,0 +1,58 @@
+human ergonomics
+human operators
+Human Robot cooperation
+human-robot cooperation
+Cabin Assembly tasks
+assembly light
+assembly of light components
+advanced human-robot collaborative solutions
+Application Assistant
+LMA
+aircraft’s cabin
+assembly of aircraft interiors
+autonomous tasks
+execution of tasks
+cabin-cargo installation process
+humans
+handling heavy objects
+exoskeleton structure
+heavy parts
+different parts
+users
+process  phases
+small components
+Wearable upper arms exoskeleton
+lightweight manipulator
+software platform
+different services
+EURECA project framework
+Lightweight Mobile Arm
+seats
+temporary obstacles
+assemblying large
+multi-modular interfaces
+management
+map
+assistive environment
+flexible compoents
+fast attach
+feedback
+adaptation
+issuing of commands
+generation of programs
+projector beam
+RGB-D camera sensors
+people
+passive trolley
+layered architecture
+operation status
+Continuous update
+safety requirements
+requests
+transporter
+working conditions
+pool of devices
+frameworks
+actions
+following technologies
+applications

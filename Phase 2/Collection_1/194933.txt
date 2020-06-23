@@ -1,0 +1,45 @@
+Energy Harvesting
+smart communication systems
+today's communication systems
+available energy sources
+information theoretic framework
+information transfer capabilities of communication systems
+smart homes
+Smart Communications
+smart cities
+existing information theoretic solutions
+practical signal processing framework
+Signal Processing Approach Efficient usage of energy resources
+power allocation methods
+wind power
+resulting solutions
+line of work
+alternative estimation theoretic perspective
+Practical receiver structures
+context of practical scenarios
+linear filtering
+linear precoders
+efficient transmission
+important ingredients
+promising perspective
+resource allocation strategies
+main line of research
+wireless sensor networks
+low complexity designs
+growing concern
+wide range of applications
+problem
+attention
+rate maximization criterion
+fundamental limits
+applicability
+man
+grid
+subject
+nodes
+features
+number of recent works
+approaches
+moment
+signals
+fixed battery

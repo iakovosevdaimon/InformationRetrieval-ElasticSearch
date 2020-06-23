@@ -1,0 +1,64 @@
+Cavitation erosion
+design of cavitation
+cavitation problems
+cavitation simulation
+hydrodynamic cavitation
+erosion problems
+induced erosion
+locations of erosion
+surface erosion damage
+material loss Cavitation
+developed models
+experimental validation of computational models
+fuel injectors
+pumps
+hydro turbines
+hydro-turbines
+sub-grid scale models of URANS
+vapour pressure
+long-lasting problems
+new experimental data
+damage of mechanical components
+mechanical heart valves
+fluid flow computational methods
+marine propellers
+significant progress
+flowing liquid
+liquid falls
+formation of vapour
+parallel simulations
+operation of devices
+DNS simulations
+Model validation
+development of methodologies
+new advanced X-ray
+significant additional repair
+open-source simulation tool
+laser diagnostics
+cavitating flows
+research programme
+maintenance costs
+bearings
+example
+impellers
+rudders
+cases of industrial
+high speed imaging measurements
+detailed bubble collapse mechanism
+remedial measures
+gas bubbles
+vibration
+approaches
+component replacement
+proposed interdisciplinary training
+Insight
+systems
+performance
+countermeasures
+region
+Application
+engineering scales
+benefit
+relevant communities
+Information
+project

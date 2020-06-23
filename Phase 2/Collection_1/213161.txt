@@ -1,0 +1,59 @@
+motion generation
+Memory of Motion
+motion-generation technology
+MEMMO partners
+relevant industrial applications
+motion capabilities of robots
+MEMMO technologies
+humanoid robot
+quadruped robot
+large range of industrial
+complex robots
+industrial tooling tasks
+medical environments
+basic robot state
+tractable approach
+feedback control
+legs
+optimal-control theory
+model predictive control
+dynamic walking
+advanced locomotion
+proposed technology
+dynamic environment
+combination of arms
+complex movements
+advanced exoskeleton
+medical surveillance
+service applications
+end-users partners
+changing environments
+real construction site
+real aircraft assembly
+computed optimal motions
+challenging inspection task
+slopes
+focus
+flat floor
+paraplegic patient
+vision
+stairs
+new situations
+specifications
+scale demonstrator
+rehabilitation center
+Available sensor modalities
+huge innovation potential
+experts
+preliminary results
+execution
+adaptive behavior
+stakeholders
+domain
+generalization
+project
+innovative components
+generality
+ambition
+demonstrators
+trajectories

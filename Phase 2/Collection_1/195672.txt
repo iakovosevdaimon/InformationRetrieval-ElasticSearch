@@ -1,0 +1,34 @@
+high-fidelity flow simulations
+High-Fidelity Flow Simulation High-fidelity flow simulation
+high-performance tools
+flow simulations of practical
+high-performance computing
+scalability of implicit flow solvers
+High-Performance Curved Meshing
+Unstructured High-Order Galerkin Solvers
+combined tools
+project
+different parallel high-order stabilized Galerkin solvers
+parallel curved unstructured mesh generator
+geometrical accuracy
+automotive designs
+automotive industries
+novel research
+exascale computing
+cheaper exploration of aeronautical
+number of mesh elements
+energy consumption
+noise emissions policies
+complex domains
+industrial computer-aided design models
+given computational cost
+development
+combination
+data transfer
+promising alternative
+European agencies
+large cluster
+main goals
+integration
+ratio of operations
+capability

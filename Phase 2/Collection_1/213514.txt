@@ -1,0 +1,34 @@
+phenomenon of high dimensional expansion
+type of high dimensional expansion
+study PCPs
+agreement expansion questions
+High Dimensional Expanders PCPs
+cosystolic expansion
+new notions of high dimensional expansion
+global connection
+global phenomenon
+local constraints
+linear size PCPs
+global object
+striking local
+Agreement Tests
+hardness of approximation
+systematic study
+relation
+important open questions
+hardness amplification
+approximation counterparts
+derandomizing direct product constructions
+coboundary
+computational complexity
+NP witness
+unique games conjecture
+fact
+applicability
+Checkable Proofs
+exact optimization problems
+concrete notion
+progress
+correctness
+fraction
+literature

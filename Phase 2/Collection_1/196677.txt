@@ -1,0 +1,56 @@
+Euclidean Fourier Analysis
+Functional Fourier Analysis
+deep analysis
+Fourier transform
+study of PDEs
+study problems
+field of Harmonic Analysis
+study of bilinear
+multilinear Fourier multipliers
+Euclidean situation
+semigroup of operators
+Geometry
+study of nonlinear transport equations
+heat semigroup point of view
+Euclidean balls
+previous Euclidean specificities
+specific PDEs
+general situation
+notion
+Partial Differential Equations
+Navier-Stokes equations
+space decomposition
+ambient spaces
+systematic way
+frequency decomposition
+different problems
+general framework
+BMO-type spaces
+Fractals
+Euler
+Riemannian manifolds
+bounded open set setting
+development
+interface
+space-time resonances
+fashionable topics
+Riesz
+method
+project
+oscillation
+frequencies
+dispersive estimates
+version
+connexion
+Giorgi inequalities
+mind
+novelties
+questions
+applications
+Poincaré inequality
+main goal
+proposal
+results
+aspects
+Challenge
+advantage

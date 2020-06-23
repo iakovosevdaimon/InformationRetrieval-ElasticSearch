@@ -1,0 +1,51 @@
+tractable algorithmic graph problems
+algorithmic problem
+systematic investigation of hard algorithmic graph problems
+complexity landscape of hard algorithmic graph problems Graph-theoretical models
+wide range of graph problems
+novel algorithmic results
+unified algorithmic understanding
+graph algorithms
+efficient algorithmic solutions
+novel algorithmic techniques of practical
+well-studied problems
+specific sporadic problems
+complexity classifications of Constraint Satisfaction Problems
+new levels of algorithmic understanding
+possible algorithmic insight relevant
+parameterized complexity
+entire complexity landscape
+rich complexity landscapes
+Systematic mapping
+project
+given formal framework
+communication networks
+formal setting
+unification results
+restricted variants
+methodological framework
+practical relevance
+wide range of computer science applications
+description of road networks
+dichotomy program of CSPs
+particular problem domain
+natural tools
+survivable network design
+circuits
+abstract relations
+objects
+level of attention
+routing
+research
+potential
+approximability
+areas
+patterns
+complete classification
+generality
+special cases
+little work
+time
+context of graphs
+approach
+goal

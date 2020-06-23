@@ -1,0 +1,43 @@
+Langlands Program
+local Langlands correspondence
+Galois representations
+automorphic representations of arbitrary reductive groups
+Galois groups
+arbitrary split reductive group
+dual group
+setting of global function fields
+terms of representations
+parameterization of representations
+research group
+Global Methods
+automorphic forms
+equicharacteristic non-archimedean local fields
+cases of automorphic induction
+global problems of strong independent
+understanding
+potential automorphy theorems
+new results
+desired surjectivity
+cases of soluble base change
+descent
+concrete applications
+deep relations
+significant technical obstacles
+proof of Fermat's
+number theory
+conjectural framework
+Wiles
+p-adic
+striking breakthrough
+arithmetic
+following objectives
+adelic
+existence
+key example
+Lafforgue
+proposal
+milestone
+progress
+goal
+consequence
+strategy

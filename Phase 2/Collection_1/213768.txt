@@ -1,0 +1,43 @@
+modelling of matching problems
+difficult matching problems
+Global Matching Problems
+convex problems
+hardness of general matching problems
+proposal
+High-impact
+high risk - high impact
+high practical value
+high-dimensional
+suggested research program
+aspect of scientific research
+practical generic algorithms
+practical aspects
+theoretical guarantees
+limits of current algorithmic solutions
+unified algorithmic framework
+novel theoretical analysis
+core methodological aspect
+suggested convexifications
+efficient algorithms
+preliminary results
+solutions of important instances
+convex optimization tools
+correctness
+breaking new ground
+tightness
+potential success
+profile
+certain classes of non-trivial input
+careful way
+methodology
+account computational complexity
+strong evidence
+Methods
+main goal
+state
+applications
+case-studies
+art performance
+significant influence
+inroads
+NP-hard

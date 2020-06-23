@@ -1,0 +1,59 @@
+practice of AE
+AE goal
+new AE algorithms
+secure AE schemes
+generation AE schemes
+future applications
+fine-grained security models
+classical security models
+Practice-Oriented Security Models
+existing security notions
+reported security vulnerabilities
+set of envisioned new security
+Future-Proof Authenticated Encryption
+CAESAR finalists
+future-proof design paradigms
+design-centric CAESAR competition
+future heterogeneous environments
+constructions of CAESAR submissions
+review of practical applications
+Granular Designs
+robustness features
+emerging streaming media applications
+cryptographic community
+insecure designs
+deployed protocols
+appropriate cryptographic tools
+Internet of Things
+widespread use
+data confidentiality
+IPTV
+immense increase
+widening spectrum of disparate requirements
+IEEE
+TLS
+popularity
+inconsistencies
+financial ICT systems
+Wi-Fi
+IPsec
+Cloud Computing infrastructures
+fundamentals
+gaps
+SSH
+wide range
+exploits
+critical look
+research
+integrity services
+remaining problems
+information
+communication infrastructure
+evaluation
+theory
+adoption
+important ongoing challenges
+ANSI C12
+decade
+results
+POMEGRANATE

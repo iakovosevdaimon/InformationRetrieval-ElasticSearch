@@ -1,0 +1,43 @@
+dynamics of X chromosome epigenetic inactivation
+dynamics of epigenetic processes
+functional relevance of X chromosome epigenetic programming
+random X chromosome inactivation
+accumulation of epigenetic memory
+Role of epigenetic mechanisms
+initial stages of epigenetic programming
+loss of active epigenetic marks
+single-cell studies
+proprietary single-cell ChIPseq method
+genome-wide single cell transcriptomics approach
+studies of similar processes
+field of XCI
+exact specio-temporal dynamics
+chromatin accessibility profiling
+transcriptional repression
+transcriptomic experiments
+integrated approach
+standard ChIPseq assay
+striking examples of transcriptional regulation
+reciprocal accumulation of repressive ones
+gene knockout models
+additional depth
+heterogeneity
+long non-coding RNA
+dataset accounting
+project
+Xist
+genomic loci
+form of chemical modifications
+implications
+female mammalian embryos
+coating
+unprecedented level of information
+dramatic remodelling
+roadmap
+population
+Developmental progression
+changes
+questions
+work
+XY individuals
+carcinogenesis

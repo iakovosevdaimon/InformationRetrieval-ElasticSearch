@@ -1,0 +1,56 @@
+Robots Society
+presence of humans
+humans exploit task uncertainty
+robot learning
+robot control
+design of novel learning strategies
+run time
+machine learning
+stages of skill acquisition
+methods
+control variables
+novel approach
+optimization
+planning
+longitudinal study
+unexpected changes
+acquisition of dexterous bimanual skills
+feasible control laws
+autonomous vehicles
+autonomous appliances
+bimanual synergies
+growing need
+humans’ precision
+industrial task
+characteristics of DS
+hand robotic system
+complex robotic platforms
+matching humans’ capacity
+multi-arm
+rehabilitation devices
+daily life
+high-dimensional constrained problems
+live demonstrations of coordinated adaptation
+doors
+slow-paced tasks
+sensory-motor noise
+leaps
+speed of computation
+craftsmanship
+failures
+new environmental constraints
+little attention
+past decades
+robotics
+ways
+properties of dynamical systems
+advances
+challenges
+on-line reactivity
+project
+vast amounts of data
+modelling
+controllers
+date
+endeavour
+successes

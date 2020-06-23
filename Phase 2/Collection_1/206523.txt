@@ -1,0 +1,57 @@
+Wave-based methods
+Wave-based Room Acoustics Modeling Virtual acoustics
+ray-based approximations
+audible features of room acoustics
+high-quality room acoustics renderings
+wide market of architectural acoustics
+demand cloud-based service
+practical setting of real-world room acoustics
+industry-standard ray-based platforms
+new generation of sophisticated virtual acoustics
+WRAM system
+immersive game audio
+virtual reality
+shortcomings of ray
+game audio practitioners
+NESS project
+Conventional audio rendering approaches
+industrial partners
+development
+proposed ERC PoC project WRAM
+capable of rendering diffraction
+complete simulation
+shadowing effects
+complete description
+viscothermal effects
+wide variety of industrial sectors
+prototype system
+acoustic field
+acoustic space
+key innovations
+low audible frequencies
+detailed market analysis
+concert hall design
+potential commercial partners
+tools
+frequency-dependent wall conditions
+possibilities
+theory
+modelling of arbitrary geometries
+strengthening
+investment
+regard
+listener’s experience
+corners
+aim
+extensive consultation
+business case
+obstructions
+air
+StG
+IP position
+benchmarking problems
+main activities
+enclosure
+interaction
+measurement
+applications

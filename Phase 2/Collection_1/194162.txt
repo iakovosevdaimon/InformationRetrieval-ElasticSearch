@@ -1,0 +1,54 @@
+cloud resources
+Cloud applications
+cloud orchestration
+federated Cloud infrastructures
+underlying Cloud providers
+distribution of VM images
+optimized VM images
+key enabler of cloud computing
+provider lock-
+efficient usage of hardware resources
+software environment
+project
+simultaneous use of multiple federated Clouds
+multiple virtual machines
+provider-specific templates
+efficienT vIrtual maChine opErations Virtualization
+virtualization environments
+QoS requirements
+increased elasticity
+physical hardware
+interoperability of VMs
+dEcentralized repositories
+proprietary repositories
+interesting selection of complementary use cases
+improved resource usage
+multi-objective optimization
+energy management
+performance
+economic costs
+speed
+earth observation
+lower cost
+hinder portability
+storage size
+fault tolerance
+automatic decomposition
+users
+knowledge collection
+desired Quality of Service
+redundancy
+academia
+promise
+data processing needs
+business
+auto-scaling
+reasoning  infrastructure
+creation of lightweight
+industry
+industrial partners
+related features
+novel
+level
+SME
+Critical barriers

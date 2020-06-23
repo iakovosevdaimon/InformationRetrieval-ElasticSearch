@@ -1,0 +1,55 @@
+LiFi connection solutions
+LiFi communication
+LiFi applications
+LiFi proprietary
+robust LiFi connection
+existing LiFi module
+connected headset
+standard solutions
+implemented solutions
+connected devices
+abnormal conditions
+aircraft server
+Aircraft Light Communication
+TRL5 applications
+existing wired connections
+severe environmental conditions
+ambition of ALC
+data transmission
+current RF transmission drawbacks
+current consumption
+TRL5 pass
+flight crew wireless audio headset
+legacy wireless technology
+DO160-G compliant
+health monitoring
+offices
+proposed solution
+propagation effects
+impact
+behaviour
+artificial lights
+evidence
+risk of interference
+new services
+possible threat of malevolent action
+motion signals
+power management
+obstacles
+LUCIOM
+demanding environment
+FACTEM
+WiFi
+Bluetooth
+comprehensive analysis
+qualitative indicators
+smoke
+test
+battery
+EFB tablet
+cockpit
+functions
+criteria
+targeted breakthroughs
+project
+autonomy

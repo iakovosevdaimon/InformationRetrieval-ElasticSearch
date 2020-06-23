@@ -1,0 +1,71 @@
+Indra proposal
+power demand
+main power distribution
+new electrical power distribution system
+new EPDS
+INDRA SISTEMAS
+support of TM Rig tests
+integration tests
+INIDIS proposal
+Indra HVDC Distribution system
+rework proposal
+Project management
+intelligent power management function
+low-medium installed power
+internal tests
+SYS-ITD
+high power solid state switching
+new switching devices
+new smart-contactors
+testing
+certification support
+integration activities
+airline support
+prototype development
+small aircraft
+n-EPDS
+aeronautical sector
+CFP04-SYS
+topic mangaer rig test
+certified aeronautical supplier
+activities of analysis
+electrical characteristics
+topic manager
+traditional contactors
+dedicated prototype
+main challenges
+Optimization
+preliminary dTo esign
+manufacturing
+design
+qualification
+specification availability
+HVHP-SSPC
+international standards
+E-HVContactor
+resources
+Definition
+WPs
+simulation
+negotiation phase
+capability
+evolution
+customer
+IPMS
+delivery
+JTI-CS2
+necesities
+end
+advantages
+CleanSky2 program
+vast experience
+charge
+dissemination
+load sheeding
+best way
+subassemblies
+operability
+aditional challenge
+helicopter
+protopypes
+order

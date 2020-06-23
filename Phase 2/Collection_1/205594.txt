@@ -1,0 +1,50 @@
+G network evolution
+software network architecture
+network infrastructures
+uniform network orchestration
+specialized network slices
+scalable network slice management
+specific network function flexibility
+network function placement support
+end-to-end network slices of various
+execution of virtual network functions
+multi-vendor network functions
+G slicing architecture
+Europe
+Pagoda
+Japan
+coherent architecture
+G-oriented standardization roadmap
+convergent software functionality
+slice software features
+important developments
+proposed developments
+customized software components
+immediate NFV standardization
+convergent set of scalable orchestration APIs
+standardization coordination
+orchestration framework
+evolution step
+practical implemented components
+data plane programmability
+run-time management
+data path
+graceful integration
+practical demonstration
+common SDN
+lightweight control plane
+coherent proof of concept
+dynamic deployment
+transparent exchange of knowledge
+composition
+customization
+different markets
+research
+playground nodes
+softwarized networks
+applications
+service
+steps
+technological aspects
+testbed
+objectives

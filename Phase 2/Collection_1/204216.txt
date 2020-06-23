@@ -1,0 +1,52 @@
+TSCP system
+Touch Screen Control Panel
+TSCP prototypes
+touch screen technology
+touch sensor
+LArge Passenger Aircraft Reliable Touch Screen
+future aircraft
+aircraft systems
+existing aircraft
+controlled system
+purpose of LAPARTS
+enhanced cockpit simulator
+disruptive cockpit simulator
+issues
+user comfort
+control chain
+end user interests
+Overhead Control Panel
+safety critical applications
+safety critical functions
+required safety levels
+turbulence conditions
+user centred design methodology
+conditional phase
+catastrophic failure conditions
+force sensing technologies
+knobs
+lot of attention
+usage cost reductions
+weight reduction
+recommendations
+buttons
+manufacturing
+human factors
+order
+numerous electro-mechanical switches
+sophisticated combination of projected capacitive
+tactile HMI
+annunciators
+OCPs
+discrete wires
+deployment
+revolution
+test platforms
+LPA IADP
+certification authorities
+environmental implications
+longer term
+current state of art
+WP3
+functionalities
+display

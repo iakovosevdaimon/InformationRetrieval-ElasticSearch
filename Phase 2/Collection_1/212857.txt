@@ -1,0 +1,59 @@
+MR image simulation
+validation of image segmentation algorithms
+MR imaging
+quantitative image analysis
+validation of image analysis algorithms
+lack of MR image databases
+image simulation methods
+image quantification applications
+leading image analysis research groups
+Magnetic resonance image simulationfor training
+imaging techniques
+organ segmentation
+substantial public image databases
+automatic segmentation techniques
+Manual segmentation
+research assignments
+ample MR images
+major imaging modality
+wide uptake of automatic segmentation
+evolving medical imaging world
+Open Ground Truth Training Network
+pathology
+unique set of targeted interdisciplinary training
+leading clinical centers
+exact reference segmentations
+spine anatomy
+areas of anatomy
+quantification of disease
+young researchers
+major components
+biological tissue properties
+daily clinical practice
+mathematical organ models
+Philips
+UMC Utrecht
+TU Munich
+Kings College London
+world-wide recognized authority
+education
+current barriers
+Eindhoven University of Technology
+global leader
+German Center
+brain
+physics
+diagnosis
+specific biomarkers
+action
+accurate optimization
+innovative approach
+experienced supervisors
+sound career development plans
+large inter-user variability
+Neurodegenerative Diseases
+computer
+classification
+benchmarking
+MRI
+clear trend

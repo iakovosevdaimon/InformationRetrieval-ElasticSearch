@@ -1,0 +1,57 @@
+GMF models
+D dust model
+superior GMF model
+generation GMF model
+local GMF
+Optical Polarization of Stars
+interstellar dust
+observational GMF tracers
+use
+D all-sky
+Galactic magnetic field
+available data
+plane field
+dust distribution consistent
+bayesian sampler
+absorption limits
+IR absorption
+differential absorption
+quantitative model comparison
+current data situation
+stellar polarization catalog
+gas
+southern sky
+magnetic fields
+components
+new polarization surveys
+small-scale field component
+distance information
+large independent data sets
+advanced Bayesian statistics
+cosmic ray modeling
+sight integrated radio-polarimetric data
+cosmic rays
+Bayesian inference software package
+interstellar magnetized turbulence
+prior knowledge
+UV
+known distances
+complex interactions
+Galaxy’s ecosystem
+polarimetry of millions
+foreground subtraction
+GAIA satellite
+band
+study
+line
+interplay
+crucial innovations
+orders of magnitude
+informative priors
+indirect means
+mapping
+averaged parameters
+legacy
+questions
+process
+research

@@ -1,0 +1,59 @@
+energy software development processes
+Energy optimization
+low-energy software application development
+energy efficiency
+low-energy products
+software quality
+energy consumption indicators
+Software Development toolKit
+development of new low-energy computing software applications
+embedded software systems industry
+entire software stack
+set of software programming add-ons
+envisaged tools
+complexity of low
+accumulated TD
+embedded systems
+vision of SDK4ED
+envisaged toolboxes
+proper TD management
+design quality
+respect
+choices of repaying TD
+run-time constraints
+automotive industry
+non-functional requirements
+envisaged solutions
+technical Debt elimination
+domains of airborne systems
+monitoring processes
+automatic optimization
+security vulnerabilities
+proposed platform
+set of methods
+IoT products
+project management decisions
+degradation of run-time qualities
+targeted hardware platform
+early identification of design flaws
+digital technologies
+liabilities
+complementary use cases
+minimisation of effort
+extent
+healthcare
+dependability
+interplay
+efficient measuring
+major expected impact
+capacity
+performance
+benefits
+limitations
+achieved improvement
+reference market
+productivity
+importance
+costs
+services
+following objectives

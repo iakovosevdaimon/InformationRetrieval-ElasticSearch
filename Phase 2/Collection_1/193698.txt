@@ -1,0 +1,54 @@
+Space Cognitive Radio
+concept of cognitive radio
+cognitive radio algorithms
+radio transceiver
+radio parameters
+terrestrial technology
+innovative technology
+Software-Defined Radio
+SCREEN project
+use of proprietary SDR technology
+project approach
+testing
+ISLs
+versatility of space communications
+use of terrestrial research results
+key
+terrestrial domain
+implementation
+topic
+new generation of satcom payloads
+individual stages
+new players
+S-band
+regulatory concerns
+transceiver hardware
+target spectrum band
+Electromagnetic Environment maNagement
+massive impact
+levels
+different projects
+future niche applications
+strong potential
+previous work
+downlink subsystems
+performance
+efficiency
+changes
+incorporation
+unnecessary duplication of efforts
+multi-satellite missions
+required flexibility
+ground breaking element
+underlying technologies
+possibility
+market
+main goal
+Consortium
+areas
+benefits
+advantages
+fact
+TRL4
+analysing
+extent

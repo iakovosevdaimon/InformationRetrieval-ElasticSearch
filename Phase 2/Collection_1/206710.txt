@@ -1,0 +1,62 @@
+design of analog circuits
+development of IoT applications
+Digital ICs
+development of novel IoT solutions
+implementation of analog functions
+widespread diffusion of IoT
+interactions of IoT nodes
+pace of IoT requirements
+digital terms
+scalability of analog blocks
+re-thinking analog functions
+traditional low-voltages analog circuits
+power consumption
+frontier design concepts
+Ultra-Low Power
+cost
+digital world
+performance of ICs
+near threshold
+sensors
+Internet of Things
+proposed approach
+factor
+power-autonomous embedded electronics
+wearable electronics applications
+near-threshold operation
+voltage reduction
+new challenges
+new cross-domain approach
+Despite of device
+relevant information
+based solutions
+IC demonstrators
+relevant percentage
+planned device scaling
+terms of integration density
+proposed research activity
+technology
+testing methodologies
+Scalable Interfaces
+recent nanoscale CMOS technologies
+surrounding environment
+view
+physical entity
+Integrated Circuit
+real bottleneck
+degradation of signal
+reference
+serious concern
+humans
+interconnected network
+objects
+foreseeable future
+SoC
+noise ratio
+scenario
+linearity
+die area
+data
+feasibility
+effectiveness
+size

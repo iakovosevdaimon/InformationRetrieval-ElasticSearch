@@ -1,0 +1,57 @@
+actions of groups
+infinite groups
+permutation groups
+hyperlinear groups
+geometric group theory
+analytic number theory
+study of matrix groups
+model theory
+infinite families of groups
+relevance of group actions
+study of growth
+studies growth
+main approach
+main recent results
+main algorithmic questions
+strong results
+general results
+additive combinatorics
+combinatorial approach
+Short Kloosterman sums
+new combinatorial techniques
+form of diameter bounds
+hard problems
+exponential sums
+new directions
+newer perspective
+plan addresses
+short product of generators
+key subject
+area
+control of dependence
+classical example
+decade
+time
+Analysis
+automorphic forms
+Classification Theorem
+remarkable progress
+fruit
+need
+removal
+rank
+roots
+Representations
+non-commutative context
+related interests
+outstanding matters
+central role
+expansion
+algorithms
+Links
+isolation
+line of research
+Sofic
+element
+test case
+expression

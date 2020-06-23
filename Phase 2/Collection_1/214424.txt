@@ -1,0 +1,54 @@
+Stars Stellar evolution models
+stellar evolution theory
+stellar interiors
+one-dimensional stellar evolution models
+predictive stellar evolution models
+D stellar evolution models
+convective boundaries
+Convective Boundary Mixing
+rotation evolution
+treatment of mixing processes
+wide range of stellar masses
+heat transport
+convective core
+physical processes
+types of stars
+global physical picture of fundamental mixing processes
+based transport coefficients
+transport of angular momentum
+transport of chemical species
+wide range of observations
+generation of magnetic field of stars
+new formalisms
+COBOM project
+new approach
+multi-dimensional results
+power of multi-dimensional
+major uncertainties
+key process
+key strength
+global theoretical framework
+extra-galactic research
+lifetime of major burning phases
+compressible time implicit magneto-hydrodynamic simulations
+asteroseismology
+parametrizations
+order
+eclipsing binaries
+surface chemistry
+exoplanet
+exploitation
+direct link
+color-magnitude diagrams
+rare event statistics
+complex dynamics of flows
+fields of astrophysics
+comprehensive study
+structure
+size
+finance
+climate science
+goals
+main objectives
+heart
+overshooting

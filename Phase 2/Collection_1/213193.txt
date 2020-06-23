@@ -1,0 +1,53 @@
+ATM system
+ATM modelling
+modified ATM components
+expected ATM overall performances
+impact of ATM evolutions
+influence of ATM components parameters
+Scientific Development of ATM
+design choices
+expected performances
+system performances level
+modelling framework
+design of new
+evolutionary computing
+EvoATM project
+component performances level
+behaviours
+support
+overall goal of EvoATM
+EvoATM consortium
+impact assessment
+Italian industry
+Italian air navigation service provider
+human aspects
+EUROCONTROL
+Association
+ENAV
+aerospace engineering
+complex systems
+different expertise classes
+coordination
+ASDA
+Europe
+impacted stakeholders domains
+multidisciplinary group of experts
+dialogue
+verification
+quantitative indicators
+LEONARDO
+order
+agent
+paradigms
+methodological guidelines
+effectiveness
+terms
+known scenarios
+optimal tuning
+proposed frameowrk
+strategic thinking
+chosen Advisory Board
+sensitivity analysis strategies
+validation
+behaviors
+solver

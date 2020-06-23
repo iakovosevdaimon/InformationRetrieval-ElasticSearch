@@ -1,0 +1,46 @@
+aircraft architectures
+aircraft utilization
+Computer Aided Maintenance Aircraft System Prognostic solutions
+benefits of aircraft system prognostics solutions
+airline E2E maintenance operational context
+Large Passenger Aircraft IADP Platform work package
+prognostic health
+aids maintenance execution
+proposed work
+operational interrupts
+advanced Integrated Health Monitoring
+ongoing Honeywell work
+Specific prognostics capabilities
+novel prognostic architecture
+data collection
+data processing
+gesture recognition
+speech recognition
+predictive trending
+area of predictive analytics
+mobile tools
+symptom generation
+failure mode identification
+Management
+engineer
+necessary information
+achievement of reduction
+goals
+IHMM
+diagnostic
+revolutionary augmented reality
+common understanding
+MROs
+OEMs
+Suppliers
+program leverages
+proposal
+remote repair sites
+framework
+Airlines
+eye
+primary impact
+development
+innovative components
+key objective
+ground elements

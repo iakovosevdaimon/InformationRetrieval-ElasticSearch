@@ -1,0 +1,52 @@
+Autonomous Robotic Surgery
+autonomous surgical robotic capabilities
+autonomous execution of robotic tasks
+research results
+surgical autonomy
+intervention models
+research scenario
+feasibility of autonomous surgical actions
+analysis of robotic surgery data set
+intervention state
+impact of autonomous robots
+project results
+ARS project
+Vinci Research Kit
+main research objectives
+researchers of clinical robotic surgeries
+project feasible
+overall surgical situation
+simple intervention steps
+high performance surgical robot
+I-SUR project
+accurate performance
+big data
+operational capabilities of service robots
+ambitious goal
+knowledge models
+unified framework
+paramount importance
+human task execution capability
+challenging environments
+workforce
+gap
+benchmark
+real time reasoning
+safety
+current subject of discussion
+access
+validation
+hybrid controllers
+continuous parts
+way
+patient specific anatomy
+derivation
+verification
+intrinsic challenges
+unexpected events
+presence
+medical personnel
+design
+factors
+insurgence of fatigue
+planning

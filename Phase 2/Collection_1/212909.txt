@@ -1,0 +1,62 @@
+GA aircrafts
+GA SAR issue
+GA accidents
+MCC ELT-DT
+ELT-DT messages
+costly ELT
+installed ELT
+DT SAR alerts
+commercial aviation
+SAR detection
+aircraft operations
+Galileo SAR service
+exchange of SAR information
+data distribution of ELT
+main actor of worldwide aviation safety
+commercial ones
+SWIM information
+MCCs
+ICAO projects
+GRIMASSE
+PLB
+General aviation Rescue capacity IMprovement
+worldwide Adoption
+workload of RCC
+response delay
+ADT functionalities
+aeronautical accidents
+SWIM applications
+main objectives
+responsiveness of RCCs
+significant standardization efforts
+significant survival rate
+functions
+GADSS ADT007
+transmission capability
+Safe Solution
+pilot
+extending applicability
+aero-club
+European GNSS
+needs
+flight
+performance
+MEOLUT
+majority
+helicopters distress
+operational concepts
+feasibility
+alterations
+Definition
+development
+system
+Experimentations
+demonstrations phase
+SESAR
+new requirement
+observations
+Collection
+products
+phases
+lives
+Dissemination

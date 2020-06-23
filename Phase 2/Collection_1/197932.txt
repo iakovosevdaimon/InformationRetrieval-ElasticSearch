@@ -1,0 +1,62 @@
+fuel starvation
+diagnostic tool
+condition monitoring
+reliable monitoring
+fuel composition
+advanced monitoring
+health assessment
+project outcomes
+Real operation pem fuel cells HEALTH-state monitoring
+dc-dc COnverter embeddeD Eis HEALTH-CODE
+fuel cell system impedance
+diagnostic approaches
+low-cost diagnostic concepts
+backup PEM fuel cell systems
+JU funded project D-CODE
+diagnosis
+enhancement of FC competitiveness
+main project objectives
+on-board EIS measurements
+FC current status
+improvement of power electronics
+air starvation
+enhancement of electrochemical impedance spectroscopy
+direct increase
+warranty costs
+stationary FCS
+fault detection
+lifetime extrapolation
+FCS controllers
+straightforward implementation
+degradation level analysis
+stack failures detection
+residual useful lifetime
+reduction of experimental campaign time
+μ-CHP
+isolation
+previous FCH
+related applications
+electrical efficiency
+sulphur poisoning
+flooding
+techniques
+availability
+different stacks
+wider market deployment
+impact
+durability
+development
+de-hydration
+laboratory
+industrial application
+methodologies
+proof
+maintenance
+customers’ satisfaction
+TRL3
+results
+change
+exploitation
+failure modes
+algorithms
+targets

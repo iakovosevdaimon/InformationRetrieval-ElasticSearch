@@ -1,0 +1,60 @@
+Optimal Transport Theory
+rigorous SCE DFT theory
+Density Functional Theory
+present-day KS DFT
+Multi-marginal Optimal Transport
+electron density
+exact DFT limit of infinite coupling strength
+electronic structure calculations
+new instance of optimal transport problem
+physical ideas
+electronic correlation
+physics of systems
+research communities
+research areas
+infinite coupling strength limit
+site of research
+host researcher experience
+novel combinations of ideas
+electron wave-functions
+Gori-Giorgi's group
+realistic large systems
+mathematical setting
+solid-state physics
+mathematical framework
+Kohn-Sham
+hosting group
+Hohenberg-Kohn
+Coulomb costs
+Theoretical Chemistry section
+non-interacting wave function
+basic variables
+Levy-Lieb
+simpler quantities
+order terms
+prominent role
+biophysics
+chemists
+fellow's expertise
+principles
+marginals
+real breakthrough
+formalism
+Vrije Universiteit Amsterdam
+computation of higher
+material sciences
+co-authors
+physicists
+numerical results
+problems
+transition metals
+mathematics
+recent years
+study
+mathematician
+theorems
+Schrödinger equation
+goal
+project
+practice
+electrons

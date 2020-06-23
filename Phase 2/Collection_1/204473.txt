@@ -1,0 +1,41 @@
+Reactive Synthesis Reactive synthesis
+automatic synthesis
+synthesis tool
+available synthesis algorithms
+output-sensitive synthesis algorithms
+classic areas of reactive synthesis
+Output-Sensitive Algorithms
+hardware design
+distributed control
+size
+development of distributed embedded systems
+design objectives
+code
+vision
+development process
+expensive stages of development
+given logical specification
+robotic control
+hardware circuits
+error-free prototype implementation
+large systems
+challenging application areas
+coordination of autonomous vehicles
+potential
+AMBA AHB bus controller
+Recent case studies
+manufacturing robots
+optimal performance
+addition
+human programmers
+testing
+contradictory requirements
+structural complexity
+designer
+reach
+fundamental shortcomings
+time
+Coding
+principle feasible
+Target applications
+goal

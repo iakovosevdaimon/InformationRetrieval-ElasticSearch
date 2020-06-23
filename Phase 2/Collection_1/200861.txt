@@ -1,0 +1,54 @@
+operational efficiency
+system efficiency
+cost efficiency
+Advanced User-centric efficiency metRics
+advanced metrics
+centric efficiency indicators
+new metrics
+AURORA
+real-time performance monitoring of user
+air traffic efficiency assessment
+performance-oriented operational concepts
+real-time ATM performance monitoring framework
+ATM system
+airspace users’ operational objectives
+different airspace users
+air traffic perfORmance Analytics
+today’s Flight Efficiency indicator
+Performance Review Commission
+performance analysis purposes
+users’ operational needs
+airlines’ operational costs
+generic advanced trajectory-based airline cost model
+ATM decision-making
+data science
+User-preferred trajectories
+new framework
+aggregation of data
+streaming data
+fuel consumption
+sensitive information
+testing techniques
+information management fields
+impact of different aspects
+schedule adherence
+project
+opportunities
+arrival times
+references
+collection
+SESAR
+extent
+challenge
+departure
+proposed methods
+benefits
+aim
+local level
+topic ER
+fact
+active role
+flights
+main research area
+innovative method
+inefficiencies

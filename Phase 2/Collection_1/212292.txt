@@ -1,0 +1,46 @@
+understanding of planar lattice models
+understanding of percolation
+Loop models
+discrete models
+understanding of phase transition
+Critical behavior of lattice models Statistical physics
+Ising model
+graphical representations of classical lattice models
+Ashkin-Teller models
+critical behavior of Bernoulli percolation
+innovative mathematical theory of phase transition
+statistical behavior of macroscopic systems
+Fortuin-Kasteleyn percolation
+random systems
+integrable systems
+Objective C
+fundamental questions
+major questions
+project
+Objective B Advance
+dimensions larger
+classical exam- ples
+solid mathematical framework
+difficult open problems
+proba- bility
+combinatorics
+study of universality
+general- izations
+pioneering way multiple techniques
+analysis
+description
+derivation
+design
+new grounds
+large variety of phenomena
+interactions
+tackle
+math- ematical
+ferroelectrics
+lattices
+century
+microscopic constituents
+breakthroughs
+decades
+main goals
+gas

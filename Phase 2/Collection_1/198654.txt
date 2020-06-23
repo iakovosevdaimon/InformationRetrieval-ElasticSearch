@@ -1,0 +1,13 @@
+Bifurcations of Polynomial Differential Systems
+possible bifurcations of  unfolding  systems
+bifurcations of planar polynomial differential systems
+systems of high degree
+existence of versal unfoldings
+topological structure
+topological phase portraits
+bio-mathematical models
+rigourous mathematical explanation
+results
+centers
+degenerate equilibria
+degeneracy

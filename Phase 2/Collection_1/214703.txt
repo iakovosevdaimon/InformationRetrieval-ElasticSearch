@@ -1,0 +1,58 @@
+aspect of HEP
+HEP problems
+way
+HEP experimental techniques
+High Energy Physics
+unsupervised physics searches
+data mining
+reinforced learning
+unspecified new physics processes
+Deep Learning
+modern Machine Learning
+event indexing
+intermediate steps
+event reconstruction
+event identification
+experiments
+project resources
+monitoring
+inspecting events
+financial challenges
+self-operating detectors
+software R
+financial costs
+systematic R
+complex tasks
+occurrence of anomalous events
+generative models
+large datasets availability
+private companies
+hardware
+existing computing infrastructures
+established collaborations
+anomaly
+technology
+presence of local experts
+D program
+set of working packages
+correct functioning
+outliers detection
+image recognition
+text understanding
+potential
+best flat budgets
+detector components
+human
+final goal
+technologies
+complexity
+Particle
+breakthrough solution
+team of computer scientists
+CERN
+goodness
+progresses
+quest
+impasse
+decade
+development

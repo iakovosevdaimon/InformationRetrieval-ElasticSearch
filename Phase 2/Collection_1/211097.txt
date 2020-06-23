@@ -1,0 +1,61 @@
+small drones
+non-collaborative scenario
+non-collaborative avoidance
+communication signals
+non-collaborative aircraft
+multiple communication hardware types
+robust wireless communication
+light-weight drones
+ground-based obstacles
+air vehicles
+detecting drone
+flying vehicles
+collision probability
+ground station
+energy-efficient sensor
+interoperable solution
+processing package
+drone design
+energy expensive active sensors
+processing suite
+obstacle detection
+audio information
+learning process
+flying objects
+angular measurements
+multiple tiny microphones
+used air space
+Self-supervised learning
+expertise
+autonomous flight
+motion
+industrial background
+cameras
+board
+ADSB
+partners’ academic
+position
+appearance
+operation
+lasers
+angle estimations
+production
+instance
+effective fusion of stereo vision
+simulations
+breakthrough
+speed
+WiFi
+technology
+close distances
+payload capacity
+extensive real-world tests
+future waypoints
+sonar
+PercEvite - Sense
+perception range
+sees’
+viable platform
+consortium
+order
+performances

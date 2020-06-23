@@ -1,0 +1,56 @@
+significance of chromatin
+immunoprecipitated chromatin
+Mapping chromatin states
+associations of chromatin regulators
+Use of Single Cell Technologies Chromatin regulators
+single cell ChIP-seq
+chromatin signatures of pluripotency
+underlying chromatin regulatory mechanisms
+Comprehensive characterization of chromatin states
+cell variability
+Drop-Seq
+cellular states
+RNA-seq
+studied cell population
+cell fate decisions
+effect of cellular heterogeneity
+Cellular differentiation triggers
+underlying regulation
+epigenomic regulation
+novel drop
+expression profiles
+mRNA expression
+drop-based microfluidics
+state heterogeneity
+early differentiation of ES cells
+Epigenomic Regulatory Code
+Cas9-based approach
+underlying subpopulations
+epigenomic level
+differentiation priming
+proposal
+microfluidic technology
+development of technology
+innovative technologies
+novel framework
+genome functions
+transcription events
+histone marks
+differences
+important information
+robust CRISPR
+interplay
+relationship
+questions
+shed light
+extent
+composite average
+thousands of embryonic stem
+spectrum of sub-populations
+extraordinary resource
+technique
+multiple perturbations
+initial progress
+central aim
+major shortcoming
+hurdle

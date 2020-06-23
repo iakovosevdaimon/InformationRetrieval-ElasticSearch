@@ -1,0 +1,55 @@
+identified phase-change solvents
+Selected phase-change solvents
+new solvents
+packed-bed
+test novel phase-change solvents
+intensified Rotating Packed Bed processes
+RPB processes
+Testing of Advanced Rotating Packed Bed Processes
+process options
+conventional processes
+wide range of phase behaviours
+Advanced process design approaches
+Intensified Post-Combustion CO2 Capture ROLINCAP
+CO2 capture research
+optimization-based Computer-aided Molecular Design of phase
+ton CO2
+new path
+Systematic Design
+new SAFT-γ equation of state
+new RPB column concepts
+operability RPB process characteristics
+form
+non-aqueous options
+TRL
+gPROMS process simulator
+molecular structures
+holistic decision
+holistic Life Cycle Assessment analysis
+Environmental Hazard assessment
+predictive modelling framework
+high-potential technologies
+Safety Health
+GJ
+regeneration energy requirements
+considerable reduction
+packing materials
+real breakthroughs
+initial evidence
+equipment size
+methods
+respect
+development
+chemical equilibrium
+vast space of solvent
+infancy
+times
+modeling
+order
+envisaged thermodynamic model
+capabilities of existing simulators
+pilot plants
+Software
+sustainability
+goals
+tools

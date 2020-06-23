@@ -1,0 +1,39 @@
+theory of complexity
+associated computational complexity theory
+comparison of complexity classes
+mathematical techniques
+Realizability Approach
+logical-based approaches of complexity theory
+new characterizations of existing complexity classes
+realizability models
+new approach
+long-standing open problems
+mathematical methods
+mathematical disciplines
+previous techniques
+project
+well-studied mathematical concepts
+different computational paradigms
+approach stems
+linear logic
+operators algebras
+invariants
+tools
+dynamical systems
+fundamental questions
+recent work
+state-of-the-art theoretical results
+researchers
+mathematics of computer science
+promising field of study
+unified framework
+quantum computation
+resources
+way
+use
+concurrent processes
+end goal
+programs
+strengths
+consequence
+objectives

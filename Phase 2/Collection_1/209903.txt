@@ -1,0 +1,50 @@
+THz frequency band
+THz component development
+CW photonic THz spectrum analyzers
+development of photonic THz characterization tools
+bandwidth of frequency
+frequency extension
+THz device engineering
+frequency extenders
+free space photonic
+extreme frequency coverage
+Photonic vector network analysers
+room-temperature operating THz detector
+vector network analyzers
+large bandwidth commercial THz metrology tools
+Photonic Terahertz Signal Analyzers Spectrum analysis
+pulsed frequency comb-based systems
+Electronic spectrum analyzers
+photonic sweep oscillator
+vector network analysis
+electronic systems
+chip
+proposal
+millimeter wave band
+port VNA
+continuous-wave
+port PVNA
+simple extension
+lack of affordable electronics
+PVNAs
+integrated photomixers
+PSAs
+broadband dielectric waveguide topology
+telecom-wavelength compatible photomixing technology
+microwave
+technologies
+competence center
+realization
+frequencies
+similar problems
+solid basis
+larger spans
+realignment
+tedious recalibration
+long term goal
+need
+examples
+single setup
+extender setups
+approaches
+barley

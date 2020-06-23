@@ -1,0 +1,61 @@
+brain simulations
+mechanisms of brain function
+brain disorders
+brain pathology
+Virtual Brain
+realistic brain models
+human brain Background
+brain simulation framework
+control mechanisms
+detailed maps of brain structure
+underlying mechanisms
+library of dynamical regimes
+dynamical regimes library
+network reconfigurations
+understanding
+Model based identification of task related plasticity mechanisms
+structural imaging data
+functional consequences
+computed simulations
+Parameter optimization
+generic models
+key data
+breakthrough advances
+age dependency
+role of intrinsic plasticity
+large parameter space search
+temporal resolution of non-invasive imaging techniques
+information processing architectures
+opportunity
+perspective of disruption
+account
+new interventions
+foster collaboration
+individual patient brains
+dynamics
+connectomics
+resting state
+coordination learning
+trajectories of recovery
+research groups
+complex interaction
+accessible allowing researchers
+rise
+Clinical applications
+TVB
+test therapies
+connected units
+health
+biotech sector
+mental processes
+interactive tool
+track
+database
+development
+existing work
+person
+gap
+Vision
+Goal
+Objectives
+Impact

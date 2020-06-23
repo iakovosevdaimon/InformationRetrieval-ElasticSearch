@@ -1,0 +1,41 @@
+certification tools
+existing verification tools
+certified verification tools
+verification techniques
+kinds of tools
+art tools
+efficient algorithms
+Certification Software
+cost of certification tasks
+Coq proof assistant
+absence of bugs
+powerful automation techniques
+state-explosion problems
+hardware bugs cost hundreds of millions
+proof assistants
+simple idea
+basic tasks
+euros
+order
+year
+concurrency theory
+Isabelle
+richer models
+automatic means
+safer programs
+companies
+Formal methods
+HOL
+rise
+machines
+administrations
+expertise
+decidability
+Coinduction
+recent work
+Bonchi
+time
+certain point
+expected simplicity
+claim
+end

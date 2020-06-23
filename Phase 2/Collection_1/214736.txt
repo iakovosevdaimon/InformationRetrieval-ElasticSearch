@@ -1,0 +1,48 @@
+development of novel room acoustics models
+novel models
+Spatial Dynamics of Room Acoustics
+spatial audio reproduction
+room inference
+spatial sparsity of sound sources
+virtual acoustics
+moving sound sources
+physical room boundary
+unification of existing models
+audio analysis
+reproduction problems
+complex sound scenes
+sound scene geometry
+SONORA project
+wave-based models
+novel sound field sampling theory
+novel signal processing algorithms capable of handling spatiotemporal sound fields
+various audio acquisition
+data-driven models
+prior knowledge
+design of signal processing algorithms
+existing gap
+protocol
+acoustic signal enhancement
+matrix-free algorithms
+hearing technology
+technology end users
+equivalent boundary model
+SONORA research results
+real-life situations
+multidimensional scaling
+large-scale optimization
+new concept
+significant benefit
+general understanding
+industry
+notable impact
+speech
+dictionary
+observers
+recent advances
+mathematical framework
+compressed sensing paradigm
+motivated structure
+applications
+complicated manner
+long run

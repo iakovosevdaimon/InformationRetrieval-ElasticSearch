@@ -1,0 +1,59 @@
+terrestrial-aerial surveying system
+TV
+terrestrial vehicle
+small UA
+high-resolution terrestrial-aerial sensing system
+novel tandem terrestrial-aerial mapping system
+objective
+aerial missions
+MapKITE targets corridor mapping
+new surveying paradigms
+corridor mapping market needs
+new mathematical models
+EGNOS-GPS
+new ways of fusing sensors
+avoidance collision system of CATUAV
+constant flying height
+low flying altitude
+mature prototype
+final product
+unmanned aircraft
+low weight
+Spanish patent
+planned GPS signals
+maximum allowed height
+remote sensing payloads
+Spanish aviation authorities
+E5 AltBOC Galileo signal
+range
+geodata
+advantages
+inbuilt line of sight
+navigation payload
+high resolution
+foreseeable rules
+contracts
+abidance
+regulations
+integrated images
+ground
+commercial feasibility
+concept
+project
+negotiations
+UAS civilian use
+safety
+robustness
+enabling component
+end
+place
+ones
+feature
+segregated airspace area
+design
+integrity
+operational conditions
+services
+environment
+Unrestricted testing
+octocopter of UAVision

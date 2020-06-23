@@ -1,0 +1,35 @@
+integrated antennas
+THz Muti-Gb
+s System
+integrated compact MMIC
+s radio links
+radio front-end
+Multi-Gb
+Package
+THz SiP analog front-end
+low power
+data rates
+silicon-MMIC
+V communication systems
+huge available bandwidth
+line of sight communication link
+simple low-order modulation schemes
+performance
+state-of-the-art SiGe BiCMOS technology
+component size
+complexity of RF MMICs
+chip antenna
+transmitter
+functionality
+design methodology
+cost
+goal
+novel packaging concepts
+development of wideband receiver
+QPSK
+new cross
+big improvement
+Gbps
+project’s ambition
+TMGSiP
+meters

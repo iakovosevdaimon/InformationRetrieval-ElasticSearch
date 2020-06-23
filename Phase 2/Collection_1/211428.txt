@@ -1,0 +1,60 @@
+DroC2om project
+project manager
+project partners
+integrated cellular-satellite system architecture concept
+design
+Aerial communication system architecture
+aerial drone communication
+system simulations
+Drone flight
+approach of DroC2om
+evaluation of data links
+real drone measurements
+definition of integrated cellular-satellite data link specifications
+safe operation of UAS
+service cellular telecommunication networks
+major mobile service
+ground communications
+mobile communications systems
+Critical Communications
+Software-based evaluation environment
+autonomous small UAS
+main building blocks
+key player
+key objective
+technical manager
+particular action
+Major focus
+Definition of scenarios
+rigorous management action
+continuous delivery approach
+high quality expertise
+order
+optimization algorithms of
+experimental radio investigations
+research centre
+automatic planning
+aerospace air
+solutions
+results
+PM
+relevant technological areas
+proper dissemination
+Thales Alenia Space
+activities
+impact
+outcomes
+infrastructure providers
+UASs
+atesio
+Aalborg University
+visibility
+modelling
+actions
+requirements
+TM
+primary goal
+Nokia
+execution
+diversity
+objectives

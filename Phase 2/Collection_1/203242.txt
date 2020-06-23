@@ -1,0 +1,36 @@
+computational complexity of CSPs
+universal-algebraic approach
+complexity of constraint satisfaction problems
+computational problems
+infinite domains
+finite model theory
+descriptive complexity
+universal algebra
+universal-algebraic tractability conjecture
+Homogeneous Structures
+order logic
+spatial reasoning
+monotone fragments of existential
+guarded monotone SNP
+Topological Clones
+central questions
+graph homomorphisms
+ontology-based data-access
+constraints
+temporal
+study
+rapid development
+artificial intelligence
+tools
+field
+computer science
+integers
+results
+evidence
+setting
+rationals
+way
+previous work
+reals
+project
+directions

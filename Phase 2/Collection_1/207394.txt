@@ -1,0 +1,42 @@
+secure semantics
+efficient secure compilers
+secure high-level semantics
+Secure compilation
+secure source language
+semantics of mainstream low-level languages
+efficiency
+realistic programming languages
+untrusted low-level code
+safer languages
+high-level abstractions
+mainstream hardware architectures
+absence of low-level attacks
+Tagged Architecture Severe low-level vulnerabilities
+respect
+C language
+level of security
+emerging hardware capabilities
+machine-code attacker
+realistic workloads
+fine-grained protection
+era of scarce hardware resources
+coarse-grained protection mechanisms
+property-based testing
+strong property complements compiler correctness
+today’s computer systems
+formal verification
+cyber-attackers
+standard benchmark suites
+high confidence
+tags
+harm
+programs
+compiled components
+metadata tag
+software-defined rules
+word
+proofs
+practical scenarios
+control
+project
+typed variant

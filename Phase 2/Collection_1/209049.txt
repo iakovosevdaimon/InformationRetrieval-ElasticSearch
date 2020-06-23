@@ -1,0 +1,52 @@
+Mosul dam
+dam deformation behaviour
+model Dam stabilitY Analyses of surface deformation
+simplified analytical model
+large database of data
+reliable diagnostic tool of dam structural health
+SaTEllyte synthetic Aperture radar interferometry
+analysis of satellite SAR data available
+numerical techniques
+structural health of buildings
+non-invasiveness of radar signals
+deformation fields
+tensile condition
+Specific techniques
+cases
+natural hazardous phenomena
+numerical simulations
+strain source
+vast areas
+evolution of areas
+large spread
+semi-automatic tool
+stress-strain status
+direct measures of surface movements
+traditional finite element models
+preliminary hints
+starting point
+STEADY Project
+earthquakes
+possibility
+infrastructures
+implementation
+short time
+dams
+availability
+extraordinary failure
+emblematic real case
+process
+triggering factors
+following goals
+subsidence
+landslides
+space
+logistic conditions
+innovative approach
+end
+identification
+results
+loss of lives
+relevance
+indication
+method

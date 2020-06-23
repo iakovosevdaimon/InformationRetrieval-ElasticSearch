@@ -1,0 +1,45 @@
+exons Vertebrate
+vertebrate brains
+vertebrate neurons
+vertebrate neurogenesis
+vertebrate groups
+vertebrate nervous systems
+vertebrate brain Alternative splicing
+vertebrate-specific genomic novelties
+neural-specific alternative exons
+functions of transcriptomic diversification
+evolutionary impact of neural
+phenotypic impact of VN
+novel functions of VN
+evolutionary impact of transcriptomic novelties
+transcriptomic diversification impact organismal evolution
+current understanding of brain evolution
+alternative transcripts
+project
+nervous system development
+protein-protein interaction networks
+cellular complexity
+increased transcriptional complexity
+systems-level network analysis
+models species
+complementary angle
+experimental manipulation
+RNA-seq
+CRISPR-Cas technology
+traditional gene expression studies
+fundamental insight
+regulation
+large gap of knowledge
+largest contributor
+emergent molecular function
+major unanswered questions
+genome editing
+combination of bioinformatics
+metazoans
+highest levels
+functional importance
+comparative genomics
+rewiring
+results
+nature
+invertebrates

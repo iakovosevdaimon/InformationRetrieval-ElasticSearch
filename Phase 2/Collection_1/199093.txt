@@ -1,0 +1,56 @@
+low-power mixed-criticality systems
+secure mixed-criticality systems
+energy generation systems
+time  low-power
+battery powered systems
+low power requirements Critical Real-Time Embedded Systems
+cluster of mixed
+development of mixed
+limited energy
+massive irruption of mixed
+safety concept of SAFEPOWER
+different local power-management techniques
+reference domains
+reference architecture
+temperature
+lifetime of CRTES
+safety standards
+railway
+aerospace
+different applications
+main objective of SAFEPOWER
+software reference platforms
+industrial IEC
+higher availability
+competitive advantage
+industrial use-cases
+new types of competitive products
+comprehensive suite of multi-core platform technologies
+analysis
+enabler
+security support
+disruptive challenge
+verification tools
+combination
+hardware
+market segments
+intensifying demand
+implementation
+simulation
+related projects
+observation
+emission
+resource
+key aspect
+external certification authority
+desired feature
+significant improvements
+cross-domain public demonstrator
+benefits
+hundreds of devices
+multicore processors
+strong collaboration
+test
+Impact
+exploitation
+undesired interferences

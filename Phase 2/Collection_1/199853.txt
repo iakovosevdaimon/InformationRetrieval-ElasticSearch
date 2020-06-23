@@ -1,0 +1,70 @@
+power of IoT developers
+usable IoT solution
+IoT apps development
+fast IoT prototyping
+Support of mainstream IoT
+modular IoT gateway
+ecosystem of IoT applications shareable
+Ubuntu Snappy IoT ecosystem
+open platform
+open hardware
+Support of various open
+AGILE aims
+data privacy
+relevant open areas
+different contexts
+different domains
+Data management
+connected devices
+different standardization bodies
+easy creation of applications
+various types of devices
+production-ready applications
+entrepreneurs communities
+device discovery
+device control
+pollution monitoring
+separate gateway hardware versions
+maker’s version
+dIverse muLtiple Environments AGILE project
+popular RaspberryPi platform
+security
+SDKs
+users
+disposal of industries
+horizontal technology
+M2M protocols
+SMEs
+startups
+drones
+individuals
+wearables
+engineering
+visual developer’s interfaces
+tech companies
+vertical walled gardens
+air quality
+home appliances
+existing initiatives
+Adoptive Gateways
+cattle
+key stakeholders
+researchers
+smart retail
+parties
+adaptation
+local level
+new marketplace
+software approach
+sensors
+Recommender
+makers
+limitations
+communication
+technologies
+fields
+methodologies
+tools
+integration
+private clouds
+actuators

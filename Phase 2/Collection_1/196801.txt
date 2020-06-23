@@ -1,0 +1,36 @@
+robot skill learning system
+autonomous skill learning system
+Policy Learning of Motor Skills
+autonomous learning framework
+probabilistic imitation learning
+complex motor skills
+Humanoid Robots
+different skills
+current limitations of skill learning systems
+rich set of motor skills
+necessary movement primitives
+real humanoid robot platform
+relative entropy policy search-based reinforcement learning
+robot table tennis
+scaling of motor abilities
+anthropomorphic robots
+complex tasks
+large variety of new skills
+goal of SKILLS4ROBOTS
+complex behavior
+degrees of freedom
+higher-level movement strategy
+primitive building blocks
+elementary movements
+different situations
+recent breakthroughs
+simpler elemental movements
+parametric probabilistic representations
+resulting architecture
+PI’s research
+project possible
+modular organization
+observed trajectories
+successes
+single line of programmed code
+sequence

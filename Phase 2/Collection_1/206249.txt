@@ -1,0 +1,61 @@
+heterogeneous robots
+considered robots
+different robots
+multiple robots
+Coordination of Interacting Robots
+Decentralized Control
+robots’ dynamic environment
+decentralized framework
+manipulation capabilities
+varying capabilities
+perceptual capabilities
+centralized planning
+high-level task-planning
+public facilities
+related tasks
+type of tasks
+overall heterogeneous system
+general need
+low-level motion control
+control schemes appropriate
+faster accomplishment of tasks
+real-time sensing
+automated task
+complex specifications
+systematic methodology
+twofold manner
+predefined manner
+Complex Collaborative Missions
+systematic integration approach
+transportation
+order
+workspaces
+mobility
+great deal
+flexible multirobot applications
+improved use of resources
+systems
+team
+high social activity
+domestic environments
+various multi-tasking procedures
+object handling
+services
+context
+sudden changes
+effective supervision
+everyday life scenarios
+view
+delivery operations
+Current practice
+way
+goal
+Industry
+cases
+degree
+human intervention
+important contribution
+restart
+fact
+state
+Co4Robots

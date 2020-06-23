@@ -1,0 +1,54 @@
+Safety IoT imperatives
+functional security of IoT systems
+integrity of Industrials IoT
+categories of IoT physical
+Industrial IoT CHARIOT
+generation IoT platforms
+accompanying IoT Safety Supervision Engine
+static code analysis of IoT devices
+challenges of securing IoT data
+safer IoT software development
+cognitive engine
+Cognitive System
+high security
+private key hashing
+corresponding private key
+security protection method
+Privacy
+Firmware Security integrity
+Cognitive Heterogeneous Architecture
+Blockchain ledger
+Blockchain system
+cognitive computing platform
+key stepping stone
+art Public Key Infrastructure
+existing industry-specific safety critical systems
+accompanying supervision
+design method
+functional changes
+New methods
+decentralised infrastructure
+industry reference implementations
+compelling heterogeneous solutions
+prediction models
+analytics
+state
+functionality
+novel solution
+representative scale
+EU’s roadmap
+unified approach
+PKI
+tools
+technologies
+PSS
+underlying goal
+turn
+coupling
+actuation
+Living Labs
+fog
+services
+following innovations
+deactivation
+combination

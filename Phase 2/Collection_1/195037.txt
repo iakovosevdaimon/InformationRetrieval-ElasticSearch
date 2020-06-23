@@ -1,0 +1,51 @@
+Fetal Heart
+fetal cardiovascular system
+Fetal CMR imaging
+present capabilities of fetal CMR
+cardiovascular remodeling
+functional assessment
+congenital heart diseases
+Cardiovascular Magnetic Resonance Images Recent advancements
+CHDs
+time quantitative
+IUGR
+set of single
+single slice
+conditions
+extraction of quantitative functional parameters
+development of automated segmentation methods
+Joint Volumetric Reconstruction
+innovative set of methods
+super resolution volumetric reconstruction
+Automated Analysis
+slice acquisitions
+new capability
+JUNO project
+specific goals
+fundamental new tool
+image registration techniques
+groundbreaking clinical consequences
+image processing approach
+long standing clinical need
+utero therapy administration
+stroke volume
+ventricular contours
+delivery
+intrauterine growth restriction
+identification of structures
+main vessels’ boundaries
+perinatal intervention planning
+ejection fraction
+datasets
+deformable models
+potential
+operator-dependent evaluation
+limitations
+postnatal outcomes thanks
+atlases
+methodology
+fact
+leading causes of infant mortality
+accurate diagnosis
+feasibility of objective detection
+fetuses

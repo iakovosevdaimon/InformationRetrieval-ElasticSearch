@@ -1,0 +1,40 @@
+Quantum Cryptography
+DI approach
+DI QKD
+quantum computers
+DI field
+ERIDIAN
+classical cryptography
+future-proof security
+Device Independent
+market-ready quantum random number generator
+Randomness Integrity
+loophole-free BIVs
+user
+commercial-grade randomness source suitable
+best possible security guarantees
+Device-Independent Networks
+future mathematical advances
+randomness generation technology
+mass-market approach impossible
+laboratory-grade random number generators
+industrial actors
+prototype stage
+commercial reality
+communications equipment
+loophole-free Bell Inequality Violation
+major industrial players
+assumed difficulty of certain mathematical problems
+solutions
+supplier
+critical element
+telecommunications providers
+observable data correlations
+physical laws
+broad range of customers
+need
+availability
+requirement
+grant AQUMET
+connection
+commercialisation

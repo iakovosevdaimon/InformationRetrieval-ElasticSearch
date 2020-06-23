@@ -1,0 +1,30 @@
+connectivity problems
+Dynamic Graph Algorithms
+dynamic settings
+attack problems
+limits of algorithms
+sublinear algorithms
+challenging graph problems
+fine-grained complexity
+project
+conditional lower bounds
+complexity-theoretic landscapes
+computing edge connectivity
+new insights
+systematic approach
+intermediate steps
+new reasonable conjectures
+hierarchy of intermediate computational models
+theoretical computer science
+young fields
+isolated viewpoint
+developments
+focus
+single field
+way
+distances
+groundbreaking result
+advantage
+breakthrough
+techniques
+Tasks

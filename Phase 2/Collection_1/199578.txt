@@ -1,0 +1,61 @@
+propeller design
+design results
+design of propellers
+analysis results
+design process
+compound helicopter PROPTER
+propeller-rotor
+research code
+high confidence results
+isolated propeller
+complex configuration
+numerical results
+PROPTER consortium
+aerodynamic analysis
+commercial code
+code comparison
+complex flow field
+complex unsteady interactional flow
+NLR
+implementation
+airframe
+topic leader
+industrial environment
+sound
+objectives
+national research programmes
+LifeRCraft project
+simple configuration
+project’s success
+smooth integration
+best practices
+National Aerospace Laboratory
+main project goal
+worlds of CFD software
+deployment of high-fidelity CFD methods
+conventional helicopters
+challenging task
+wide range of physical complexity
+method fidelity
+infrastructure vital
+new mobility roles
+appropriate advancement
+multiple flight cases
+complementary expertise
+Delft University of Technology
+skill
+TUD
+generated knowledge
+strong interaction
+fixed wing aircraft
+proposal
+coherent chain
+concept
+ENFLOW
+ANSYS-FLUENT
+good coordination
+modelling
+physics
+Support
+well-thought
+basis

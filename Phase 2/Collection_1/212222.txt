@@ -1,0 +1,49 @@
+use of cloud
+openEO interface
+different cloud
+cloud offerings
+openEO project
+set of relevant Earth observation cloud
+Earth Observation data infrastructures
+common interface
+open source interface
+adaptation of cloud computing technologies
+open Earth observation science
+offices
+ends
+functionalities of existing cloud computing solutions
+based processing engines
+rich data
+specific data infrastructures
+open source community project
+latest generation of Earth observation satellites
+valuable data sets
+large datasets
+end users
+Sentinel
+application developers
+worldwide industry
+client APIs
+industry groups
+driver APIs
+use cases
+intermediate users
+simple way
+generic analytics
+large volumes of diverse
+broad user community
+federation of infrastructure capabilities
+layers of Application Programming Interfaces
+front-end applications
+research
+switching
+analysis
+entry barriers
+core API
+Python
+JavaScript
+computations
+office providers
+time series
+capability
+lack of standards

@@ -1,0 +1,50 @@
+trusted CPS Apps
+deployment of trusted apps
+trusted application development
+open CPS Open
+real-time Trusted Execution Environment
+multi-level trusted Apps platform
+pervasive trusted environment of TAPPS
+open systems
+areas of CPS devices
+novel hardware
+demanding application domains
+automotive application domains
+project
+TEE
+app store concept
+rich execution platforms
+model-based tool chain
+exploits functionalities
+network-centric security mechanisms
+real-time support
+end-to-end solution
+novel business models
+smart cyber-physical systems
+enormous economic potential
+pace
+realistic use cases
+important differentiators
+future exploitation
+way
+software
+System Control Units
+new market extensions
+user expectations
+integrated services
+ICT
+processor
+health
+strong trend
+verification tools
+latest technology
+products
+revolution
+necessary layers
+main goal
+hypervisor
+extensibility
+operation
+applications
+device internals
+virtualization

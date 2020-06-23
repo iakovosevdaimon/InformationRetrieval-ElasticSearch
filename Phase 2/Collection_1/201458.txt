@@ -1,0 +1,49 @@
+analysis of heterogeneous EHR data
+analysis of EHRs
+predictive analysis
+results analysis
+real-world data
+data-driven approach
+homogeneous data
+probabilistic modelling techniques
+EHR datasets
+integration of heterogeneous data
+Probabilistic modelling of electronic health records
+health systems
+massive datasets
+current machine learning techniques
+machine learning methods
+Biomedical research
+effective approach
+Probabilistic models
+scalability
+use of Bayesian nonparametric modelling techniques
+massive amounts of medical information
+growing worldwide adoption of Electronic Health Records
+moderate-sized datasets
+early diagnosis
+existing methods
+scalable inference
+current approaches
+early stages
+knowledge discovery
+new research opportunities
+stochastic variational inference
+personalised medical treatment
+Department of Biomedical Informatics
+single source of information
+complex comorbidity patterns of diseases
+design of clinical support systems
+study drug interactions
+good model formulations
+novel tools
+form predictions
+problem
+BNPs
+significant budget savings
+promise
+areas of science
+difficulty
+main technical challenges
+project
+time

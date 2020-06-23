@@ -1,0 +1,65 @@
+legal reasoning
+legal ontologies
+Legal texts
+MIREL - MIning
+Legal Informatics
+reasoning methods
+MIREL consortium
+MIREL framework
+MIREL project
+MIREL addresses
+role of legal interpretation
+European MIREL partners
+handling of big legal data
+industrial partners
+formal logic
+Computational Ontologies
+argument mining
+computational challenges
+key challenges
+formal framework
+complexity of regulatory compliance
+Law
+querying norms
+community
+communities of Deontic
+description logic
+tools
+conceptual challenges
+complexity analysis of regulatory compliance
+compliance checking
+formal representations
+Natural Language Processing
+industrial case studies
+natural language semantics of deontic modals
+inter-continental interdisciplinary consortium
+key players
+management of large repositories of norms
+semantic access
+Semantic Web
+inter-sectorial network
+future development of innovative products
+Artificial Intelligence areas
+services
+South Africa
+order
+Japan
+China
+Argumentation
+staff exchange
+SMEs
+academies
+Argentina
+NLP parsers
+researchers
+mobility
+scientists
+Australia
+deployment
+aim
+decision support
+expertise
+kind
+needs
+market
+gap

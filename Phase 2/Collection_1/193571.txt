@@ -1,0 +1,62 @@
+Ensemble approaches
+high spatial resolution
+synaptic organelles
+molecular nanoscale long-term imaging
+live imaging
+resolution close
+poorer resolution
+Single molecule-based approaches
+Long-term molecular nanoscale imaging of neuronal function Synaptic function
+single-molecule detection
+current approaches
+synaptic transmission field
+quantitative nano-imaging
+neuronal organelles
+synaptic vesicle recycling
+field of super-resolution fluorescence microscopy
+molecular scale
+PALM
+days
+nanoscopy
+microscope
+low-photodamage ensemble approach
+slow recording
+minimal photodamage
+different time scales
+sensitive detection schemes
+MoNaLISA
+sequential acquisition
+STORM
+conventional optics
+proteins
+milliseconds
+living neurons
+new set-up
+biogenesis
+degradation
+cells
+protein clusters
+SSIM
+STED
+RESOLFT
+novel paradigm
+life sciences
+photon
+previous expertise
+GSDIM
+laser powers
+Hz
+tissues
+nm
+hours
+advantages
+principle results
+proof
+D ability
+project
+temporal
+problem
+line patterns
+aim
+gap
+goal

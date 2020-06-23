@@ -1,0 +1,53 @@
+DYNAMIC ATTENTION-SCALABILITY
+resource-constrained applications
+level of attention
+RESOURCE-EFFICIENT SENSING
+attention-scalable sensing concept
+resource-aware inference
+resource-scarce devices
+tuning sensory attention levels
+function of hardware resource usage
+wide-range resource-scalable inference processors
+information capture
+relevant information
+fusion algorithms
+sensory data
+effective multi-sensor fusion
+energy-critical epilepsy monitoring
+sensory streams available
+reconfigurable hardware
+latency-critical cell sorting
+terms of energy
+biomedical monitoring
+large computational workloads
+limited human computational bandwidth
+embedded machine learning fits
+wearables
+combined results
+Intel Labs
+PI’s expertise
+robotics
+combination of processor design
+throughput
+UC Berkeley
+KULeuven
+user interfacing
+Re-SENSE project
+memory resources
+rigid way
+mental effort
+different senses
+humans
+masters
+improved efficiency
+electronics
+capabilities
+leg
+judgements
+trouble
+food
+people
+lips
+eyes
+sensors
+order

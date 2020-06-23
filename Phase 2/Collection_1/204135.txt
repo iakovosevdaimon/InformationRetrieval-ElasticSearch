@@ -1,0 +1,25 @@
+Fano classification
+classification of Fano manifolds
+Birational Geometry
+Gromov-Witten Theory
+algebraic geometry
+computing Gromov-Witten invariants
+powerful new methods
+Mirror Symmetry
+space X
+new approach
+important applications
+string theory
+given genus
+important open problem
+given collection of cycles
+symplectic topology
+degree
+number of curves
+basic building blocks
+questions
+circle of ideas
+main geometric tool
+atomic pieces' of mathematical shapes
+theoretical physics
+parallel computational algebra

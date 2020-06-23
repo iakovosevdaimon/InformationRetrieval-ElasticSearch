@@ -1,0 +1,55 @@
+sub-activities
+daily activities
+human activities
+essence of activities
+analysis of complex activities
+short videos
+higher level representation of complex activities
+specific source of videos
+project
+video analysis
+perspective change
+terms of time
+various modalities
+objects
+person perspective
+egocentric perspective
+short video clips
+depth data
+handling of large time variations
+various orders
+specific application
+massive training data
+action recognition
+better feature encoding techniques
+need
+detailed information
+hours
+minutes
+temporal duration
+ability
+majority of recent works
+shape
+patients
+seconds
+goal
+spatial location
+problem
+food
+unified model
+appearance
+interactions
+hospital
+limitations of current approaches
+trainee
+development of novel applications
+Alzheimer's disease
+cooking
+motion
+transformations
+solution
+tasks
+aspect
+education
+words
+end

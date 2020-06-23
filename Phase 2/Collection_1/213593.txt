@@ -1,0 +1,68 @@
+aircraft power line harvesting
+Autonomous Wireless Current Sensor
+wireless autonomous aircraft sensors
+power density
+low-power
+power supply
+Aircraft Power Lines AMPWISE
+consumption of sensor
+sensor manufacturer
+current sensor design
+integrated wireless sensor network
+low-cost current sensor
+inductive power line harvesting
+energy autonomous wireless smart
+Energy Harvesting
+sensor architecture co-designed
+wireless communication system
+coming generation of aircraft
+resonant power management approach
+co-existing networks
+harvested energy
+line frequency
+existing expertise
+form-factor
+form factor
+existing product
+desirable sensing
+sensing requirements
+SERMA
+CSEM
+consortium-level experience
+long experience
+aeronautical projects
+electric lines
+aeronautical equipment
+installation requirements
+Imperial College London
+space
+method
+know-how
+optimal balance
+significant track record
+university
+RTD
+interference
+context
+magnetic field
+time-bounded communications
+band
+OEM
+latency
+sampling specifications
+size
+definition
+SENIS
+electronics
+prototypes
+metallic environments
+compliance
+ITU regulations
+industry
+simulation
+developed concept
+TRL
+laboratory testing facility
+protocol
+Cleansky
+parameters

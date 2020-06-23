@@ -1,0 +1,58 @@
+disease-relevant assemblies
+disease-relevant gene
+Parkinson’s disease
+disease progression
+misfolded α-synuclein
+properties of α
+Neurodegenerative Diseases Assemblies of tau
+scale of neurodegenerative disease burden
+relevant therapeutic directions
+protein networks
+Misfolded protein PRopagation
+transfer of untagged assemblies
+robust validation assays
+situ markers
+genetic screens
+biological properties
+validation of modifiers
+IMPRiND consortium
+assessment of therapeutic interventions
+interconnected neuronal networks
+measure markers of early proteotoxicity
+transplantation of human iPSC neurons
+live imaging high content screens
+molecular events
+Europe calls
+greater functional resemblance
+complex cellular systems
+bimolecular fluorescence complementation of oligomeric species
+labelled fibril-naïve cells
+proteostatic response
+protection
+native milieu
+critical steps
+leading European laboratories
+clearance
+oligomerisation
+pathological readouts
+animal models
+humans
+relevance
+microdialysis
+Alzheimer’s
+unprecedented research effort
+druggability of identified targets
+pharmaceutical industry
+map
+animals
+prion
+tractability
+organotypic cultures
+pre-clinical stage of development
+collaboration
+entire pipeline
+brain
+homogeneous populations
+ambition
+secretion
+pathogenic effects

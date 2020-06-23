@@ -1,0 +1,54 @@
+cell populations
+cell variation
+T cell states
+T cell compartment
+T Cell Identities
+cell surface markers
+specific cell types
+single cell RNA-sequencing
+impact of new cell states
+cell surface marker sorting
+complex continuum of cell types
+sequencing thousands of single cell transcriptomes
+adoptive cell transfer assays
+heterogeneous white blood cell population
+High-throughput single cell RNA-seq
+mouse CD4
+adaptive immune responses
+immune system
+landscape of CD4
+AIM
+non-immune tissues
+immune response challenges
+networks of gene
+gene interactions active
+entire transcriptomes of thousands
+bulk transcriptomes
+predictions of regulatory molecules
+signalling molecules
+basic principles of gene regulation
+regulatory modules
+functional profiling
+central compartment of mammalian adaptive immunity
+important transcriptional heterogeneity
+bioinformatics
+great deal
+chemokines
+genetic engineering
+parallel CRISPR
+key transcription factors
+powerful integrated approach
+homeostasis
+limitation
+cytokines
+patterns
+individual cells
+Time
+novel computational approaches
+infections
+Cas knockout screen
+autoimmunity
+comprehensive way
+analyses
+dynamics of
+cancer

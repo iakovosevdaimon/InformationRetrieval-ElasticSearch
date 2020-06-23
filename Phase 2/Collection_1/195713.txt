@@ -1,0 +1,60 @@
+G Smartphones
+environment-related applications
+massive antenna arrays deployment
+Radar Applications
+objects identification
+device communication
+Millimeter Wave Massive Arrays
+RFID
+numerous devices
+interesting applications
+smart space
+internet space
+D mapping
+technology
+new services
+context
+performance
+mechanical steering devices
+real measured data
+interrogation of tagged objects
+wireless mobile communication
+radiofrequency identification
+large number of antenna elements
+personal radar
+smart solutions
+project addresses
+millimeter-waves
+real world
+new challenges
+cost-efficient services
+data traffic demand
+Internet of Things concept
+base stations
+perspective
+low power consumption requirements
+SLAM
+accurate simultaneous localization
+problem
+small area
+access points
+unified framework
+difficult integration of laser
+sustainable growth
+different heterogeneous networks
+way
+mmW
+energy
+viable solution
+people
+main achievements
+reduced wavelength
+offline-demo
+distance connectivity
+order
+addition
+mobiles
+proposed system
+generation
+availability
+capability

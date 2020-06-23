@@ -1,0 +1,40 @@
+directed graphs comparable
+Directed Graphs Structural graph theory
+algorithmic problems
+undirected graphs
+directed minors
+algorithmic applications
+Structure Theory
+specific classes of graphs
+new algorithmic techniques
+inference problems
+hard computational problems
+wide range of algorithmic digraph problems
+approach
+excluded directed    grid theorem
+graph minors
+efficient algorithms
+computational intractability
+structural foundations
+tree-width
+computer science
+existing digraph width measures
+wealth of concepts
+computer-aided verification
+natural mathematical model
+specific application areas
+recent proof
+Bayesian networks
+development
+logical definability
+powerful tool
+similar set of tools
+methods
+research
+project
+results
+proposal
+focus
+objective
+novelty
+context

@@ -1,0 +1,59 @@
+wireless sensor networks
+large sensor networks
+wireless data transport
+wireless interconnections
+emerging Compressed Sensing theory
+sensing accuracy
+ultimate capabilities of Compressed Sensing techniques
+general theory of compressive sensing
+data processing
+data acquisition
+ultimate goal
+main goal
+fundamental design principles
+project
+career development perspective
+lower energy
+basic principles
+new perspective
+different fundamental performance criteria
+science of network
+mathematical characterizations
+mathematical basis
+systematic design
+level of career
+performance limits
+able of handling large
+structured network protocols
+research-leadership skills
+unified optimization framework
+optimization-based methodology
+tier research leader
+prior related work
+optimal tradeoffs
+IoT
+key enablers
+applications
+bandwidth consumption
+researcher’s interdisciplinary competence
+removal of nodes
+Internet of Things
+direct application
+addition
+fields
+compression
+foundations
+practical algorithms
+arbitrary temporal
+economics
+biology
+channel fading
+node mobility
+existing systems
+spatial variability
+transportation
+impact
+ICT
+breakthrough
+reconstruction
+aspects

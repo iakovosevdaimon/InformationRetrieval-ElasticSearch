@@ -1,0 +1,59 @@
+cloud servers
+cloud platforms
+cloud computing systems
+scalability of cloud resources
+cloud management systems
+improved management of cloud resources
+state-of-the-art cloud offerings
+resource efficiency
+distributed cloud sites
+novel cloud computing architecture
+resource requirements
+holistic resource management
+severe resource waste
+true resource disaggregation
+non-moderate resource demands
+large databases
+critical classes of applications
+large classes of critical applications
+dominant computing paradigm
+critical cornerstone
+rack scale
+rack-scale
+vast amounts of resources
+memory databases
+graph databases
+ACTiCLOUD
+multiple servers
+performant DataBase
+severe difficulties
+column-store database pioneer
+existing technological barriers of actual fluidity
+effective mechanisms
+key research challenges
+hardware intelligence
+hypervisors
+applicability
+acclaimed academic institutions
+MonetDB
+Neo4j
+final goal
+proliferation
+OnApp's MicroVisor
+cutting-edge European technologies
+world-leader
+innovative hypervisor
+capabilities of OpenStack
+Kaleao
+significant need
+Numascale
+Service
+project
+modest investments
+core component
+digital economy
+foreseen innovation
+forces
+DBaaS
+JVM
+ecosystem

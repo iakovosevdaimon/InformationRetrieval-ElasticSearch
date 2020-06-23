@@ -1,0 +1,57 @@
+new visual metric
+visual model
+human visual system
+processing of HDR
+rich visual content
+uniform encoding of HDR
+HDR-LFs
+new challenge
+project
+high dynamic range light fields
+video content
+realistic video
+Perceptual encoding of high fidelity light fields
+photographs
+difference metric
+processing requirements
+display technologies
+new imaging
+limitations
+performance
+traditional video
+bandwidth requirements
+focal depth cues
+computer generated imagery
+enormous storage
+grand challenges of computer graphics
+realistic image
+images indistinguishable
+final objective
+frame rate
+main bottleneck
+sufficient resolution
+manipulation
+cinema
+luminance
+product catalogues
+colour gamut
+special effects
+capture
+way
+future
+tedious subjective testing
+potential
+Electronic displays
+problem
+configurations
+automated method
+Tremendous progress
+naïve observer
+D scenes
+LF data
+research stage
+key aspects
+technical terms
+work
+area
+years

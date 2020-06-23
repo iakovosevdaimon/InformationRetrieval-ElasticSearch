@@ -1,0 +1,50 @@
+D SIM
+D images
+spatial resolution
+Temporal Resolution
+D imaging of cells
+D SR-SIM microscope able
+resolution limit
+resolution enhancement
+D Structured Illumination Microscopy FASTR
+fold resolution improvement
+super-resolution optical fluctuation imaging
+revolutionary combination of SIM
+SIM reconstruction code
+nm
+fast dynamics
+Super-resolved structured illumination microscopy
+live-cell imaging
+SR-SIMs
+fluorescence microscopy
+SOFI
+dynamics of mitochondrial
+low light levels
+low photo-damage
+biological processes
+available systems
+photo-toxicity
+strong out-of-focus light
+acute biological question
+unique multi-focal optics approach available
+new algorithms
+fluorescent labels
+ideal candidate
+nature
+host institute
+length scales
+important method
+ER interactions
+specialty
+times
+video rate
+proposed system
+tools
+cellular structuring
+non-linear effects
+second
+extreme speed-up
+Dedecker lab
+sample
+scaffolding points
+addition

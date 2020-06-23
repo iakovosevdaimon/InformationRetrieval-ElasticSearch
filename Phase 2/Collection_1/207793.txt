@@ -1,0 +1,56 @@
+Big Data Pre-processing
+big data veracity aspect
+Rough Set Theory
+Optimised Framework
+Randomised Search Heuristics
+Prof Tino
+University of Granada
+University of Paris
+Prof Merelo
+Prof Lebbah
+University of Birmingham
+information extraction
+optimisation
+Imprecise Contexts
+additional information
+useful information
+UoB
+expertise
+involvement of Arrow Group
+real-world requirements
+computational requirements
+supervisor Dr Christine Zarges
+experienced researcher Dr Zaineb Chelly Dagdia
+machine learning
+knowledge
+non-academic institutions
+Finance
+RST
+external collaborators
+major research gaps
+particular importance
+state-of-the-art methods
+thresholding
+Insurance
+SME
+Banking
+France
+Philippe Barra
+new terminology
+task
+Velocity
+Volume
+unprecedented rate
+existence
+techniques
+project's overarching aim
+Variety
+development
+decades
+approach
+Spark MapReduce model
+spite
+step
+Imprecision
+hand
+specificities

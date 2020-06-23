@@ -1,0 +1,55 @@
+data execution
+Big Data deployments
+Big Data application
+Big Data Stacks
+incoming data
+Big Data software stack
+new Big Data paradigm
+customer
+large amounts of complex streaming data
+cloud resources
+heterogeneous cloud deployments
+execution stream
+application logic
+cloud provider
+infrastructure resources
+E2Data innovations
+nodes
+scale
+realistic execution scenarios of real-world deployments
+state-of-the-art software components
+code changes
+underlying hardware
+infrastructure services
+maximum resource utilization
+resource demanding applications
+code optimizations specific
+hardware agnostic manner
+strict time limit
+low-power ARM cluster architectures
+current programming norms
+health
+finance
+order
+green buildings
+x86
+edge devices
+end-to-end solution
+performance increase
+requirements
+multiple tasks
+local network
+processing
+European Extreme
+following characteristics
+security domains
+processors
+original source
+limited budget
+business requirement
+node level
+today’s world
+evaluation
+clusters
+outcome
+options

@@ -1,0 +1,59 @@
+user experience
+game design document
+game mechanics
+transport mode
+transport integrator
+user level
+user needs
+sustainable transport use
+travel experience
+transport integration problem
+user movement patterns
+context of Mudlark’s world-leading digital public transport game
+design scoping document
+funding
+platform
+Rails
+individual journey data
+player’s London travel smartcard
+non-rush hour travel
+mobile application
+individual traveller
+unique concept
+business planning roadmap
+accuracy of geolocation data
+global business opportunity
+prevalence of powerful personal mobile devices
+gameplays
+achievements
+GPS mapping
+Chromaroma
+Utilising smart-phone sensors
+tracking assumptions
+swipes
+OTR
+time
+screen
+terms of location
+detailed report
+commercial case
+growth performance of Mudlark
+profitability
+existing knowledge
+Test initial technical
+speed
+project objectives
+competitive solution
+paper prototypes
+understanding
+SME
+advent
+viability
+framework
+external investment
+daily travels
+variety of analyses
+group
+solo integrators
+grant
+programme

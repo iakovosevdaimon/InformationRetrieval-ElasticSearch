@@ -1,0 +1,37 @@
+dictionary data
+encoding of textual data
+derivational morphological dictionary
+TB
+Text Encoding Initiative
+P5 conformant XML encoding
+Latin language
+morphological layer of annotation
+basis of wordformation rules
+Index Thomisticus Treebank
+use of computational linguistic methods
+Ricerche
+TEI
+Computerizzazione dei Segni dell’Espressione
+lexical elements
+CIRCSE
+compilation
+annotated corpus of texts
+Thomas Aquinas
+proposed project
+recognised standard
+easy sharing
+standalone tool accessible
+Cattolica
+Sacro Cuore
+website
+Universita
+Centro Interdisciplinare
+related projects
+Milan
+future
+variety
+embedding
+final resource
+Morphology
+inflection
+integration

@@ -1,0 +1,59 @@
+gordian knot
+enhanced sampling methods
+Action
+knotted protein folding
+folding of knotted proteins
+Variationally Enhanced Sampling
+trefoil knot
+folding of human Ubiquitin C-terminal Hydrolase
+Human Ubiquitin Hydrolase
+coarse grained model
+current picture
+state-of-the-art picture
+general picture
+expertise
+knowledge
+system of great biomedical
+use of Metadynamics
+theoretical model
+atom representation
+computer simulations
+all-atom models
+computational time limitations
+challenging research topic of great biophysical
+coarse-grained modeling of bio
+multi-scale Molecular Dynamics strategy
+leading center
+relevant region
+polymers
+host institution
+important methodological advancements
+backbone
+protein's free energy landscape
+diseases
+simplest nontrivial topology
+validation
+preferential pathways
+resources
+experience
+soft matter
+effect
+explicit solvent description
+intermediate states
+experiments
+calculations
+process
+project
+key collaborations
+formation
+mechanisms
+Parkinson's
+Alzheimer's
+field
+training
+polypeptide
+success
+crossings
+comprehension
+output
+course

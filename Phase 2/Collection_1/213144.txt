@@ -1,0 +1,50 @@
+PRIViLEDGE
+cryptographic research
+privacy requirements
+limits of cryptographic protocols
+New cryptographic techniques
+distributed ledger technologies
+ledger-based solutions
+public ledger
+deployed DLTs
+Distributed Ledgers Blockchain
+blockchain domains
+university diploma record ledger
+stake-based ledgers
+distributed trusted services
+verifiable record of transactions
+sensitive data
+potential applications
+verifiable online voting
+selected use cases
+principal application domains of DLT
+Internet
+anonymity
+insurance
+exchanges
+power cryptocurrencies
+trade secrets
+centralised intermediaries
+European key players
+Cryptography
+efficient decentralised consensus
+contract validation
+wide reach
+update mechanism
+recent years
+goal
+transparency
+impact
+fintech
+core
+personal information
+immediate scope
+revolutionary developments
+trustworthy trades
+execution
+documents
+security
+project
+idea
+promises
+Results

@@ -1,0 +1,46 @@
+Cloud Orchestration
+run-time orchestration of cloud applications
+perspective of cloud applications
+adoption of cloud computing services
+public sector applications
+intelligent utilization of cloud infrastructure resources
+efficient resource utilization
+Level of Application SMEs
+operational level SME
+public sector pilots
+resource scalability
+public sector organizations
+convenient resource utilization
+resource consumption
+operational level industry trials
+dynamic resource demands
+large scale
+limited application-level flexibility
+COLA project
+large investment costs
+long term operational costs
+secure deployment
+coordinated deployment
+Typical industry
+comprehensive solution
+order
+possibilities
+variable number of customers
+elastic way
+pluggable framework
+significant cost savings
+impact
+smaller extent
+everyday business conduct
+demonstrators
+reference implementation
+security concerns
+innovation
+overall objective
+applicability
+strategic target communities
+current research results
+clear pathway
+efforts
+market
+hand

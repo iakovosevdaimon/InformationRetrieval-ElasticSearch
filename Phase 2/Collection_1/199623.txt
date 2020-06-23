@@ -1,0 +1,53 @@
+Routing technologies
+WDM routing platform
+STREAMS optical engine
+Tb
+successful wavelength routing
+optical modules
+proposed STREAMS distributed routing system
+s Throughput interconnect
+s aggregate throughput
+low latency routing platform
+electro optical-PCB
+overall objective of STREAMS
+passive Si-Pho AWGR routing element
+optical on-board interconnection paradigm
+aggregated throughput
+s line rate
+High-End Multi-Socket Server Blades
+cost-effective high-speed Optical Path Interconnect
+multiple end
+socket CPU
+complete power efficient
+mid-board systems
+board level
+migration of successful WDM networking practices
+current state-of-the-art multi-socket server blades technology
+necessary Silicon Photonics Transceiver
+link power efficiency
+order of magnitude
+mid-plane computercom level
+interconnection of CPUs
+router modules
+end-points
+wavelength channels
+multiple high bandwidth
+scale computing systems
+high-end processor sockets
+maximum granularity
+point-to-point direct links
+network resources
+Gb
+single-mode polymer
+optimal allocation
+realization of exa
+data
+energy
+step
+software
+novel DWDM
+designated transmission wavelengths
+criteria
+collision
+communication
+buffer

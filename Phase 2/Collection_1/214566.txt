@@ -1,0 +1,64 @@
+soft parts
+soft bodies
+soft robotics applications
+new field of soft robotics
+soft body parts
+virtual replicas of soft robots
+EMISSR project
+based control policies
+control algorithms
+training control policies
+multilevel solver
+New dynamics
+novel multibody dynamics simulator
+fast multilevel iterative solver
+traditional robots
+high-fidelity interactive simulator
+machine learning
+accuracy
+Efficient Multibody Interactive Simulation
+testing machine
+robust contact
+frictional contact
+training programme
+flexible bodies
+Europe needs
+economic opportunity
+development needs
+two-way coupling of rigid
+high mass ratios
+stability
+transversal oscillations
+fact
+aim
+investment
+globe
+deformable continua models
+existing projects
+UCPH
+formulation
+biology inspired actuators
+artificial muscles
+testbed
+unified constraint
+nonlinear underactuated systems
+academic profile
+teaching experience
+great growth
+time
+pneumatic tubes
+parallel implementation
+terms of performance
+argument
+numbers of degrees
+freedom
+tendons
+career
+current competencies
+gap
+simulations
+information generation
+humans
+elements
+originality
+approximations

@@ -1,0 +1,49 @@
+Quantum Coherence
+quantum systems
+quantum computation
+quantum gates
+quantum architectures
+Quantum Information Applications Quantum information technologies
+interesting quantum applications
+variety of quantum applications
+quantum sensing schemes
+desired quantum operations
+quantum error correction techniques
+quantum simulation of classical intractable systems
+theoretical proposals
+medical applications
+experimental verification
+theoretical investigation
+experimental needs
+main sources
+different experimental setups
+relevant experimental groups
+specific decoherence sources
+realization of richer
+main goal
+numerical verification
+Advanced fabrication technologies
+Orenstein-Uhlenbeck noise process
+crystals
+color-defects
+trapped ions
+decay channels
+Rydberg atoms
+nitrogen-vacancy
+diamond
+dynamical decoupling
+attention
+scientific knowledge
+leakage
+longer times
+fidelity
+growing field
+ways
+Runge-Kutta simulations
+high impact
+research
+experiment-theory collaborations
+heart
+recent years
+project
+physics

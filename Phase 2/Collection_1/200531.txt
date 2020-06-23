@@ -1,0 +1,39 @@
+Field Theories Quantum Field Theory
+non-linear quantum field theories
+knowledge of quantum field theories
+weakly interacting quantum field theory
+quantum physical systems
+hidden quantum algebraic structures
+physics of quantum fluids
+propagating quantum waves
+gauge theories
+supersymmetric gauge theory
+linear theory
+finite supersymmetric Yang-Mills theory
+general theory of localization
+hidden algebraic structures
+supersymmetric loop observables
+level of fundamental interactions
+solvable sectors of physical observables
+objectives
+method of Feynman diagrams
+integrable systems
+phenomenological level
+main goal
+interacting degrees of freedom
+subnuclear physics of quarks
+universal framework
+supersymplectic
+particles
+terms
+gluons
+arbitrary geometrical backgrounds
+ground-breaking results
+techniques
+perturbative deformation
+efficient algorithms
+proposal
+realizations of symplectic
+novel tools
+superconductivity
+project

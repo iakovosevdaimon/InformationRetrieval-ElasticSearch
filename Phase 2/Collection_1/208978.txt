@@ -1,0 +1,49 @@
+aberrant DNA hypermethylation
+DNA methylation-sensitive enhancers
+altered DNA methylation
+patterns of DNA methylation
+Investigation of aberrant DNA methylation
+aberrant hypermethylation
+DNA methyltransferase inhibitors
+enzyme catalysing DNA demethylation
+aberrant epigenetic landscape
+AML-specific alterations
+leukemic stem cell self-renewal
+leukemic cells
+MethylC-seq
+epigenetic mark
+ATAC-seq
+relevant AML mouse models
+ChIP-seq
+mutated epigenetic regulators
+proposed work
+increased stem cell self-renewal
+distal regulatory regions
+high-throughput sequencing methods
+high-throughput enhancer screen
+TET2 deficiency
+tumour suppressive regulatory regions
+uncontrollable growth of immature myeloid cells
+diverse transcriptional regulators
+malignant haematopoiesis Acute myeloid leukaemia
+better understanding of mechanisms
+leukaemogenesis
+promising therapeutic target
+aggressive type of blood cancer
+binding
+targeted improvement of existing therapies
+Somatic mutations
+positive-selection CRISPR
+discovery
+advantage
+malignancies
+link
+role
+haematopoietic system
+genome-wide level
+varying degrees of success
+clinic
+function of transcription factors
+reversible nature
+loss
+sites

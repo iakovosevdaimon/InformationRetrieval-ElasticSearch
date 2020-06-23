@@ -1,0 +1,57 @@
+proof automation
+multiple proof assistants
+reasoning knowledge
+single proof advice system
+integration of proof reconstruction
+Theories Formal proof technology
+widespread use of formal proof
+Strong Modular proof Assistance
+knowledge extraction
+uniform learning-reasoning system available
+vast accumulated knowledge
+uniform learning methods
+today's formalized knowledge
+smart hammer
+hammer systems
+advice system able
+accessible knowledge repositories
+reuse of hammer components
+Isabelle
+Flyspeck
+combined smart advice method
+new AI methods
+Mizar top-level lemmas
+HOL provers
+individual systems
+verification of complex theories
+multiple logical foundations
+vast heterogeneous libraries
+ZF top-level theorems
+Today's early generation of hammers
+reusable ATP
+different foundational aspects
+mathematics
+unparalleled level of certainty
+seL4
+way
+ACL2
+techniques
+half of Coq
+proofs
+High profile certification projects
+CompCert
+designs
+novel kind of tool
+success rates
+breakthrough
+content merging
+ultimate outcome
+computer science
+working mathematicians
+tens of person
+simple conjectures
+security
+years
+HOL4
+main goal
+effort

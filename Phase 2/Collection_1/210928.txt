@@ -1,0 +1,49 @@
+fatigue of materials
+fatigue tests
+fatigue damage
+fatigue behavior of materials
+Fatigue design
+duration of fatigue characterization
+fast determination of fatigue behavior
+gigacycle fatigue domain
+Fast determination of fatigue properties of materials
+stored energy
+high number of cycles
+stress lower
+energy production
+dissipated energy
+mechanical structures
+low stress amplitudes
+different stress amplitudes
+precise characterization of material behavior
+evolution of dislocation structures
+ultimate tensile stress
+numerical approach
+reliability of structures
+experimental approach
+new method
+number of maintenance phases
+transport industry
+cyclic loadings
+aeronautic industry
+repeated loadings
+numerical tools
+test duration
+mechanical systems
+life span
+short interrupted tests
+discrete dislocation dynamics simulations
+self-heating measurement
+reduction
+engineering
+fracture
+use
+safety
+increases
+links
+industrial sectors
+goal of FastMat
+scientific objective
+problem
+dissipation
+phenomenon

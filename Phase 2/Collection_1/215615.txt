@@ -1,0 +1,34 @@
+ReaxFF Computational chemistry
+original ReaxFF functional form
+developed method
+long-standing history of modern ReaxFF method developments
+flexible functional forms
+efficient methods
+combination of HDNNs
+force-fields
+variant of NNs
+motivated functional forms
+accurate methods
+materials science
+expensive semi-empirical density functional based tight-binding method
+high-dimensional neural networks
+artificial neural networks
+example of machine learning
+state-of-the-art reactive force field
+chemical reactions
+realistic chemical systems
+high-temperature fullerene reconstruction mechanisms
+notorious case
+applications
+biochemistry
+Reactivity
+kinetic stabilities of different compounds
+place
+Amsterdam
+DFTB
+implementation
+SCM
+order
+problem
+error
+target function

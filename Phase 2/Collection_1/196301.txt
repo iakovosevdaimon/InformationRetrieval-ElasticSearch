@@ -1,0 +1,61 @@
+OP3C project
+satellite hyperspectral sensor
+Satellite manufacturers
+hyperspectral data
+terms of cloud cover
+Hyperspectral sensor manufacturers
+hyperspectral sensors
+proposed FPGA
+satellite mission planning
+Satellite Operating Centers
+compression structure
+cloud coverage mask
+compression elaboration
+overall innovation project
+proposed concept
+board Processing
+compressed acquisitions
+hand
+result
+successful feasibility study
+market analysis
+niche market
+direct processing
+product ready
+proper images
+mentioned concept
+board of satellites
+flexible acquisition planning
+lower volume of transmitted images
+human resources
+Consulting companies
+objective
+Clouds Classification
+economic viability
+Space Agencies
+capital
+useful ones
+order
+storage on-board
+Field Programmable Gate Array
+infrastructure cost
+main users
+efficiency
+user constraints
+needs
+decompression
+operator
+derived business plan
+funding
+streaming procedure
+phase
+corresponding industries
+times
+way
+reduced hardware requirements
+significant gains
+TRL9
+TRL6
+goal
+target
+completion

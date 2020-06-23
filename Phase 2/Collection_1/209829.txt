@@ -1,0 +1,55 @@
+quantum sensors
+quantum correlations
+Quantum Optical Networks Quantum sensing exploits effects
+networks of qubits
+network of qubits
+superconducting qubits
+project
+complex quantum dynamics
+cooperative effects
+magnetic fields
+external fields
+accurate measurement of microwave fields
+non-equilibrium phase transitions
+body effects
+trapped ion setups
+properties of driving fields
+photonic cavities
+question
+generation of entanglement
+superconducting circuits
+reference systems
+cooperative radiative decay
+ultra-weak forces
+qubit-cavity network
+limit of weak coupling
+sensitivity of measurement devices
+emergent phenomena
+Matrix Product States methods
+advanced quasi-exact numerical technique
+experimental platforms
+interactions
+rigorous theoretical description
+different limits
+significant advance
+abrupt response
+strong dissipative regimes
+challenge
+noise
+main scenarios
+robust metrological protocols
+phonons
+dissipation
+proposals
+performance
+realistic conditions
+multistability
+points
+mean-field theory
+lasers
+photons
+Approximations
+decade
+resonators
+preliminary study
+goals

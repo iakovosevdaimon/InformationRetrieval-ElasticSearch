@@ -1,0 +1,13 @@
+ARM-based systems
+x86 multicore systems
+high-performance computing processor systems
+Sniper architectural simulator
+project
+High-Speed Architectural Simulation of ARM
+low-complexity
+innovation opportunities
+industry
+Ghent University
+goal
+mobile markets
+academia

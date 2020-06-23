@@ -1,0 +1,61 @@
+tumor DNA
+Genomic diagnostics
+epigenetic profiling of single DNA molecules
+relevant genomic information
+optical barcoding of individual DNA molecules
+DNA damage lesions
+prototype DNA barcoding devices
+analysis of large genomic aberrations
+PCR amplification
+genomic layout
+current genomic based diagnostics
+erasure of epigenetic information
+analysis tools
+automated sample preparation of native unamplified DNA
+utilization of emerging optical DNA mapping technologies
+single point mutations
+single base resolution
+PCR-amplification bias
+Loss of relevant information
+large scale validation
+epigenetic markers
+large scale screens
+single-chromosome level
+low sample amounts
+low resolution
+Limitations
+data analysis software ready
+Early diagnosis of colorectal
+rare mutations
+software platforms
+proof of principle diagnostic assays
+prognosis tools
+high throughput
+Bacterial infections
+bacterial cultures
+early stage commercialization
+sequence Cytogenetic diagnostic approaches
+NGS
+readout
+micro biopsy
+extraction
+quantification
+hardware
+short reads
+reagents
+robust toolbox
+variable samples
+types of challenges
+set of specific
+generation sequencing
+lung cancer
+hematological malignancies
+long-range variations
+domains
+contrast
+antibiotic resistance
+project
+Spinal Muscular Atrophy
+gap
+proposal
+technology

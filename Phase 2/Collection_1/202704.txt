@@ -1,0 +1,54 @@
+certification of adaptive MILS systems
+MILS platform
+MILS approach
+Critical CI systems
+D-MILS
+Adaptive MILS Critical infrastructures
+Adaptation Systems
+CITADEL
+EURO-MILS projects
+certification methods
+security-critical ICT systems
+resilient CI
+diverse certification regimes
+maintenance of dependable systems
+configuration properties
+up-to-date certification assurance artifacts
+configuration change mechanisms
+safe adaptive behavior
+adaptive self-healing mechanisms
+configuration change policies
+continuous adaptation
+monitoring
+Critical Infrastructure Protection
+innovative platform technology
+vital system properties
+affordable development
+industrial CI use cases
+essential functions
+compositional assurance
+automated verification tools
+Recent security trends
+innovative runtime evidence management agent
+costly scrutiny
+methodology
+adversity
+resilience
+attacker work factor
+deployment
+reconfiguring hosts
+malicious occurrences
+threats
+networks
+modular construction
+complex safety
+dynamic reconfiguration
+separation kernel
+unpredictable environments
+unexpected events
+physical resources
+reverse-engineering
+solution
+verified application architecture
+defences
+advances

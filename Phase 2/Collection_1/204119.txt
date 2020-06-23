@@ -1,0 +1,47 @@
+bats
+D grid cells
+D border cells
+record place cells
+head-direction cells
+real-world navigation
+spatial goals
+real-life navigation
+real-world natural navigation
+mammalian hippocampal formation
+bat hippocampal formation
+goal location
+Neural basis of natural navigation
+hippocampal laboratory studies
+D spaces
+mammalian spatial cognition
+relevant spatial scales
+conceptual gap
+Representation of goals
+role of experience
+neural codes
+neural circuits
+rodents
+neurons
+navigating
+size
+new functional cell class of vectorial goal
+kilometer-scale distances
+vectorial information
+set of studies
+typical laboratory setups
+Weizmann Institute of Science
+search
+long test facility
+linear tracks
+existence
+single-neuron activity
+large flight-room
+boxes
+map
+animal’s position
+Preliminary results
+ways
+brain
+odometer
+objects
+compass

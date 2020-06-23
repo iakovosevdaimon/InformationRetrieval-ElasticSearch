@@ -1,0 +1,53 @@
+GaN power devices
+reliable GaN-based power devices
+novel GaN
+GaN material quality
+high reliability
+medium power electronics
+new device concepts
+long term device reliability
+fast switching capability of GaN
+in-depth reliability study
+development of novel device architecture
+device layout
+Si concepts
+Si technology
+current proposal
+view of long-term reliability
+exploration of new material systems
+Innovative Reliable Nitride
+qualification strategy development
+automotive applications
+Aluminum Nitride
+wide usability
+Silicon technology
+industrial inverter
+impact of dislocations
+lateral HEMT structures
+breakdown of lateral HEMTs
+innovative low inductance packaging system
+dual channel
+substrate removal
+materials
+special focus
+combination
+benefits
+increased robustness
+main objective
+step
+structural disturbances
+known limitations
+e-mode
+phenomena
+environment
+form
+major blocking item
+vertical leakage
+energy
+potential
+project
+drawbacks
+market adoption
+subjects
+applicability
+addition

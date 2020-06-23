@@ -1,0 +1,43 @@
+single cells
+Single-cell Gene Expression Analyses
+single-cell transcriptome analyses
+related cells
+clonality of gene expression
+dynamic patterns of allelic expression
+allele-specific expression
+understanding of allelic transcription
+dynamic random monoallelic expression
+cell population experiments
+allelic transcription heterogeneity
+large number of cell types
+extent of random monoallelic expression
+novel single-cell RNA-seq method
+genome-wide gene expression measurement
+gene copy
+research program
+allelic-origin resolution
+novel insights
+alleles
+Allele-level Regulation
+large numbers
+variable phenotypes
+unique insights
+variable expressivity
+improved understanding
+diploid organisms
+Dynamics
+nature
+incomplete penetrance
+tissues
+fundamental questions
+lab
+genes
+primary cultures
+transgenic models
+phenotypic consequences
+adult stages
+biological significance
+parent
+biallelic
+identical individuals
+end

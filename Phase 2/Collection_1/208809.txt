@@ -1,0 +1,52 @@
+B-branes
+category of B
+String Theory
+behaviour of derived categories
+general Artin stacks
+new symmetries of derived categories
+Artin Stacks Derived categories of coherent sheaves
+variety
+system of categories
+wide-ranging general theory
+Birational Geometry
+vector space
+target space
+birational maps
+quantum field theory
+Geometric Invariant Theory
+large class of Artin stacks
+question
+basic tool
+algebraic geometry
+GLSMs
+quotient
+understanding
+project
+Gauged Linear Sigma Model
+powerful new tools
+striking new duality
+idea of equivariant geometry
+linear action
+abelian groups
+fundamental tool
+Lie group
+remarkable examples
+basic importance
+non-abelian case
+data
+spectacular results
+approach
+sophisticated generalization
+GIT
+Construct
+certain limits
+deep insights
+conjectures
+simple example
+variation
+rise
+connection
+physics
+overarching goal
+subject
+key objectives

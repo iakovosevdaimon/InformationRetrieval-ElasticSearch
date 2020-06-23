@@ -1,0 +1,58 @@
+low-power devices
+accelerated entity
+powerful devices
+powerful heterogeneous accelerators
+multiple accelerated applications
+local tasks
+public acceleration cloud service
+Low-Power Integrated Systems
+processing power
+public cloud
+nearby accelerators
+incoming tasks
+accelerated entities
+heterogeneous cloud infrastructures
+storage intensive tasks
+Heterogeneous Secure Multi-level Remote Acceleration Service
+Service Level Agreements
+modern applications
+advantage of high-performance accelerators
+secure unified model
+local status
+secure way
+RAPID project
+RAPID tackles
+novel runtime
+license policies
+task requirements
+embedded systems
+required resources
+runtime system
+easy-to-use task-based programming model
+admission control policies
+multiple virtual CPUs
+Novel scheduling algorithms
+memory
+vision
+gaming
+desktop
+laptop
+security
+environmental conditions
+smartphones
+increased demand
+high-bandwidth networks
+aerospace
+robotics
+approach
+compute
+parameters
+tablets
+account
+registration mechanism
+notebooks
+GPUs
+order
+high-end servers
+result
+programmer

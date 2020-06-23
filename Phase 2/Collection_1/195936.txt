@@ -1,0 +1,57 @@
+COuNt data TimE SerieS Analysis
+analysis of time
+general analysis of count time-series data
+project
+count data sets
+sequential count data
+sequencing data application
+time course experiments
+RNA-seq
+ribonucleic acid sequencing
+chromatin immunoprecipitation sequencing
+high-throughput sequencing
+ChIP-seq
+opportunity
+recent examples
+biology
+economics
+SITraN’s Professor Winston
+Professor Magnus Rattray
+Professor Neil Lawrence
+number of applicants
+fellowship experience
+number of labour strikes
+significance tests
+neurodegenerative diseases
+ALS
+patients
+University of Manchester
+machine learning
+amyotrophic lateral sclerosis
+better treatments
+classification
+perturbations inference
+variety of multidisciplinary fields
+significant differences
+Alzheimer’s
+aim
+Biogen Idec Industry
+real impact
+month secondment period
+event-counting
+job
+methods
+promising applications
+Parkinson’s Disease
+various features of organisms
+responsibility
+supervisor
+year
+analyses
+target
+different models
+training
+development
+tag counts
+sample
+modification

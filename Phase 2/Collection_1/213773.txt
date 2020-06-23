@@ -1,0 +1,56 @@
+information coding
+information-coding ensembles
+spatial coding
+Coding of locations
+dendritic components
+dendritic processing
+ensemble activity
+role of dendritic spikes
+formation of hippocampal memory-coding neuronal ensembles
+specific context-coding ensembles
+Dendritic voltage-dependent ion channels
+activity-dependent regulation of dendritic ion channels
+activity-dependent labelling
+associative functions of CA3
+local dendritic spikes
+synaptic inputs
+synaptic plasticity
+correlated activity of neuronal ensembles
+ensemble functions
+associative memory
+voltage-dependent properties of CA3PC dendrites
+hippocampal CA3 pyramidal neurons
+active properties of CA3PC dendrites
+hippocampal CA3 area
+CA3 ensemble code
+memory tasks
+synaptic connections
+dendrites of individual CA3PCs
+recruitment of individual neurons
+hippocampus
+recurrent synaptic network of pyramidal cells
+active input integration
+important role
+external inputs
+cellular mechanisms
+P imaging
+specific action potential patterns
+nonlinear amplification
+entorhinal cortex
+approaches
+behaving rodents
+generation
+research program
+photon
+contexts
+events
+hypothesis
+dentate gyrus
+in-depth understanding
+Current models
+general aim
+microscopy
+slices
+episodic memories
+patch-clamp electrophysiology
+Recent work

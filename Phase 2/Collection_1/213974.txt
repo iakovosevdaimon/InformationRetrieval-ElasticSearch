@@ -1,0 +1,41 @@
+major field of set theory
+applications of inner model theory
+development of modern set theory
+Descriptive set theory studies definable sets of reals
+constructions of inner models
+study models
+computability studies computable functions
+instance Borel
+central field
+recipient
+Hausdorff medal
+higher generalizations of algorithmic randomness
+major aim
+analytic sets
+infinite computations
+higher analogues
+important problems
+work of Joel David Hamkins
+Menachem Magidor
+AMS Steel prize
+connections
+Paul Cohen's solution of Hilbert's
+proposal
+strong logics
+Hugh Woodin
+example
+ideas
+Jouko Väänänen
+Philip Welch
+Ronald Jensen
+theoretical computer science
+various areas of mathematics
+Ted Slaman
+Andre Nies
+new approaches
+random sequences
+techniques
+mathematical logic
+line of research
+interactions
+logical strength of theories

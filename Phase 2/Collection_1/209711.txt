@@ -1,0 +1,64 @@
+T project
+Safety of Transport Infrastructure
+Safety Framework
+critical infrastructure
+T transport network
+network level
+Network Rail
+safety condition
+intelligent objects
+big data management
+remote monitoring data
+available monitoring data
+sudden catastrophic failure of infrastructure objects
+inert objects
+high safety performance
+self-learning objects
+major European infrastructure managers
+Open Linked Data formats
+means
+critical interchanges
+object level
+increased risk level
+decisions
+decision support framework
+interconnected transport networks
+inland waterways
+asset management
+sudden failures
+major advance
+inland waterway modes
+roads
+Artificial Intelligence
+Rijkswaterstaat
+longer life-cycles
+experts
+engineers
+owners
+demonstration projects
+nodes
+tunnels
+expertise
+modelling
+warnings
+earthworks
+BIM model
+bridges
+disciplinary approach
+sociologists
+DST
+significant impact
+time
+extreme events
+system
+maintenance
+concept
+inputs
+machine
+algorithms
+elements
+stress
+Mitigation actions
+agencies
+sources
+public

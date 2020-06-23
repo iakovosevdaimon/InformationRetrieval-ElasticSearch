@@ -1,0 +1,49 @@
+optical signals
+distributed photonic circuits
+optical chip concepts
+Programmable circuits
+different optical waveguide concepts
+programmable optical chips
+Photonic Integrated Circuits
+topologies of distributed waveguide circuits
+programmable photonics
+optical signal paths
+complex optical functions
+silicon photonics technology
+chip parallel optical signal processing
+bitrate optical data streams
+new photonic chip concepts
+integrated photonics accessible
+PhotonICSWARM
+different topologies
+distributed control algorithms
+optical equivalent of electronic field-programmable gate arrays
+connectivity topologies
+Scattered Waveguide elements
+choice technology
+high connectivity
+different types of sensors
+phased arrays
+existing state-of-the-art technology platforms
+real-time encryption of high
+pattern recognition
+lateral leakage
+lattices of resonators
+high-speed communication links
+waveguides
+simulation
+design
+theory
+light
+FPGA
+D holographic gratings
+characterisation methodologies
+today's electronics
+single path
+Maker community
+Reconfigurable Mesh
+research cycle
+orders of magnitude scaling
+complexity
+specific wavelengths
+applications

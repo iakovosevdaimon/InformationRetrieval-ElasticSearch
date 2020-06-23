@@ -1,0 +1,61 @@
+streaming video
+use of drones
+context of video streaming
+efficient use
+video quality requirements
+study
+efficient adaptive video compression
+efficient interference management
+streaming solutions
+non-interactive omnidirectional video
+Multimedia Streaming
+Game of Drones
+main goal
+interference management techniques
+Flying Terminals
+interference environment
+airborne terminals
+information of different terminals
+project
+secondary goal
+capturing
+order
+Generation Mobile Networks
+use of civilian unmanned aerial vehicles
+available bandwidth
+highest priority
+civil UAV’s
+bandwidth usage
+lower priority
+G networks
+redundant information
+multi-user detection techniques
+unique UAV’s mobility characteristics
+D-mobile gap-fillers
+additional coverage
+earthquakes
+radiation leakage
+nuclear power plants
+target delay
+emergency situations
+case
+reliability
+correlation
+channel characterization
+congested network areas
+challenging applications
+package delivery services
+flexibility
+limited knowledge
+data speed
+single units
+reconnaissance missions
+likely scenario
+paramount importance
+promising application
+receiver
+terrorist attack
+swarms
+results
+panoramas
+reasons

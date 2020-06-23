@@ -1,0 +1,46 @@
+data set
+data scientist
+Inductive Data Models
+missing data
+past data
+specific data points
+adequate data structure
+set of inductive models
+set of patterns
+set of tables
+form of models
+set of core patterns
+appropriate IMs
+project
+number of core IMs
+unifying IDM language
+learning algorithms
+dataset
+synthesis system
+right learning tasks
+IM synthesis
+scientific experimentation
+complex jobs
+recent successes
+programming
+inconsistencies
+methodology
+challenging application areas
+ultimate goal
+values
+questions
+redundancies
+predictions
+visual interface
+open source software
+sports analytics
+intelligent systems
+foundations
+theory
+knowledge
+end-user
+key challenges
+approach
+decisions
+database
+information

@@ -1,0 +1,55 @@
+Quantum states
+superconducting quantum circuits
+Superconducting qubits
+spin wave dynamics
+quantum limited resolution of qubits
+spin electronics
+detection
+phase noise of spin wave resonators
+Interfacing spin waves
+qubit response
+qubit setups
+single magnon creation
+structured magnetic films
+coherence measurements
+wave generation
+wave propagation
+research methodology
+magnetic environment
+Magnetic materials
+new research concepts
+high-frequency flux noise spectrum of spin waves
+Spectroscopy
+proposed project
+research objects of ground-breaking nature
+Magnetic material physics
+entangled states
+intrinsic dynamic states
+mK temperatures
+new horizons
+cryogenic temperatures
+study dynamics
+energy resolution
+ideal detectors
+ultra-low power
+photon
+magnetometry
+ferromagnets
+conventional measurement techniques
+methods
+transport
+hybrid system
+order
+measured object
+atto-watts
+fundamental aspects
+action
+junctions
+Amplitude
+neutron
+ontop
+magnonic elements
+final stage
+end
+populated excitations
+samples

@@ -1,0 +1,53 @@
+binary neutron star
+numerical simulations of binary neutron-star inspiral
+neutron star binary mergers
+fluid element
+fluid bodies
+Canonical Fluid Dynamics
+numerical general relativity
+barotropic fluid motions
+inspiral simulations
+theory of neutron stars
+calibrated semi-analytical neutron-star gravitational waveforms
+merger of binary black holes
+gravitational-wave detector applications
+order
+Hamilton's equations
+era of gravitational wave astronomy
+LIGO-Virgo search
+LIGO-Virgo collaboration
+irrotational flows
+computational applications
+well-posedness
+canonical momentum
+current understanding
+coherent program
+Euler-Einstein system of partial differential equations
+challenging open problem
+understanding of fundamental physical laws
+well-posed Hamiltonian hydrodynamic schemes
+conformally geodesic
+additional observations
+novel
+work
+vacuum
+corollary of Kelvin's circulation theorem
+Carter-Lichnerowicz
+nature
+academia
+Christodoulou's acoustic metric approach
+boundary interface
+beginning
+parameter estimation pipelines
+variational principle
+formulating
+Improvements
+proposed research
+scales
+break
+industry
+advent
+solution
+recent observation
+Centuries
+years

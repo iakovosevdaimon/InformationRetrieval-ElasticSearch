@@ -1,0 +1,64 @@
+future CPS
+CPS implementation
+CPS concepts
+CPS constituency
+maturity of CPS
+future visions of CPS environments
+future challenges
+early adoption of CPS technologies
+successful application
+application domains
+impact multiplication
+Strategic action
+future research priorities
+system implementation
+implementation strategies
+industrial application of CPSs
+increasing complexity
+Analysing impact
+efforts
+Road2CPS action plan
+technical developments
+smart grids
+theoretical concepts
+smart cities
+increasing number of interacting systems
+current research
+European industry
+growing complexity
+European organisations
+innovation strategy roadmaps
+forefront of new developments
+transport
+production
+gaps
+key players
+propagation
+ongoing projects
+computing components
+health
+targeted task forces
+considerable differences
+miniaturisation of sensing
+regard
+exploitation opportunities
+catalyst
+huge gap
+leading position
+safety
+security
+essential requirements
+actuating
+areas
+performance
+direction
+technology
+recommendations
+case studies
+questions
+value chain
+flexibility
+relevant stakeholders
+paradigm shift
+need
+beneficial collaborations

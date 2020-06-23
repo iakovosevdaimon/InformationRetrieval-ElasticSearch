@@ -1,0 +1,46 @@
+DCM servers
+secret key
+DCM application
+cryptographic keys
+security guarantee
+data security
+Proof of Concept DCM
+different defenses
+novel defenses
+novel approach
+cryptographic techniques
+market survey
+unique security system
+high level of security
+different OS
+different admins
+Distributed Cryptography Module
+authentication credentials
+cryptographic operations necessary
+groundbreaking technology
+known secret
+Distributed Crypto Module
+secure protocol
+acute need
+Server breaches
+new company
+attacker breaks
+secure multiparty computation
+significant boost
+networks
+steps
+backbone of network
+single points of failure
+industry
+government
+construction
+business plan
+scope
+year
+secrecy
+fact
+limited versions
+malicious code
+parts
+organisation
+NSA

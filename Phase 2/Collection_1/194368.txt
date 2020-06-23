@@ -1,0 +1,58 @@
+HetNet deployment
+small cell deployment
+HetNet planning
+mobile industry
+successful small cell
+deployment of small cells
+mobile operator’s network
+challenges
+lack of fundamental understanding of HetNet network capacity
+exponential traffic growth
+High Capacity Dense Small Cell Heterogeneous Networks Broadband mobile networks
+industry collaboration
+traffic offloading
+fundamental capacity analysis
+use of broadband mobile service
+multi-tier heterogeneous network
+need of Radio Access Network
+scheme of Research
+current research
+outdoor scenarios
+academia
+DECADE project
+macrocell coverage area
+particular indoor scenarios
+algorithm development
+long-term collaboration
+estimated compound annual growth rate
+spectrum bandwidth expansion
+evolving area of Information
+increased spectrum efficiency
+mix of access node types
+RAN
+WiFi
+system modeling
+Communication Technologies
+knowledge integration
+Optimisation
+tool
+effect of inter-sectorial efforts
+RISE
+Innovation Staff Exchange
+solid platform
+huge challenge
+performance engineering
+ICT
+femtocell
+years
+Europe
+relay
+HetNets
+academic researchers
+questions
+data
+optimization
+promising ways
+addition
+times
+trend

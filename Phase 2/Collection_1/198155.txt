@@ -1,0 +1,49 @@
+D genome information
+genetic variants
+prediction of gene expression
+expression levels
+effect of genetic variation
+decreased allelic expression of BRCA1
+D organization
+D genome organization of single alleles
+breast cancer genes BRCA1
+bulk of human genetic variation
+haplotype information
+breast cancer risk assessment
+gene regulation
+high-risk of hereditary breast cancer
+D genome data High-throughput sequencing methods
+systems integration of allelic variation
+RNAseq data
+order
+genomes
+Allelic imbalance
+Genome wide association studies
+genotype information
+individual alleles
+main project
+chromatin state
+chromatin profiling
+human genetics
+increased risk
+overarching aim
+genomic loci
+integrative models
+nucleus
+families
+assigning function
+haplotyping
+deep catalog
+C experiments
+barrier
+phenotype
+haplotypes
+large cohort of individuals
+lymphoblastoid cell lines
+current challenges
+novel tool
+multi-way interactions
+great task
+regulatory regions
+disease
+sub-projects

@@ -1,0 +1,43 @@
+parallel laser surface processing
+High Throughput Laser Surface Processing
+laser structuring
+applications laser
+laser polishing
+simultaneous processing
+film processing
+D processing
+processing results
+round laser beam
+multiple laser beams
+sector of industrial manufacturing surface processing techniques
+optics control
+different optics concepts
+flexible beam
+uSO2 Multi-beam optics
+significant increase of throughput
+uSO3 Ultrafast synchronisation of optics
+industrial validation
+approach
+uSO1 Dynamic
+industrial scenarios
+quality
+different fields of application
+Dynamic Optical Systems
+synchronized machine
+uSO4 Validation
+idea of ultraSURFACE
+fast adaption of application specific intensity distributions
+main ultraSURFACE Objectives
+utilization
+track offset
+realisation
+feed speed
+scanner
+highest precision
+piezo-deformable mirrors
+art
+factor
+drawbacks
+functional surfaces
+State
+implementation of prototypes

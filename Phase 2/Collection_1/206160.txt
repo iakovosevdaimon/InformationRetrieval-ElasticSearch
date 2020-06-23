@@ -1,0 +1,57 @@
+modular sensors
+proprioceptive sensors
+vision sensors
+art sensors
+different sensors
+D Sensors suite
+I3DS platform
+architecture of I3DS
+interplanetary missions
+I3DS design
+I3DS project
+integrated pre-processing
+integrated module
+future space exploration missions
+debris removal missions
+vast range of missions
+data flux
+dedicated boards
+data throughput
+autonomous robotic platforms
+data concentration functions
+cooperative rendezvous
+coherent architecture
+modular system
+future exploration satellite platforms standard GNC units
+dedicated communication nodes
+non-cooperative target capture
+large scope of spatial mission
+terms of exteroceptive
+order
+needs of near
+formation
+low-cost configurations
+inter-changeable building blocks
+on-board computers
+infrastructures
+appropriate tests benches
+correction of distortions
+laboratory
+thanks
+reconfigurations
+illumination devices
+INSES concept modularity
+computing navigation solutions
+spacetugs
+filtering
+compression
+integration
+performances
+landers
+abstraction
+electrical interfaces
+rovers
+Ground
+state
+mechanical interface
+demonstrators

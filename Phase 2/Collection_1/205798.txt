@@ -1,0 +1,50 @@
+rich code
+Nuclear Waste Deep Repository Simulator Nuclear waste
+final waste
+nuclear waste management
+BRIGHT modelling capabilities
+scalable scientific computing code
+deep geological repository
+advanced deep repository projects
+hundreds of years
+terms of modelling capabilities
+limited capabilities
+scalable simulation software
+actual analyses of prototypical deep repositories
+operational underground repository
+tens of years
+maintenance of nuclear power plants
+simulation tools capable
+years of intensive validation
+hundreds of thousands
+complicated nature
+multiphysics nature
+new software
+target simulations
+final disposal
+terms of parallel performance
+Current numerical tools
+FEMPAR
+long term behavior
+physical phenomena of multiscale
+serial structured FORTRAN
+computational cost
+radioactivity
+heat generation
+validated simplification assumptions
+wide set of benchmark tests
+spent fuel
+proven excellent scalability
+orders of magnitude
+level
+single country
+design process
+UPC-CIMNE
+situ experiments
+processors
+Starting Grant COMFUS
+work
+situation
+interim storage
+strategy
+results

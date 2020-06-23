@@ -1,0 +1,48 @@
+regulators of bursting
+regulatory mechanisms of transcriptional bursting
+periods of gene activity
+gene expression variability
+gene-specific targeting of transcription regulatory proteins
+single cells
+phenotypic effect of different bursting patterns
+transcription site
+cellular fitness Transcription
+heterogeneity
+Single-molecule visualization of transcription dynamics
+gene expression influences cell fate decisions
+binding dynamics of single transcription factor molecules
+periods of activity
+periods of inactivity
+regulatory promoter elements
+stability of upstream regulatory factors
+cutting-edge single-molecule RNA imaging techniques
+role of trans-regulatory complexes
+organismal fitness
+RNA synthesis
+RNA output
+human cells
+cell populations
+living yeast cells
+mutated genes
+transcript-specific behavior
+random collision of molecules
+effects
+contribution of cis
+changes
+disease progression
+dynamic depletion
+stochastic process
+molecular level
+origin
+bacteria
+reason
+new technology
+rate
+continuous fashion
+orders of magnitude
+transcriptomes
+properties
+noise
+duration
+noisiness
+approaches

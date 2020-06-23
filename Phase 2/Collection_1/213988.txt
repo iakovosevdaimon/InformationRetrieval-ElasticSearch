@@ -1,0 +1,50 @@
+MIR waveguides
+MIR single photons
+MIR quantum measurements
+Superconductive MiR phOton Counter Quantum measurements
+lack of MIR optical cavities
+ShaMROCk
+SNSPDs
+large diffraction limited mode of MIR light
+terms of SDE
+wavelength range
+single photon detectors
+superconductive nanowire SPDs
+detector active area
+detector sensible
+well-established technologies
+pursued technologies
+existing technologies
+spectral range
+light propagating
+way
+poor absorption
+silicon carbide
+fast SPD
+times higher
+SNSPD systems
+mid-infrared
+infrared spectra
+vibrational spectroscopy
+performant SPD
+silicon avalanche photodiodes
+absorption bands of gases
+order of magnitude higher
+Vibrational modes of molecules
+high system detection efficiency
+competitive semiconductor technology
+absence
+presence
+sensing
+solid platform
+interaction length
+free-space QKD
+adverse weather conditions
+proposal
+additional functionalities
+research goal
+approach
+Preliminary results
+fiber
+project
+numerous applications

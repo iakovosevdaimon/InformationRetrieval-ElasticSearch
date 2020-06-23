@@ -1,0 +1,60 @@
+GNSS consumers
+GNSS mass-market potential
+GNSS users
+ready Galileo
+IoT devices
+European Galileo-ready Smartphone
+IoT markets
+E-GNSS user base
+overarching objectives of FLAMINGO
+highest order accuracy GNSS positioning
+success of Galileo
+GNSS raw measurements availability
+series of market
+Initial GalileO services
+enhanced Location Accuracy
+mass market uptake
+tiered FLAMINGO Hackathon process
+high accuracy
+European ambitions
+major European cities
+commercial LBS applications
+mixed community of E
+new community of E
+location technology
+mobile devices
+navigation services
+urban areas
+reliable positioning
+urban environment
+Smart Cities
+Technology triggers
+continuous carrier phase measurements
+RTK mechanisms
+prerequisite
+application developers
+power consumption optimisation techniques
+PPP
+Android-N build
+Barcelona
+Gdynia
+Gdansk
+GIS
+performance
+BQ
+Sopot Tricity
+Toulouse
+provision
+data scientists
+multi-constellation
+Google
+addition
+leading organisations
+Galileo’s features
+hardware
+software
+validation activities
+SMEs
+accuracies
+consortium partners
+project

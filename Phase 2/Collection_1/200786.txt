@@ -1,0 +1,55 @@
+Fourier complexity
+Fourier computation
+computation-information
+Fast Fourier Transform
+faster Fourier transform
+complexity of polynomial multiplication
+matrix multiplication
+integer multiplication
+faster computation
+recent result
+Quasi-Entropy Analysis
+linear regression
+type of matrix quasi-entropy
+information loss
+time complexity O
+cross-correlation computation
+novel view of complexity theory
+classic complexity theoretical problems
+important linear transformations
+Fast Johnson-Linednstrauss Transform
+Shannon’s measure of information
+Speed-Information Tradeoffs
+large scale linear algebra
+super-linear lower bound
+n log n
+Analysis - PCA
+fresh view
+uncertainty principle
+type of computational
+dimensionality reduction
+starting point
+research proposal
+importance
+Tukey
+progress
+compressed sensing
+Cooley
+Principal Component
+binary functions
+science
+engineering
+FJLT
+half century old
+years
+form of numerical accuracy
+data
+book
+spite
+probabilities
+open problem
+mathematical argument
+Examples
+vision
+algorithm
+results

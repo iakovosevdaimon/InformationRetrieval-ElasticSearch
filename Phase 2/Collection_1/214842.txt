@@ -1,0 +1,51 @@
+strong identity
+users
+online identity provider
+OLYMPUS framework
+interoperable European identity management framework
+soft identity proofs
+concept of distributed oblivious identity management
+terms of privacy
+online credit application
+strong link
+single password
+single authority
+new approach
+disadvantage
+different service providers
+single point of failure
+seamless user experience of online IDPs
+unlinkable identities
+physical identities
+anonymous credentials
+existing frameworks
+cryptographic mechanisms
+existing eID solutions
+mobile driver license application
+standard devices
+User-friendly Services
+financial world
+sight
+pseudonymous identification
+threshold cryptography
+adoption
+SAML
+compromise
+smartcards
+technologies
+role
+trusted hardware
+multiple authorities
+offline purchases of restricted goods
+relevance
+OpenID
+use case
+advanced techniques
+Facebook
+illegitimate sharing
+security
+transaction
+practical feasibility
+drawbacks
+odds
+pilots

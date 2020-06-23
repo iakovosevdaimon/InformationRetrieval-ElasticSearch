@@ -1,0 +1,29 @@
+flat API descriptions
+service compliance
+correct API compositions
+correct API usage
+information
+expected service parameters
+flat structures
+suite of technologies
+individual services
+Behavioural Types
+textual descriptions
+graph structure of services
+Behavioural Application Program Interfaces APIs
+dynamic adaptation
+presence of failure
+deadlock freedom
+proposed project
+load balancing
+guarantees
+method signatures
+development frameworks
+programming languages
+existing prototype tools
+kind of results
+automated analyses
+industry
+specific order
+return
+importance

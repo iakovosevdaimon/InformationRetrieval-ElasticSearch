@@ -1,0 +1,60 @@
+task-driven similarity learning
+model-based learning
+Space of Dynamical Models of Adrenal Steroidogenesis
+new learning paradigm
+space of probabilistic models
+successful machine learning techniques
+pathway models
+modelling expertise
+dynamical systems
+complicated underlying natural processes
+underlying biological process
+clinical data
+probabilistic modelling
+data preprocessing
+UoB
+task-driven model simplification
+treatment of Congenital Adrenal Hyperplasia
+analysis of complex interdisciplinary data
+bio-medical applications
+similarity measure
+significant amounts of vectorial measurements
+University of Sheffield
+pathophysiologic processes
+University of Birmingham
+successful execution
+individual treatment success
+better prediction performance
+prediction of steroid flow
+posterior distributions
+date
+LeSoDyMAS
+CAH
+input
+dimensionality reduction
+deeper understanding
+Warwick
+formulation
+Bunte
+trained technique
+generalised framework
+Tino
+company Diurnal
+participants
+Host Coordinator
+incorporation
+insight
+Fellow
+black-box
+statistical system
+development
+costs
+previous projects
+modules
+main aim
+domain expert knowledge
+inconvenience
+patient
+judge
+proposal
+method

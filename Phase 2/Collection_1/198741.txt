@@ -1,0 +1,66 @@
+LIT-MS instrument
+compact MS
+MS fingerprint
+ion mass
+automated portable MS-based sniffer device
+multi-mode sniffer device
+state-of-the-art conventional MS system
+Chemical sniffer device
+non-scanning mode
+multi-mode analysis of threat compounds ChemSniff
+real-time detection of chemical compounds
+mass spectrometer
+vacuum system optimisation
+final instrument
+pre-prototype instrument
+real-time rapid identification
+linear ion trap
+mass spectral scan
+electronics simplification
+selective ion monitoring of target threat molecules
+operational designs
+field analysis
+low parts
+improved designs
+project outcome
+limits of detection
+operating costs
+pre-concentrator
+simpler control electronics
+suitable analyte enrichment
+FP7 Project SNIFFLES
+database of known substances
+CBRN-E substances
+rapid scans of solid surfaces
+suitable atmospheric ionisation inlet
+smaller size
+D printing manufacturing
+greater mobility
+extra capability
+numerical modelling
+levels achievable
+reduced acquisition
+optimal voltages
+vehicles
+lower power consumption
+results
+ppt
+user friendliness
+higher sensitivity
+existing instruments
+people
+high throughput screening of soft targets
+trillion
+ppb
+billion
+markets
+flexibility
+range of security applications
+key components
+end-users
+personal effects
+unknown substance
+miniaturisation
+technology
+Methods
+Performance

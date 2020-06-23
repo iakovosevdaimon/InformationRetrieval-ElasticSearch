@@ -1,0 +1,47 @@
+extreme Data procEssing Extreme Data
+scientific data
+application data
+data-intensive applications
+Exascale systems
+data-intensive tasks
+massive amounts of data
+processing extreme data sources
+social data posts
+Exascale computing systems
+Exascale applications
+incarnation of Big Data concept
+extreme scale
+exAScale ProgramIng models
+storage elements
+millions of computing elements
+commercial storage
+high speed
+high performance
+millions of images
+ASPIDE project
+exploitation of massive parallelism
+large number of memory
+memory  components database
+runtime tools
+ASPIDE’s activities
+current concepts
+APIs
+technologies
+methodologies
+powerful operations
+mechanisms
+new programming paradigms
+simplified model
+system architecture
+definition
+efficiency
+methodology
+way
+need of improvement
+rate of hundreds
+Traditional disks
+Immediate examples
+Practical results
+software prototypes
+gigabits
+day

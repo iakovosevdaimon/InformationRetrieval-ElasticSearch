@@ -1,0 +1,44 @@
+diffusible MipZ monomers
+cell division inhibitor MipZ Correct positioning
+isolated MipZ mutants
+ParB interaction defects
+FtsZ assembly
+cell centre
+spatiotemporal control of cell division
+division plane
+essential divisome component FtsZ
+divisome assembly
+centromere-binding protein ParB
+DNA-bound dimers
+chromosomal DNA
+non-specific interaction
+Gradient formation
+dimer formation
+ATP-dependent manner
+Spontaneous ATP hydrolysis triggers disassembly
+hydrogen-deuterium
+surface plasmon resonance
+biophysical techniques
+bipolar gradients
+microscale thermophoresis
+polar complexes
+conserved P-loop ATPase
+hybrid analysis
+concentration minimum
+dynamic localization cycle
+poles
+combination of fluorescence microscopy
+in-depth knowledge
+exchange mass spectrometry
+Functional characterization
+modelling approaches
+system
+simplistic form
+biochemistry
+polymerization
+generation of normal offspring
+Caulobacter crescentus
+questions
+different elements
+cytokinesis
+midcell

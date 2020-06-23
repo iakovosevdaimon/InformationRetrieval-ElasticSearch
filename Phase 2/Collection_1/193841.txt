@@ -1,0 +1,52 @@
+disturbed environments
+Disturbed Signal Environments Precise
+disturbed signal conditions
+disturbed GNSS signal conditions
+precise satellite navigation
+urban environments
+typical precise applications
+strong signal
+Robust Navigation
+precise GNSS positioning solutions
+robust satellite navigation
+open sky conditions
+urban canyon environments
+high accuracy
+professional GNSS receivers
+open challenge
+forest
+drawback of existing IMU integration solutions
+current concept
+marketable prototype receiver
+EUR
+robustness
+mass market receivers
+receiver bread-board
+high costs
+MEMS sensors
+low-cost MEMS
+marketable technology
+need of ahigh quality IMU sensor
+proposed technical concept
+medium performance inertial sensor
+GPS L1
+L5
+micro-trajectory
+multi-frequency
+major multipath effects
+Galileo E1
+E5
+viability
+nominal case
+TRL7
+PARADISE
+short periods of disturbance
+meters
+IFEN
+years
+approach
+TRL3
+limitations
+problem
+accuracies
+projects

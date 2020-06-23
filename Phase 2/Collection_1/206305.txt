@@ -1,0 +1,41 @@
+quantum computation
+long-distance quantum communication
+long distance quantum communication
+quantum optical memory
+quantum states of light
+scalable quantum computing
+long distance quantum networking
+functioning quantum network
+field of quantum information processing
+Quantum Broadband Optical Solid-State Memories
+Large-Scale Photonic Networks Large-scale quantum photonic networks
+use of fundamental quantum-mechanical concepts
+remote entanglement generation
+heralded entanglement
+long-lived QMs capable of long distance distribution of entanglement
+large-scale implementation
+remote QMs
+computational processing
+QIP
+project
+swapping
+classical computers
+classical counterparts
+scalable architecture
+multiple cavity
+multiple links
+multi-photon state generation
+controllable light-matter interaction
+necessary resources
+problems
+distinct advantages
+unprecedented speed-up
+device
+faithful storage
+scalability
+resulting technology
+main scientific vision
+applications
+real world
+elementary link
+objective

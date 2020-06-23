@@ -1,0 +1,59 @@
+G network
+G Communication
+core-network
+G radio-access
+G building blocks
+satellite technologies
+G system proof
+high throughput
+Agile Mobile network
+satellite based communication
+effective network management
+disruptive satellite communication
+ubiquitous high precision location estimation
+High speed mobile broadband
+mmWave access
+G CHAMPION project ambitions
+Key novel
+proposed technologies
+high speed mobility conditions
+efficient virtualization
+user equipment
+respective integration of heterogeneous technologies
+novel building blocks
+art terrestrial wireless communication
+radio protocols design
+future key enablers
+efficient standardization strategy
+efficient end-to-end system performance encompassing
+integrity location
+timing estimation
+resolution of key certification hurdles
+equipment reconfiguration
+ubiquitous service provisioning
+dense user environment
+flexible packet core implementation
+Pyunchang wInter Olympic competioN
+South Korean Winter Olympics
+extended coverage
+navigation solutions
+edge
+SDN functions
+Internet of things
+QoS
+flexibility
+antenna
+NFV
+innovations
+conjunction
+new architectural approach
+concept
+multi RAT capable
+software
+Latency
+various deployment context
+ms range
+common framework
+state
+main challenges
+time

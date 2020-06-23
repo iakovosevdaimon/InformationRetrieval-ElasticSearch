@@ -1,0 +1,50 @@
+Human gut Microbiome
+colorectal cancer development
+gut epithelial cells
+genetic proxies
+key mediators of gut microbiome
+gut microbial ecosystem
+microbiome sequencing data
+germ-line genetic variation of host cells
+cancer stages
+germ-line genetic markers
+reverse causation
+MR association
+host intestinal epithelium cells
+gene Expression
+microbes
+transcriptomic data
+CRC aetiology
+causal roles
+analytical approach
+novel Mendelian randomization perspective
+observed correlations
+causal manner
+development of therapeutic approaches
+unconfounded estimates of association
+mechanistic interactions of microbial communities
+functional relevance
+instrumental variables
+unbalance cell proliferation
+comprehensive description
+putative risk factors
+Inflammatory processes
+normal colon mucosa biopsies
+prevention strategies
+project
+samples
+tumour site
+environmental exposures
+identification
+absence of pleiotropy
+major challenges
+confounding
+layer
+contribution
+study
+outcome
+aims
+enrichment
+result
+causality
+carcinogenesis

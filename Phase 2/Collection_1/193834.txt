@@ -1,0 +1,56 @@
+Forest Management Biomass mapping
+UAV mapping
+aerial mapping
+wide scale mapping
+wide scale low cost mapping
+biomass estimation
+forest degradation
+GNSS-R
+Brazilian context of forest management
+reflected GNSS signals
+High positioning accuracy
+Combined Positioning-Reflectometry Galileo Code Receiver
+COREGAL receiver
+GNSS infrastructure
+platform positioning
+sustainable management of forests
+satellite radar signals
+novel high accuracy positioning
+enhancement of forest carbon stocks
+kind combined Position-Reflectometry Galileo receiver
+Galileo AltBOC E5 signals
+optical satellite data
+Aerial Vehicle
+order of magnitude lower cost
+optical cameras
+manned air
+accurate monitoring
+continuous deforestation activity
+bi-static radar
+unprecedented pseudorange measurement quality
+companies
+bioenergy
+fixed-plane
+main sensor
+successful services
+centimetre level
+mitigation activities
+climate research
+emissions
+clouds
+cloud coverage
+power consuming radars
+surface point reflection determination
+universities
+technology exploitation
+remote areas
+case
+REDD initiative
+combination
+spatial resolution
+sources
+consortium
+situ
+tree canopies
+measurements
+government

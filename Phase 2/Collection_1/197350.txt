@@ -1,0 +1,67 @@
+G Cloud
+CHARISMA architecture
+intelligent cloud radio-access
+G networking
+G-wireless
+mobile cloud resilient network security
+mobile data volume
+mobile distributed caching
+Secure Media Access CHARISMA
+paravirtualised architecture
+CHARISMA proposal
+CHARISMA approach
+aggregating data
+intelligent hierarchical routing
+cloud infrastructure platform
+G fixed optical
+G-PPP principles
+ground-breaking low-latency services
+virtualized open access physical layer security
+intelligent radio remote head
+goals of low
+mobile device interconnectivities
+energy-efficient
+times higher data rates
+perimetric data transports
+end-to-end security service chain
+content delivery network
+future converged wireless
+energy efficiency
+wireline advanced
+C-RAN
+information-centric networking
+IPv6 Trust Node routing
+efficient utilization of scarce resources
+RRH
+end-users
+high-bandwidth
+enhanced performance
+important concepts
+user experiences
+shortest path
+C2C
+D2I
+x20 improvement possible
+FSO
+OFDM-PON
+solutions
+CDN
+devolved offload
+identified needs
+D2D
+fold
+PLS
+KPIs
+MDC
+free-space optics
+connected devices
+ICN
+ms
+vCPE
+hauls
+traffic management
+end-user equipment
+intelligence
+wave
+Low-cost Ethernet
+communication

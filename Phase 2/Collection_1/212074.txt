@@ -1,0 +1,55 @@
+molecular scale
+controlled mechanical manipulation of molecules
+deterministic manipulation
+molecular-scale engineering
+molecular properties
+recorded SPM manipulation data
+series of molecules
+LT SPM
+large organic molecules
+CM3
+molecular degrees of freedom
+identification of precise molecular conformations
+project
+optimal control
+desired conformation
+methods of control theory
+time
+surface
+atomic-scale structure of matter
+generic SPM-based method
+comparison of entire conformation spaces
+big data approach
+large batches
+key idea
+rearrangement of atoms
+lateral rearrangement
+Tip displacement
+structure-conductance relation
+engineering paradigm of piecewise assembly
+direct current rotor
+broad access
+dimensions
+low-temperature scanning probe microscope
+motor
+position
+intrigued scientists
+research
+machine learning
+individual components
+orientation
+technique
+single reactive atom
+decades
+task
+instrument of choice
+shape
+obtained map
+game
+solution
+atomistic simulations
+fundamental challenge
+experiments
+fixation
+effectiveness
+goal

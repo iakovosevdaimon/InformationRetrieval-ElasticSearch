@@ -1,0 +1,48 @@
+expressivity of NorMas
+PROcessing LEgal language
+deontic logic
+methodology of Normative Multi-agent Systems
+normative Multi-Agent Systems Existing technologies
+normative reasoning
+richness of natural language semantics
+current formalization of NorMas features
+real legal text
+deontic operators
+new logic
+output logic
+real data
+verbal phrases
+entities
+noun phrases
+ProLeMAS formulae
+modal operators
+parsing
+rule-based representation of norms
+scope-sensitive operators
+propositional level
+present project
+wide range of fine-grained intra-sentence linguistic phenomena
+sentences
+formal rules
+pipeline
+basic components
+main limitations
+propositions
+order
+Boella
+past experience
+input
+promising logical theory
+laws
+meaning
+gap
+corpora
+sense
+hand
+interpretation process
+commercial applications
+van
+Torre
+time
+models
+limits

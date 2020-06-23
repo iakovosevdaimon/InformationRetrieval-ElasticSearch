@@ -1,0 +1,50 @@
+edge network
+network resilience
+network topology
+mobile communications
+mobile data communications
+operation mobile network ecosystem
+today’s mobile network ecosystem
+mobile data traffic
+disruptive new mobile network architecture
+dense network edge
+cloud-empowered network core
+Heterogeneous mobile data neTworks
+bIG data analytics
+big data analysis
+multi-disciplinary network of Early Stage Researchers
+ultra-reliable radio communications
+cLoud computing
+SPOTLIGHT architecture
+millimeter wave radio
+radio access technologies
+cloud platforms
+functions necessary
+Single Point Of aTtachment communications
+multitude of heterogeneous
+resource-fragmented
+multi-layered RATs
+time self-
+attachment points
+response time
+performance limitations
+coordinated resource management
+distributed antenna sub-systems
+different vendors
+flat coalition
+central location
+unprecedented demand
+subject of i
+operators
+physical-layer link capacity
+research programmes
+massive parallelization
+ESRs
+virtual pool of shared energy
+storage resources
+design
+coverage
+primary aim
+Notable steps
+baseband processing
+requirements

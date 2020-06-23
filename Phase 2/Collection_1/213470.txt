@@ -1,0 +1,57 @@
+order nonlinear devices
+order nonlinear processes
+order nonlinear effects
+order nonlinearity
+order nonlinear optical processes
+order nonlinearities
+order nonlinear susceptibility χ
+frequency metrology
+Photonic integrated devices
+fabrication flexibility of SiN waveguides
+Designed waveguides
+all-optical control
+difference-frequency generation
+all-optical means
+low power devices
+chip quantum state generation
+unconstrained frequency conversion
+quantum optics applications
+precise frequency references
+in-depth optical characterization
+best photonic integration capabilities
+novel CMOS-compatible photonic devices
+negligible χ
+successful integration
+PISSARRO
+integration of stabilized octave
+large material
+consequential of material
+following dogma
+initial low efficiency
+multi-photon absorption
+key
+combs
+domains of communication
+materials
+electric field
+resonant structures
+phase-matching constraints
+fundamental challenge
+extended operation bandwidth
+result
+synergy
+functionalities
+silicon nitride
+microscopic nature
+linear properties
+waveguide engineering
+new frontiers
+significant departure
+substantial impact
+limitations
+path
+existing approaches
+optimal trade-offs
+Recent research
+project
+objectives

@@ -1,0 +1,47 @@
+modulating GRNs
+reverse engineering GRNs
+quantitative analysis of GRNs
+entire GRNs
+topology of GRNs
+Reverse Engineering Gene Regulatory Networks Gene regulatory networks
+native phosphate regulatory network
+yeast phosphate regulatory network
+quantitative details
+quantitative understanding of transcriptional regulation
+GRN output
+ability
+promoters
+capable of predicting output
+various inorganic phosphate concentrations
+modulating expression
+novel approaches
+biological systems
+translating input signals
+large number of biological processes
+important cellular signal processing mechanism
+engineered Zn-finger transcription factors
+TF
+biology
+high-throughput microfluidic technologies
+CRISPR
+orthogonal components
+functional copy
+Cas
+multi-disciplinary approach
+cells process information
+prerequisite
+central importance
+appropriate phenotypes
+research group
+powerful set
+genome
+computational modelling
+predictive manner
+cerevisiae
+significant achievement
+master model
+promoter sequence
+fitness
+order
+progress
+relationship

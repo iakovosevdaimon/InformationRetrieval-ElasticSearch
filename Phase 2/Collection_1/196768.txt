@@ -1,0 +1,43 @@
+risk SNPs
+exogenous risk factors
+mediated disease risk-SNPs
+immune-mediated diseases
+specific exogenous factors
+environmental factors
+downstream effects of immune
+downstream molecular effects of disease
+molecular pathways
+non-genetic factors
+downstream consequences of SNPs
+development of immune
+exogenous triggers
+Crohn's disease
+thousands of genetic variants
+single-cell RNA-seq data
+re-analysing public RNA-seq data
+fungal stimuli
+research group
+white blood cells
+context-specific eQTLs
+integration of large functional genomics datasets
+person
+years genome-wide association studies
+collection
+individuals
+complex interplay
+rheumatoid arthritis
+conduct expression QTL analyses
+absence of different
+developments
+computational frameworks
+samples
+presence
+insight
+approaches
+new analytical framework
+direction
+methodology
+ability
+information
+project
+aim

@@ -1,0 +1,60 @@
+theory of group rings
+geometric group theory
+homotopy theory
+representation theory
+ring theory
+theory of Fr'echet group algebras
+theory of reduced group C
+theory of Hecke algebras
+Farrell-Jones Conjecture
+generated  group
+new applications
+structure of group rings
+spaces of groups
+new bridges
+new insights
+new situations
+Atiyah Conjecture
+new striking applications
+new innovative activities
+certain classes of groups
+automorphism groups of closed aspherical manifolds
+prominent  conjectures of Farrell
+interactions
+invariants
+open problems
+topological cyclic homology
+transfer of techniques
+different areas
+metric spaces
+individual areas
+Betti numbers
+outstanding problems
+controlled topology
+input
+flows
+settings
+far-reaching consequences
+mathematics
+methods
+milestone results
+PI
+Waldhausen's
+sphere spectrum
+Baum-Connes
+rank gradient
+torsion
+cost
+high potential
+door
+towers of finite coverings
+starting point
+proposed funding period
+approximation
+integrality
+profound progress
+Recent proofs
+time
+relation
+program
+years

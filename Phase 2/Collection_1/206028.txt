@@ -1,0 +1,42 @@
+data-intensive applications
+data locality
+unified data security
+cross-Cloud privacy
+data aware modelling
+Spark big data frameworks
+cross-Cloud application deployment
+autonomic cross-cloud deployment
+Large-scale Optimized Data-Intensive Computing MELODIC
+potential of Cloud computing
+scalable processing of genomic data
+federated cloud infrastructures
+integrated MELODIC platform
+open source platforms available
+major European Cloud projects
+Multi-cloud Execution-ware
+PaaSage platform
+PaaSword platform
+CACTOS platform
+used platforms
+Hadoop
+user’s privacy
+user’s needs
+existing open source development teams
+deployment configuration reasoning
+scalable Customer Relationship Management
+demanding real world applications
+defined security
+advantage of distinct characteristics of available private
+real-time optimised traffic routing
+public clouds
+service requirements
+resource utilisation
+support
+counter vendor lock-
+performance boundaries
+cost
+constraints
+results
+professional software house
+contributions
+benefits

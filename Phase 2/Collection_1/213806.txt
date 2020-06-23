@@ -1,0 +1,63 @@
+free field acoustic solver
+fast scattered acoustic prediction
+fast prediction
+CONCERTO project
+WP3 Free-field acoustic module
+KIM code
+WP4 Scattered field acoustic module
+High fidelity solver
+prediction of lateral rotors
+TAU code
+PUMA code
+WP2 Aerodynamics module
+Fast aerodynamic solver
+WP6 Project Management
+Free Wake
+IADP Fast Rotorcraft
+new computational tool
+high fidelity approaches
+noise modelling
+overall tool
+Computation of cOmpouNd rotorCraft latEral RoTor
+new aircraft vehicle
+new mobility roles
+topic leader location
+quadripole noise sources
+LifeRCraft flight domain
+future LifeRCraft demonstrator
+main objective
+seamless workflow
+future commercialization
+CONCERTO consortium
+multi-frequency problem of combined main rotor
+WP1 Workflow definition
+unsteady flight cases
+WP5 Validation
+implementation
+CFD
+documentation
+support
+Clean Sky
+modules
+Airbus Helicopters
+dissemination
+maturation
+WPs
+possible updates
+scattering effects
+competitiveness
+art
+necessary tools
+exploitation
+European aeronautics sector
+ONERA
+DLR
+software environment
+subset
+years
+state
+FW-H
+BEM
+chaining process
+user needs
+total budget

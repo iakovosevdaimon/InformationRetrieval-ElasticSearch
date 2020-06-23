@@ -1,0 +1,40 @@
+D materials
+D van
+D ferromagnetic materials
+Waals materials
+TMD monolayer
+DFT calculations
+semiconductor monolayer
+Waals Heterostructures
+topological insulators
+Spin-Orbit Torque
+different heterostructures
+new methodology
+new storage devices
+clearer peak splitting
+higher valley
+photoluminescence spectra
+Marie-Curie proposal
+different physical phenomena
+generation nano-devices
+transition metal dichalcogenide
+exchange proximity effect
+density functional theory
+non-equilibrium Green’s function formalism
+stronger optical response
+mechanisms
+magnetization dynamics
+charge injection
+place
+order
+society
+forefront
+pairs
+electronic structures
+insight
+researchers
+calculation of field
+damping
+developed NEGF code
+Hamiltonians
+interfaces

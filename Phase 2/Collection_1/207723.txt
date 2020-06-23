@@ -1,0 +1,53 @@
+coded NFT transmission
+WDM NFT transmission
+concerning NFT transmission
+single-channel transmission
+data transmission
+nonlinear nature of optical fiber transmission
+Nonlinear Fiber-Optical Channel
+fiber optical channel
+nonlinear channels
+practical coded modulation
+coded modulation schemes
+optical fiber communication systems
+practical feasibility
+performance of coded modulation concepts
+advantage of fiber nonlinearities
+impact of inter-channel nonlinearities
+signal states
+signal statistics
+increased signal processing
+nonlinear Fourier transform
+practical system scenarios
+impact of co-propagating WDM channels
+co-propagating wavelength channels
+suitable signal processing algorithms
+demand
+detection schemes
+open questions
+decoding performance
+aforementioned questions
+promising technique
+certain system configurations
+bandwidth
+coding strategies
+options
+computational complexity
+date
+applicability
+existing commercial architectures
+nonlinearity mitigation
+insight
+information
+limit
+challenges
+experimental demonstrations
+industrial partners
+lot of research attention
+steady rate
+key aspects
+propagation
+project
+techniques
+results
+order

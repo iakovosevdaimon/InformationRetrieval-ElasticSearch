@@ -1,0 +1,56 @@
+Flight control recovery
+Intelligent flight cONtrol
+complexity of Flight Control Systems
+flight-validated GN
+aircraft Guidance
+C systems
+C solutions
+Critical flight situations
+vision-based systems
+lack of flight validations
+advanced solutions
+main objective of VISION
+European aircraft industry
+Fault Tolerant Control techniques
+advanced detection
+Fault Detection
+guidance recovery
+aircraft glide path
+performance
+real aircraft platforms
+increased TRL
+local navigation data
+faulty situations
+air transport safety
+Validation of Integrated Safety
+final approach phase
+Diagnosis
+limitations of on-board computers
+benefits
+smarter technologies
+half
+fatal accidents
+faults
+ground operation phases
+certification issues
+decade
+reliability
+recent projects
+significant improvement
+dissimilar pros
+resilient methods
+experience
+sources likely
+continuous improvements
+anomalies
+sides
+maturation
+capitalizing
+know-how
+transfer
+cases
+environmental conditions
+complementary efforts
+landing
+scenarios
+unexpected obstacles

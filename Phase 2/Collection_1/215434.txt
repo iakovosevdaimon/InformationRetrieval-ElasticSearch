@@ -1,0 +1,47 @@
+investor networks
+identification of investor cliques
+investor multiplex networks
+impact of investor behaviour
+investor level transaction data
+massive investor registration data
+unique data
+Stock Markets Complex networks theory
+financial markets
+intensive research
+proposed data-driven research programme
+stock price processes
+complex systems
+important information
+network clusters
+information diffusion
+information transfer
+project
+market manipulation
+cross-disciplinary complex network approaches
+financial fields
+different layers
+structural changes
+multiple time series
+asset price dynamics
+time-lagged influences
+different groups of investors
+inter-dependencies
+profound insights
+early warning signal
+better access
+transitions
+engineering
+decades
+clique enumeration techniques
+Vector Autoregression
+novel results
+structure evolution
+mechanism
+current knowledge
+fundamental question
+investors’ trading decisions
+years
+parallel computation platform
+regulators
+effective policies
+certain direction

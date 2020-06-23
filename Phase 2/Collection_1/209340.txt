@@ -1,0 +1,62 @@
+SAM network topology
+signalling transduction network Cell life
+cell responses
+reconstructed network topology
+methods of signalling network reconstruction
+intracellular signalling networks
+cell fate decisions
+signalling outputs behaviour
+mechanistic site-specific dynamic model of SAM network
+panel of cell lines
+Mitogenic
+Signal Transduction Networks
+cellular networks
+study
+scope of current proposal
+protein expression levels
+different perturbations
+context of different expression landscapes
+Survival-Apoptosis
+treatment responses
+genetic background
+single protein
+developed models
+molecular biology techniques
+Model predictions of dependence
+dry parts of systems biology
+range of modern computational modelling
+RAF
+ERK
+property
+small molecule inhibitors
+mutational information
+skills of efficient integration of wet
+training
+MEK
+PI3K
+AKT
+LATS
+process environmental signals
+EGFR
+combinations
+concerted actions of multiple molecules
+mutations
+compute
+pathways
+reliable way
+available data
+RASSF1
+PTEN
+MST
+interconnecting STNs
+mechanisms of intrinsic
+drug resistances
+applicant
+Investigation of adaptive design
+field
+career prospects
+project
+major challenge
+intuitive reasoning
+result
+question

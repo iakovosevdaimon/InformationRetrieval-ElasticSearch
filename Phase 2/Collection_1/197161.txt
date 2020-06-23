@@ -1,0 +1,52 @@
+Distributed Data Centers
+energy consumption of distributed virtualized data centers
+energy bill
+implementation of energy
+customer's expected annual energy savings
+Large sized Data Centers
+carbon footprint
+intelligent software platform
+total worldwide footprint consumption
+total ICT electricity production
+global electricity production
+workload profiles
+consortium prices
+type of VMs
+ICT sector
+number of factors
+Green Workload Management
+carbon emission reductions
+minimum number of physical resources
+efficient technologies
+SW operations
+optimized HW
+cost
+problem
+Revenue Streams
+class of servers
+values
+Virtual Machines
+economics
+EcoMultiCloud
+Hierarchical Approach
+Companies
+industries
+VMWare
+TSO Logic
+Team
+Eco4Cloud
+E Way Solutions
+Market
+Business Model
+Clients
+segments
+customers
+Competition
+Power
+applications
+efficiency
+Value Proposition
+Users
+geographies
+years
+funding

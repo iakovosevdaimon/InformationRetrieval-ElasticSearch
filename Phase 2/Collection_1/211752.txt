@@ -1,0 +1,63 @@
+machinery data
+maintenance activities
+production activities
+data collection
+data analytics
+planning of maintenance
+data processing
+easier maintenance
+maintenance burdens
+elevators production
+SERENA project
+remote pREdictive mainteNAnce
+production machinery status
+connected production processes
+costly production downtimes
+remote monitoring
+SERENA consortium
+monitoring of machinery conditions
+steel parts production industry
+manufacturing processes
+Intelligent Manufacturing Systems
+demonstration activities
+powerful platform
+communication platform
+purpose
+VerSatilE plug
+growing complexity of modern engineering systems
+metrological engineering
+proposed approach
+levels TRL5
+proposed solutions
+different applications
+versatile character
+different industrial areas
+high levels of reliability
+white goods
+artificial intelligence methods
+smart devices
+advanced IoT  system
+machine learning
+applicability
+obstacle
+concept
+human operator
+existing developments
+technologies
+requirements
+money
+versatility
+transferability
+aerospace
+TRL7
+link
+needs
+control
+manufacturers
+IMS
+industries
+case of unexpected events
+cloud
+vision
+factory floor
+number of sensors

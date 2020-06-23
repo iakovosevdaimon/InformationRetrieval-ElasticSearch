@@ -1,0 +1,50 @@
+System F
+System TBR
+PA-AC
+polymorphic programming languages
+non-polymorphic programming language System T
+recursion theory
+experienced researcher
+bar recursion Parametric polymorphism
+interpretations of PA
+computational translation
+logical translation of PA2
+bar recursion operator
+theoretical study of polymorphism
+sophisticated features of polymorphism
+sub-theory
+order Peano arithmetic
+PolyBar project
+turn
+various mathematical theories
+medical software
+strong community
+type theories
+use of well-known proof techniques
+strong background
+safer software
+ubiquitous paradigm
+axiom of countable choice
+experts
+safety
+denotational semantics
+new approach
+autonomous car systems
+UK
+field
+environments
+supervisor
+correspondences
+duplication of code
+correctness properties
+PhD thesis
+subject of intense research
+beneficiary benefit
+Computer programmers
+programs
+point of view
+hand
+connections
+generic algorithms
+datatypes
+France

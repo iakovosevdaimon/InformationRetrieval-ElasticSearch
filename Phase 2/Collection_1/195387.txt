@@ -1,0 +1,62 @@
+HJ branch migration
+mechanism of HJ migration
+DHJ migration
+DNA repair
+HJ position
+dissolvasome complex
+BTR complex dissolves DHJ
+homologous DNA
+human double-HJ dissolvasome
+BTR components
+broken DNA ends
+convergent branch migration
+inaccessible mobile HJ substrate
+stranded DNA breaks
+λ-bacteriophage DNA
+double Holliday-junction
+human RecQ helicases
+RecQ-family helicases
+BLM
+error-free repair of double
+TOP3A
+detailed roles
+exact roles
+processed ends
+Single-molecule analysis of Holliday
+specialized group of helicases
+state-of-the-art single-molecule
+final hemicatenate structure
+critical final steps of homologous recombination
+total internal reflection fluorescence
+TIRF
+solution biophysical
+Bloom’s syndrome helicase
+project
+microscopy
+concerted action
+molecular mechanisms
+regulatory proteins
+RMI2
+formation
+non-crossover products
+RMI1
+biochemical techniques
+Type
+pathway
+DSBs
+subunits
+enzymatic cleavage
+independent HJs
+dissolution
+decatenation
+topoisomerases
+questions
+template
+chromosomal rearrangements
+microfluidics
+genome maintenance
+Elucidation
+Engagement
+humans
+processive
+processes

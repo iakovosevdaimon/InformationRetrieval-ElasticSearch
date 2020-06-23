@@ -1,0 +1,54 @@
+high availability positioning solution
+connected automated vehicle
+use of vehicle
+PRoPART combined positioning solution
+Robust Positioning
+high precision positioning
+software solution
+cooperative automated vehicle application
+board vehicle sensors
+high impact
+RSU
+connected vehicles
+Automated Road Transports
+EGNSS RTK correction data
+robust data
+automated driving applications
+aggregate information
+existing RTK
+board sensors
+UWB
+ranging
+object perception
+perception layer sensor fusion
+lot of vehicles
+sensor technologies
+Real Time Kinematic
+ETSI
+objective
+G5
+demonstration
+correct requirements
+low penetration
+areas
+Flowscape
+project
+solutions
+development
+traffic monitoring
+safe decisions
+tunnels
+coverage of GNSS
+LDM
+Local Dynamic Map
+ADAS system
+V2X
+robustness
+redundancy
+possibilities
+Units
+distinguished features of Galileo signals
+focus
+transition period
+urban canyons
+order

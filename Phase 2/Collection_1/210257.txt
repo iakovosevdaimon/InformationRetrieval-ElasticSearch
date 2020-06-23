@@ -1,0 +1,55 @@
+paraphrase-clustered entailment semantics
+semantic expressions
+semantic parsing
+incremental semantic parser
+semantic nets
+paraphrase-clustered entailment graph
+common-sense entailment
+robust semantics
+directed entailment graphs
+Patterns of entailment
+Form-Independent Semantics
+traditional logical operator semantics
+knowledge-graph query
+traditional semantic analyses of sentences
+machine-learning
+named entities
+existing state-of-the-art wide-coverage CCG semantic parser
+parser action model
+machine translation component
+aspects of common-sense knowledge
+construction of large knowledge graphs
+language modeling
+project
+Natural Language
+PI
+conjunctions of entailed paraphrase clusters
+light verbs
+evidential verbs
+wide range of logical operators
+modern neural network parsing model
+multi-word expressions
+vast amounts of text
+categorial
+previous ERC funding
+application
+bassi
+spreading activation
+different linguistic forms
+modality
+NLP
+supertagger
+novel shift
+voice
+important open problem
+costs
+architecture
+languages
+types
+growth
+idioms
+later stages
+single cluster identifier
+Cliques
+paraphrases
+method

@@ -1,0 +1,41 @@
+Simulation of metal Solidification
+thermal FEM simulation of Metal Deposition processes
+innovative solidification model
+enhancing of simulation accuracy
+quick simulation tool
+proposed  solidification model
+Additive Manufacturing processes
+impact of process optimization
+terms of time
+function of time
+CPU time
+function of temperature history of metal
+enhancement of numerical simulation tools
+solidification behaviour of material
+empirical parameter
+order
+evaluation of local microstructures
+analysis of temperature evolution
+terms of CPU costs
+semi-empirical models
+direct empirical correlation
+mechanical industries
+Mechanical properties
+evolution of solid fraction
+product quality leads
+based framework
+Finite Element
+COMET
+clear benefits
+software houses
+project
+end-users
+novel approach
+advantages
+implementation
+solution of engineering problems
+End users
+real cases of complete
+society
+final objective
+Examples of simplified

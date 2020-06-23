@@ -1,0 +1,48 @@
+TADF molecule
+TAF-OLEDs
+TADF material
+internal quantum efficiency of OLEDs
+fluorescent molecule
+delayed fluorescent materials
+applicable OLEDs
+TADF hosted fluorescence
+phosphorescent materials
+present state-of-the-art TADF-OLED technology
+TAF-OLED approach
+high efficiency roll
+host material
+delayed fluorescence
+large number of fluorescent
+low operational stability
+end emitter
+triplet state
+diodes
+alternative realistic approach
+need of external host matrix
+inherent technical challenges
+stable organic light
+solid state lighting sources
+technical issues
+solid-state lighting applications
+high current density
+triplet excited states
+low power consumption
+flexibility
+unique characteristics of low-cost processing
+pertaining concerns
+device physics
+electron spin-statistics
+assistant dopant
+long transient lifetime
+flat panel
+electrical excitation
+fabrication
+THF
+performance
+Development
+date
+contrast
+research proposal
+result
+limit
+electroluminescence

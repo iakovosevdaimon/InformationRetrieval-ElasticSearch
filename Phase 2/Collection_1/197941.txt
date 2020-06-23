@@ -1,0 +1,50 @@
+improved energy-efficiency
+Energy-efficient eXascale
+application requirements
+system size
+dynamic behaviour of applications
+optimized system configurations
+Runtime Exploitation of Application Dynamism
+READEX project
+HPC applications
+significant performance improvement
+application domain knowledge
+High Performance Computing
+system software level
+large degree of dynamic behaviour
+Exascale systems
+light-weight run-time system
+compute kernels
+READEX Programming Paradigm
+HPC resource providers
+integrated tool-suite
+developed tool-suite
+growing compute power
+challenging task
+tedious task
+underutilized resources
+switch parameter configurations
+future extreme scale systems
+industrial fields
+academia
+production
+alternation
+new insights
+constant increase
+co-processors
+industry
+hardware
+consortium of European experts
+cost of increased overhead
+major instrument
+tools-aided methodology
+continuous demand
+communication phases
+complexity
+automatic optimization approach
+product developments
+accelerators
+design-time
+data-transfers
+Parameters
+developers

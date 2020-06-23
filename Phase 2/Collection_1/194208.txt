@@ -1,0 +1,46 @@
+security framework
+operation of multi-cloud applications
+multi-cloud application components
+MUlti-cloud Secure Applications
+security requirements
+multi-cloud application runtime security control
+overall application security
+security needs
+heterogeneous cloud resources
+security-aware development
+set of security mechanisms
+security assurance platform
+integrated security assurance
+MUSA framework leverages security
+heterogeneous cloud ecosystems
+relevant industrial applications representative of multi-cloud application development potential
+challenging applications
+security-intelligent lifecycle management of distributed applications
+application self-protection
+individual components
+design mechanisms
+intelligent decision support system
+main objective of MUSA
+business requirements
+overall budget
+project duration
+transparency
+engineering
+methods
+SaaS
+DevOps approaches
+account
+practical usability
+tools
+communications
+Europe
+automated deployment environment
+economic viability
+months
+combination
+user trust
+data flow
+benefits
+dynamic distribution
+IDE
+euros

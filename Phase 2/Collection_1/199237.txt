@@ -1,0 +1,51 @@
+Sentinel Earth Observation data
+EO4wildlife platform
+data processing of heterogeneous geospatial observation data
+sensor observation
+observation sources
+EO4wildlife research
+integration of Sentinel data
+ARGOS data EO4wildlife main objective
+intelligent management big data
+European Sentinel Copernicus Earth Observation
+Management tools
+open services
+open service platform
+better species management
+field of wildlife migrations
+wildlife monitoring
+wildlife migratory behaviour
+dedicated services
+respective research
+ARGOS archive databases
+high level services
+Knowledge Base
+advanced analytics
+important objective
+MetOcean databases
+seabird species
+scientific knowledge of pelagic fish migrations routes
+real-time advanced decision-making
+geospatial environmental stimulations
+large number of multidisciplinary scientists
+real operational use case requirements
+real time thematic databank portals
+measurements
+reproduction
+OGC standards
+behaviours
+regulatory authorities
+ecologists
+biologists
+protection
+various scenarios
+access
+trends
+marine protected areas
+interoperable toolbox
+development of web
+habitats
+uncertainties
+ornithologists
+world
+order

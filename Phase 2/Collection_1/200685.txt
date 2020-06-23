@@ -1,0 +1,53 @@
+construction of Liouville gravity
+Mathematical Liouville gravity deals
+Liouville Brownian motion
+d quantum gravity
+geometry of large random planar maps
+analysis of critical statistical physics models
+physics literature
+Euclidean statistical physics
+velocity fields
+exponential
+Kolmogorov
+realistic velocity field
+conformal invariance
+large random combinatorial planar maps
+so-called noise sensitivity
+Gaussian Free Field
+celebrated KPZ relation
+turbulent flows
+key features
+key ingredient
+explicit stochastic vector fields
+research project
+critical points
+certain log-correlated field
+d turbulence
+broader program
+genuine stochastic model of turbulent flow
+Bouchaud trap models
+mathematical framework precise
+QLE processes
+circle packings
+special emphasis
+Navier-Stokes equation
+oscillating distribution
+spirit
+attempt
+tractable ambition
+significant progress
+completion
+axioms
+dynamics
+works of Schramm
+tools
+systems
+challenging object
+techniques
+Smirnov
+conjecture
+major goal
+embeddings
+area
+unrelated directions
+plane

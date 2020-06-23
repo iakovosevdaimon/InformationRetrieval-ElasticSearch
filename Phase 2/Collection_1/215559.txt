@@ -1,0 +1,52 @@
+Emergent solar spectra Solar brightness
+Solar magnetic field
+solar variability
+solar atmosphere
+solar surface magnetic activity
+solar UV irradiance variability
+non-LTE brightness spectra
+modeling solar brightness variations
+solar disc positions
+non-LTE computations of spectra
+grid of non-LTE spectra
+Impact of Magnetic field
+different magnetic components
+different magnetic field strengths
+various magnetic components
+method
+IMagE
+maiden Indian solar mission Aditya-L1
+physics-based irradiance models
+state-of-the-art MHD
+radiative properties
+measured timescales
+terrestrial atmosphere
+radiative transfer simulations
+local thermodynamic equilibrium
+instance SUNRISE
+departures
+device
+amplitude
+synthesis
+line blanketing
+D magnetohydrodynamic
+understanding
+structure
+high spatial resolution observations
+future missions
+dark spots
+bright faculae
+wavelengths
+Incorporation
+breakthrough
+day
+crucial ingredient
+data
+atmospheres
+range
+physical mechanisms
+significant progress
+number of simplifications
+climate
+features
+controversy

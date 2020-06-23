@@ -1,0 +1,54 @@
+network functions
+network layer
+network topology
+network parameters
+specific network conditions
+novel network architectures
+network virtualisation functionalities
+waste of network resources
+best-effort network
+virtualised network infrastructure
+main objective of network operators
+Video streaming services
+QoE of multimedia communication services
+video client
+developed QoE-driven media delivery platform
+specific QoE requirements
+innovative media delivery system
+application layer
+seamless adaptation
+Software Defined Networking
+high quality services
+cross-layer adaptation mechanisms
+novel DASH client
+Dynamic Adaptive Streaming
+large-scale media consumption
+service utility functions
+end-to-end delivery chain
+Software-Defined Networking Recent advances
+V-SDN project
+mobile devices
+centralised architectures
+service providers
+mobile environments
+key factor
+key development
+Quality of Experience
+non-optimal communication paths
+link capacities
+servers
+clients
+account
+bandwidth-intensive applications
+Internet
+HTTP
+end-users
+approach
+increased delays
+rules
+human perception
+context
+policies
+improvement
+initial design
+understanding

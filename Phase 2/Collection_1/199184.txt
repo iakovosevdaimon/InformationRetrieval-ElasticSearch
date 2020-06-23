@@ -1,0 +1,62 @@
+mid-board optical transceivers
+photonics-based transceivers
+traditional WDM transceivers
+Mid-board Integrated transceivers
+COSMICC consortium
+Si-photonics
+current VCSELs transceivers
+developed solutions
+enhanced-fabrication platform
+Data-Centers
+CMOS electronics
+CmOs Solutions
+photonic process
+developed technologies
+existing photonic integration platform
+process brick
+disruptive process
+Gbit
+Printed Circuit Board-Packaging
+throughput fiber-attachment techniques
+future data-transmission requirements
+high reward step-modification
+fields of Silicon photonics
+low-cost packaging techniques
+2x12 fiber channels
+tunable Si-composition
+mass commercialization of Si
+temperature-control requirements
+improved temperature behavior
+target cost
+research partners
+innovative-high
+heterogeneous integration
+ultra-low Cost
+practical coarse WDM implementation
+breakthrough Connectivity
+wavelengths
+technology
+world-leading positions
+V material
+SiGe layers
+strong vision
+tremendous market needs
+SiN layer
+new value chain
+exploitation
+lasers
+introduction
+Super computing systems
+lab
+order of magnitude
+class
+Tbit
+micrometer-scale devices
+early setting
+compliancy
+built demonstrators
+field environments
+performances
+pJ
+rate payback
+STMicroelectronics

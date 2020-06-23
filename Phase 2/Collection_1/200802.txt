@@ -1,0 +1,51 @@
+type safety
+memory safety
+Rust's core type system
+expense of safety
+Rust's safety claims
+systems programming
+Future of Safe Systems
+programmers low-level control
+Rust programmers
+semantic models of type systems
+bleeding-edge type system
+Rust's reliance
+Rust's language-level safety guarantees
+design of programming languages
+expense of control
+safe encapsulation of unsafe code
+Rust's standard libraries
+low-level data structures
+programmers safe high-level abstractions
+software systems
+realistic languages
+common programming errors
+data races
+low-level flexibility of modern C++
+data race freedom
+new language
+widespread internal use of unsafe blocks
+aliasing of mutable state
+weak memory model of concurrency
+PI
+collaborators
+concurrent program logics
+resource management
+longstanding question
+formal tools
+ownership
+Java
+Mozilla Research
+recent breakthrough developments
+fundamental advances
+Logical Foundations
+results
+domain
+construction
+potential
+lasting impact
+problem
+hope
+performance
+goal
+project

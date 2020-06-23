@@ -1,0 +1,60 @@
+cloud providers
+virtualized cloud infrastructures
+properties of cloud topologies
+data authenticity
+sensitive data
+European Cloud Computing Strategy
+distributed multi-cloud data storage architecture shares data
+data minimization
+dynamic cloud provider market
+portfolio of novel security enabled cloud services
+required security
+security certification
+novel techniques
+cryptographic techniques
+secure implementation
+secure connection
+application of privacy
+secure user interfaces
+User privacy issues
+secure service composition
+long term privacy
+verifiable correctness
+authenticity-preservation
+e-Government
+e-Health
+world-wide market
+major growth area
+annual growth rates
+PRISMACLOUD work program
+software
+activities
+configuration
+use cases
+USD
+fields of SmartCity
+impact analysis
+outsourcing computation
+hardware
+external parties
+anonymization technologies
+vendor lock
+big companies
+public authorities
+dissemination of results
+current volume
+feasibility proof
+end-user view
+ICT
+processing
+Claims
+challenges
+satisfactory approaches
+availability
+reason
+hesitation
+standards
+computations
+order
+lifetime
+project participants

@@ -1,0 +1,55 @@
+Dynamic Control
+control theory
+fine numerical approximation of control problems
+numerical approximation methods
+key issues
+broad area of Control
+long time horizon control
+control of parameter dependent problems
+key unsolved issues
+key topics
+real-life applications
+new key theoretical methods
+corresponding numerical tools
+cross-disciplinary applications
+ODE models
+irreversible models
+memory models
+simulation methods
+absence of efficient numerical solvers
+instance
+project
+gap
+Numerics of Partial Differential Equations
+new computational software
+hybrid PDE
+inverse design of time
+DYCON-COMP computational platform
+biomedicine
+constraints
+meteorology
+aeronautics
+oil industry
+animal collective behaviour
+challenging demands of industrial
+management of natural resources
+modelling
+infinite-dimensional dynamical systems
+breakthrough contribution
+computer simulations
+various disciplines
+central role
+efforts
+results
+cross-fertilization process
+unexpected interactive phenomena
+lack of analytical understanding
+developing
+focused effort
+processes
+field of PDEs
+state
+decades
+order
+combination
+objectives

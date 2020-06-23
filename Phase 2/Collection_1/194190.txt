@@ -1,0 +1,70 @@
+NFC antenna design
+NFC chip design
+NFC technology
+design of complex NFC circuitry
+NFC chip development
+integrated metal-oxide NFC tags
+PROM design
+NFC-enabled products
+Intelligent NFC Game cards
+large area metal-oxide NFC circuitry
+scalable metal-oxide technology
+Process Design Kit
+PING consortium
+PING project
+automated design of complex integrated circuits
+Implementation of scalable manufacturing processes
+PING objectives
+Evaluation of suitable antenna manufacturing processes
+Pragmatic Printing
+Van Genechten Packaging
+folded carton packaging
+Demonstration of flexible
+Assembly of chips
+volume production
+production facility
+ambitious PING goals
+processing
+emerging technology breakthrough
+chip bonding technologies
+game card sheets
+existing products
+Mn chips
+developed PDK
+additional functionality
+substantial changes
+enhanced performance
+major research institutes
+Cartamundi
+Smartrac
+conversion
+Field Communication
+product dimensions
+industrial partners
+lower cost
+value chain
+imec
+TNO
+promising solutions
+Europe
+integration
+standard simulation tools
+mechanical characteristics
+follow-on commercialisation
+balanced mix
+researchers
+developers
+exhaustive approach
+Internet
+interactive entertainment
+SME
+one-time programmable memory
+Things
+problem
+evolution
+users
+year
+result
+main activities
+constellation
+markets

@@ -1,0 +1,50 @@
+land surface state
+MULTIscale SENTINEL land surface information retrieval PLatform
+advanced data assimilation
+temporal resolution estimates of land surface parameters
+consistent data products
+generic flexible data retrieval platform
+different sets of observations
+traceable platform
+different sensors
+SENTINEL era
+different Sentinels
+user demonstrator projects
+users
+use of radiative transfer models
+EO-LDAS concepts
+state-of-the-art physical radiative transfer models
+adaptable framework
+science-grade Sentinel standards
+advanced visualisation tools
+ESA-funded projects
+Copernicus services
+accessible virtual machine
+monitoring
+order
+best possible estimate
+start
+continuous stream of high spatial
+forestry
+biodiversity
+modelling
+satellite operators
+applications
+result
+Earth Observation
+coherent joint interpretation
+ProbaV
+Landsat
+components
+nature management
+party missions
+plug-ins
+opportunity
+feasibility
+MULTIPY
+challenge
+needs
+MODIS
+inferences
+process
+proposal

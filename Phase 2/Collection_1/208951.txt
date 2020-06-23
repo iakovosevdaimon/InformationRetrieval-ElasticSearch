@@ -1,0 +1,47 @@
+SMM grids
+SAM field
+SMM unit
+SMM industry
+function of SAM architecture
+properties self-assembled monolayer
+multiscale methods
+quality methods
+magnetic properties
+hand
+system dynamic
+Self-Assembled Monolayers
+case of endohedral metallofullerene
+functional-ligands
+single molecules
+structural mobility of ligands
+inner-cluster dynamics
+different levels of theory
+minimal level of theory
+promising single molecular magnet
+Electronic structure complexity of EMFs
+crowding effects
+attachment types
+extensive development
+SAMs
+classical approaches
+systems
+complete active space
+universals
+Statics
+reliable magneto-physics
+Theoretical insides
+Modeling of formation
+solution
+problem
+size
+schemes
+regions
+demanding semiclassical
+instance
+dual issue
+10E3 atoms
+MSM
+challenging task
+protocols
+computations
+project

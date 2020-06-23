@@ -1,0 +1,52 @@
+cancer clinical data
+cancer types
+cancer-genome datasets
+cancer genetic clinics
+International Cancer Genome Consortium
+clinical management Cancer sequencing studies
+global cancer susceptibility identification
+direct benefit of cancer patients
+in-depth pan-cancer analyses
+development of targeted cancer-risk panels
+clinical phenotype
+regulatory variants
+computational discovery of novel variants
+multitude of genetic variants
+rare germline variants
+diagnostic power of genome sequencing
+day-to-day clinical practice
+variants of different levels of penetrance
+array-based genome-wide association studies
+exome sequencing
+statistical tools
+novel statistical methods
+necessary bioinformatics tools
+tumor development
+variant association
+model systems
+large cohorts
+large proportion
+chain of computational
+Personalized bioinformatics
+molecular phenotype
+landscape of somatic mutations
+importance of germline variation
+validation of putative causal sites
+integration
+ICGC
+evaluation
+shared set of genes
+cross-disciplinary framework
+population
+better understanding
+intervention
+biomarker
+initiative
+eQTL analysis
+complementary expertise
+GWAS
+pipelines
+relevant diagnosis
+essential aspects
+project
+proposal

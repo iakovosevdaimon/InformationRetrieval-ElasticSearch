@@ -1,0 +1,53 @@
+new techniques
+Automated Analysis of Compromised Systems
+new automated techniques
+design of future systems
+embedded systems
+computer system
+computer security incidents
+accuracy of IR techniques
+traditional computer software
+design of detection
+new systematic approach
+objective of BITCRUMBS
+matter
+design development methodology
+area of incident response
+analysis of IoT devices
+different fields
+comprehensive approach
+scientific background
+secure system
+vast majority of research
+little research attention
+advanced threats
+set of guidelines
+resilience
+effectiveness
+impact
+resources
+lack
+real case studies
+project
+protection
+objectives
+privacy
+scenarios
+evasion
+novel forensics
+critical role
+attackers
+science
+prevention solutions
+digital infrastructure
+foundations
+domains
+right context
+practical way
+sensitive targets
+forgery
+goal
+known fact
+steps
+art
+news

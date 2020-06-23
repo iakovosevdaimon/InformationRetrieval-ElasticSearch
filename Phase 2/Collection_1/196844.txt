@@ -1,0 +1,56 @@
+materials model
+EXTMOS model
+integrated model
+production costs of organic devices
+EXTended Model of  Organic Semiconductors EXTMOS
+molecular level
+Multilayer organic light
+doped organic semiconductors
+molecular design
+trial devices
+design costs
+best dopants
+circuits
+multiple layer devices
+ultraviolet light
+visible light
+OLEDs
+circuit levels
+Development costs
+discrete mesoscopic level
+molecular packing calculations
+experimental measurements
+predictable efficiencies
+fast operation
+Doping efficiencies
+improved understanding of dopant
+number of dopant molecules
+embedded microscopic electronic structure
+host interactions
+film transistors
+main objective
+synthesis results
+charge transport
+related user friendly code
+advisory council
+fewer unwanted impurities
+industrial end users
+expertise complements
+good device performance
+software vendors
+groups
+continuum
+photo
+output
+long lifetimes
+Modules
+solution processed technology
+following requirements
+US input
+Screening
+partners
+ability
+degradation
+possibility
+market
+aims

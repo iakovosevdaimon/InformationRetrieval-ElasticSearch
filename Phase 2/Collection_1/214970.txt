@@ -1,0 +1,49 @@
+applied gate voltage
+applied voltage
+FET gate
+minimum voltage
+voltage amplification
+NegCap
+use of negative capacitors
+fabrication of negative capacitors
+scaling
+ferroelectric capacitor
+channel
+stable negative capacitance necessary
+stabilized negative capacitance effect
+ferroelectric splits
+domains
+proof of concept
+ferroelectric nano-dot
+parallel use
+microelectronic circuits
+field-effect transistor
+high power dissipation
+ultra high-density circuits
+exciting proposed solutions
+reduction
+approaching limit
+microelectronics
+operation
+mV
+decade
+basic electronic components
+end of Moore’s law
+fundamental laws of physics
+partners
+suitable framework
+ERC-AdG project
+MOBILE-W
+conflicting needs
+modelling
+key problem
+order
+experimental attempts
+commercial products
+available technologies
+major road-blocks
+way
+hand
+theory
+Salahuddin
+Datta

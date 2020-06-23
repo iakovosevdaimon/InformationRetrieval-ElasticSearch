@@ -1,0 +1,41 @@
+sets of random functions
+sets of smooth random functions
+sets of random analytic functions
+theory of random point processes
+pseudo-random coefficients
+homogeneous point process
+classical complex analysis
+Poisson point process
+different phenomena
+crossroads of analysis
+zeroes of Taylor series
+complex variable
+probability theory
+distribution of coefficients
+features
+percolation theory
+deals
+parts
+different linear statistics
+real variables
+natural instances
+Various instances
+coexistence of different Gaussian scaling limits
+real algebraic geometry
+suppressed fluctuations
+quantum chaos
+strong short-range interactions
+ones
+asymptotic topology
+proposed research
+mathematical physics
+terra
+relation
+half of Hilbert's
+striking contrast
+light
+statistical counterpart
+problem
+growing area
+proposal
+time

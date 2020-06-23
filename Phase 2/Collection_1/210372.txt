@@ -1,0 +1,42 @@
+Requirements identification
+performance requirements
+operator requirements
+based technologies
+user requirements
+ATM technologies
+appropriate technologies
+UTM concept
+functional ground-based system requirements
+Analysis of applicability
+development of new technologies
+Technological applicability
+technical architecture
+proof of concept demonstration
+Consortium
+proposed architecture
+Architecture proposal
+ATM TERRA Project
+Ground-based technology
+VLL RPAS operations
+VLL RPAS fligths
+representative RPAS operational business cases
+set of operational
+Technological European Research
+elements of ground
+existing CNS
+existing simulation platforms
+main project objectives
+research topic H2020-SESAR
+Advisory Board of stakeholders
+machine learning classification of flight trajectories
+complementary expertise
+definition
+range of companies
+members
+RPAS04
+potential impacts
+proposals validation
+developers
+following
+interaction
+VFR traffic

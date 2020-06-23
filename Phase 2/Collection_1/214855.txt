@@ -1,0 +1,55 @@
+different services
+growing domain of virtualised services
+virtualised instances of security appliances
+plain cloud applications
+service developers
+micro-services architectures
+traditional security paradigms
+different virtualisation scenarios
+service graph
+different chaining
+service providers
+legal interception
+AddreSing ThReats
+orchestration models
+ASTRID project
+growing adoption of cloud technologies
+smarter orchestration logic
+wide adoption
+common approach
+end users
+analysis logic
+forensics investigation
+Network Function Virtualisation
+increasing usage of infrastructures
+descriptive context models
+unified access
+encryption management
+support
+correlation of events
+situational awareness
+information
+trustworthiness
+trend
+new opportunities
+agility
+software development
+maintenance
+people
+transition
+relevant domains
+detection
+privacy
+responsibility
+specific expertise
+enterprise perimeter
+virtualization layer
+skills
+need
+hypervisor bugs
+design
+illegal activity
+technology
+application components
+limitations
+respect

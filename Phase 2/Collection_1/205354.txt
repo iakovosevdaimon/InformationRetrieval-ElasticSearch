@@ -1,0 +1,55 @@
+power analysis
+statistical power
+use of power analyses
+appropriate effect
+effect size estimator
+low-power study
+library of effect sizes
+standardised measure of effect size
+poor predictive power
+pilot study
+pilot data set
+open data projects
+data mid-way
+neuroimaging
+standardised way
+underpowered study
+new experiment
+best way
+methods
+need
+open repositories NeuroVault
+different tasks
+critical component
+new publications
+key component
+different programming platforms
+contrasts
+account
+spatial variance
+control
+flexible framework
+increasing concern
+neuroscience research
+uncertainty
+OpenfMRI
+choice
+specification
+hypothesised parameters
+expensive practice
+software suite
+design
+subjects
+formidable task
+Findings
+proxy
+huge cost
+sound inferences
+type
+rate
+measurements
+issue
+paper
+procedure
+re-evaluating
+GUI

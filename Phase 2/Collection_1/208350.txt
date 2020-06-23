@@ -1,0 +1,57 @@
+non-integrable TCQGs
+non-equilibrium dynamics of TCQGs
+component quantum gases
+numerical framework
+Numerical results
+non-integrable Hamiltonians
+interacting quantum systems
+study of dynamical properties
+quantum quench
+study of large systems
+Analytical study
+cold atomic gases
+solid-state systems
+non-perturbative computational algorithm
+well-tested numerical techniques
+computation of dynamical properties
+proximate integrable point
+on-going experiments
+single-component gas
+field theory techniques
+efficient numerical routines
+theoretical framework
+Quench Action framework
+Exact results
+dynamical structure factors
+reach of existing techniques
+computational basis
+direct links
+spectral functions
+correlation functions
+analytical insights
+attractive gas
+accessible physics
+contemporary condensed matter theory
+Chebyshev expansion
+foremost challenges
+truncated conformal space approach
+time-evolution
+inelastic neutron scattering
+role of multiple species of bound states
+diverse range of probes
+non-linear Luttinger liquid
+ARPES
+RIXS
+door
+analog
+integrability
+predictions
+Development
+active experimental investigation
+proposal
+eigenstates
+computations
+Scenarios
+major steps
+objective
+aim

@@ -1,0 +1,52 @@
+quantum control
+applications of quantum
+quantum technology
+quantum annealer
+quantum annealing
+quantum devices
+superconducting quantum computer
+superconducting quantum bits
+superconducting quantum nanoelectronics
+coherent quantum computing
+universal quantum simulator
+Quantum Environment Engineering
+quantum technological revolution
+efficient large-scale quantum computing
+efficient large-scale quantum computers
+quantum-level power consumption
+fundamental quantum-mechanical limitations
+fault-tolerant universal quantum computing
+simulators of non-Markovian open quantum systems
+superconducting qubits
+tunable environments
+control of dissipative environments
+Steered Systems
+limited control
+qubit initialization
+project
+situ-tunable low-temperature environments
+base technology
+fundamental questions
+envisioned practical applications
+extreme gate accuracy
+ideal initialization scheme
+drug design
+energy harvesting
+materials
+artificial intelligence
+normal-metal components
+telecommunications
+key missing ingredients
+way
+fruitful horizons
+theoretical thresholds
+optimal strategies
+novel concepts
+realization
+limits
+internet of things
+proposal
+breakthrough
+basic building blocks
+practice
+QUESS

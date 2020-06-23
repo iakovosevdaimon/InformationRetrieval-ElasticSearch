@@ -1,0 +1,67 @@
+channel leakage
+channel testing lab
+leakage assessment practices
+new attack paths
+security claims
+sophisticated security certification
+FIPS standards
+cryptography
+IoT
+security properties
+evaluations
+year new implementation flaws
+new type of adversary
+face of determined adversaries
+real life adversaries
+evaluation methods
+resistance assessment
+independent evaluation
+open-source leakage simulator
+aspects of certification
+cryptographic implementation
+novel results
+existing standards
+Fault Attack Resilience
+used keys secret
+NSA's tampering
+ongoing challenge
+Riscure
+embedded devices
+Common Criteria
+field
+order
+instruction-level profiles
+Snowden’s revelations
+response times
+immediate access
+reference data sets
+UCL
+MORPHO
+EM signals
+EMVCo
+account
+processor relevant
+public confidence
+engaged governmental representative
+major circuits manufacturers
+NXP
+Taiwanese citizen card
+stakeholders
+power
+spotlight
+prominent research institutions
+Efficient Approaches
+users assurance
+ANSSI
+University of Bristol
+standardization bodies
+quality
+tools
+decades
+map-exploit approach
+REASSURE's consortium
+ambitious tasks
+efficiency
+comparability
+emerging areas
+reliability

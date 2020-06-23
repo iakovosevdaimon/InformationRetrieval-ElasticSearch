@@ -1,0 +1,57 @@
+lidar retrievals
+aerosol microphysical properties
+aerosol microphysical characterization
+lidar ACE simulations studies
+star-photometry
+star-photometers
+context GFAT
+upcoming Aerosol-Cloud
+measurements of aerosol optical depth
+coarse mode of columnar aerosol properties
+AOD
+MW ground-based lidar
+radiometric measurements
+atmospheric sciences
+Development of retrieval techniques
+collaboration
+easy deployment of backscatter elastic lidar
+Atmospheric Physics Group
+Laboratory of Atmospheric Optics
+ACE white paper
+University of Granada
+University of Lille
+retrieval of coarse particles predominance
+GARRLiC algorithm
+good environment
+night-time retrievals
+radiometric instrumentation
+unique environment thanks
+Spectral Deconvolution Algorithm
+Earth-Atmosphere radiative system
+multi-wavelength space
+errors
+order
+accuracy
+vertical profiles of particle volume
+knowledge
+possibility
+Ecosystems
+framework
+optimum capabilities
+large set
+high temporal-resolution
+situ
+AERONET
+progress
+secondment
+NASA
+potentiality
+research activity
+SDA
+LOA
+regularization
+mission
+world
+Linear Estimation
+special emphasis
+advances

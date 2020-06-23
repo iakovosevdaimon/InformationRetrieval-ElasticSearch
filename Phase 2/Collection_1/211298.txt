@@ -1,0 +1,57 @@
+maintenance activities
+production activities
+Smart Scheduling tool
+MSP tool
+novel MDSS tool
+machine tool performances
+overall system performance
+criticality of system components
+maintenance schedule of complete production lines
+machine condition monitoring system
+FMECA analysis
+system design
+eventual production
+smart industries maintenance strategy determination
+Overall Equipment Effectiveness
+RUL Estimation tool
+smart prediction of equipment condition
+overall business effectiveness
+Reliability Analysis
+model-based prognostics method
+cloud-based platform
+physical-based models
+customizable data analysis services
+higher criticality level
+resource management
+management functions
+ERP support
+optimal strategy
+new schedule
+traditional data acquisition
+required level of efficiency
+Intra Factory Information Service
+entire plants
+resources
+PRM approaches
+respect
+MTBF
+collaboration
+main objectives
+real-time flexibility
+order
+variation
+status
+addition
+changes
+introduction
+plan repair interventions
+following perspectives
+proposers' approach
+involved personnel
+reduction of MTTR
+project
+composition
+implementation
+Availability
+MDT
+company staff

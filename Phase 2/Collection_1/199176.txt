@@ -1,0 +1,53 @@
+Process Variability
+Moore devices
+statistical process variations
+various sources of process variations
+Advanced Interconnects
+Effects
+circuits
+subsequent process steps
+mechanical behavior of devices
+partner CEA
+software commercialization
+nm node
+capability of simulation
+software system
+specifications
+improved physical models
+partner GSS
+impact of systematic
+physical limitations
+compact models
+project results
+Device architectures
+support of device architecture activities
+successful FP7 project SUPERTHEME
+stacked nanowires
+ΩGate FETs
+TriGate
+benchmarks
+TCAD
+sideground experiments
+utilizing background
+alternative channel materials
+unique possibility
+GLOBALFOUNDRIES
+International Technology Roadmap
+Semiconductors ITRS
+exploitation
+early access
+nanoelectronics
+modelling
+Stability
+Main channels
+Industrial Advisory Board
+comprehensive experimental investigation
+STMicroelectronics
+progress
+important requirement
+lead
+key importance
+percentage of products
+corresponding input data
+Correlations
+SUPERAID7

@@ -1,0 +1,39 @@
+Epi-Collaborators
+multiple software versions
+EPIC approach
+Software Testing
+EPIC aims
+Evolving Program Improvement Collaborators EPIC
+Based Software Engineering
+Epi-Collaborator suggestions
+Evolutionary Program Improvement Collaborators
+new way of developing software
+multiple competing
+human
+machine
+large search spaces
+conflicting objectives
+transplantation of code
+non-functional objectives
+code changes
+new features
+Evolutionary Computing
+Genetic Algorithms
+Genetic Programming
+platforms
+identification
+optimisation of tuneable
+emergent challenges of multiplicity
+parameters
+host
+donor system
+contextual insights
+ability
+collaboration
+complementary strengths
+domain
+SBSE
+key feature
+quantitative evidence
+documents improvements
+Keywords

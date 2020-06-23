@@ -1,0 +1,61 @@
+climate modelling
+climate services
+Climate Dwarfs
+climate simulations
+extreme-scale applications
+extreme-scale computing capabilities
+energy-efficient high-performance computing
+Existing extreme-scale application software of weather
+computing applications
+European operational numerical weather prediction
+future climate models
+experienced high-performance computing centres
+global NWP
+state-of-the-art NWP
+interdisciplinary research
+Energy-efficient SCalable Algorithms
+frontier research
+holistic understanding of energy
+world-leading hardware companies
+Exascale ESCAPE
+evolving hardware
+European start-up SME
+excellent university research
+leading European regional forecasting consortia
+world leader
+algorithm development
+reform Earth-system modelling
+heterogeneous architectures
+accelerators
+subsequent co-design
+complex physical phenomena
+use
+efficiency
+new knowledge
+priority topic
+huge step
+optimization
+tight production schedules
+innovation actions
+need
+resiliency
+special compute units
+fundamental algorithmic building blocks
+ETP4HPC SRA
+proposal
+necessary means
+pre-requisite
+imbalance
+processor arrangements
+adaptation efforts
+complementary skills
+project partners
+technology
+field
+cost
+ECMWF
+biggest challenge
+time
+key reasons
+solution
+drivers

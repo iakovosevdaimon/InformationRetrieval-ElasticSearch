@@ -1,0 +1,59 @@
+fetal anatomy
+fetal prognosis
+accuracy of fetal US examination
+Multi-Organ UltraSound
+MRI-US scans
+new generation of multi-organ fetal biomarkers
+widespread use of fetal MRI
+detailed MRI-US atlas
+development of new multi-organ MRI slice
+constant fetal motion
+D inter-organ information
+early diagnosis of fetal malformations
+diagnostic accuracy of US
+fetus
+multi-organ quantitative image analysis
+inter-organ shape models
+detailed examination
+MOUSIE project
+growth anomalies
+intrauterine growth restriction
+comprehensive anatomical information
+inter-operator variability
+new structural similarity patterns
+D data
+obstetrical ultrasound
+objective assessment
+time quantitative
+subjective assessment
+high quality
+high cost
+specific goals
+limited availability
+automated segmentation method
+magnetic resonance imaging
+volume reconstruction method able
+Inborn Evaluation Prenatal diagnosis of congenital abnormalities
+framework
+IGR
+recent advancements
+specialist units
+appropriate treatments
+access
+difficulty
+creation
+spine
+lungs
+important thanks
+unique database
+long standing clinical need
+methodology
+birth
+kidneys
+weeks of gestational age
+hand
+potential
+innovative set of methods
+pathological cases
+treatment plan
+liver

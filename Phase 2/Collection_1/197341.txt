@@ -1,0 +1,65 @@
+heterogeneous services
+network services deployable
+G network
+hardware-independence
+heterogeneous hardware platforms
+deployment of services
+SUPERFLUIDITY consortium
+SUPERFLUIDITY solution
+decomposition of network components
+heterogeneous networks
+migration of services
+converged edge system Superfluidity
+network processing tasks
+reuse of network functions
+heterogeneous traffic
+multi-vendor network components
+underlying hardware
+cloud-native
+scale-independence
+time-independence
+converged cloud-based architecture
+location-independence
+SUPERFLUIDITY project tackles crucial shortcomings
+heterogeneous access technologies
+leveraging of hardware accelerators
+mobile edge
+cost-ineffective hardware devices
+today’s networks
+high performance software optimizations
+closed platforms
+instantaneous deployment
+G concept
+super-fluid
+long provisioning times
+wasteful over-provisioning
+implementations
+platform-independent abstractions
+virtualization of radio
+variable demand
+daunting complexity
+reusable primitives
+sources
+needs
+innovative use cases
+new business models
+investment
+reliance
+uncommon blend of Telco
+vendors’
+forms of heterogeneity
+catering
+development
+transparent service scalability
+players
+state
+core
+aggregation
+operational costs
+matter
+result
+properties
+different locations
+reality
+viscosity
+fly

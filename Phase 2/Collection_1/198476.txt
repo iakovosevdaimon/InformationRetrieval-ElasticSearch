@@ -1,0 +1,57 @@
+acquired data
+data processing units
+data evaluation
+biophysical data acquisition
+Integrated Sensing Architectures
+affordable health care
+design
+health conditions
+high-reward research of integrated sensing
+software tools
+new smart-health applications
+integration of sensing
+information processing systems
+dedicated computing architectures
+proposal
+multiple sensing modalities
+bio-systems
+decision
+support
+models
+aid medical care
+essential research goals
+quality
+therapy
+new logic structure
+terms of biophysical parameters
+new robust synthesis methodology
+embedded software
+barrier of adoption
+novel programmable integrated sensor arrays
+use of formal methods
+abstractions
+test
+structured architecture
+real time
+combined technologies
+human
+situ
+reasoning
+production cost
+broad impact
+field programmability
+electronics
+bridge
+application-specific hardware
+effectiveness
+qualification
+diagnostic platforms
+demonstrator
+diagnosis
+quantity
+Breakthroughs
+variety of cases
+remedies
+operation
+results
+outcome

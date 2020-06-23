@@ -1,0 +1,67 @@
+GaN devices
+GaN power electronic materials
+GaN power switches
+GaN materials stack
+new materials
+integrated materials
+reliable systems
+integrated power electronics
+practical systems
+value chain of materials
+effective high frequency power delivery systems Power electronics
+ultralow power losses
+Si-CMOS
+energy efficiency
+new soft magnetic core materials
+energy intensive applications
+package level
+chip level
+CMOS drivers
+datacenters
+new generation
+energy transmission lines
+flow of electrical energy
+level of maturity
+modules
+MWs
+switching frequencies
+developed technology
+low cost
+entire value chain
+wide variety of applications
+low temperature integration processes
+key technology
+different integration schemes
+Wide band gap semiconductors
+research centers
+miniaturised packages
+SME’s
+universities
+source
+load
+GWs
+way
+large industries
+long term reliability improvements
+aviation
+vendors
+internet
+addition
+device layout
+wafer bonding
+methods
+maximum speed
+e-mobility bikes
+temperatures
+fabrication
+capability
+choice of consortium partners
+special focus
+higher voltages
+GaNonCMOS project
+mobile phones
+optimization
+greater efficiencies
+development
+wafers
+date

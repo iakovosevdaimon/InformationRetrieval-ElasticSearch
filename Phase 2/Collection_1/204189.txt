@@ -1,0 +1,41 @@
+IMplementation of Powertrain Control
+control strategy
+fuel ConsUMption Fuel economy
+development of future powertrain control strategies
+fuel consumption reduction
+different energy sources
+Clean Real driving emIssion
+Global powertrain energy manager
+current driving situation
+IMPERIUM project
+IMPERIUM consortium
+main objective
+main components
+major European actors
+mission-based learning
+European value chain
+key aspect
+waste heat recovery
+transmission
+treatment
+eHorizon
+use
+operating costs
+efficiency of freight traffic
+e-drive
+exhaust
+engine
+vehicle
+legal limits
+trucks
+pollutant emissions
+truck competitiveness
+comprehensive understanding
+diesel
+stages
+improvement
+Direct optimisation
+urea
+long term
+approach
+performances

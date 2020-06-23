@@ -1,0 +1,47 @@
+study of nonlinear dispersive PDEs
+nonlinear Schrödinger equations
+nonlinear Hamiltonian PDEs
+stochastic cubic NLS
+Dynamical Study of Nonlinear Dispersive Equations Nonlinear dispersive partial differential equations
+circle
+weakly nonlinear regime
+time dynamics
+energy-critical NLS
+properties of invariant Gibbs measures
+stochastic KdV
+non-deterministic point of view
+invariant white noise
+probabilistic manner
+limit of deterministic analysis
+probabilistic points of view
+additive space-time white noise
+concentration phenomena of finite time blowup solutions
+typical behaviour of solutions
+novel analytical techniques
+wave phenomena
+limiting behaviour
+space-time covariance
+theoretical understanding
+multilinear harmonic analysis
+novel mathematical ideas
+non-vanishing boundary conditions
+various branches of physics
+proposal
+crucial role
+models
+scattering
+central problems
+Korteweg
+development
+significant progress
+new connection
+recent years
+following long term projects
+engineering
+decades
+waves
+Vries equation
+low regularity
+statistical description
+main objective
+subject

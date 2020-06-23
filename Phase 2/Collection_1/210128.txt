@@ -1,0 +1,53 @@
+Wnt responder cells
+Wnt signals
+silencing of Wnt
+tumor heterogeneity
+KP LUAD cells
+increased Wnt reporter activity
+maintenance of stem cells
+subpopulation of LUAD cells
+tumor stasis
+high Wnt reporter activity
+KP LUAD model
+small molecule Wnt inhibitors
+tumor cell population
+increased tumor propagation ability
+autochthonous KP tumors
+reduced tumor growth
+autochthonous KP mouse lung cancer model
+treatment-resistant cancer cells
+maintenance of heterogeneity
+properties of normal tissue stem cells
+human lung cancer
+lung development
+mouse lung adenocarcinomas
+Elucidation of intratumoral heterogeneity
+niche cell phenotypes
+small molecules
+tissue microenvironments
+multiclonality of cancers
+novel therapeutic concepts
+Kras-driven cancers
+CRISPR-based targeting
+combination of novel lentiviral vectors
+prolonged survival
+pathway components
+various epithelial tissues
+considerable variability
+distinct populations
+cases
+hierarchical features
+modified mice
+Tp53Δ
+engineered KrasG12D
+context
+Lineage-tracing experiments
+resistance
+therapy
+selective ablation
+probablility of cellular states
+efforts
+cellullar mechanisms
+reconstitution
+regeneration
+results

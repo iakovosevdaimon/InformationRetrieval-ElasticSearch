@@ -1,0 +1,55 @@
+genetic contexts
+effects of genetic variation
+contributions of genetic variation
+phenotypic consequences of genetic variants
+functional impact of genetic variation
+underlying genetic interactions
+consequences of human genetic variation
+diverse genetic backgrounds
+environmental contexts
+systematic genome
+current high-throughput genome
+biological contexts
+ubiquity of genome sequence data
+single-nucleotide variants
+quantitative traits
+work
+high-throughput CRISPR approach
+phenotypic diversity
+function of environment
+unprecedented collection
+rapid isolation of sequence
+perturbation-based approach
+higher order interactions
+small insertion
+indels
+SNVs
+screens
+pleiotropic roles
+key limitations
+cerevisiae species
+largest interrogation
+guiding principles
+deletion polymorphisms
+cellular processes
+predictive models
+multiple variations
+loss
+verified strains
+relevance
+complex
+date
+greatest challenges
+competitive growth
+limited knowledge
+connected genes
+tools
+clear need
+fitness
+combined insights
+overexpression approaches
+Previous efforts
+genomics
+phenotypes
+DNA barcodes
+proposal

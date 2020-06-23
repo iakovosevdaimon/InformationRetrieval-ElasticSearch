@@ -1,0 +1,62 @@
+LIB behaviour
+crack surfaces
+resulting crack
+thermal behaviour
+Thermal runaway
+PFM
+ion battery cell Lithium-ion batteries
+LIB cell temperature changes
+lithium ion battery electrode particles
+insertion of lithium
+branch crack
+excessive thermal stress
+situ stress analysis of lithium
+structure response of LIB cells
+cell rupture
+electrodes
+multiple crack problems
+abnormal conditions
+impact
+projectile
+fading of battery capacity
+combined effects of electrochemical
+phase interfaces
+electrochemical reaction
+electrode materials
+rapid temperature
+high temperatures
+mechanical degradation
+Final analysis
+runaway reactions
+reported accidents
+proposed research
+high safety standards
+cutting edge phase field model
+multi-physics finite element code COMSOL
+discrete fracture
+continuum damage models
+discharge cycles
+consumer electronics
+deformation
+extreme cases
+new data
+electric vehicles
+airplanes
+permeable membrane
+flammable gases
+separator
+applications
+stresses
+microfracture
+constraints
+anode
+published results
+recalls
+despite
+performance
+partner organisation
+cathode
+explosions
+specific objectives
+manufacturers
+LIBs

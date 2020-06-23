@@ -1,0 +1,46 @@
+gait rehabilitation
+RAGT
+standard gait training
+pre-gait
+gait asymmetries
+gait parameters
+stroke survivors Robotic assisted gait training
+stroke rehabilitation
+EA paradigm
+asymmetric gait pattern
+novel training methodologies
+augmented error
+movement error
+split-belt treadmill training
+chronic stroke survivors
+motor adaptations
+motor learning
+compensatory motor plan
+order
+Robot-induced Error Augmentation
+potential
+approach
+lower limbs
+upper limbs
+clinical community
+research community
+robotic ankle device
+degrees of freedom
+way
+DoFs
+exoskeleton
+healthy subjects
+speeds
+technique
+target
+therapy
+perturbations
+active participation
+patients
+effectiveness
+expectations
+implementation
+Emphasis
+studies
+developments
+WALKEr

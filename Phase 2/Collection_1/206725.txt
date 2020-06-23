@@ -1,0 +1,52 @@
+high order solver
+adaptive high order numerical methods
+high order scheme
+successful industrialisation of space-time adaptive high order methods
+new class of un-crashable space-time adaptive high order methods
+space-time adaptive algorithms
+Adaptive Discontinuous Spectral Element Solver
+high algorithmic complexity
+robust solver
+robustness
+open source solver
+Non-Linear Conservation Laws
+Exascale aware
+potential benefits
+positive benefits
+mathematical key
+challenge
+new mathematical concepts
+dissipation errors
+skew-symmetry
+excessive artificial dissipation
+emerging key technology
+complex large scale science
+specific skew-symmetric formulation
+improved computational efficiency
+growing attention
+turbulence
+drastic reduction
+industry
+multiple scales
+shocks
+engineering applications
+academia
+theoretical performance
+dynamics of fluids
+plasma
+novel
+memory consumption
+low dispersion
+Transient behaviour
+holy grail
+careful mathematics
+sight
+indispensable property
+current research
+supremacy
+physical consistency
+law of thermodynamics
+parallel supercomputers
+problems
+project
+computing cores

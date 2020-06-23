@@ -1,0 +1,51 @@
+multi-scale robustness
+multiple pieces
+control of tissue growth
+D data
+single multi-scale simulation
+multi-scale computer model of mammalian organogenesis
+new multi-scale modeling framework
+multiple levels
+multiple scales
+mechanical growth
+grand technical challenge
+complex interactions
+cellular growth rates
+multiple different cell types
+tissue engineering
+limb development
+molecular patterning
+D organ
+molecular control of organ shape
+complex multicellular processes
+latest state-of-the-art quantitative data-generation techniques
+large complex structures
+global tissue movements
+fundamental scientific question
+developing limb bud
+deep scientific question
+intercalation patterns
+multiscale simulation of organogenesis Organogensis
+coordination of patterning
+SIMBIONT project
+computer modelling
+gene expression patterns
+new systems-level questions
+integrated functions
+molecules
+example
+Tomo-Seq
+cells
+heart
+morphogen gradients
+tissues
+enormous potential impact
+OPTiSPIM
+mouse mutants
+regenerative medicine
+future
+perturbations
+key predictions
+brain
+puzzle
+purpose

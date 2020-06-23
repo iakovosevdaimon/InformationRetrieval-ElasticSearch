@@ -1,0 +1,56 @@
+giant impact
+proto-Earth
+Moon formation
+Earth-Moon couple
+large protolunar disk
+subsequent formation
+predictions of final Earth-Moon compositions
+Plausible impact scenarios
+supercritical points
+impactor
+subsequent evolution
+thermodynamics
+equations of state
+speciation
+positions of critical points
+atomic clusters
+molecular dynamics
+molecular species
+major rock
+rock aggregates
+models of equations
+supercritical regimes
+Hydrodynamic simulations
+time-dependent DFT techniques
+large-scale density-functional theory
+unique combination of atomistic state-of-the-art ab initio simulations
+geological sample
+bulk fluids
+phase diagrams
+Green functions
+gap
+GW
+convergence
+planetary scales
+experiments
+isotopic partitioning
+ratio
+minerals
+liquid
+features
+rocks
+observations
+conditions
+current experimental capabilities
+feedback loop
+thermal profile
+condensation
+temperature
+vaporization curves
+Estimates
+resulting energy
+bodies
+order of magnitude
+multiscale approach
+calculations
+physics

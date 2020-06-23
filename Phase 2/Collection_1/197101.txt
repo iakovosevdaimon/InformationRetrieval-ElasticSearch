@@ -1,0 +1,54 @@
+loop DBS
+mechanisms of DBS
+Neuromuscular System
+Closed Loop Deep Brain Stimulation Deep brain stimulation
+complex system
+system behavior
+open-loop
+new multiscale model
+long-term stimulation
+new strategy
+electrical stimulation
+new biomarkers of neural activity
+new insights
+PD
+incomplete knowledge of system variables
+new control strategy
+neural networks
+neural sensing
+long-term changes
+potential
+research
+need
+limit side-effects
+therapeutic efficacy
+patient outcomes
+Multiscale Modelling
+therapeutic influence
+stimulus parameters
+wider patient population
+spatial scales
+individual neurons
+electrode
+testing
+integration
+multiple temporal
+generation of muscle force
+symptoms of Parkinson’s disease
+costs
+current limitations
+place
+patients
+effective therapy
+devices
+signals
+nonlinear nature
+continuous symptom monitoring
+battery life
+way
+electric field
+energy
+state
+success
+key questions
+Experiments

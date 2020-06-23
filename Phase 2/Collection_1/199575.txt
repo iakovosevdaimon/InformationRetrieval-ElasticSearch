@@ -1,0 +1,50 @@
+hybrid digital-analog communications framework
+Latency Constraints
+Extreme Energy
+developed hybrid digital-analog networking theory
+analog communication techniques
+required energy
+BEACON project
+results of BEACON
+emerging IoE applications
+fundamental limits
+aforementioned constraints
+BEACON questions
+long block-length digital source
+channel coding
+channel codes
+theoretical limits
+stochastic nature of energy availability
+fundamental performance benchmarks
+physical layer design
+well-established design principles
+smart grids
+smart homes
+emerging Internet
+signal correlations
+design of modern wireless networks
+communication protocols
+coding scheme
+end-to-end signal distortion
+development of unconventional codes
+novel converse results
+Current network architectures separate source
+complete overhaul
+objective
+foreseen density of deployed sensing devices
+tele-robotics
+users
+feedback resources
+software defined radios
+shed light
+proof
+concept implementation test-bed
+sensor nodes
+account
+capabilities
+encoding
+example
+decoding processes
+ultimate challenge
+paradigm
+purpose

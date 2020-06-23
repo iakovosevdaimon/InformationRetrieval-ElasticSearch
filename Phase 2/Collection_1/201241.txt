@@ -1,0 +1,54 @@
+data centers
+better energy efficiency
+data center applications
+data center solutions
+proposed graph processors
+general purpose processors
+better performance
+significant energy consumption
+emerging graph analytics applications
+Energy Efficient FPGA Accelerators
+costly hardware implementations
+hardware designers
+available FPGAs
+prominent hardware
+proposed template
+abstract user functions
+parallel FPGA implementations
+medium software companies
+customizable implementation template
+high level application descriptions
+low level implementation details
+abstract interface
+main barrier
+performance improvements
+set of serial functions
+memory access optimization
+pipelining
+parallelization
+knowledge discovery
+wide spread adoption of FGPAs
+race
+synchronization
+users
+CPUs
+customization of logic
+computation
+manufacturing
+deadlock avoidance
+Field programmable gate arrays
+machine learning
+months of development time
+vertex
+percent
+domain expert
+gap
+cost of programming
+specialized processing elements
+effective way
+global electricity usage
+preliminary architecture simulations
+basic idea
+upcoming years
+project
+cloud

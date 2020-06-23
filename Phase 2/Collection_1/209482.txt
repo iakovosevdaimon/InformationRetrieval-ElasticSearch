@@ -1,0 +1,58 @@
+derivation of flight control laws
+Incremental Nonlinear flight Control
+Project INCEPTION
+design of automatic flight control systems
+development of generic flight control systems
+model mismatch INCEPTION
+INCEPTION Consortium
+areas of nonlinear control theory
+aircraft’s achievable flight envelope
+future aircraft
+advanced on-board systems
+safe flight regimes of operation
+aviation safety
+Unmanned Aircraft
+nominal aircraft model data
+model-independent
+system failures
+advanced inertial sensors
+use of advanced fault detection
+future applicability
+sensor technology
+Commercial Aviation
+innovative approach
+unknown failures
+best approach
+coherent system
+Envelope ProtecTION techniques Recent developments
+online identification algorithms
+ability of online reconfiguration
+enhanced level of safety
+operational issues
+way
+complex methods
+engineers
+mitigation of technical
+different aerial platforms
+case of adverse conditions
+renowned universities
+prediction
+novel
+failure scenarios
+domains
+SME
+ACARE Flightpath
+performance
+company
+self-reconfigurable mechanisms
+presence of unprecedented
+European vision
+Report
+addition
+proposed targets
+abovementioned research topics
+tasks
+UAV fleet
+damages
+motivations
+objective

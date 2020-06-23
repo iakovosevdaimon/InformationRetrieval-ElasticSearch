@@ -1,0 +1,55 @@
+deep learning
+Large-Scale Learning
+Deep Kernel Machines Machine learning
+fast learning
+new learning paradigm
+new generation of machine learning models
+deep networks simpler
+large-scale problems
+advantage of massive data
+various data structures
+current needs of large-scale data analysis
+large class of structured data
+kernel methods
+large-scale prediction problems
+large size of models
+high scalability
+related fields
+diverse scientific fields
+expected breakthroughs
+huge-dimensional models
+convolutional neural networks
+high complexity
+practical breakthroughs
+principled methodology
+theoretical foundations
+ability of kernels
+easiness of use
+groundbreaking advances
+novel optimization techniques
+angle of attack
+model invariance
+sequences
+adaptivity
+broad scope of applications
+today’s state
+little overlap
+art
+dire need of scalable tools
+graphs
+significant success
+results
+well-understood theory
+image classification
+computer vision
+fundamental issues
+classical statistical modeling
+instance
+decades
+recent shifts
+process
+project
+sense
+promise of SOLARIS
+schools of thought
+train

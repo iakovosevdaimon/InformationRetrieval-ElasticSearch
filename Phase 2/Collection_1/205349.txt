@@ -1,0 +1,62 @@
+Atmospheric methane
+methane isotopic module
+Satellite observations
+global methane budgets
+heavy methane concentrations
+methane isotopic GEOS-Chem module
+available observations
+satellite infrared solar observations
+future requirements of methane mapping
+Atmospheric content
+development
+Detection of Atmospheric Composition Change
+ground
+Network
+Canada
+developed module
+different isotopic ratios specific
+Atmospheric Chemistry Experiment-Fourier
+abundant of 12CH4 isotopologues
+main isotopologues of 12CH4
+climate change
+different rates
+global answer
+recent increase
+proposed project
+chemical transport model GEOS-Chem
+important anthropogenic greenhouse gas
+human-linked greenhouse gases
+high vertical resolution
+seasonal cycle
+emission sources
+ACE-FTS
+Spectrometer
+trend
+NDACC
+13CH4
+topical issues of air quality
+radiative forcing
+additional constraints
+broad spatial coverage
+terms of absolute value
+Jungfraujoch
+carbon dioxide
+Eureka
+complementary sites member
+objective
+portable instrument
+Swiss Alps
+Toronto
+key role
+Arctic
+sink
+species
+retrieval strategy
+question
+CH3D
+unique tracers
+isotopologue properties
+spectra
+abundance
+changes
+simulation

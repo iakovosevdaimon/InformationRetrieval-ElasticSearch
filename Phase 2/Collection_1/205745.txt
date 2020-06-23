@@ -1,0 +1,51 @@
+bursts
+D simulations of type
+nuclear explosions
+neutron star mass
+core of neutron stars
+nuclear reactions
+X-ray emission
+extreme conditions of neutron stars
+place
+information
+D spherical geometry
+Earth
+unprecedented simulations
+surface
+bright X-ray flashes
+relevant effects
+general relativistic effects
+small amounts of fuel
+spectacular amounts of energy
+star's gravity
+controlled environments
+account
+detailed microphysics
+rotation
+time
+radius
+ab initio
+deflagrating flames
+magnetohydrodynamical description
+ideal probes
+observations
+deflagration
+physical ingredients
+unknown behavior of matter
+accurate synthetic lightcurves
+emitted photons
+ray tracing code
+stars' properties
+burning hurricane
+combination
+inherent limitations
+different facets
+space
+order
+modelling
+extra difficulties
+parameters
+bursters
+years
+effort
+project

@@ -1,0 +1,61 @@
+management of hardware resources
+extreme scale parallel systems
+resource efficiency of parallel applications
+Nested Recursive Parallelism Extreme scale HPC systems
+Resilience Management Environment
+specification of parallelism
+program execution
+runtime system
+inherent advantages of nested recursive parallelism
+parallel programming model
+extreme scale architectures
+associated management activities
+underlying hardware resources
+capabilities of resulting applications
+parallel control flows
+execution time
+integration of resilience management measures
+energy
+AllScale environment
+available resources
+isolated hardware failures
+associated parameters
+customizable compiler
+Exascale Programming
+variety of compiler
+resource usage
+combination of sophisticated
+sophisticated approach
+application independent
+development productivity
+automated porting of application
+environmental hazard
+Multi-objective Optimisation
+data dependencies
+significant challenges
+space weather simulations
+multiple objectives
+SME
+trade-offs
+fluid dynamics
+industry
+reusable fashion
+labour-intensive task
+decoupling
+developers
+techniques
+possibility of online performance monitoring
+analysis
+novel
+obligations
+portability
+solutions
+potential
+clock speed
+flexible tuning
+scientific partners
+project
+focus
+foundation
+challenging problems
+services

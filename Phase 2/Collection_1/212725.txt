@@ -1,0 +1,48 @@
+time solutions
+integrable systems
+role of resonances
+role of invariant manifolds
+homoclinic phenomena
+Hamiltonian Partial Differential Equations
+Hamiltonian PDEs
+infinite dimensional Hamiltonian systems
+dynamical systems techniques
+study of  dynamical systems
+integrable Hamiltonian system
+homoclinic orbits
+type of solutions
+secular resonances
+relevant instabilities
+transfer of energy solutions
+hyperbolic invariant objects
+wave equations
+existence of Arnold diffusion
+new techniques
+new theory
+N body problem
+fundamental problem
+large effect
+interaction of N puntual masses
+celestial mechanics
+problems
+mean motion
+transversal intersection
+nonlinear Schrödinger
+Klein-Gordon
+gravitational force
+global dynamics
+perturbation
+proper setting
+heteroclinic connections
+high modes
+stationary solution
+project
+framework
+place
+oscillatory motions
+instability
+mathematical results
+model
+goal
+Astronomers
+breathers

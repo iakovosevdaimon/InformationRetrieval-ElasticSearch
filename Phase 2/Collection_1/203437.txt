@@ -1,0 +1,30 @@
+trust aspects
+Trust schemes
+domain-specific trust decisions
+global cross-domain trust infrastructure
+Global Heterogeneous Trust management
+existing Domain
+different trust authorities world-wide
+domain-specific assessments
+Lightweight Infrastructure
+efficient global rollout
+existing governance
+mobile identities
+objective of LIGHTest
+support
+open Ecosystem of Stakeholders
+solution
+standards
+software
+organization
+community
+know-how
+Levels of Assurance
+decision makers
+verifiers
+new innovative building blocks
+identity
+business
+electronic transactions
+reputation
+approach

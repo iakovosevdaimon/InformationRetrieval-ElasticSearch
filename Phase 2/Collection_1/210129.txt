@@ -1,0 +1,59 @@
+design complexity
+complexity of computing hardware
+low-level hardware design
+hardware engineers
+fault-tolerance
+given design
+Theory of Reliable Hardware
+basic components
+modeling fault-tolerant circuits
+growing number of components
+general fault types
+specific fault behavior
+increasing number
+higher complexity
+available computing power
+holistic mathematical approach
+area of distributed computing
+diverse circuits
+mathematical proofs
+scalable systems
+larger systems
+parametrized guarantees
+parametrized reasoning
+ongoing miniaturization
+new obstacles
+limited computational capabilities
+decades
+way
+exponential growth
+variety of faults
+rapid pace
+correctness
+properties
+trend
+operational parameters
+advantages
+varying configurations
+different technologies
+correct operation
+project
+usefulness
+potential
+metastability
+statements
+concurrent increase
+Moore's Law
+derived building blocks
+present methods
+technology
+sight
+abstract
+practice
+simulation
+experimentation
+framework
+goal
+challenges
+possibility
+scalability

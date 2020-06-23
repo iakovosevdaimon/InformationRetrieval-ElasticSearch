@@ -1,0 +1,45 @@
+COHERENT control framework
+unified control
+Network abstraction
+underlying heterogeneous mobile networks
+G networks
+Coordinated control
+future mobile networks
+network complexity
+novel control framework
+inter-network coordination of wireless network resources
+unified programmable control framework
+new control functions
+scalable network-wide control solutions feasible
+coordination framework
+G heterogeneous radio access networks
+behaviors of different underlying mobile networks
+flexible spectrum management
+sufficient abstracted network view
+insufficiency of current control solutions
+low layer network states
+COHERENT project
+resource coordination
+key innovation of COHERENT
+exponential growth of mobile traffic
+abstraction of low layers
+innovative approaches
+innovative impact
+new services
+software defined networking
+software-development kits
+common interfaces
+strong need
+efficient way
+breakthroughs
+operators
+unique features
+concept prototype
+applicability
+true proof
+methods
+benefits
+programmability
+success
+theories
+problems

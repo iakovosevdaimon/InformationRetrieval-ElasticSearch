@@ -1,0 +1,56 @@
+Memory Processing System
+system architecture
+system evaluation
+mMPU design
+real computing system
+memory wall
+mMPU control
+basis of mMPU
+functional mMPU
+memristive memory processing unit
+memristive memory array
+corresponding system implications
+state-of-the-art computing systems
+different mMPU modes of operation
+energy efficiency
+current computing systems
+Emerging memory technologies
+memristive devices
+Neumann systems
+operating systems
+different technologies
+objective
+different aspects
+different parts
+improved performance
+X improvement
+main research tasks
+novel devices
+main bottlenecks
+process data
+power wall
+new computer architecture
+programming model
+software
+modeling
+compiler
+project
+speed
+technique
+logical operations
+order
+models
+Memristor Aided Logic
+MAGIC
+tools
+appropriate workloads
+store
+area
+necessity
+enablers
+preliminary experimental results
+cells
+fabrication
+combination
+goal
+memristors

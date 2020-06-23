@@ -1,0 +1,62 @@
+CLOTH manIpulation Learning
+manipulation skills
+theory of cloth manipulation
+versatile manipulation
+DEmonstrations Textile objects
+state of textile objects
+robotic handling of rigid objects
+desired cloth configuration
+given actions
+machine learning
+inaccurate actions
+disabled people
+reinforcement learning
+virtual rendering of deformable objects
+probabilistic planning of actions
+human environments
+autonomy of elderly
+clothing internet business
+non-rigid deformations
+initial human demonstration
+compact operational way
+freedom
+computational topology
+housekeeping
+noisy perceptions
+transformations
+powerful recent tools
+upholstered product manufacturing
+occasional requests
+hospital logistics
+project narrow focus
+vast number of degrees
+folding clothes
+robots
+task-relevant topological changes
+envisaged applications
+user advice
+car seat
+real world
+breakthrough
+systems
+safe interaction
+humans
+broad Robotics
+AI background
+uncertainties
+action outcomes
+novel
+model
+automation
+prototype implementation
+predictive controller
+mattress
+elastic
+approach
+efficient procedures
+research topic
+Prototypes
+proposal
+range
+possibilities
+dynamics

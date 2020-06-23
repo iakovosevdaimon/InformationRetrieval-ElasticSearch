@@ -1,0 +1,54 @@
+Dynamic Networks Dynamic models
+interconnected dynamic systems
+cyber-physical systems of systems
+estimating models of dynamical systems
+transportation networks
+power networks
+Data-driven Modelling
+model-based control
+industrial production systems
+Identification methods
+data synchronization
+distributed control
+control community
+growing spatial complexity of engineering systems
+local dynamical models
+effective modelling tools
+model-based simulation
+basis of measurement data
+model-based operations
+field of system identification
+optimal accuracy of estimated models
+key role
+monitoring
+existing identification frameworks
+optimization
+available methods
+project
+essential tools
+subsequent use
+paramount role
+spatial topology
+open-loop
+system configurations
+branches of science
+domains of science
+established fields
+statistical parameter estimation
+view
+high-level future ICT environment
+strong need
+excitation locations
+target
+fundamental step
+recent work
+current abilities
+comprehensive theory
+selection of sensing
+dedicated experiments
+recognized expertise
+interconnection structure
+simple structures
+feasibility
+time
+problems

@@ -1,0 +1,47 @@
+Partial Differential Equations
+study of transport equations
+Monge-Ampère equations
+Lagrangian structure of transport equations
+Monge-Ampère type equations
+optimal transport problem
+new results
+quantitative stability results
+PDEs
+instance
+physical system
+new groundbreaking results
+problems
+geometric measure theory
+geometric inequalities
+system changes
+odinger equation
+important issue
+important question
+physical phenomenon
+singular vector-fields
+regularity properties of solutions
+Vlasov-Poisson equation
+Di Perna-Lions theory
+rough coefficients
+techniques
+expertise
+project
+suitable sense
+semiclassical limit
+Schr
+ideas
+applications
+active research area
+influence of exterior factors
+rate of convergence
+evolution
+time
+order
+steady state
+years
+recent developments
+Calculus of Variations
+areas of mathematics
+minimizer
+inequality
+PI

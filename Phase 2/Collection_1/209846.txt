@@ -1,0 +1,56 @@
+database indexing
+memory indexing
+GPUs
+coupled multicore-GPU database systems
+generated data
+accessed data
+Emerging GPU
+High-Performance Indexing
+common data structures
+performance of database systems
+heterogeneity
+large-scale simulations
+new data types
+forefront of heterogeneous parallel processing
+host
+researcher
+indexes
+action
+multicore techniques
+graphics processing units
+deescalating costs of memory
+powerful multicore system
+Index structures
+large-scale parallelism
+technical parallel programming skills
+preliminary results
+project results
+research areas
+principal research challenge
+responsive simulations of complex objects
+stage
+disruptive innovation
+Databases
+vehicle trajectories
+Europe's positioning
+compute ecosystem
+recent proliferation of mobile
+architecture-specific algorithms
+neurons
+commonplace accelerators
+industry competitiveness
+impact
+lower energy footprint
+expertise
+favour
+disk
+scientific productivity
+hardware trends
+different computational model
+small advances
+dichotomy
+confluence
+valuable resources
+challenges
+fact
+hand

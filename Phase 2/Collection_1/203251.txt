@@ -1,0 +1,51 @@
+LHC processes
+matching of NNLO calculations
+NNLO process
+potential of NNLO calculations
+high-precision NNLO results
+precision results
+LHC mainstream
+LHC program
+theoretical results
+jet NNLO cross-section
+experimental analyses
+hadron collider calculations
+New level of theoretical precision
+widespread use
+availability of theoretical predictions
+specific phenomenological analyses
+limited number of observables
+current state
+current frontier
+matching accuracy
+novel techniques
+coloured partons
+shower expertise
+existing fixed order
+unprecedented insight
+direct analysis
+unexplored region of TeV physics
+bottleneck
+parton showers
+wealth of forthcoming high-quality data
+following multi-prong approach
+higher centre of mass energy
+library of partonic events
+main shortcoming
+user-friendly interface
+usefulness
+Cavendish
+proposal
+work
+quarks
+great achievement
+loop amplitudes
+computing
+jets
+solution
+utility
+group
+outstanding problem
+goal
+flexibility
+system

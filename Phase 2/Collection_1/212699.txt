@@ -1,0 +1,52 @@
+distributed computing Distributed systems
+fundamental distributed local tasks
+central family of distributed tasks
+study of local tasks
+limited bandwidth available
+restricted bandwidth
+theory of distributed computing
+ever-increasing abundance of distributed systems
+practical restriction of distributed systems
+cost of limited communication bandwidth
+unlimited bandwidth case
+powerful assumptions of unlimited bandwidth
+systems face
+stronger lower bounds
+small messages
+complexity gaps
+known algorithms
+small number of colors
+small number of hops
+proposal
+fast algorithms
+network components
+prime example
+huge gaps
+central authority
+cornerstone example
+existing theoretical infrastructure
+strong theoretical foundations
+form of unknown network topology
+current literature
+modern technologies
+unpredictable dynamic behavior
+fact
+nodes
+usage
+crucial blind spot
+environment
+symmetry
+lack
+design
+valid coloring
+aspects  of uncertainty
+need
+research
+major challenge
+information
+better utilization of resources
+mere coincidence
+Internet
+heart
+limitations
+goal

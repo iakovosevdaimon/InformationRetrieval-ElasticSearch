@@ -1,0 +1,57 @@
+big graphs
+Resource Bounded Graph Query
+social search
+graph pattern query language
+query tractable
+single query
+social graph of Facebook
+big data small
+graph pattern queries
+graph patterns
+social data analysis
+social media marketing
+practical techniques
+resource-constrained techniques
+theory of computation
+query-driven approximation schemes
+traditional query evaluation paradigm
+bounded resources
+search engines
+Web search
+express graph pattern association rules
+conventional complexity theory
+parallel computation
+new resource-constrained methodologies
+classical computational complexity theory
+time
+project
+parallel scalability
+tractability of queries
+methodological foundations
+algorithmic foundations
+new approaches
+balance
+challenges
+departure
+fundamental problems
+databases
+reach
+system
+keywords
+computing facilities
+exact answers
+increase of processors
+fields
+choices
+Google
+GRACE
+subject
+accuracy
+cost
+friends
+nodes
+links
+breakthrough
+proof
+product
+questions

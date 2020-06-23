@@ -1,0 +1,42 @@
+Soft Manipulation
+program manipulation systems
+affordance-guided manipulation of objects
+new avenue of robotic manipulation
+adoption of advanced manipulation systems
+robust grasping
+rigid hands
+exploitation of EC
+softness of hands
+opportunities
+SoMa
+Soft-bodied intelligence
+adaptive grasping
+physical constraints
+environmental constraints
+difficulty of use
+functional hand pre-shaping
+complexity
+industry
+state-of-the-art grasp planners
+requirement of planning
+main obstacle
+uncertain interactions
+development of simple
+shift of focus
+path of disruptive innovation
+lack of strength
+complete disarray
+fragility
+ill-posed problems
+traditional paradigm
+project
+complicating matters
+algorithmic solutions
+key ingredient
+manipulandum
+idea
+variable environments
+embodied ability
+obstacles
+approach
+humans

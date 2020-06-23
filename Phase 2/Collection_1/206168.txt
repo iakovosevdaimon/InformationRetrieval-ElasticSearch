@@ -1,0 +1,42 @@
+interoperable Multi-Cloud applications
+multi-cloud aware applications
+heterogeneous cloud resources
+Digital singlE market Multi-cloud applications
+specific needs of different multi-cloud applications
+legal compliant cloud services
+best combination of cloud services
+set of given cloud resources alternatives
+new generation of multi-cloud service-based software framework
+ACSmI-Advance Cloud Service meta-Intermediator
+DevOps Framework
+continuous deployment
+DevOps approach
+OPTIMUS deployment simulation tool capable
+selection of deployment scripts
+adequate deployment application topology
+set of users’ requirements
+ecosystem of trusted
+set of architectural patterns
+non-functional properties
+non-functional aspects
+solution
+resulting non-functional characteristics
+ecosystem of reliable
+required mechanisms
+use cases
+on-line gaming
+user’s perspective
+e-Health
+provisioning
+development
+needed tools
+action
+NFP
+business
+techniques
+components
+Network management
+main objective
+outcomes
+key innovations
+SLAs

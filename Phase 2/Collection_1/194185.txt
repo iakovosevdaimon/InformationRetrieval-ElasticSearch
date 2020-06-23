@@ -1,0 +1,52 @@
+software variability
+software upgrades
+Software analysis
+deployment of software updates
+continuous software evolution
+possible software configurations
+software product lines
+variability modeling
+variability models
+individualized evolution of distributed software applications
+Distributed Evolving Software Systems HyVar
+existing software development processes
+Scalable Hybrid Variability
+air updates of distributed applications
+Domain Specific Variability Language
+distributed application instances
+complex remote devices
+HyVar's objectives
+HyVar's scalable cloud infrastructure
+development framework
+DSVL
+technology
+HyVar's approach
+efficient customized updates
+numerous application instances
+system of systems
+sensor data
+collection of data
+monitoring
+formal methods
+consortium balances
+tool chain
+automatic generation
+industrial partners
+customization
+resilience
+robustness
+demonstrator
+O1
+O3
+O4
+reliability
+O2
+user quality experience
+heterogeneous environments
+quantifiable ways
+impact
+innovation
+benefits
+industry
+push
+behavior

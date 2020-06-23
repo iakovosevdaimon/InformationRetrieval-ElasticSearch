@@ -1,0 +1,48 @@
+quantum systems
+quantum advantage
+quantum computing models
+quantum computer large
+design of new sub-universal quantum circuits
+minimal supremacy of quantum computers
+quantum computing resource states
+theoretical level new models of sub-universal quantum computers
+study of viable experimental quantum optics platforms
+classical algorithms
+classical ones
+classical devices
+classical machines
+classical computational hardness
+CV boson sampling
+computer scientists
+project
+question
+so-called boson sampling protocol
+Continuous Variables
+record-size
+exponential time
+accessible protocol
+information processing
+recent experimental achievements
+factoring of integer numbers
+proof
+Paris
+Japan
+Virginia
+scales
+observation
+protocols
+original photonic architectures
+specific problems
+main objectives
+decades
+physicists
+input
+promising context
+day
+fundamental reasons
+unitary matrix
+difficulty
+encoding
+words
+instance
+practice

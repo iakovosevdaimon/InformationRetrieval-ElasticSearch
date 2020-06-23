@@ -1,0 +1,66 @@
+promising use cases
+separate use cases
+best use
+local energy system flexibility
+electricity retailers
+Sweden
+electricity value chain
+distribution network flexibility
+future electricity market design
+plausibility of local flexibility markets
+flexibility sources
+European DSOs
+energy market players
+increased network automation
+enabling role of DSOs
+energy storage technologies
+power system manufacturers
+power system experts
+automated energy systems
+heat
+automation of grid operations
+Czech Republic
+France
+speed of automation
+distribution networks
+demonstrations
+coupling of networks
+aggregated flexibilities
+increased level of aggregation
+integration of grid users
+interoperability
+CEZ distribuce
+ERDF
+Avacon
+distributed generation
+Netherlands
+gas
+practical implementation
+demand response schemes
+interchangeability
+EON
+Enexis
+in-depth analysis
+electric vehicles
+draft
+deployment roadmaps
+stakeholders
+enhancement
+Germany
+tested critical technology components
+time-varying merit orders
+contributions of micro-grids
+Interactions
+set
+preparation
+levers
+controllable loads
+industry
+solutions
+results
+Dissemination
+groups
+Replicability
+end
+months
+years

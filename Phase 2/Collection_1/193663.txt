@@ -1,0 +1,51 @@
+placement algorithms
+Task Placement
+placement properties
+placement enforcement
+data placement decisions
+new class of placement problem
+heterogeneous workloads
+Supercomputing workloads
+performance of workloads
+known algorithm
+heterogeneous sets of tasks
+mapping workloads
+EST plans
+Adaptive Learning Algorithms
+heterogeneous sets of key
+guiding task
+supervised learning
+software defined environments
+known use of Deep Learning techniques
+Active Storage technologies
+multi-dimensional knapsack problem
+workload mix
+hardware resources
+type of resources
+utilization of resources
+unprecedented number of workload types
+Active Storage capabilities
+different areas
+different domains
+computing infrastructure
+research frontiers
+infrastructure hybrid
+research pillars
+Holistic Integration of Emerging Supercomputing Technologies
+SDE description languages
+unifying performance models
+value stores
+inexistent vocabulary
+computational sciences
+systems
+challenge
+single decision-making process
+past
+goal
+vertical solutions
+efficient management
+NP-hard
+objective
+Heuristics
+context
+approach

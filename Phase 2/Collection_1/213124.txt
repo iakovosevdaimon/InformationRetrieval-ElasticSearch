@@ -1,0 +1,54 @@
+CIM architecture
+new architecture
+architecture level of CIM tiles
+CIM device
+concept of CIM
+group of CIM tiles
+new computation
+memory architecture
+new algorithms
+design new mapping methods
+level operations
+factor
+new algorithmic solutions
+resistive devices
+energy efficiency
+fabricated crossbar
+total-energy
+targeted applications
+associated design
+calibrated models of memristor devices
+energy-delay product
+arithmetic operators
+considered applications
+integration of group
+computational efficiency
+following measurable targets
+building blocks
+framework
+FPGA emulator
+different circuit choices
+general purpose multi-core platform
+tile communication
+data accesses
+primitive logic
+efficient compilation
+conventional CPU
+area
+overall scheduling
+MNEMOSENE project
+required programming flow
+measurements
+technical objectives
+order
+interface
+PCB board
+partitioning
+performance density
+physical location
+simulator
+proposed accelerator
+superiority
+storage
+processing
+demonstrator

@@ -1,0 +1,47 @@
+testing of untestable systems
+automated testing
+critical systems
+Model Testing of Complex Software-Intensive Systems Software-intensive systems
+operational systems
+traditional testing methods
+software dependability
+risk models
+Software Verification
+test automation
+critical faults
+prevalent V
+V technique
+cost-effective automation
+deep intertwining of software
+model-driven engineering
+existing automation techniques
+risks of system failures
+uncertainty-aware techniques
+critical roles
+dependability indispensible
+TUNE
+dynamic environment behaviours
+metaheuristic search
+executable representations
+modern society
+safety
+relevant aspects
+expertise
+level of abstraction
+security standpoint
+controlled execution
+systems’ continuous interactions
+factors
+unknowns
+industry
+uncertainties
+Validation
+core
+specific goal
+initiative
+hardware
+key idea
+compliance
+requirements
+solutions
+project

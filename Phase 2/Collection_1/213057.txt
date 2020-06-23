@@ -1,0 +1,63 @@
+TPM developers
+range of TPM environments
+secure QR algorithms
+security functions
+QR algorithms suitable
+QR cryptography
+quantum computers
+quantum attacks
+goal of FutureTPM
+FutureTPM solution
+FutureTPM framework
+Quantum-Resistant Trusted Platform Module
+QR crypto researchers
+enhanced system security
+crypto functions
+large-scale quantum computer
+key strategic objective of FutureTPM
+tamper-resistant devices
+formal security analysis
+virtualization environments
+computing system
+existing public-key algorithms
+device management
+core cryptographic
+practical research
+cryptographic engine
+algorithm design
+TCG
+activity tracking
+Europe
+time
+hardware
+EU level
+online banking
+academic partners
+enormous attention
+high calibre industrial
+Connected World
+ISO
+standardization efforts
+years
+applications
+software
+new generation of TPMs
+IEC
+governments
+cases
+implementation
+reality
+HSMs
+TEEs
+privacy
+inclusion
+performance evaluation
+Future Proofing
+ETSI
+consortium
+industry
+adoption
+smooth transition
+significant change
+challenge
+root

@@ -1,0 +1,52 @@
+Chromatin dynamics
+chromatin regulators
+chromatin states
+role of chromatin
+heritable chromatin
+DNA replication Chromatin assembly
+chromatin state inheritance
+epigenetic inheritance of chromatin components
+chromatin binding proteins
+strand replication
+genomic replication
+maternal histones
+effect of DNA replication
+kinetics of chromatin footprint re-establishment
+maternal nucleosome distribution
+spread of maternal nucleosomes
+Epigenetic phenomena
+histone protein dynamics
+nucleosome positioning
+movements of histones
+new nucleosomes
+renewal dynamics of posttranslational histone marks
+smaller nucleosome domains
+cellular differentiation
+specific cases
+original binding site
+locus specific differences
+fundamental cellular process necessary
+early development
+maintenance of genome integrity
+later predispositions
+impact of environmental factors
+effects of leading
+bp
+cerevisiae
+prerequisite
+transcriptional programs
+disease
+average
+driver
+facts
+majority of H3
+cancer formation
+high throughput systems
+H4 tetramers
+blocs
+fold
+daughter strands
+theory
+perturbations
+activation
+information

@@ -1,0 +1,53 @@
+new data sources
+Passenger-centric Big Data Sources
+ATM system
+data analytics techniques
+development of passenger
+centric door
+ATM decision
+ATM operations
+passenger-centric air transport system
+centric spatio-temporal data
+limited availability of behavioural data
+large-scale dynamic data
+multiple sources of passenger
+impact of passengers’ behaviour
+socio-economic impact of ATM disruptions
+Behavioural Research
+passenger-oriented perspective
+analysis of intra-airport passenger behaviour
+emergence of big data analytics open new opportunities
+new theoretical models
+travellers’ behaviour
+air transport databases
+aim of eliciting passengers’ behavioural patterns
+relevant information
+transport modes
+door delay metrics
+improvement of air traffic forecasting models
+performance objectives
+specific objectives
+goal of BigData4ATM
+mobile phone records
+credit card records
+geolocation apps
+daily lives
+actionable indicators
+planning
+report
+number of case studies
+account
+management
+Flightpath
+assessment
+traditional demographic
+pervasive penetration of smart devices
+situation
+time
+hypotheses
+potential applications
+ultimate consequences
+lack of understanding
+processes
+project
+area

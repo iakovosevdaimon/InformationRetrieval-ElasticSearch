@@ -1,0 +1,54 @@
+airport capacity
+Airport Operators
+e-Airport project team
+International Airport of Bari
+International Airport of Bucarest
+particular aspects of Airport Operations
+application development
+security  of  aircraft services
+Galileo Early services
+use of Galileo services
+global Airport performance Key Performance Indicators
+European GNSS
+Application demonstrations
+cargo operations
+European airports
+cargo processes
+single wider application able
+cabin service
+solutions
+EDAS
+GPS
+efficiency
+applications
+safety goals different R
+GNSS developer community
+provision of EGNOS CS
+apron management service
+D projects
+main goals
+previous projects
+Air Navigation Service Provider
+low visibility conditions
+fuelling
+catering
+multicostellation
+free open source license
+current CEN standard
+actual operational user needs
+associated client SW tool
+complex
+parties
+airlines
+evolution
+ground handlers
+turn
+Henri Coandă
+Karol Wojtyła
+ICAO Annex
+high-density aerodromes
+SESAR guidelines
+passenger
+Palese
+flight delays
+Eurocontrol statistics

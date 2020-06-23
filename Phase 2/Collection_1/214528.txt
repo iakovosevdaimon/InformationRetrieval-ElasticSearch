@@ -1,0 +1,60 @@
+WAVE overtopping
+modelling wave
+kind of coastal defences
+current design criteria of coastal defences
+Design criteria of URban defences
+wave action
+coastal boulevards
+post-overtopping processes of urban defences
+wave basins
+wave loadings
+wave impacts
+numerical modelling
+LECZs
+overtopping waves
+overtopping flows
+vulnerability of coastal zones
+coastal zone population
+climate change scenarios
+new design criteria
+composite-modelling approach
+low elevation coastal zones
+climate conditions
+different wave flume facilities
+unique numerical model technique
+buildings
+Physical model tests
+project outcomes
+present project
+major threats
+new correlations
+host organization
+sea frontages
+partner organization
+mesh-free DualSPHysics model
+Sea level rise
+EPR data-driven technique
+increased storminess
+storm walls
+growth
+extensions
+European levels
+outmost importance
+exposure of large numbers of people
+path
+assets
+UPC
+interaction
+open-source
+secondment
+DURCWAVE
+inundation
+decision-makers
+public use
+UVigo
+methodology
+coastline
+mechanisms
+hinterlands
+objectives
+scope

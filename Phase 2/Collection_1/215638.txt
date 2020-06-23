@@ -1,0 +1,30 @@
+multi-photon regime
+quantum emitters
+dynamics of complex open quantum systems
+complex scattering processes
+prospects of controlled multi-photon
+robust photon-based quantum technologies
+matter interactions
+nonlinear interactions
+project builds
+numerical tools
+development of novel analytical
+photons
+immediate experimental implementations
+Marie Sklodowska-Curie action
+variety of state-of-the-art platforms
+setups
+control of light
+transmission lines
+modelling of new
+correlated noise
+probe
+superconducting qubits
+photonic crystal waveguides
+problems
+understanding
+dissipation
+engineering
+core
+techniques
+ideas

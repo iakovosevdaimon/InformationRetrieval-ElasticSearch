@@ -1,0 +1,52 @@
+RNA-RNA interactions
+RNA-protein associations
+study RNA-protein interactions
+functional protein-RNA interactions
+RNA-binding proteins
+human interactome
+high-quality RNA-protein interaction predictions
+human transcriptome
+human interaction network
+wide spectrum of human genetic disorders
+disease-associated variants
+recent data
+data integration
+life-threatening genetic disorders
+relevant human signalling systems
+quantitative predictions of polymorphisms
+aggregation of proteins
+personalised medicine
+DeepRNA project targets genetic diseases
+use of eQTL variants
+graph neural network
+effects of disease
+experimental dataset
+domain knowledge
+novel approach
+genome-wide manner
+expression quantitative trait loci
+spinocerebellar ataxia
+Diamond-Blackfan anaemia
+amyotrophic lateral sclerosis
+computing
+molecular mechanisms
+strong track record
+host group
+eQTLs
+new tools
+machine learning
+recognised research team
+Europe
+ALS
+independence
+transferrable skills
+accuracy
+RNAs
+Examples
+genomic scale
+gold standard
+splicing
+fellowship
+translation
+methods
+analyses

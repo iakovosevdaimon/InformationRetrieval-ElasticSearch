@@ -1,0 +1,56 @@
+security of embedded systems
+safety-critical systems
+safety-critical embedded systems
+security of embedded dependable systems
+joint design of safety
+development of SAFURE
+impact of SAFURE
+SAFURE-compliant products
+objectives of SAFURE
+results of SAFURE
+European suppliers of safety
+interconnected mixed-critical cyber-physical systems SAFURE
+design of cyber-physical systems
+concurrent effects of security threats
+compliant mixed-critical embedded products
+methodology
+system capabilities
+developers
+development tools
+system integrity
+data threats
+system behaviour
+current approach
+holistic approach
+framework
+hardware level potential attacks
+industrial use cases
+application level
+industrial manufacturers
+execution capabilities
+extensions of standards
+modelling languages extensions
+energy-aware solutions
+time
+increased communications
+analysis methods
+cost
+leading universities
+telecommunications
+temperature
+research centres
+technological evolution
+openness
+concept
+proof
+multi-core architectures
+SME
+recommendations
+designers
+subsystems
+specifications
+community
+ground
+construction
+project
+capability

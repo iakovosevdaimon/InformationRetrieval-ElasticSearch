@@ -1,0 +1,39 @@
+G aggregation networks
+optical aggregation networks
+aggregation technique
+optical carriers
+transport network infrastructures
+interconnecting cell-site equipment
+G DRIVEn Resource Efficient Mobile Aggregation Networks
+impact of transport cost
+cellular networks
+baseband equipment
+millimetre-wave carriers
+efficient use of network resources
+proposed Claud-Radio Access Network
+metro transport
+power consumption
+G-DRIVE project
+low-latency requirements
+context
+access central office
+traditional C-RAN
+wireless channel
+resource efficiency
+generation
+wavelength division multiplexing
+outstanding candidates
+ambitious goals
+technological advances
+spectrum
+service availability
+high-capacity
+different function splits
+promising architecture
+flexible-grid transmission
+recent push
+consolidation
+carbon footprint
+alternatives
+serious challenges
+scalability

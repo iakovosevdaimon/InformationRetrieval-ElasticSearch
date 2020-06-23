@@ -1,0 +1,52 @@
+disassembly actions
+recovery actions
+Understanding
+robotic disassembly
+cognitive ability
+robot's ability
+parameters
+ability level of robotic systems
+Effects
+Today's robots
+environment
+core functional element
+core areas
+context of recycling
+simulated performance
+certain failures
+simulated behavior
+prototypical classes of devices
+Current recycling practices
+multi-functional gripper capable of multiple types of manipulation
+unseen instances of similar devices
+generative model
+illegal disposal
+work programme
+decisional autonomy
+association engine
+significant threats
+perception
+adaptability
+hazardous materials
+area of high economical
+ecological impact
+health
+tool changes
+humans
+possible causes of failure
+programmed motions
+prototype
+physics simulator
+progress
+desired effect
+electromechanical appliances
+scientific objective
+novel situations
+extent
+applicability
+structure
+EU e-waste
+TRL
+countries
+sense
+execution

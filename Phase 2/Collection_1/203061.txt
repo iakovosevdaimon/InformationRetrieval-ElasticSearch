@@ -1,0 +1,44 @@
+complete channel characterization of FM Band
+useful band
+channel properties
+channel sounders
+standard directional channel models
+FM coverage
+analytical directional channel modelling
+contemporary wireless systems
+potential wireless systems
+wireless access system
+Wireless access enabler
+small channel effects
+specification of directional channel impulse response functions
+utilized wireless bands
+New Efficient Wireless Systems Motivation
+introduced models
+Measurement of Wideband Directional Channels
+time
+frequency bands
+good propagation characteristics
+world
+applications
+New digital audio broadcast services
+high quality audio broadcast
+measurement campaigns
+parametric stochastic modelling
+emergency message delivery services
+public safety
+Software defined radios
+development
+approaches
+delay line
+parameters
+multiple antennae
+outmost efficiency
+penetration
+buildings
+novel research
+hand
+field trials
+connected Europe
+ray tracing
+objective
+life

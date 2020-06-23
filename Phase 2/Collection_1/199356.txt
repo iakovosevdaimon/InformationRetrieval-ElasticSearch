@@ -1,0 +1,37 @@
+wind tunnel test
+wind-tunnel test campaigns
+core flow jet turbulence assessment
+model design
+hot air
+CFP01-AIR
+representative primary flow density
+conventional CROR architecture
+open rotor engine Configuration trough wind tunneL Experiments
+aerodynamic testing environment
+acoustic testing environment
+existing A170C CROR WT model
+real engine
+dummy pylon
+broadband noise
+noise characterization
+ERACLE consortium
+mixing system
+ERACLE project
+new sets of scaled blades
+contRA
+airframe
+integration
+framework
+low speed conditions
+manufacturing
+activities
+propeller
+ITD work package
+impact
+order
+nacelle
+helium injection
+invEstigation
+JTI-CS2
+technical aspects
+final step

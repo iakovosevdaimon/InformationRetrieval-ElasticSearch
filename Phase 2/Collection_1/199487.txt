@@ -1,0 +1,51 @@
+RINA development
+Large-scale RINA benchmark
+motivating RINA adoption
+relevant experimental evidence of RINA benefits
+robust RINA software suite ready
+network operators
+advanced networks
+operator’s current network designs
+current limitations
+experimental evidence of RINA’s benefits
+current EU Future Internet community
+equipment vendors
+current EC investment
+RINA’s key benefits
+application developers
+Future Internet testbeds
+ARCFIRE’s deployed software suite
+virtualised infrastructure
+Build
+goals
+future-proof fashion
+comparison of converged operator networks
+ARCFIRE’s consortium
+large-scale deployments
+communications industry
+communication industry
+Recursive InterNetwork Architecture
+long-term sustainable impact
+IRATI
+realistic business cases
+innovation life cycle
+European SME’s
+number of organisations
+integration
+specialised markets
+dedicated hardware
+needs
+end-users
+experience
+resources
+experiments
+basics
+distributed computing
+unseen opportunities
+right time
+networking
+challenges
+labs
+Networked Society
+shift
+horizon

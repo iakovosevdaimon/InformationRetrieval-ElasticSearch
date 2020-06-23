@@ -1,0 +1,45 @@
+D human tissue models
+D structures
+D diseased skin tissue models
+Cells-self Extracellular Matrices-based Bioinks
+cell cultures
+cell behaviour
+growing cells
+use of cells
+cell-based platforms
+development of cell phenotype-driven bioinks
+varied cell types
+native tissue physiology
+development of reliable
+random culture of cells
+drug development
+high speed deposition of various cells
+neoplastic skin diseases
+intrinsic relationship of ECM
+high resolution
+complex microenvironments
+major impact
+different microenvironments
+major advantage
+great potential
+native tissues
+intrinsic formulation
+particular response
+elimination of animal experimentation
+animal-free approaches
+proposed bioprinting technologies
+reduction
+gap
+structural complexity
+validation
+patients
+specific functionalities
+functionality
+microfunctionalities
+Rs policy
+accuracy
+ultimate confirmation
+requirements
+components
+way
+strategies

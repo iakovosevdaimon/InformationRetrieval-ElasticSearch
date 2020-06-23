@@ -1,0 +1,51 @@
+BLC
+wider web of data
+use of Linked Data
+Linked Open Data
+state of building devices data
+W3C Data Activity
+structured form of data storage
+Information Management
+BIM-LOD
+energy savings
+Energy Efficient Buildings Energy consumption
+project processes
+aspects of energy management
+Information Modelling
+global energy prices
+impact of project results
+meaningful analysis of energy consumption
+different stages
+Semantic Web
+Building Life Cycle
+LOD technologies EeB projects
+existing EeB projects
+systems
+processes publishable
+different computer aided tools
+future buildings
+structured format
+particular domains
+particular stage
+localised costs of materials
+greater overall impact
+weather patterns
+personnel
+relation
+design
+sensor
+sources
+commissioning
+operation
+construction
+result benefit
+key role
+refurbishment
+knowledge sharing
+profiles of occupants
+clusters
+demolition
+interoperability
+concept
+SWIMing
+complexity

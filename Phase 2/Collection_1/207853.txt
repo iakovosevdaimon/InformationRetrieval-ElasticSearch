@@ -1,0 +1,46 @@
+Control Synthesis
+LPV framework
+sub-systems
+control design
+control objectives
+Nonlinear Complex Systems Linear Parameter
+real-world industrial applications
+low-complexity LPV modeling of real-world applications
+Automated Linear Parameter-Varying Modeling
+TV system
+dynamical behaviors of complex physical systems
+chemical-process applications
+increasing operational demands of systems
+loop system synthesis approach
+underlying NL
+cyber-physical nature of applications
+linear structure
+potential
+high-impact industrial sectors
+model reduction approaches
+robust approaches
+underlying theory
+chemical reactors
+leading role of technological innovation
+serious innovation
+recent studies
+extensive empirical studies
+future technological targets
+flexible mathematical models capable
+wafer scanners
+software suite
+EU
+digital controllers
+car engines
+play fashion
+desired operation
+factors
+Time
+plug
+number
+uncertain aspects
+help of measured data
+engineering
+innovative revolution
+project
+Challenges

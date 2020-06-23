@@ -1,0 +1,67 @@
+Robotics Systems RobMoSys
+robotics expert
+robotics community
+system integration
+integration approach
+engineering robotics systems
+model-driven methods
+multi-domain European robotics software ecosystem
+system integrator
+ecosystem of methodology
+eco-system
+integration burden
+model-driven approaches
+systematic application of model
+domain expert
+target diversity
+type diversity
+community involvement
+platform diversity
+application domains
+tools
+engineering domains
+common methodology
+broad involvement
+suitable approach
+composition-oriented approach
+ecosystem of professional quality
+interaction of separated roles
+systematic way
+Open Calls
+different roles
+separated concerns
+broad sense
+based toolchains
+common robot functionalities
+component supplier
+planning
+related relevant technology
+installation
+deployment
+active support
+address complexity
+control
+sensing
+operation
+Tier
+important concretizations
+set
+interfaces
+consorted effort
+step change
+community’s best
+body of knowledge
+Composable Models
+current code-centric robotic platforms
+respect
+technologies
+beginning
+project
+management
+stakeholder groups
+overall course
+expertise
+scope
+concept
+widest inclusion
+complementary missions

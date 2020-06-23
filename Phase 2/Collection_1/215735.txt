@@ -1,0 +1,53 @@
+Combination of Hardware
+cache memory hardware
+combination of PALMERA research
+Software Approaches PALMERA
+underlying novel hardware
+software levels
+energy consumption
+fault tolerant cache memory design bottleneck
+Low Power
+reliability constraints
+research directions
+software application level
+system scenario design methodology
+worst-case design margins
+proposal
+focus
+European Research Council grant
+data intensive
+space applications
+strict requirements
+senior researcher
+Experienced Researcher excellent opportunity
+best opportunity
+resource requirements
+types of applications
+novel circuit designs
+non-critical data structures
+high quality training
+areas
+multidisciplinary holistic approach
+program phases
+medical imaging
+host institution
+embedded systems
+skills
+Available static analysis
+information
+error resilience
+secondment
+industry
+memories
+programmer
+position
+respect
+settings
+knowledge
+academia
+challenging project goals
+career potential
+voltage scaling
+step
+enabler
+previous techniques

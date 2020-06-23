@@ -1,0 +1,56 @@
+quantum computing
+quantum networks
+quantum dot qubits
+quantum state
+semiconductor quantum optics
+Semiconductor-based quantum network Quantum networking
+quantum information processing
+sharing of quantum resources
+gate-defined quantum dots
+connection of quantum processing nodes
+separate semiconductor qubits
+coupled qubits
+gated GaAs quantum dots
+scalable semiconductor spin qubits
+controlled qubits
+self-assembled quantum dots applicable
+scalable semiconductor qubit
+electron spin qubits
+semiconductor structure
+qubit gates
+photonic flying qubit
+qubit device
+local nodes
+photonic links
+photon interface
+gate electrodes
+computing power
+optical interface
+good prospects
+wide networks
+higher fidelity
+minimal network
+high fidelity
+hybrid devices
+local electric fields
+large numbers
+secure communication
+scaling
+results
+long distance
+bound exciton states
+order
+broad range of new possibilities
+addressable systems
+active subfields
+demonstrated Coulomb
+technological goal
+exchange
+fundamentals
+sides
+foundations
+protocol
+addition
+project
+capability
+photons

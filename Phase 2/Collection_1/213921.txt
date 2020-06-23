@@ -1,0 +1,53 @@
+TeraSHAPE concepts
+parallel processing
+Digital signal processing
+foundations of novel signal processing concepts
+processing of electromagnetic waveforms
+Hybrid Photonic-Electronic Circuits Generation
+high frequencies
+digital electronic circuits
+novel concepts
+hybrid photonic integration
+CMOS circuits
+T-wave frequencies
+analog bandwidth of electronic circuits
+fields of photonic integration
+analysis of broadband waveforms
+output data rates of hundreds
+effective clock rates
+scalable assembly concepts
+optical domain
+optical frequency comb generation
+applications of high relevance
+silicon-organic hybrid electro-optic modulators
+low internal clock speed
+bandwidths of hundreds
+THz waveguides
+high-field electron paramagnetic resonance
+limited switching speed of semiconductor devices
+silicon-plasmonic photodetectors
+ultra-fast devices
+high-speed wireless communications
+high-speed circuit packaging
+Terahertz Waveform Synthesis
+important tech-nical foundations of modern society
+transistors
+increased transmission line losses
+detection
+gigabit
+nanoscale
+considerable complexity
+second
+EPR
+tens of billions
+Tbit
+spectroscopy
+D printing
+device level
+cutting-edge results
+limitations
+areas of science
+engineering
+Advances
+contrast
+viability

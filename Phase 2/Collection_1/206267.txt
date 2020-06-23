@@ -1,0 +1,54 @@
+Q band
+V band power
+V band TX
+V band Ground Segment
+V band RF components
+future Q
+V band Terabit SatCom systems
+V band earth segment LInk
+V band Aldo Paraboni payload
+QV-LIFT project
+V band Smart Gateways Management System able
+Ground Segment Technology
+QV-LIFT fosters links
+future SatCom market
+High Power Amplifier
+relevant Ground Segment
+Ground Segment Infrastructures
+European RF SatCom technology
+GaN technology
+W RF power output
+W power output
+GaN power amplifier MMICs
+Future high Throughput space systems
+SatCom value chain
+software technologies
+high performance Block
+Converter
+competitive positioning of SatCom European manufacturers
+single aperture antennas
+maturity level of key satellite communication technologies
+developing core hardware
+following building blocks
+following key areas
+RX single aperture terminal suitable
+MMIC GaN integrated circuits
+Italian Space Agency
+network level needs
+stable integration of SMEs
+Low Noise Block
+urgent physical
+academia
+propagation impairments
+large companies
+airborne applications
+board of AlphaSat
+deployment
+foundation
+access
+main obstacle
+marketplace
+fixed terminals
+ambitious task
+realistic scenario
+TRL6

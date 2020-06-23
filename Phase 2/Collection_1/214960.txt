@@ -1,0 +1,50 @@
+cell elimination
+cell survival
+cell growth
+cell proliferation
+cell delamination
+cell disappearance
+cell extrusions
+cell competition scenarios
+pretumoral cell expansion
+single cell level
+contribution of mechanical competition
+neighboring cells
+surrounding cells
+compaction of WT cells
+elimination of suboptimal healthy cells
+mechanical conditions
+mammalian MDCK cells
+exact mechanical cues
+pretumoral population
+elimination of wild type
+survival properties
+WT neighbors
+apoptosis resistant clones
+local equilibrium
+local crowding
+caspase activation
+healthy function
+mechanotransductive process
+Drosophila pupal notum
+organ morphogenesis
+role
+small proliferating rate
+adult tissue size regulation
+death
+epithelia
+silico predictions
+unique model
+oncogene proteins
+remarkable plasticity
+tissues
+origin
+appearance of errors
+oncogenes
+experienced researcher
+pathways
+Study
+example
+project
+organs
+validations

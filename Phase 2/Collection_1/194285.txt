@@ -1,0 +1,52 @@
+current Internet architecture
+UMOBILE architecture
+proposed architecture
+Future Internet
+Internet connectivity
+crucial Internet services
+opportunistic access
+opportunistic communications architecture Cars
+Information Centric Networking
+universal mobile-centric
+localized access
+emerging services
+expensive connectivity services
+DTN
+ICN
+nomadic users
+new infrastructure
+diverse set of services
+content
+real world deployments
+real world trial
+resource exploitation
+exploitation activities
+network resilience
+terms of network availability
+principles of Delay Tolerant Networking
+sensors
+drastic effect
+minimal bandwidth
+device
+capacity
+remote communities
+home appliances
+assumptions
+novel caching strategies
+daily life of citizens
+affordability
+requirements
+planned dissemination
+standardization
+constituent
+need
+networks
+increased cost
+regions
+peers
+instance
+common framework
+trust circles
+benefits
+goal
+traffic demand

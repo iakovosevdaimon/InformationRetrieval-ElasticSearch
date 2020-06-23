@@ -1,0 +1,52 @@
+climate Prediction
+climate models
+weather-climate community
+climate domain benchmarks
+Exascale ESCAPE
+extreme-scale demonstrators
+European operational numerical weather
+extreme-scale computing capabilities
+algorithm resilience
+scalable spatial discretization
+energy sector
+proven large time
+solution
+Energy-efficient SCalable Algorithms
+novel algorithm development
+multi-grid tools
+productive programming models
+high-performance computing
+flexible-order spatial discretization
+multiple scales
+multiple levels
+algorithmic concepts
+key components
+basis of Earth system models
+data structures
+exascale-ready production benchmarks
+mathematical foundations
+proven methods
+algorithmic research
+cross-disciplinary uncertainty quantification tools
+data related uncertainties
+machine learning techniques
+complex sub-components
+physics
+parallel computation of dynamics
+computations
+URANIE
+forecasting
+effect of model
+capability
+iterative solvers
+ensemble
+hard failure
+accuracy
+addition
+portability
+mathematics
+EsD
+future-proofed
+project
+sum
+efforts

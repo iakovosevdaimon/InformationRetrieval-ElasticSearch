@@ -1,0 +1,40 @@
+function of enhancers
+DUAL gRNA system
+Pluripotency Enhancers
+functional assessment of ENhancers
+gene expression
+large genomic regions
+novel lentiviral dual-gRNA expression system
+functional identification
+genomic context
+collinear genomic sites
+subsequent validation of essential enhancers
+genome-wide identification of potential enhancers
+cis-regulatory genomic regions
+technology
+large scale functional enhancer screening
+cell type-specific
+cell identity
+ChIP-seq
+Cas9 genome
+specific chromatin marks
+RNA-seq technologies
+time-controlled manner
+subsequent NHEJ-mediated repair
+genetic forward enhancer screens
+transcription factor
+co-transfection
+maintenance of mouse Embryonic Stem
+high frequency
+mES
+guide RNAs
+gRNAs
+correlation
+performance of systematic
+custom libraries
+comprehensive view
+cellular behaviour
+CRISPR
+individual tests
+candidate
+strategies

@@ -1,0 +1,53 @@
+technique of guaranteed estimation
+Advantages of guaranteed estimation
+estimation of parameters
+Guaranteed Estimation of Nonlinear Dynamic Systems
+essential parts of guaranteed estimation techniques
+hybrid estimation technique
+obtained estimation results
+guaranteed estimates
+project builds
+developments of robust control
+open-source project
+novel optimal robust control techniques
+resource-efficient operation
+nonlinear dynamic models
+resource- efficient modes
+efficient working regime
+benefits of developed techniques
+technology of optimal
+real-world exploitation
+real-world environment
+industrial stakeholders
+theoretical developments
+plants' behavior
+pilot plant
+operating personnel
+industrial process managers
+prediction mathematical models
+plants' degrees of freedom
+Applications toChemical Engineering Problems
+revolutionary step
+handle
+information
+increased reliability
+sensed data
+manipulations
+collaboration
+actions
+measurement-error distribution
+New Directions
+model validation principles
+quality
+academia
+fact
+plants of chemical industry
+conventional approaches
+regimes
+sound dissemination plan
+software package
+unnecessary assumptions
+demonstration
+target audience
+equipment
+order

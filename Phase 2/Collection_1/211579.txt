@@ -1,0 +1,60 @@
+MEMS production
+MEMS Components
+micro-components
+micro-manufacturing
+production of micro components
+line production inspection equipment
+inspection data
+production industry
+effective manufacturing of MEMS
+measurement system
+CITCOM
+current inspection equipment
+industrial needs of MEMS
+process feedback
+medical devices
+latest generation of micro-fabricated devices
+Complimentary Inspection Technique
+Computer Tomography
+process development
+growing manufacturing
+record process data
+advance robotic system capable
+lack of automated processing feedback
+surface traces
+automated knowledge
+end users
+planar processing
+degree of traceability
+traceability of faults
+visible problem
+chemical composition of surface coatings
+abnormal displacements
+fracture
+higher yields
+debris
+Microsemi
+Philips
+defects
+stains
+Plenoptic Camera
+competitive advantage
+critical applications
+possibility of reliable
+X-ray techniques
+individual device level
+aerospace
+validators
+Europe
+detection
+healthcare
+technology
+action
+example
+nature
+factors
+ISO13485
+reliability
+consortium
+costs
+TRL7

@@ -1,0 +1,52 @@
+DPC imaging
+electron microscope
+electron diffraction images
+electron diffraction pattern
+atomic resolution mapping of electrostatic fields
+conventional detectors
+DPC image
+inexpensive atomic resolution mapping of electrostatic potentials
+similar atomic resolution maps
+atomic column fashion
+software tools
+Pixelated detectors
+inexpensive software routines
+use of non-flexible segmented detectors
+non-specialists
+distribution of electrostatic potential
+mapping capabilities
+Imaging configurations similar
+imaging technique
+technology
+complex non-flexible hardware
+conventional materials research lab
+understanding of future materials
+function of probe position
+different regions
+integration of regions
+Automated tools
+post-acquisition analysis routines
+local potential
+bright field disk
+new generation of ultra-fast cameras
+form
+pressing need
+microscopy techniques sensitive
+exploiting functionalities
+devices
+approach
+proposal
+differential phase contrast
+non-linear geometries
+overarching goal
+Basic mathematical operations
+scientific community
+direct way
+increasing degree of physical complexity
+key idea
+given detector geometry
+ferroelectric polarization
+straightforward manner
+time
+variation
+decade

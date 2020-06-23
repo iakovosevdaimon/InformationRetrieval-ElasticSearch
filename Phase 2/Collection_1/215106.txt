@@ -1,0 +1,48 @@
+weak lensing data
+weak lensing studies
+KiDS data
+data available
+real data
+technical aspects of KiDS weak lensing measurements
+distribution of halo masses
+Accurate halo masses
+new method
+precision cosmology era Weak gravitational lensing
+fixed stellar mass
+secondary galaxy properties
+population of galaxies
+stellar population
+galaxy evolution models
+efficient analysis methods
+use
+project
+stacking
+easy exploration of correlations
+future surveys
+powerful constraints
+powerful tool
+theoretical models
+current photometric surveys
+DES
+quality
+host dark matter halos
+Bayesian hierarchical inference formalism
+immediate return
+predictions
+HSC
+age
+terms of science
+bins
+way
+Thanks
+dimensions
+robustness
+hydrodynamical simulations
+Euclid
+intrinsic scatter
+net loss of information
+training
+corresponding improvement
+results
+signal
+alternative

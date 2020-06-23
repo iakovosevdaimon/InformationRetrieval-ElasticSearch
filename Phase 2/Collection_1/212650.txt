@@ -1,0 +1,55 @@
+local structure
+geometry of chromatic categories
+chromatic homotopy
+concept of chromatic category
+compactifications of chromatic categories
+local duality
+category of spectra
+Important examples of chromatic categories
+chromatic splitting conjecture
+local Picard groups
+global structure of fundamental categories
+global principles
+stable module category
+stable homotopy theory
+theory of ambidexterity
+unified theory
+algebraic geometry
+derived category of quasi-coherent sheaves
+topology
+modular representation theory
+new insights
+key conjectures
+key aspects
+step
+powerful new tools of computation
+project studies
+substantial progress
+outstanding conjectures
+resulting framework
+interrelated aspects
+various Balmer spectra
+applications
+axiomatizes certain properties
+subtle invariants
+profinite extension
+categorification of ultraproducts
+scheme
+lack
+blueshift
+finite group
+geometric point of view
+special cases
+Deep structural results
+mathematical logic
+stack
+redshift
+context
+Hopkins
+light
+outcome
+algebraization problem
+generalization of Tate cohomology
+Lurie
+questions
+conclusion

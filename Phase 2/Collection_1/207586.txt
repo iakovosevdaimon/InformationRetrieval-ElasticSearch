@@ -1,0 +1,53 @@
+persistent autonomy
+long-term autonomy
+forms of autonomy
+autonomous vehicles
+intelligent cognitive capabilities
+Intelligent Cognitive AUVs
+autonomous systems
+order
+intelligent layer of marine robotics
+great increase of autonomy
+autonomous robot deployments
+need of greater autonomy
+autonomous contact tasks
+marine robotics researchers
+current generations of Autonomous Underwater Vehicles
+robot localisation
+intelligent active localisation techniques
+real marine robots
+ecome key areas
+main interconnected areas
+recent years
+fielded robots
+operating environment
+Research activities
+research results
+detection of execution errors
+sensor data
+essential skills
+partial view
+different layers
+account uncertainty
+re-parametrisation
+response
+script
+intervention
+commercial reality
+months
+Deep-water oilfield inspection
+system evolution
+Ocean observatories
+specific set of actions
+mission faults
+preprogrammed events
+models
+reasoning
+Robustness
+semantic world representation
+various problems
+subsea assets
+preplanned missions
+project
+fault management
+work

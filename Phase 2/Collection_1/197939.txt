@@ -1,0 +1,54 @@
+hardware architecture
+runtime system
+scalable programming environment
+OpenCL programming environment
+future HPC applications
+runtime environment
+ECOSCALE architecture
+real-world HPC applications
+order
+proposed architecture
+scalable HPC hardware platform
+future HPC systems
+energy consumption
+novel heterogeneous energy-efficient hierarchical architecture
+HPC application development
+OpenCL-based programming model
+energy efficiency
+exascale performance current HPC servers
+high-level design environment
+Energy-efficient Heterogeneous COmputing
+hierarchical approach
+shared partitioned reconfigurable resources
+mapping applications
+larger Partitioned  Global Address Space
+virtual address space
+automated hardware synthesis
+co-design approach
+multiple autonomous Workers
+reconfigurable accelerators
+trends of current
+hybrid MPI
+PGAS partition
+MPI protocol
+power consumption limitations
+increasing utility costs
+coherent memory accesses
+middleware layer
+feasible solution
+characteristics
+simulator
+partitions
+structure
+data traffic
+challenge
+proof of concept prototype
+Simple scaling
+nodes
+IOMMU
+tree
+benchmarks
+resilience
+improvements
+implementation technology
+delays

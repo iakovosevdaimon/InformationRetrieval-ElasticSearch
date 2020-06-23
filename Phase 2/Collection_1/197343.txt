@@ -1,0 +1,52 @@
+network edge
+NFV management
+Edge Cloud Computing
+access network infrastructure
+Small Cell concept
+Network Functions Virtualisation
+edge computing capabilities
+optimal management
+virtualisation of management views
+new multi-operator
+Virtual Network Functions
+Edge services SESAME targets innovations
+powerful self-x management
+radio access management techniques
+high manageable clustered edge computing infrastructure
+new orchestration
+new stakeholders
+CESC deployment
+G scenarios
+placement of network intelligence
+Small cEllS coordinAtion
+consolidation of multi-tenancy
+access capacity
+new sharing models
+key challenge of SESAME
+Light DC
+G-PPP components
+involved CESC modules
+self-x features
+high traffic areas
+novel applications
+service providers
+hardware accelerators
+tenant
+low-power processors
+substantial evolution
+time critical operations
+densification of multiple networks
+central elements
+NVFs
+communications infrastructures
+host-neutral
+virtualised execution platform
+operators
+value chain
+corresponding projects
+relevant use cases
+functionalities
+potential
+architecture
+prototype
+approach

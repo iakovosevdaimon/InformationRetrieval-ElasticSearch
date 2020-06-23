@@ -1,0 +1,59 @@
+sensory-motor tasks
+sensory modalities
+sensory input
+Reverse engineering sensory perception
+sensory cortex layer
+motor information
+decision making
+whisker contact
+gap cross
+motor-related local
+network simulations of active whisker touch
+L5tt neurons
+perceptual decision
+internal motor signal
+single facial whisker
+output triggers decisions
+behavior
+measure whisker-evoked responses
+reverse engineering strategy
+various cortical areas
+custom imaging
+long-range inputs
+coherent model
+network mechanisms
+key hypothesis
+Monte Carlo simulations
+neural substrates of sensation
+burst spiking output
+task-related circuits
+underlying neural networks
+reconstruction tools
+unmatched mechanistic insight
+specific pathways
+electrophysiology
+virus injections
+action
+outputs
+interplay
+brain
+anatomy
+crucial questions
+apical tuft dendrites
+populations
+data
+result
+species
+major challenges of systems neuroscience
+tactile-mediated percept
+rodent vibrissal system
+proposal
+individual functional measurements
+context
+correlates
+platform
+case
+multidisciplinary approach
+computations
+goal
+rodents

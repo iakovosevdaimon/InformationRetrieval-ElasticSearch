@@ -1,0 +1,64 @@
+field of power electronics
+growth of Power Electronics
+cost of power electronics
+POCOL project
+Power Conversion Units
+required power converter
+associated power conversion techniques
+B1 models
+TFE
+UNOTT
+consumer electronics
+B1 demonstrators
+development of high specification power converters
+operational performance
+range of applications
+updated B2 models
+B2 demonstrators
+design criteria
+test
+diverse range of application sectors
+range of essential technologies
+Manufacture B1 prototypes
+LifeRCraft demonstrator
+reliability requirements
+operational conditions
+lifeRcraft helicopter
+relevant documentation
+required certification
+University of Nottingham
+leading institutions
+work packages
+modern aircraft application
+Techniques et Fabrications Electroniques
+transmission
+transport electrification
+energy generation
+lighting
+distribution
+increasing demands
+inverter
+industrial motor drives
+dynamic improvement
+manufacturer
+step change
+aeronautic area
+electrical solutions
+strong research activity
+leader
+bases
+beginning
+product
+order
+knowledge
+forces
+equipment designer
+industrialization
+context
+CfP
+TRL5
+rest
+best
+specificity
+TRL6
+partners

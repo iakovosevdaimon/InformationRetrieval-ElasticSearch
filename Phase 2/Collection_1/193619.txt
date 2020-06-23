@@ -1,0 +1,53 @@
+graph minor theory
+use of graph
+large parts of graph theory
+Random Graph Geometry
+concrete graph theoretic approaches
+sophisticated theory
+combinatorial group theory
+group theoretic
+theoretic machinery
+geometric random graphs
+fields
+understanding of cover time of graphs
+Schramm convergence
+study of Cayley graphs
+pure mathematics
+analytic machinery
+research Themes
+branches of mathematics
+proposed research
+rest of mathematics
+recent notion of Benjamini
+intradisciplinary research programme
+concrete novel approaches
+Kesten’s random walks
+recent years
+instances of approximating continuous spaces
+worlds of Benjamini
+analytic combinatorics
+RGGC project
+applied considerations
+concept of cover cost
+tech- niques
+new perspective
+various contexts
+important challenges
+challenging questions
+typical behaviour
+epicenter
+PI’s past work
+advances
+rich connections
+bridges
+thease areas
+tools
+wide mathematical scenery
+Vella
+sense of Thomassen
+groups
+examples
+bonds
+diffusions
+knowledge
+initial success

@@ -1,0 +1,43 @@
+theory of expanders
+theory of expander graphs
+Ramanujan Complexes
+high dimensional theory
+theory of error correcting codes
+High Dimensional Expanders
+topological expanders
+Ramanujan graphs
+role of expander graphs
+testable codes
+high-dimensional
+directions of HD expanders
+extremal hypergraph theory
+theoretical computer science
+bounded degree simplicial complexes
+areas of computer science
+new quantum error correcting codes
+important subject
+important question of theoretical
+HD versions
+additional unexpected applications
+pure mathematics
+topological overlapping property
+property testing
+fundamental role
+dimension d
+current research
+practical importance
+QECC
+impact
+low density parity check
+Gromov's problem
+LDPC
+study
+hypergraphs
+construction
+huge success
+example
+problems
+tool
+main goals
+years
+motivations

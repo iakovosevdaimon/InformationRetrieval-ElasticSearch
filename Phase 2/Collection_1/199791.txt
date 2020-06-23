@@ -1,0 +1,20 @@
+Memory Computing
+slow overhead of data memory accesses
+advanced memory hierarchy
+non-volatile memory components
+slow communication
+slow interconnects
+big data processing
+big data memories
+future computation
+Neumann architectures
+automated design of reconfigurable accelerators
+different architectures
+corresponding compiler
+Major bottlenecks
+algorithmic optimization
+mapping techniques
+project
+problem
+NeMeCo EID network
+Research topics

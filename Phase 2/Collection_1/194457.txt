@@ -1,0 +1,63 @@
+flexible smart metering architecture
+gas metering
+multiple energy vectors
+energy consumption
+multi-service metering architecture
+smart meters
+Distribution system operators
+new metering systems
+electricity market
+central cloud system
+non-programmable energy sources
+active prosumers
+retail market
+volunteer prosumers
+proposed architecture
+FLEXMETER project
+users
+real systems
+demonstrators
+market efficiency improvement
+LV substation meters
+Simple off-the-shelf meters
+multi-utility
+storage integration
+different countries
+Data collection
+local DSOs
+building concentrators
+real scale
+end-user affordability of electricity
+widespread diffusion of distributed generation
+CO2 emissions
+fault detection
+installation
+introduction
+pilot applications
+network balancing
+Italy
+MV
+involvement
+Sweden
+development
+need
+problems
+pollutants reduction
+various objectives
+innovative services
+advantages
+mining algorithms
+analysis
+Transmission
+smartness
+cities
+order
+direction
+contribution
+size
+step
+activity
+billing improvements
+management devices
+grid
+results

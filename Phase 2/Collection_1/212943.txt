@@ -1,0 +1,52 @@
+complexity of scientific data
+big-data technologies
+produced data
+data-lineage solutions
+research e-infrastructures
+European e-Infrastructures DARE
+Agile Research Excellence
+efficient research solutions
+huge data-driven experiments
+diverse exascale data resources
+requirements of European RIs
+existing infrastructures
+scientific domains
+scientific communities
+rapid prototyping of reproducible
+requirements of innovating teams of research developers
+size
+formulating domain-specific solutions
+domain applications
+teams of innovators
+increased productivity
+developer-friendly bridges
+unifying hyper-platform
+tools
+unsustainable end-user products
+provenance
+development context
+meaningful abstractions
+programmatic dataflow specification APIs
+scientists
+need
+difficulty
+semantification
+long release cycles
+reusable ways
+intersection of software engineering
+transition
+throw
+services
+EPOS
+diversity of input
+handling of metadata
+extensive experience
+controlled disruption
+ENES2
+Earth science
+commercial settings
+technological pivot
+computing extremes
+analytics
+climate
+advantage

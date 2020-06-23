@@ -1,0 +1,57 @@
+distributed processing
+large-scale processing
+large-scale data
+approximate processing
+centralized processing
+query processing
+factorized data representation
+performance of relational processing
+Foundations of Factorized Data Management Systems
+better data compression
+large-scale distributed systems
+scalable factorized data management system
+tabular data representation
+new wave of smart relational data management systems
+traditional systems
+descriptive analytics
+Factorized representations
+analytics software packages
+research
+Factorizing relations
+Large relations
+fundamental theoretical contributions
+complexity results
+intermediate results
+algebraic properties of relational algebra
+structure of queries
+novel algorithms
+tractable algorithms
+fundamental shift
+theoretical insights
+scalability questions
+industrial users
+industrial partners
+generic compression schemes
+mixed loads of queries
+realistic workloads
+infrastructure
+approximation
+factorization
+redundant computation
+project
+objective
+assist
+datasets
+distribution
+products
+time
+support
+servers
+upper bounds
+supersets
+latency
+key deliverables
+subsets
+compressed domain
+server setting
+communication cost

@@ -1,0 +1,48 @@
+new methods
+orbital-based approaches
+traditional orbital-based methods
+Single Slater Determinant
+chemical reactivity of molecules
+accurate multireference methods
+quantum chemistry methods
+Conceptual Density Functional Theory
+New Frontiers
+reactivity of new classes of molecules
+linear response function
+new research niche
+accurate multireference wavefunction methods
+single-reference
+chemical insights
+chemical phenomena
+intrinsic limitation of CDFT
+chiefly Kohn-Sham density functional theory
+previous computational approaches
+computing CDFT’s response functions
+reactivity descriptors
+density matrix renormalization group
+emerging areas of chemical application
+Fukui function
+interpretive tools
+specified properties
+research proposal
+modern interpretative tools
+traditional complete active space self-consistent field
+DMRG
+CASSCF
+molecular decomposition
+latest developments
+alchemical changes
+inverse design problem
+nexus
+lanthanide
+recent progress
+actinide-complexes
+radicals
+transition metal
+fields
+geminal-product wavefunctions
+contrast
+systems
+materials
+important tool
+addition

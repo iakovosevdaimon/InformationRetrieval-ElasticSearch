@@ -1,0 +1,47 @@
+federated observation system concepts
+federated concepts
+light of observation
+federated satellite system concepts
+established concepts
+Operational Network of Individual Observation Nodes
+missing observation bands
+different Earth Observation domains
+mission lifetimes
+mission designers
+ONION objectives
+possibilities of new mission
+current mission profiles
+multiple cooperating nodes
+commercial applications
+trends
+space systems
+identified needs
+Horizon
+future EO Missions
+multiple spacecraft platforms
+key required technology challenges
+competitive advantage
+competitive imaging
+proposed concept
+small satellites
+distribution of spacecraft functionalities
+development of key modularisation
+distributed networks of satellites
+supplementation
+miniaturisation technologies
+deployment of constellations
+purpose
+science
+technical guidelines
+augmentation
+terms of scientific
+capabilities
+implementers
+respective user communities
+overall strategy
+Europe
+use-cases
+feasibility
+primordial importance
+potential benefits
+baseline

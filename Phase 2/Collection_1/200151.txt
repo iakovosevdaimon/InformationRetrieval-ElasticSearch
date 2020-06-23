@@ -1,0 +1,48 @@
+non-imaging patient-specific data
+heterogeneous data
+heterogeneous patient-specific non-imaging data
+patient-specific CAD diagnosis
+non-obstructive CAD
+Patient specific CAD stratification - existing models
+non-imaging health data
+patient genotyping
+heterogeneous health data
+CCTA imaging
+biohumoral data
+artery models
+SMARTool models
+models of coronary plaque progression
+SMARTool cloud-based platform
+multilevel ARTreat tools of CAD progression prediction
+site specific plaque progression prediction - existing multiscale
+Simulation Modeling of coronary ARTery disease
+microfluidic device
+FP7
+non-invasive coronary CT angiography
+clinical decision support SMARTool
+management of patients
+cloud technology
+phenotyping parameters
+virtual angioplasty tool
+molecular markers derivable
+clinical risk factors
+point of care testing of inflammatory markers
+treatment - life style changes
+high intensity medical therapy
+Human Computer Interaction techniques
+D visual representation
+history
+lifestyle
+fractional flow reserve computation
+exposome
+EVINCI project
+optimal stent type
+input
+standardized format
+chip blood analysis
+CDSS
+appropriate deployment
+baseline
+key
+population
+technologies

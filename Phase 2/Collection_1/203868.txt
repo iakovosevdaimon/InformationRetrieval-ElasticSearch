@@ -1,0 +1,51 @@
+intersection of normative systems design
+implementation of systems
+EGT techniques
+multi agent systems
+EGT studies
+MAS
+project
+evolutionary game theory
+field of multi-agent systems
+evolutionary approach
+evolutionary forces
+evolutionary process
+classical game theory
+behaviour of agents
+unsuccessful norms
+interactions
+key approach
+coordination
+understanding
+automated norm synthesis
+useful mathematical framework
+game theoretic solutions
+potential negative aspects
+potential positive aspects
+powerful framework
+distributions of populations
+semi-autonomous software agents
+research group
+research programme
+application domains
+key issue
+collaboration
+model
+example
+fellow's career plan
+development
+supervision of Prof Michael Wooldridge
+species
+environment
+constraints
+frameworks
+independent researcher
+solution concepts
+Oxford
+habitats
+context
+conflicting goals
+stable strategy
+science
+tools
+hypotheses

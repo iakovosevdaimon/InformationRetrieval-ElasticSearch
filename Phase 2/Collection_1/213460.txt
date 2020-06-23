@@ -1,0 +1,61 @@
+motion of spins Spins
+coupling spins
+donor spins
+coherent spins
+static spins
+mobile spins
+addressable defect spins
+spins of atomic defects
+engineering spin-spin couplings
+electron spin
+nuclear spin
+cryogenic scanning of probe spins
+spin-based magnetometry
+single spin level
+versatile single- donor spin measurement
+Local quantum operations
+LOQO-MOTIONS
+coherent quantum phenomena
+measurement-based entanglement
+quantum information processors
+single shot
+versatile tools
+long coherence lifetimes
+new approach
+long coherence times
+aim of LOQO
+approaches
+nano-scale quantum sensing applications
+physical motion
+strong synergies
+new platform
+range of materials
+dipolar interactions
+strong motivation
+exchange interactions
+scalable technology
+scalable manner
+open challenge
+comprehensive set of tools
+silicon
+seconds
+microwave photons
+development of technologies
+implementation
+donors
+limited positional accuracy of ion implantation
+fault-tolerant operation
+realisable route
+hours
+surface code
+formidable challenges
+powerful components
+recent blueprint
+high fidelity
+sensors
+years
+Results
+achievements
+addition
+groups
+goal

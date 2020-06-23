@@ -1,0 +1,28 @@
+Linearization of Dynamical Systems
+study
+problem of linearization
+nonlinear dynamical  systems
+smooth linearization
+autonomous systems
+higher dimensional systems
+linearization of integral manifold
+global topological linearization
+theory of  integrability
+varieties of integrability
+perturbations of   higher dimensional integrable systems of  differential equation
+methods
+critical periods
+nonlinear term
+critical state
+problem of isochronicity
+proposed research
+linear system
+tools of algebraic geometry
+exponential dichotomy
+computational  algebra
+emphasis
+bifurcations of limit cycles
+symbolic computations
+main directions
+approaches
+results

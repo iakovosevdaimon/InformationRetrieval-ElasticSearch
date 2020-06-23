@@ -1,0 +1,50 @@
+performance guarantees
+performance observability
+SuPerCom performance predictability
+strong guarantees of sustainable performance
+critical software’s performance needs
+high-performance hardware
+time performance analysis
+average unreliable performance
+hardware design
+big amounts of performance data
+hardware sensors
+critical aspects
+use of high-performance parallel hardware
+High-Performance Embedded Computing Systems Computers
+future embedded computers
+SuPerCom breakthrough
+critical-function digitization
+first-class citizen hardware requirements
+machine learning techniques
+machine-learning techniques
+pillars
+advanced driver assistance systems
+human life
+advanced medical devices
+cars
+huge benefits
+society
+unacceptable risks
+deal
+challenge
+societal impact
+rests
+threats
+services
+unprecedented complexity levels
+major scalability limitations
+viable option
+health
+sound
+humans
+holistic multidisciplinary approach
+functionalities
+current solutions
+wide-variety
+on-line optimizations
+safety
+security
+trend
+loop
+turn

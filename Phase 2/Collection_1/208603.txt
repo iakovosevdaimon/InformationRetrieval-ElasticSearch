@@ -1,0 +1,47 @@
+RNA structure
+RNA level
+RNA chaperone activity
+presence of RNA chaperones
+model RNA chaperone
+RNA structural modelling
+understanding of RNA robustness
+mutation-buffering capacity of RNA
+misfolded RNA intermediates
+better RNA-based tools
+DEAD-box RNA helicase CYT
+dependent mutations
+mutation buffering
+effects of mutation
+structural impact of chaperone
+fitness effects of deleterious mutations
+differential splicing activity
+self-splicing activity
+protein chaperone counterparts
+mutated intron structures
+mutational robustness
+quantitative assessment of mutational effects
+generated intron variants
+absence of CYT
+stable secondary structures
+results
+Escherichia coli
+predictions
+Tetrahymena group
+combination of experimental
+Rudan
+insights
+trans
+random mutagenesis
+substrate RNAs
+eLife
+host
+goal
+cell SHAPE-Seq
+systematic site
+computational approaches
+project
+rules
+expected outcome
+Warnecke lab
+e04745
+knowledge

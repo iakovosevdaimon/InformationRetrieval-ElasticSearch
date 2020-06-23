@@ -1,0 +1,52 @@
+terrestrial wireless network capable
+terrestrial segments
+Shared Access Terrestrial-Satellite
+terrestrial transceivers
+terrestrial operators
+terrestrial nodes
+spectrum efficient self-reconfigurable hybrid terrestrial-satellite
+hybrid network manager capable
+satellite segment
+shared spectrum
+network topology reconfiguration
+mobile users
+global mobile traffic increase
+novel smart antennas
+performance of mobile wireless
+efficient management
+traffic demands
+low-cost smart antennas
+bottle neck of future mobile networks
+resilience
+terms of capacity
+aim of SANSA project
+shared access techniques
+efficient use
+flexible solution capable
+novel solutions
+routing solutions
+win
+key principles
+dynamic radio resource management
+key components proof of concepts
+congestion
+data
+interference mitigation
+null-steering capabilities
+easy deployment
+link failures
+related industries
+beam
+energy efficiency
+collaboration
+resources
+European sectors
+rural areas
+demonstration
+path
+seamless integration
+equipment manufacturers
+implementation
+fold
+combination
+studies

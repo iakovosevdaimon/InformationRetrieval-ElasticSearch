@@ -1,0 +1,51 @@
+decentralized control
+fields of control
+need
+distributed hybrid control
+groundbreaking  approach
+centralized approach
+consideration of coupled constraints
+multi-robot multi-human coordination Current control applications
+state information
+planning synthesis
+continuous state
+continuous level
+limited communication exchange
+discrete tasks
+order
+multiple robots
+challenging layer
+decentralized system
+agents
+unification
+multiple interconnected components
+abstraction information
+task level
+discrete plan
+complementary approaches
+treatment of systems
+combination
+design of appropriate feedback controllers
+corresponding plans
+methods
+conflicting specifications
+proposal
+SoA
+users
+coordinating
+traditional single component paradigm
+coordinated  fashion
+real-time manner
+form of automata
+analysis
+computer science
+scenario
+relations
+new ways
+individual subsystems
+end
+layers of interaction
+Existing solutions
+problem
+results
+states

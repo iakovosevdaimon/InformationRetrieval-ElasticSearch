@@ -1,0 +1,37 @@
+Acoustic wavefronts
+incident acoustic field
+acoustic metamaterials technology
+adjustable acoustic metamaterial bricks
+input acoustic wave
+new acoustic meta-materials
+spatial distribution of metamaterial unit cells
+small set of reconfigurable metamaterial unit-cells
+interactive systems
+field reconstruction errors
+complex output field
+Design SSMs
+context specific design constraints
+novel user interfaces
+novel interaction experiences
+Spatial Sound Modulator
+time-variable
+transmissive modes of operation
+multiple application-specific prototypes
+SUM
+surfaces
+air
+digital control mechanisms
+concepts
+project
+low ultrasonic frequencies
+discretization strategies
+software controlled device
+trade-offs
+developments
+phase
+narrow-band devices
+kHz
+fidelity
+ease
+light
+objectives

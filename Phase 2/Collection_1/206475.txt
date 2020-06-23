@@ -1,0 +1,42 @@
+Einstein equations
+Einstein-Vlasov equations
+relativistic kinetic equations
+case of kinetic transport equations
+analysis of geometric non-linear wave equations
+study of quasilinear wave equations
+Non-linear systems of wave
+fundamental systems of kinetic theory
+coupled systems of wave
+Vlasov-Maxwell systems
+compact manifold
+fundamental tool
+initial data
+fundamental open problem of mathematical physics
+simple manifold
+known stable asymptotic regime
+intense research activity
+new directions of research
+main lines of research
+general analysis of null forms
+simplest solutions
+long time dynamics of solutions
+theoretical physics community
+major open problems
+so-called vector field method of Klainerman
+Anti-de-Sitter space
+applications
+various boundary conditions
+present proposal
+neighbourhood
+complete analogue
+fact
+heart
+instability properties
+potential links
+question
+way
+existence
+areas of PDEs
+objectives
+torus
+different methods

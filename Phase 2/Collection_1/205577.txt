@@ -1,0 +1,60 @@
+Factory Automation Edge Computing
+industrial automation
+automation architectures
+EDGE results
+edge computing architectures
+FI factory automation solutions
+FI technologies
+novel factory automation platform
+CPS technologies
+wider adoption of virtualized factory automation solutions
+reference implementation of emerging standards-based solutions
+FI communities
+standards-based reference implementations
+Industrial Internet Consortium reference architecture
+reliability
+cloud computing
+legacy centralized architectures
+smooth migration path
+driven scenarios
+manufacturers
+CPS manufacturing testbed
+Industrie
+wide range of migration scenarios
+reshoring
+study of migration options
+production scheduling scenarios
+Future Internet
+adaptation effort
+scope of user
+legacy systems
+means of facilitating mass-customization
+joint effort of leading experts
+RAMI
+reduction
+quality cost
+productivity increase
+limited deployments
+technology issues
+poor situation awareness
+lack
+unique ecosystem
+various reasons
+tangible improvements
+proclaimed benefits
+WHIRLPOOL
+business-cases
+cost-effectiveness
+simulation services
+ARTEMIS JU
+AIOTI
+VOLVO
+scalability
+sustainability
+real-life plants
+EFFRA
+costs
+barriers
+FoF
+Emphasis
+ones

@@ -1,0 +1,57 @@
+cloud IoT platforms
+existing IoT platforms
+Smart End-to-end Massive IoT Interoperability
+Security SEMIoTICS
+value chain of IoT
+human-centric IoT
+smart sensing
+SEMIoTICS framework
+SEMIoTICS consortium
+heterogeneous smart objects
+smart programmable networking
+properties of individual smart objects
+EU’s technological capability of innovative IoT landscape
+programmable connectivity
+associated security
+privacy
+IIoT applications
+semi-autonomic behaviour
+semantic interoperability mechanisms
+effective adaptation
+innovative SMEs
+intelligent analysis
+cross-layer intelligent dynamic adaptation
+strong European industry
+corresponding properties of orchestrations
+pattern-driven framework
+Engineering
+clouds
+SPDI
+local embedded analytics
+Iquadrat
+STMicroelectronics
+field
+networks
+dependability
+dependable actuation
+areas of renewable energy
+academic partners
+BlueSoft
+layers
+backend
+Sphynx
+common vision
+Siemens
+edge
+proven dependencies
+diverse usage scenarios
+scalability
+Uni Passau
+CTTC
+infrastructure
+healthcare
+vertical domains
+international level
+learning
+Patterns
+approach

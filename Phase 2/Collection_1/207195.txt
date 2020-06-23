@@ -1,0 +1,56 @@
+Security certification of complex systems
+CPS complexity
+complex CPS
+security certification of composable systems
+certification complexity
+CPS results
+compositional security certification methodology
+certification labs
+certification processes
+complexity of modern CPS
+legitimate fear of security
+composable industrial CPS pilots
+composable safety-critical systems
+Multiple Independent Levels of Security
+security of critical re-useable components
+European competitiveness of CPS development
+certMILS core results
+Cyber-physical systems
+safety-critical nature
+emerging threats certMILS
+effectiveness of safety
+complex failures
+high-assurance COTS-based systems
+medium-high assurance levels
+functional safety vulnerabilities
+software applications
+IEC
+high degree of dynamism
+certified separation of applications
+hostile environments
+irreparable physical damage
+openness
+smart grid
+avionics industry
+large attack surface
+arduous testing
+resource usage
+railway
+controlled information flow
+EU countries
+life-cycle
+economic efficiency
+connectivity
+secure updates
+subway
+protection profile
+involvement
+design concept
+common downside
+authorities
+open technology
+motto
+ISO
+existing monolithic approaches
+running system
+project

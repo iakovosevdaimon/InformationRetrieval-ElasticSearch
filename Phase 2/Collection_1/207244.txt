@@ -1,0 +1,51 @@
+metasurface structure
+metasurface functionalities
+Functional Metasurfaces Metasurfaces
+HyperSurface potential
+reconfigurable metasurface
+VisorSurf
+existing metasurfaces
+control medium
+HyperSurface concept
+finer control
+software interface
+reusable software modules
+EM behavior of materials
+smart control loops
+Hardware Platform
+steering light
+engineered functionalities
+multiple functionalities
+total EM radiation absorption
+static functionality
+exquisite properties
+use of Information Technology
+realization of novel electromagnetic
+required end-functionality
+network of miniaturized controllers
+switch-based fabric array
+filtering
+unexplored theoretical capabilities
+film planar
+optical components
+simple alterations
+accessibility
+depth
+applicability
+nanonetworks
+programming concepts
+sensors
+nano-antennas
+artificial structures
+programmatic directives
+specialized researchers
+algorithms
+implantable devices
+broad engineering field
+sound
+real pilot-application
+fixed direction
+task
+Graphene
+environment
+experimental prototypes

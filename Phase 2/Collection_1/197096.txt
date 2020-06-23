@@ -1,0 +1,34 @@
+theoretical models of OLED stability
+theoretical groups
+diodes
+efficiency of organic light
+experimental measurements
+Modelling stability of organic phosphorescent light
+project
+field of organic semiconductors
+stability issues of OLEDs
+various levels of theoretical materials characterization
+materials engineers
+industrial R
+industrial expertise
+failure channels
+multiple degradation
+single software package
+critical factors
+different length
+calculations
+lifetime
+reliability
+research workflows
+number of novel devices
+D compound design
+notorious complexity
+large extent
+meso-scales
+order
+timescales
+integration
+information
+market
+idea
+goal

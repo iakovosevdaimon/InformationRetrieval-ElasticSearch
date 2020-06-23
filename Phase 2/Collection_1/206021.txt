@@ -1,0 +1,57 @@
+SESAR Solutions
+SE data
+SESAR Community
+PJ22
+validation platforms
+Demonstration Engineering
+validation process
+data-centric
+Programme level
+SESAR Solution Maturity Lifecycle
+System Engineering Data Management Framework
+Requirements Management
+Demonstration Platforms
+engineering methodology
+SE-DMF
+different level of information available
+set of strategic validation tools
+high level of ROI
+homogeneous level of details
+technical requirements
+delivery of information
+traceability of operational requirements
+document-based paradigm
+interoperability solutions
+understanding of coverage
+development methodologies
+development of verification
+VLSD projects
+necessary consistency
+primary projects
+cost reduction
+associated documentation
+coherence
+current capabilities
+secured IaaS infrastructure
+usability
+structured way
+web
+ease of use
+Word templates
+planned evolution
+significant effort
+significance
+catalogue
+Gates
+efficient approach
+aim of SESAR2020
+Transversal Activities
+scalability
+scope
+quality
+SJU
+situation
+application
+service
+demand
+challenge

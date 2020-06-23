@@ -1,0 +1,54 @@
+robust execution of mobile manipulation tasks
+intrinsic complexity of mobile manipulation tasks
+presence of robots
+massive diffusion of advanced mobile manipulation systems
+real world scenario manipulation skills
+programming mobile manipulators
+presence of humans
+unstructured environments
+workspace
+LEACON project
+external environment
+proposed framework
+perception-based control
+novel approach
+multidisciplinary approach
+machine learning
+LEArning-CONtrol tight interaction
+developed architecture
+classical methods
+developed software
+safety issues
+multimodal perception
+planning levels
+robot motion
+main use cases
+main challenges of roboticists
+classical industrial applications
+hospitals
+proximity
+human demonstration
+small manufacturers
+robustness
+houses
+operations
+unforeseen events
+high degree of uncertainty
+force sensors
+assigned task
+dangerous area
+fields
+important obstacles
+low-level cognitive system
+open source code
+limitations
+features
+picking
+step
+failure
+effectiveness
+objectives
+core
+factories
+end
+order

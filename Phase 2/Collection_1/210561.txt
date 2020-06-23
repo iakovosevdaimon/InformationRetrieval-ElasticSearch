@@ -1,0 +1,26 @@
+conjecture
+classical local Langlands correspondence
+discrete local Langlands parameter
+local field of equal
+geometric Langlands program
+non-archimedean local field
+stack of G
+bundles
+geometric objects
+perfectoid stacks
+framework of Scholze theory of perfectoid spaces
+study particular cases
+mixes p-adic Hodge theory
+reductive group
+details
+unequal characteristic
+perverse Hecke eigensheaf
+basic properties
+proof
+consequences
+Fontaine
+joint work
+curve
+steps
+GeoLocLang
+time

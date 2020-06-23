@@ -1,0 +1,52 @@
+coronal heating models
+Multi-Scale Coronal Heating
+coronal seismology
+D computational models
+high resolution observations
+Alfvén wave heating
+promising heating processes
+physical heating mechanisms
+D numerical simulations of in-depth models
+simple models
+large scale computational experiments
+D numerical studies
+high temperatures
+observational diagnostics
+solar atmosphere
+D volume
+vs high-frequency
+large-scale numerical simulations
+New Approach
+progressive approach
+instrument resolution
+observational data
+synthetic observations
+CORONALDOLLS
+long-standing question
+Old Question
+fundamental question
+Sun’s outer atmosphere
+multi wavelength observations
+series of in-depth
+low-frequency
+Taylor relaxation
+forward modelling
+relative contributions
+innovative synergy
+oscillations
+bursty
+russian dolls’
+interpretation of observed waves
+sight integration
+line
+link
+proof of concept
+robustness
+temporal scales
+comprehensive study
+turn
+input
+range of parameters
+threshold temperature
+information
+cadence

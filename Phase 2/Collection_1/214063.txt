@@ -1,0 +1,68 @@
+project
+biomass liquefaction
+technology users
+middle distillates users
+catalytic hydro-deoxygenation
+transport industry
+Molten Salts ABC-SALT
+subsequent catalytic hydro-pyrolysis
+subsequent hydro-deoxygenation
+molten salt environment
+biomass dry input
+lab-scale validation
+Advanced Biomass Catalytic Conversion
+new technology
+value chain
+integrated lab scale reactor
+supply chain
+future end-users
+knowledge users
+middle distillate range
+DLR
+perception of transport
+MD biofuel
+technical aspects
+process
+industry-oriented research
+substrate availability
+substrate flexibility
+suitable catalysts
+economic sustainability
+future deployment
+sustainable fuels
+SSH aspects
+carbon yield
+valuable input
+hydrocarbon product suitable
+sustainable liquid biofuels
+following technical challenges
+techno-economic viability study
+RUG
+NMBU
+feedstock supplier
+hours
+Innventia
+various lignocellulosic waste streams
+vapour phase
+social related issues
+acceptance
+AU
+novel route
+BTG
+air
+socio
+biodiesel
+modification
+communication
+wt
+roads
+stakeholders
+integration
+jet fuel
+entity
+CIRPA
+course
+holistic approach
+TRL
+impact
+objectives

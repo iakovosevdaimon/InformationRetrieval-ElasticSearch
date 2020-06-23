@@ -1,0 +1,60 @@
+module reliability
+PV module energy yield
+chemical PV reliability models
+site-specific PV design
+selected PV failure
+PV field diagnostics
+selected PV installations
+limited understanding of PV reliability issues
+site-specific optimization of PV module concepts
+PV module technology innovation
+fabrication of PV samples
+novel reliability tests
+advanced simulations of PV lifecycle degradation
+integrated reliability model
+predictive reliability tool
+reduced PV cost of electricity
+energy yield predictability
+advanced energy yield modelling
+Project
+state-of-the-art energy yield models
+module designs
+novel design
+site-specific stress factors
+field stress factors
+site-specific design optimization Photovoltaic
+degradation modes
+degradation rates
+planned research
+real-field conditions
+advanced simulation of real
+failure occurrences
+industrial research environment
+failure propagation
+analysis of field diagnostic
+independent research center
+novel physics
+WP1
+long-term performance
+critical factor
+characterization
+applicant’s experience
+protocol
+meteorological data
+climatic zones
+Host
+DfR
+qualification guidelines
+development
+insights
+specific sites
+multidisciplinary training
+loop learning
+approach
+Ultimate objective
+know-how
+workpackages
+Final results
+Broader vision
+WP2
+WP3

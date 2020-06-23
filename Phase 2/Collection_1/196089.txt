@@ -1,0 +1,53 @@
+automatic analysis of privacy
+privacy-sensitive applications
+LV-Pri20 project
+different privacy properties
+Logic-based Verification of Privacy
+initial privacy scrutiny
+human right of privacy
+main focus of LV
+communication protocols
+IoT applications
+RF-identification protocols
+Preservation
+multi-session executions
+machine communication
+automatic verification software
+today’s ICT
+data non-leakage
+ICT-driven lives
+distinct classes of applications
+different non-classical logic languages
+Digital Agenda
+upcoming EU Cybersecurity Strategy
+session security
+digital society
+concurrent executions
+strategy logics
+new model
+data-user unlinkability
+Open Smart Grid Protocol
+Electronic Product Codes
+goal
+inherent semantics
+remote car-unlocking
+line
+collaborative nature
+Flagship Initiative
+patched RFID
+wearables
+Internet of Things
+expression
+Europe's
+academic core
+analysing
+distributed systems
+involved setting of multiple
+prevalent wireless media
+common cloud-connection
+wired environments
+ubiquitous computing
+mathematical proofs
+standalone execution
+well-defined techniques
+algorithms

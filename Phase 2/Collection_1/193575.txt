@@ -1,0 +1,52 @@
+real-time control of flexible needles
+Targeted Delivery of Magnetic Agents Diagnostic agents
+US images
+Flexible Needle Steering
+precise delivery of agents
+Intra-operative control of flexible needles
+US-guided tracking of magnetic agents
+needle paths
+range of flexible instruments
+Ultrafast US tracking methods
+evolving needle shape
+D models
+targeted drug delivery
+Inaccurate needle placement
+tissue deformation
+tissue properties
+invasiveness of MIS
+challenges
+manual percutaneous insertion of rigid needles
+pre-operative plans
+patient-specific biomechanical models
+intended paths
+D ultrasound
+patient trauma
+assortment of personalized treatment scenarios
+physiological processes
+robotic system
+electromagnetic system
+ineffective treatment
+designated target
+myriad of novel diagnostic
+realistic physiological functionalities
+non-real-time imaging modalities
+therapeutic options
+on-site pathology
+clusters of nanoparticles
+misdiagnosis
+data
+actuated tips
+microrobots
+uncontrolled way
+optical sensors
+existing need
+clinical outcomes
+invasive surgery
+body
+advance
+research
+goal of ROBOTAR
+prototype
+knowledge
+organ

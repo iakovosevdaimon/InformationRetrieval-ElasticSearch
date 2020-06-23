@@ -1,0 +1,47 @@
+new computational problems
+NP-hard problems
+geometric problems
+difficulty of problems
+SUM-hard problems
+perspective of computational geometry
+Computational Geometry Perspective Traditional complexity theory
+new perspective
+complexity classes
+long-standing complexity
+large class of well-studied problems
+new conditional lower bounds
+complexity of search problems derived fromexistence theorems
+traditional theory
+discrete geometry
+meaningful conditional lower bounds
+new insights
+Frechet distance
+large polynomial running times
+potential
+collaborators
+SUM-hardness
+long-standing open questions
+main questions
+complementary questions
+distance measures
+recent results
+algorithmic game theory
+similar results possible
+faster algorithms
+fascinating structure
+major role
+fascinating landscape
+nuanced picture
+dichotomy
+subquadratic decision trees
+PPAD
+PLS
+Pettie
+Gronlund
+developments
+CLS
+glimpses
+concepts
+dramaticallyextend
+beliefs
+Preliminary work

@@ -1,0 +1,63 @@
+technical training
+federated access production services
+services relevant
+collective services
+security aspects
+legal aspects
+existing production services
+uptake of federated access
+public access
+goal of AARC
+Offer training
+AARC objectives
+AARC goals
+proposed integrated AAI
+different research communities
+policy aspects
+user communities
+Extensive dissemination of AARC results
+integrated cross-discipline AAI framework
+institutions
+interoperability of existing R
+security incidents
+security token
+E AAIs
+interoperability of different AAIs
+legal obstacles
+guest IdPs
+guest users
+E community
+user needs
+support
+web SSO
+attribute providers
+level of assurance
+libraries
+best practices
+Collaboration
+humanities
+Pilot critical components
+promotion
+pan-European identity federation
+arts
+outreach
+data professionals
+Authorisation
+functional gaps
+evolution of eduGAIN’s interfederation approach
+trainer model
+Lower barriers
+entry
+organisations
+Policies
+Authentication
+design
+experience
+tools
+accounting information
+Relevance
+work programme
+deployment
+JRA
+Pilots
+Models

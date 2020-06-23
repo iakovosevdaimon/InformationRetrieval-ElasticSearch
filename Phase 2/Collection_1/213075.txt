@@ -1,0 +1,40 @@
+computational multiscale material catalog
+Computational catalog of multiscale materials
+accurate material multiscale simulation technology HPROM
+multiscale approaches
+advanced material simulation
+accurate multiscale capabilities
+Proof of Concept CATALOG
+rich selection of validated multiscale material models
+detailed material simulations
+computational techniques
+computational cost
+analysis of new materials
+core technology
+industrial requirement
+industrial applicability
+available FEAS
+standard simulation performance
+popular commercial FEAS tools
+new set of routine analysis
+industrial finiteelement codes
+commercial Finite Element Analysis Solvers
+plugin library
+high-performance simulations
+unprecedented performance
+customizable accuracy-speedup
+ERC Advanced Grant COMP-DES
+design
+capable of outperforming state-of-the-art solutions
+prototype
+high‐performance reduced order modeling
+optimization of production processes
+user
+current need
+potential
+commercialization
+time
+product able
+precision
+manufacturing sectors
+software

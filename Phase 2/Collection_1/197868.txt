@@ -1,0 +1,48 @@
+Quantum Tensor Networks
+study tensor networks
+quantum systems
+tensor network vacuum
+post tensor network methods
+manifold of tensor network states
+study of quantum entanglement
+body systems
+simulating quantum
+theory of entanglement
+low-energy wavefunctions of quantum spin systems
+body methods
+entanglement structure
+associated wavefunctions
+proposal
+novel class of variational wavefunctions
+development of systematic methods
+context of lattice gauge theories
+theoretical physics
+new language
+better theory
+novel insights
+main goal
+associated nonlinear differential equations of motion
+form of effective theories
+differential geometric character
+basic new vocabulary
+theoretical point of view
+non-perturbative effects
+technological potential
+major challenges
+promise
+renormalization group
+strong interactions
+huge experimental progress
+pressing need
+syntax
+natural way
+prototypical example
+game changer
+electrons
+atoms
+holographic principle
+semantics
+directions
+scope
+ways
+question

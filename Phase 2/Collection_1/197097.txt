@@ -1,0 +1,45 @@
+aerosol properties
+scale aerosol-cloud interactions
+estimate of aerosol indirect effect
+predictions of aerosol indirect effect
+realistic representation of aerosol indirect effect
+atmospheric aerosol particles
+science climate model
+cloud properties
+current climate models
+process-level understanding of aerosol
+detailed high-resolution cloud
+subgrid- scale processes
+pioneering model framework
+global scale
+current drivers of climate change
+scale problem
+developed emulators
+limited-area high-resolution model
+innovative interdisciplinary model framework
+accurate projections of future climate change
+Emulation of subgrid
+fast surrogate models
+single largest uncertainty
+future research efforts
+heterogeneous spatial scales
+comprehensive uncertainty analyses
+sound estimate
+statistical emulation
+new research opportunities
+fields
+situ
+effective output
+negligible computational cost
+collaborators
+accuracy
+extensive set of remote sensing
+laboratory data
+remaining uncertainties
+main scientific outcome
+high societal relevance
+major reason
+time
+addition
+state
+information

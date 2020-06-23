@@ -1,0 +1,58 @@
+developmental disease
+disease model
+ACUTE LYMPHOBLASTIC LEUKEMIA Infant cancer
+adult cancer
+life-threatening leukemia
+MA4 leukemogenic
+paired diagnostic samples
+remission-matched samples
+intriguing infant cancer
+stochastic cancer model
+leukemia-initiating cell
+patient blasts
+LIC
+rapid disease progression
+large cohort of diagnostic
+relevant oncogenic drivers
+DEVELOPMENTAL RECONSTRUCTION OFINFANT MLL-AF4
+early HSPCs
+hallmark rearrangement MLL-AF4
+variegated genetics
+Serial xenografts
+Multilayer-Omics
+ground-breaking functional assays
+Omics data integration
+genome-wide studies
+allele-specific t
+clonal functional heterogeneity
+absence of prospective studies
+genetics vs epigenetics
+surprising genomic stability
+early human hematopoietic stem
+mutational landscape
+exome-seq
+Cas9-mediated locus
+DNA
+progenitor cells
+CRISPR
+unprecedented information
+approach
+H3K79 methylation profiles
+prenatal onset
+transcriptome
+precise understanding
+platform
+therapy resistance
+CNS involvement
+new treatment strategies
+concordance
+twins
+extent
+lack of models
+key issues
+project
+biology
+nature
+dismal prognosis
+questions
+challenge

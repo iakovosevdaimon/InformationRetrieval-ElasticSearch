@@ -1,0 +1,44 @@
+communication complexity of sublinear algorithms
+efficient algorithms
+new generation of  sublinear algorithms
+design
+sublinear resource requirements
+sublinear graph processing
+algorithmic theory of large data analysis
+Modern Data Analysis
+fundamental algorithmic questions
+theoretical foundation of large data analysis
+algorithmic toolkit
+Polynomial runtime
+communication complexity theory
+space
+toolbox of powerful algorithmic techniques
+fundamental computational tasks
+nuanced runtime
+core of fundamental computational problems
+lower bounding runtime
+theoretical foundation of computing
+complexity theoretic results
+classical polynomial time
+basis of large scale graph analytics
+signal processing
+linear time
+notion of NP
+notion of efficiency
+far-reaching set of techniques
+sizes of modern datasets
+forefront
+extensive body of work
+method of choice
+goal of computer science
+focus
+introduction
+constrained resources
+optimality
+wide range of applications
+research community
+inception
+limits of tractability
+solutions
+input
+completeness

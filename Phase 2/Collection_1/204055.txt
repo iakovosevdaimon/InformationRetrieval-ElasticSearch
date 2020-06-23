@@ -1,0 +1,53 @@
+memory applications
+spintronic memory layer
+versatile memory
+spintronic memory elements
+energy-efficient memory
+state-of-the-art spintronic memory technologies
+new spintronic-photonic memory chip demonstrator
+Spintronic-Photonic Integrated Circuit platform
+so-called Universal Memory
+processor-memory bandwidths
+SPICE platform
+photonic integration technologies
+photonic switching layer
+silicon photonic integrated circuit
+novel integration platform
+novel Electronics
+sensor technology
+novelty of SPICE
+integrated circuit level
+novel short-pulse
+main objective of SPICE
+magnetic-tunnel
+free magnetic layers
+orders of magnitude lower energy consumption
+energy-efficient exascale datacenters
+real-world applications
+electronic components
+future petabit
+new field
+future mature electronics fabrication processes
+short optical pulses
+spintronics
+magnetism
+emerging fields of opto
+reduced carbon footprint
+recent discovery of magnetization reversal
+convergence
+RF nano-oscillators
+speed
+junction layerstack
+technique
+architecture
+fJ
+cache
+storage
+decade
+proof of concept
+contacts
+way
+efficiency
+ambition
+validity
+methods

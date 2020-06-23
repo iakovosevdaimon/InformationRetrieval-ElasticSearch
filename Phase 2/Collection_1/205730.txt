@@ -1,0 +1,33 @@
+special case of higher epsilon-factors
+Rahm epsilon-factors
+higher-dimensional situations
+higher analogue of Beilinson's topological epsilon-factors
+geometric behaviour of higher local fields
+higher-dimensional Contou-Carrère symbols
+case of symbols
+project
+Tate objects
+theoretic framework
+theoretic nature
+reciprocity phenomena
+Tate vector bundles
+main tools of BBE
+array of reciprocity laws
+arithmetic
+goal
+new viewpoint
+Bloch-Esnault
+abstract context
+collaborators Oliver Braunling
+Jesse Wolfson
+connection
+work of Beilinson
+Patel's
+theory
+compatible way
+approach
+light
+similar methods
+Rham version
+comparison
+candidate

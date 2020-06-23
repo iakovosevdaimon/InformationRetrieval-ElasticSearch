@@ -1,0 +1,40 @@
+restrictions
+policy conclusions
+macroeconomic policy analysis
+policy institutions
+Bayesian analysis
+effectiveness of macroeconomic policy
+empirical literature
+choice
+time series literature
+new methods
+research project
+standard Bayesian analyses of SVARs
+Bayesian decision
+useful applications
+broad range of new applications
+example
+empirical contributions
+types of beliefs
+development of new econometric tools
+different degrees of credibility
+actual practice
+practice arbitrary
+existing results
+extent existing findings
+Structural Vector Autoregressions
+ideas
+principal tool
+multiple-prior
+flexible use
+economic theory
+microeconometrics
+key controversy
+consensus
+fact
+theoretical contribution
+user
+central idea
+ambiguity
+goal
+imposed assumptions

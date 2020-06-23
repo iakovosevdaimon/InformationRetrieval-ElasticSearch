@@ -1,0 +1,44 @@
+Clustering Clustering data
+data points
+correct algorithms
+clustering problems
+particular clustering
+hierarchical clustering
+Correct Efficient Algorithms
+HC
+practice
+data sciences
+practical algorithms
+cost function
+best theoretical algorithms
+best approximation
+similarity
+best heuristics
+distance function
+types of inputs
+specific inputs
+real-world inputs
+faster LS-based algorithm
+non-oblivious LS algorithm
+hand
+cutting-edge heuristics
+gap
+theory
+metric space
+better running time
+massive datasets
+extracting information
+crucial role
+various research areas
+computer
+PEAC project
+average-linkage
+soundness
+local search
+guarantee
+structure
+partition
+bisection
+median
+Dasgupta
+performances

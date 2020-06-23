@@ -1,0 +1,40 @@
+combinatorial geometry
+Combinatorial Aspects of Computational Geometry
+Geometric problems
+combinatorial nature
+underlying combinatorial structures
+geometric transversal theory
+performance of geometric algorithms
+variety of computational fields
+algorithmic aspects of geometric intersection structures
+fundamental open problems
+packing problems
+geometric variants of general covering
+abstract machinery of geometric arrangements
+intrinsic properties of geometric graphs
+number of fundamental problems
+common structures
+recent breakthrough results
+description complexity
+major breakthrough
+state-of-the-art results
+research direction
+theoretical challenges
+complexity of Voronoi diagrams
+powerful combination of random sampling techniques
+project
+interface
+potential
+exciting lines of study
+PI
+hypergraphs
+efficient approximation schemes
+central role
+numerous attempts
+turn
+decades
+physical world
+landscape
+questions
+insights
+progress

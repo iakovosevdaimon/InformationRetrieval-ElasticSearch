@@ -1,0 +1,55 @@
+acid-stress
+complete understanding of acid handling
+Current models of acid handling
+pH-fitness
+vast quantities of acid
+signalling Metabolism
+proton-sensing transcription factors
+particular microenvironment pH
+Regulation of intracellular pH
+characterising pH-regulatory processes cell
+orchestrated proton dynamics
+long-term effects of proton signals
+stemness
+diversity
+Surviving metabolism
+optogenetically operated pH stimuli
+role
+substrate
+cell level
+cancer cells
+studies of gene expression
+phenotypic landscape of cancer
+cell’s fitness
+plausible mechanism
+versatile signal
+hypoxic selection
+broad-spectrum biological effects
+Phenotyping pHi-gated subpopulations
+accounts
+protein protonation
+diffusive transport
+terms of growth
+tissue compartments
+powerful post-translational modification
+relationship
+tumourigenicity
+established chemical signature of tumours
+Cancer’s genetic instability
+homeostatic priority
+Extracellular acidity
+disease progression
+observations
+systems-approach
+evidence
+adaptation
+complexity inherent
+tissues
+analogy
+somatic evolution
+population-averages
+tumour stroma
+new niches
+definition
+components
+aggressiveness

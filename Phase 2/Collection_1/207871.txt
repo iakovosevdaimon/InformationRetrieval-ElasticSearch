@@ -1,0 +1,50 @@
+based cell-cell communication
+cell-cell interaction model
+cell biology
+living cell
+cell surface glycans
+single cell level
+single cell glycomes
+Glycan-based communication
+Emergent properties of cell surface glycosylation
+communication sciences
+cellular communication
+transmitter-receiver model
+lectin-glycan interactions
+high redundancy
+glycans present
+glycans binding receptors
+population noise
+receiver cells
+transmitter cells
+key properties of glycan
+dense matrix of glycans
+level of noise stems
+lectin mixtures
+microparticles
+simplified model system
+identical cells
+competitive binding
+Glycomes accessible
+ultra-high dimensional flow cytometry data
+structure codes important messages
+recent advancements
+development
+robustness of messaging
+state-of-the-art experimental techniques
+instrumentation
+particular composition
+biophysics
+biological response
+differentiation
+glycobioinformatics software
+role
+complex biopolymers
+compositions
+decoding
+Biophysical rate constants
+immunological processes
+rise
+extent
+fundamental questions
+function

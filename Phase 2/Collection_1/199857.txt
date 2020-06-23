@@ -1,0 +1,57 @@
+Internal media monitoring
+extensible media monitoring platform
+Scalable Understanding of Multilingual Media Media monitoring
+global news media
+analysis of media streams
+External media monitoring - intelligent tools
+Internet media channels
+global news monitoring problem
+languages
+maintainable platform
+data streams
+rich visualisations
+content creation
+deluge of data
+Data journalism
+multilingual stream processing
+natural language understanding
+communication of project results
+rich knowledge bases
+number of technologies
+number of broadcast
+story identification
+richer tools
+evolution of story
+Development of high-quality
+increased scale
+BBC NewsHack
+partners BBC
+aim of SUMMA
+Extensible automated knowledge base construction
+relation extraction
+deep semantic parsing
+machine translation
+entity
+speech recognition
+summarisation
+sentiment detection
+stakeholders
+journalists
+multiple views
+terms of emerging trends
+analysts
+Dissemination
+user group
+people
+services
+current approaches
+cross-lingual capabilities
+innovation intensives
+use cases
+state
+massive growth
+DW
+lines
+objectives
+aims
+outputs

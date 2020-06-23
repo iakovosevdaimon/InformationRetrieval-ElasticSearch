@@ -1,0 +1,46 @@
+group of units
+group V
+torsion units of V
+Torsion units of integral group rings Group rings form
+ZG
+torsion elements
+units of augmentation
+classes of groups
+rational group algebra
+example
+abelian groups
+special groups
+significant classes of rings
+HeLP Method
+weaker conjecture
+Zassenhaus Conjecture
+series of simple groups
+projective linear groups
+weaker Prime Conjecture
+elements of
+Lattice Method
+G metabelian
+questions
+significant contributions
+prime graph
+Hans Zassenhaus
+description
+orders
+applying researcher
+existing methods
+Higman
+connection
+cooperation
+Thesis
+Bächle
+Isomorphism Problem
+software
+obstacles
+main problems
+proposal
+ring theoretical information
+new techniques
+recent progress
+goals
+study
+aim

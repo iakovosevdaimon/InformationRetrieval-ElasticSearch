@@ -1,0 +1,61 @@
+efficient RF
+optical detection
+based RF
+coupling RF signals
+faint RF signals
+conventional RF amplifiers
+optical domain
+optical modes
+optical regime
+high gain RF amplifiers
+Optical Signal Transduction
+optical frequency range
+optical signal transducer
+issue of weak RF signal detection
+optical transduction schemes
+high frequency
+radio frequency
+detection of weak signals
+fiber systems
+distant systems
+Piezoelectric SBS systems
+high photon energy
+microwave frequency regimes
+information processing systems
+GaAs cavity optomechanical systems
+significant Brillouin gain
+noise figures
+integrated Stimulated Brillouin Scattering
+radio astronomy
+availability of efficient detectors
+large elasto-optic coefficient
+use of cryogenic amplifiers
+acoustic waves
+thermal excitation energy kBT
+novel GaAs
+insulator platform
+large modal overlap
+single photon level
+V materials platform
+dilution fridges
+KC Balram
+account
+Amplification
+quantum
+applications
+Johnson
+routine
+engineering strong acousto-optic interactions
+unique advantages
+superconducting qubit processors
+properties
+radar
+MRI
+potential
+case
+development
+complex circuitry
+Nature Photonics
+low loss telecom fibers
+work
+project

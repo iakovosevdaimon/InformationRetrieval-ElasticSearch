@@ -1,0 +1,53 @@
+Exponential sums
+Diophantine applications
+applications Title
+consequent applications
+robustness of applications
+inaccessible applications
+sums of degree
+translation invariant systems
+application of efficient congruencing
+potential use of higher degree translation invariance
+systems of diagonal equations
+Waring's problem
+Diophantine problems
+estimates of use
+method
+number theoretic sequences
+rational curves
+restriction problems
+testing equidistribution
+ground field
+function fields
+diagonal hypersurfaces
+finite field
+equidistribution of polynomial sequences mod
+number theory
+randomness extractors
+Short Summary
+spaces of rational morphisms
+discrete Fourier analysis
+mean value estimates
+Riemann zeta function
+estimating moments of Fourier coefficients of wide generality
+new approach
+investigation of local
+global principles
+validity
+generalising Gowers norms
+Hasse principle
+theoretical computer science
+wider community
+multidimensional setting relevant
+critical strip
+primary tool
+cryptography
+whisker
+vehicle
+key
+result
+proposer
+significant progress
+main conjectures
+landscape
+century

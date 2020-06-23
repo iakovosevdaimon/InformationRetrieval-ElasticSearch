@@ -1,0 +1,49 @@
+Time-Data Trade-Offs
+data sizes
+input data
+data acquisition
+running time
+Inference Systems Massive data
+detailed understanding of time
+information systems
+end-to-end trade-offs
+analogous trade-offs
+Resource-Constrained Information
+mathematical sampling framework
+circuit area trade-offs
+related sampling
+fundamental goals
+emerging perspective
+information conversion hardware
+following computational dogma
+available computational power
+fundamental challenge
+learning objectives
+new universal primal-dual algorithms
+new tools of discovery
+unified mathematical foundations
+use of limited resources
+tandem
+promising substantial flexibility
+statistical precision
+task-specific
+energy
+challenges
+geometric estimators
+infancy
+medical imaging
+materials science
+prototype analog
+samples
+broad domains
+rigorous theory
+optimality
+basic system models
+interdisciplinary studies
+communications
+way
+recent research
+Existing approaches
+technological feasibility
+numerical solutions
+large-scale problems

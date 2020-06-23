@@ -1,0 +1,31 @@
+electro-optical device
+Electro-optical polariton router
+ultrafast electro-optical modulators
+optical surface mode
+routing of guided optical beams
+hybrid photon-exciton particle
+hybrid photon-exciton states
+electrical signals
+processing speed
+efficient processing
+fast signal communications
+intrinsic nonlinearities
+Distributed Bragg Reflector waveguide
+peripheral component
+D perovskites
+polaritons
+room temperature
+major bottlenecks
+development stage TRL
+memory elements
+CPU
+interconnections
+dissipations
+retardations
+proposal
+microchip
+interconnect functions
+matter of fact
+processor
+Conversion
+prototype

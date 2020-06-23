@@ -1,0 +1,43 @@
+order
+electric-field
+magnetic field
+Ferroelectric field-effects
+Superconducting proximity effects
+photoelectric effects
+following fundamental effects
+high-temperature superconducting spintronics
+superconducting pairs
+ferromagnetic resonance effects
+light induced control of spin
+Spin-torque
+electric memory
+technological possibilities of superconductivity
+approach
+multiple control knobs
+ambitious project
+conventional electronics
+offbeat electronics
+knobs customary
+ferromagnet interactions
+polarized supercurrents
+fundamentals
+basis
+tune Josephson coupling
+complex-oxide heterostructures
+coherent transport inherent
+advantage
+Photoconductivity
+novel concepts
+basic ingredient
+normal electrons
+information
+superconductors
+applications
+magnetization dynamics
+ferroics
+innovative idea
+present
+ferromagnets
+photosensitivity
+potential
+research

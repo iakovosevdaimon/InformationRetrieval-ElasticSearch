@@ -1,0 +1,44 @@
+practical MPC applications
+practical technology
+practical systems
+new MPC protocols
+developers of MPC technology
+practical considerations
+future impact
+model MPC protocols performance
+account practical constraints
+practical feasibility results
+practical real world issues
+goal of IMPaCT
+IMPaCT project
+scientific approach
+scientific gap
+Multi-Party Computation Technology
+number of key scientific challenges
+future road-map
+future application scenarios
+stage
+low round complexity protocols
+way dialogue
+potential users
+limited applications
+restricted scenarios
+theoretical literature
+way security solutions
+deep theoretical insight
+techniques
+encryption
+large input sizes
+practice
+deployments
+transformative change
+streaming data
+problems
+extensive industrial linkages
+widespread tool
+digital signatures
+tools
+workplan
+addition
+design of methodologies
+asynchronicity of networks

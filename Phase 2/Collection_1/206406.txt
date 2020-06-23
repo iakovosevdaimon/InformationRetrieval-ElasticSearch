@@ -1,0 +1,41 @@
+European Space community
+key space applications
+competitiveness of future European space equipments
+STM European
+key European IPs
+performance level
+multiple space application domains
+new SoC
+DAHLIA SoC
+real-time applications
+existing SoC
+terrestrial applications
+High Performance microprocessor System
+spAce rad-Hard appLIcation Asic
+chip functions
+future quad core LEON4 chip
+future use
+highest cumulative number of European satellites
+times
+multi-core ARM processors
+strong ARM ecosystem
+electronics equipments
+Deep sub-micron microprocessor
+cost-efficient development of products
+eFPGA
+nm FDSOI technology
+GNSS
+TC support
+flexibility
+large set of integrated peripherals
+indisputable best positioned companies
+TAS
+dependence
+mass
+maximum relevance
+Airbus
+orbit
+convergence
+adoption
+critical component
+board

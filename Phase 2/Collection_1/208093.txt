@@ -1,0 +1,32 @@
+Estimation of optimal policy
+sampling design
+optimal empirical policy design proceeds
+public policy applications
+Estimation of treatment assignment policy
+policy decision problem
+optimal estimation procedures
+estimation step
+package of optimal sampling
+sampling step
+sampling process
+estimation method
+estimation approaches
+wide range of policy design problems
+social welfare criterion
+important empirical applications
+empirical works
+Econometrics
+set
+following open questions
+project addresses
+novel econometric frameworks
+Development of econometric methods
+ultimate goals of economics
+methodological challenges
+data
+useful ways
+current state
+concrete recommendation
+reality
+statistical optimality
+parts

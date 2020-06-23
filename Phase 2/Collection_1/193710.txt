@@ -1,0 +1,36 @@
+EO measurements
+sub-orbital data
+sub-orbital measurements
+reference measurements
+Robust EO instrument characterisation
+given set of EO
+sub-orbital measurement platforms
+ground
+data assimilation systems
+based Earth Observation
+unambiguous interpretation of EO sensor performance
+robust uncertainty estimates
+Gap Analysis
+characterisation of satellite
+statistical tools
+user tools
+distinct measurement footprints
+quantified uncertainty estimation
+Atmosphere
+Integrated Atmospheric ECV CLImate Monitoring
+Land observations
+time
+Ocean
+integrating capabilities
+complete mapping
+surface
+recognised need
+mismatches
+sampling location
+sound methods
+understanding of additional uncertainties
+entire radiance spectrum
+users
+virtual observatory
+setting
+work

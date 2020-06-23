@@ -1,0 +1,43 @@
+unsaturated soil behaviour
+unsaturated soils
+expansive behaviour
+advanced features of soil behaviour
+anisotropic behaviour
+global soil response
+incorporation of microstructural aspects of soil fabric
+challenging patterns of microstructural behaviour
+internal clay fabric
+microstructural fraction
+novel constitutive model capable
+implemented model
+consequence
+numerical modelling of saturated
+expansive clay minerals
+advanced geotechnical engineering applications
+micro-level
+macro-level
+geotechnical designs
+internal structure
+particular orientation
+Particular emphasis
+directional-dependent response
+retention framework
+finite element formulation
+development
+unique computational tool
+safer construction
+proposal focusses
+practitioners
+reliable material representation
+unified manner
+wetting
+serviceability of civil infrastructures
+improved understanding
+large swelling deformations
+ground
+researchers
+influences
+use
+presence
+associated costs
+implementation

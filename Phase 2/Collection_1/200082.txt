@@ -1,0 +1,36 @@
+rigorous study of multiple random walks
+independent walks
+random process
+existing theory of single random walks
+Dynamics of Multiple
+Concurrent Markov Chains Markov chains
+reversible Markov chains
+design of new efficient randomised algorithms
+distributed networks
+fundamental processes
+increasing number of algorithms
+new quantities
+cover times
+graph clustering
+steady growth of large-scale networks
+underlying graph
+fundamental questions
+content search
+large graphs
+packet routing
+link prediction
+massive data sets
+complexity inherent
+basis
+website ranking
+used metrics
+structural properties
+computer science
+variety of complex sampling
+scientific discipline
+years
+optimisation problems
+proposal
+goal
+trend
+insights

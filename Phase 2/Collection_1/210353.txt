@@ -1,0 +1,48 @@
+flight test system
+test runtime system
+test management
+test platform
+test execution
+flight test technologies
+existing test environment
+flight test bench control
+system requirements
+system certification
+evaluation of test results
+new generation of test
+cooling system
+underlying distributed control system
+IoT strategies
+automation area
+control parameters
+IoT communication strategies
+IoT Interfaces
+automation platforms
+bei IoT
+semantic interoperability of IoT communication
+additional services
+adaption of configuration data
+data cloud
+Workplan
+research program
+Clean Sky
+requirements traceability
+TestConCert
+certification documents
+future-proof fusion of automation technology
+common configuration data base
+distributed error management
+integrated verification environment
+Beckhoff releases TwinCat
+Ethercat
+sensors
+knowledge
+good demonstration
+year
+visualization
+end
+flexibility
+MQTT
+customizable reports
+influence
+systems

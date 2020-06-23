@@ -1,0 +1,36 @@
+infinite domain CSPs
+Descriptive Complexity of Infinite Domain Constraint Satisfaction Problems
+context of constraint satisfaction
+infinite domains of values
+fixed domain of values
+finite set of constraints
+computational problem
+class of CSPs
+finite set of variables
+computational linguistics
+computational biology
+order logic
+type of constraints
+main purpose of InfCSP
+universal algebra
+new universal-algebraic tools
+mathematical tools
+power of generic logic-based algorithms
+scheduling
+artificial intelligence
+different areas of computer science
+polynomial time
+elements
+methods
+understanding
+model theory
+major step
+combinatorial optimisation
+fixed-point operator
+Datalog
+instances
+mapping
+goal
+logical formula
+logics
+classifications

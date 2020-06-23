@@ -1,0 +1,45 @@
+binary analysis techniques
+program analysis techniques
+security features
+security properties
+security mechanisms
+data-flow analysis
+potential security vulnerabilities
+unified analysis framework
+new security challenges
+current security solutions
+fundamental understanding of binary analysis methods
+novel applications
+novel mechanism
+research program
+novel toolset
+novel area
+given device
+Internet of Things
+software level
+given firmware image
+program code
+level of intermediate languages
+IoT
+control-flow integrity
+resource-constrained devices
+concrete assembly level
+memory corruption
+undocumented functionality
+logical vulnerabilities
+unnecessary functionality
+paradigm shift
+combination of persistent memory
+lack of clear network boundaries
+different platforms
+symbolic execution
+classical function
+addition
+fraud
+innovative business models
+central role
+manipulation
+midst
+foundations
+future attacks
+legacy

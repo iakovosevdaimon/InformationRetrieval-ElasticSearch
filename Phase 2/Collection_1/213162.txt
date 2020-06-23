@@ -1,0 +1,56 @@
+quantum accesses
+quantum attacks
+quantum computers
+quantum adversaries
+post-quantum world
+feasibility of post-quantum privacy
+pOst-quantuM systEms
+users' privacy
+quantum-secure cryptographic techniques
+cryptographic protocols
+design of practical advanced protocols
+latticeS Privacy
+new tools
+practical implementations
+electronic voting
+practical solutions
+advanced crypTograpHic mEchanisms
+lattice-based cryptography
+design of sophisticated protocols
+new set of practical primitives
+digital signatures
+advanced properties
+various tools
+PROMETHEUS project
+knowledge proofs
+hardness of lattice problems
+new building blocks
+electronic payments
+homomorphic encryption
+digital cash
+development of better basic tools
+public-key encryption
+anonymous credentials
+relation
+demonstrators
+international competitions
+certain functionalities
+real-life use cases
+common daily life actions
+pseudorandom functions
+standardisation processes
+complete toolbox of innovative
+theoretical definitions
+reservations
+in-depth study
+discrete logarithm assumptions
+modern services
+purchases
+entirety
+suitable methods
+sensitive personal information
+channel leakages
+cyberthreat intelligence
+concrete outcome
+end
+security

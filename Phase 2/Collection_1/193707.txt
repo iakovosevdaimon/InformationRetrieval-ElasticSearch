@@ -1,0 +1,55 @@
+use of Ethernet
+Ethernet standards
+SPACE ETHERNET PHYSICAL LAYER TRANSCEIVER
+implementation of Ethernet PHYs
+rad-hard Ethernet PHYs
+Gigabit Ethernet PHY
+rad-hard Ethernet components
+upper layers of Ethernet
+space system perspective
+growing complexity of space systems
+Thales Alenia Space Spain
+design capabilities
+manufacturing capabilities
+devices
+proposal
+terrestrial applications
+Physical layer transceivers
+generation networking technologies
+long term objective
+short term objective
+high speed networking technologies
+manufacturing techniques
+different elements
+Mbps PHY
+testing
+need
+significant analogue
+starting point
+Arquimea
+wide adoption
+consortium
+Universidad
+preferred choice
+contributions
+NASA
+BASE-T
+IHP
+ATMEL
+TTTech
+feasibility study
+types of effects
+electronic technology
+Nebrija
+integrated circuits
+requirements
+initiatives
+ESA
+radiation
+end
+spacecraft
+cases
+goal
+reliability
+interoperability
+addition

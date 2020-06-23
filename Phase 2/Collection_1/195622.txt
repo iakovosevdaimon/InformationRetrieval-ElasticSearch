@@ -1,0 +1,50 @@
+nanofiber modes
+atom-nanofiber
+nanofiber system
+nanofiber-guided modes
+nanofiber-trapped atoms
+nanofiber-guides modes
+evanescent field of nanofiber
+atomic Bragg structures
+Bragg resonance
+atomic array
+atomic ensemble
+guided light
+multilevel structure
+number of atoms
+specialized protocols
+light field results
+quantum information processing
+quantum-information applications
+extraordinary polarization properties
+optical nonlinearities
+optical lattice
+reflection properties
+polarization effects
+enhanced coupling
+novel light-matter interface
+DLCZ quantum memory protocol
+large optical depth
+desired propagation direction
+proven coherence properties
+efficient fiber-integrated quantum memories
+photon level
+percent level
+recent rapid progress
+view of recent discoveries
+implementation of fundamental building blocks
+QIP
+special attention
+ideal candidate
+success rate
+true potential
+spontaneous emission
+nanofibers
+length
+combination
+small effective area
+thousands
+account
+transmission
+proposal
+millimeres

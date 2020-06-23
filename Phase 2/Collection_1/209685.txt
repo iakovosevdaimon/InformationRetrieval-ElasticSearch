@@ -1,0 +1,45 @@
+Rule-algebraic Simple Rewriting
+rewriting system Kappa
+project results
+simulation suite KaSim
+KaSim simulation suite
+so-called rule algebraic framework
+Kappa language
+observable-update algorithms
+novel form of simplicial rewriting
+OCBA module
+pure stochastic simulation
+programming language Kappa
+systems biological simulation community
+rule-algebraic variants of trace compression
+so-called observable-centric bootstrapping algorithm
+induced observable update functions
+basis
+PPS team
+IRIF
+biochemical reaction systems
+applicant
+RaSiR
+generation of approximate observable distributions
+SSA algorithm
+general concept
+interdisciplinary research team PPS
+conventional graph
+Jean Krivine
+mathematical framework
+individual pure states
+practical development
+formal solution
+chemical master equation
+University Paris-Diderot
+alternative
+main developers
+world experts
+ideal environment
+France
+truncations
+software modules
+new skills
+high combinatorial complexity
+final aim
+order

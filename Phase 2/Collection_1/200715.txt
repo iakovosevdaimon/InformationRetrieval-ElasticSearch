@@ -1,0 +1,51 @@
+non-LinEar sigNal processing
+Planck data
+data challenges
+data analysis challenges
+astrophysical data analysis
+non-linear models
+new non-linear signal representation framework
+non-linear signal representation paradigm
+non-linear properties of physical data
+sparse signal representations
+standard linear signal processing approaches
+scientific exploitation of data
+development of advanced signal processing methods
+new connections
+Astrophysics Astrophysics
+new sparse representations
+Planck mission
+linear approaches
+new numerical methods
+LENA project
+undeniable success of sparsity
+thanks
+developed models
+CMB
+impact
+overcoming challenging analysis issues
+properties of polarization vector fields
+European space mission
+sky map
+fertile connections
+microwave wavelengths
+Cosmic Microwave Background
+European radio-interferometer LOFAR
+achieved high quality component separation
+emerging area
+algorithms
+Rassat14
+turning point
+Bobin14
+scope
+deep learning
+prominent role
+rotation invariance
+context
+galactic centre
+large-scale statistical studies
+Mallat13
+underlying physics
+results
+instance
+noticeable breakthrough

@@ -1,0 +1,50 @@
+massive MIMO systems
+Massive MIMO Localization
+G Networks
+large number of antennas
+massive MIMO-OFDM systems
+G wireless data networks
+real-world cellular networks
+radiated energy efficiency
+extra antennas
+project
+engineering research idea
+high accuracy
+basic idea
+research field
+higher data rates
+cellular base stations
+high carrier frequencies
+localization point of view
+simplification
+huge improvements
+established service providers
+media access control layer
+significant gains
+robustness
+throughput
+generation
+better reliability
+smaller regions of space
+prominence
+users
+terms
+reduced latency
+knowledge transfer objectives
+orders of magnitude improvement
+mobile manufacturers
+fellow
+rectangular arrays
+location
+design
+intentional jamming
+analytical tools
+unintentional side-effect
+simple processing
+validity
+benefits
+challenge
+broad goal
+experimental datasets
+power
+innovative applications

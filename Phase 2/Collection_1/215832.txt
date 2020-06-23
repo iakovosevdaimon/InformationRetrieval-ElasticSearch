@@ -1,0 +1,59 @@
+programming models
+Productive Programming Environment
+high performance
+shared memory programming flavours
+European technology
+EPEEC exploits
+production-ready parallel programming environment
+relevant parallel programming standardisation bodies
+high coding productivity
+performance prediction
+leading-edge performance tools
+European institutions
+key features
+specific features
+consortium
+Heterogeneous Exascale Computing
+heterogeneous exascale supercomputers
+high-potential researchers
+outstanding coding productivity
+European joint Effort
+extreme-data applications
+domain application developers
+technology demonstrators
+data-intensive
+applications representative of different relevant scientific domains
+existing state-of-the-art components
+cutting-edge software components
+manageable platforms
+code
+integral profiling
+overarching objectives
+strong inter-disciplinary co-design approach
+universities
+runtime systems
+careful dissemination
+participation of young
+SME
+exploitation
+past FET projects
+EPEEC’s main goal
+beginning
+runtimes
+interoperability
+automatic generator of compiler directives
+preferred language
+highest expertise
+leading research centres
+Fortran
+field
+public engagement plans
+individuals
+composability
+Work Programme’s guidelines
+visualisation of traces
+energy awareness
+start-up companies
+porting process
+C++
+high-tech innovators

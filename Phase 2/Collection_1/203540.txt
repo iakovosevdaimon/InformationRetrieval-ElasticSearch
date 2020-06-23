@@ -1,0 +1,59 @@
+communities
+practical problems
+real problems
+relevant problems
+prevailing problems
+complex mathematical problems
+large mathematical problems
+Symbolic Computation
+area of Satisfiability Checking tackle similar problems
+tools lack common
+common challenges
+separate tools
+computer algebra systems
+form of common platforms
+safety of computer systems
+improved software tools
+algorithmic determination of exact solutions
+recent developments
+mutual interfaces
+paper developments
+technological solutions
+mutual improvements
+direct effect
+wide range of activities
+use of advanced methods
+global events
+reach of pencil
+roadmaps
+security
+unifiying
+computers
+bilateral visits
+SMT solvers
+essential backend
+fields
+various scientific areas
+increasing size
+long history
+achievements
+standards
+strengths
+cross-fertilisation
+experience
+technologies
+remarkable progress
+complexity
+SC-square
+example
+main objectives
+CSA
+strong reasons
+knowledge
+decades
+exchange
+society
+Bridges
+central interests
+researchers
+interaction

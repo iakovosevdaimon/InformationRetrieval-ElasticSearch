@@ -1,0 +1,47 @@
+Training Deep Learning Systems
+rise of deep learning
+applicability of deep learning
+scientific understanding of deep learning
+machine learning
+form of artificial neural networks
+approximation error
+finite training set
+estimation error
+optimization error
+approach
+good performance
+important development
+important problem
+given network
+drastic theory-practice gap
+current methods
+general-purpose artificial intelligence
+rigorous theoretical results
+concrete preliminary results
+inter-related sources of performance losses
+autonomous driving
+anticipated technological leaps
+future examples
+efficient manner
+architectural choices
+feasibility
+long-term health
+key role
+ideas
+principled tools
+past decade
+heuristics
+significant risk
+field
+rules
+obstacle
+academic topic
+starting points
+type of functions
+problems
+recent advances
+industry
+commercial products
+challenging project
+thumb
+goal

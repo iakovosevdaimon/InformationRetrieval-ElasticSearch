@@ -1,0 +1,48 @@
+cost-optimized server architecture
+Open server architecture
+flexible server architecture
+integration of computing resources
+Modular Microserver DataCentre Modular Microserver DataCentre
+heterogeneous microserver computing resources
+cloud computing
+computing acceleration
+system level
+existing data centre management solutions
+system efficiency enhancements
+resource management
+real data centre environment
+M2DC
+Advanced management strategies
+easy integration
+optimized appliances
+existing infrastructure
+energy efficiency
+software ecosystem
+behaviour monitoring
+built-in enhancements
+main pillars
+latest middleware software
+Total Cost of Ownership
+Technology Readiness Level
+constrained thermal power dissipation
+embedded CPUs
+dependability
+use
+image processing
+FPGAs
+GPUs
+established standards
+manycore processors
+various application domains
+security
+requirements
+TCO
+provisioning
+COM Express
+real-life applications
+HPC
+interfaces
+runtime
+adaptation
+results
+objective

@@ -1,0 +1,62 @@
+design phases
+model-driven design methods
+novel design methods
+Traditional design methods
+physical processes
+physical components
+various design layers
+integrative design trajectories
+conservative design process
+realm of Cyber-Physical Systems
+quality
+Platform-aware Model-driven Optimization of Cyber-Physical Systems
+account physical constraints
+tight interaction
+modern industrial systems
+communication
+computation
+reliability
+different models
+platform-awareness
+various components
+state
+key industrial players
+different disciplines
+over-provisioning of platform resources
+reliable CPS
+control elements
+urgent need
+tight coordination
+software engineering
+oCPS program
+generation of young researchers
+system-level requirements
+key scientific objective
+new generation of cost-effective
+designs
+cross-disciplinary thinking
+heating
+tradeoffs
+cooling
+vibration
+mechanics
+algorithms
+electronics
+memory
+wear
+energy
+motion
+artifacts
+large margins
+universities
+power
+tear
+practice
+SMEs
+validated tool chains
+worst-case scenarios
+research institute
+Europe
+underlying platforms
+levels
+rise

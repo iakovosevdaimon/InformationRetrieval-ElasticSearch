@@ -1,0 +1,50 @@
+random band matrices
+random regular graphs
+understanding of structured random matrices
+Spectral Statistics of Structured Random Matrices
+types of structured random matrices
+random matrix theory
+expansion properties of random graphs
+better mathematical understanding of certain classes of large random matrices
+proposal
+eigenvalue statistics of disordered conductors
+linear eigenvalue statistics
+quantum diffusion
+spectral gap
+hallmarks of quantum chaos
+local resampling of graphs
+spectral graph theory
+good model of disordered quantum Hamiltonians
+important applications
+disordered media
+challenging goals
+eigenvalue correlation functions
+small scales
+robust techniques
+important questions
+previous work
+intermediate mesoscopic scales
+subdiagram resummation techniques
+rich mathematical behaviour
+crossovers
+addition
+purpose
+fixed degrees
+lead
+spectrum
+extremal eigenvalues
+mean-field models
+locations
+independent entries
+novel
+physics of conductance
+tools
+bulk
+nontrivial structure
+precise bounds
+limiting distributions
+delocalization of eigenvectors
+following directions
+components
+output
+results

@@ -1,0 +1,36 @@
+sequent-style calculi
+developed modal logics
+Proof-theoretic Analysis of Modal Logics
+different sequent-style frameworks
+modal axioms
+large classes of logics
+proof-theoretic investigation
+important examples of logics
+sufficient proof-theoretic strength
+complexity results
+classification results
+easy-to-use results
+systematising proof theory
+PAnaMoL project
+general connections
+expressive strength
+systematic comparison
+research objectives
+systematic development of suitable syntactic characterisations of classes
+natural formats of rules
+general consistency proofs
+uniform decidability
+axiom systems
+GL
+S5
+deeper understanding
+methods
+implementation
+hypersequent
+complex phenomena
+researchers
+algorithmic translations
+fields
+unified perspective
+relevance
+exploitation

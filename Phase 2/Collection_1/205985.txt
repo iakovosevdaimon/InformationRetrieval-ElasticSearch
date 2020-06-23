@@ -1,0 +1,55 @@
+computing efficiency
+computing abstraction
+Open transPREcision COMPuting
+traditional computing paradigms
+approximate computing approaches
+mainstay of traditional computing systems
+large HPC computing centers
+operation energy efficiency
+mission of OPRECOMP
+major energy efficiency improvements
+precision results
+end-to-end application quality
+sub-picoJoule
+sub-milliWatt
+HPC simulations
+numerical precision
+practical understanding
+MegaWatt range
+huge range of application scenarios
+practical realizations
+physical foundations
+physical demonstrators
+future systems
+Big Data Analytics
+domains of IoT
+Deep Learning
+circuits
+devices
+constant exponential improvement
+elementary step
+algorithms
+Moore's law
+shift
+Things
+ultra-conservative
+accuracy requirements
+complex computation
+mathematical theory
+complete framework
+software tools
+respect
+freedom
+twilight
+way
+error bounds
+tiny nodes
+Internet
+ideas
+time
+years
+reliability
+power wall
+orders of magnitude
+view of industrial exploitation
+intermediate calculations

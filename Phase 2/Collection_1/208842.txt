@@ -1,0 +1,37 @@
+MDD
+Deep brain targets
+new biomarkers of functional brain abnormity
+possible biomarkers of functional brain abnormity
+deep brain stimulation
+identification of electrophysiological biomarkers of functional brain abnormities
+treatment resistant depression
+functional connectivity
+neurobiology of Major Depression Disorder
+individualised DBS treatment of TRD
+specific targets
+neurostimulation
+abnormal nodes of large-scale brain neuronal network
+patients
+suggestion of novel targets
+source signals of ROI
+HD-EEG
+interconnected nodes
+Source activity
+affective disorders Objective
+resting-state high-density EEG recording
+necessary knowledge
+individual head model
+overarching goal of proposed project
+distributed linear inverse solution
+future implementation
+Granger causal modelling
+action
+healthy controls
+better characterisation of pathophysiology
+higher efficacy
+regions
+Methods
+Relevance
+research objectives
+findings
+Microstate analysis

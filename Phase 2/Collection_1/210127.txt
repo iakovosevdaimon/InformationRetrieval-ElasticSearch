@@ -1,0 +1,43 @@
+potential drug combinations
+drug combination hits
+drug combination prediction
+emergence of drug resistance
+rational selection of personalized cancer drug combinations
+multi-targeted drug combinations
+drug combination screen data
+cancer treatment
+cancer patients
+preclinical drug testing platform
+underlying drug target interactions
+individual patient samples
+ovarian cancer samples
+cancer cells
+personalized strategies
+identification of patient subgroups
+patient-derived leukaemia
+acquired resistance
+effective therapeutic strategies
+rapid development of resistance
+selective efficacy
+limited efficacy
+sample subgroups
+treatment options
+Informatics approaches
+clinical trials
+clinical collaborators
+line chemotherapy
+patients resistant
+pharmacological screening data
+network modelling approaches
+significant synergy
+grand challenges
+clustering methods
+computational tools
+molecular profiling
+health care system
+signalling networks
+project
+relevant doses
+novel
+mechanisms
+drugs

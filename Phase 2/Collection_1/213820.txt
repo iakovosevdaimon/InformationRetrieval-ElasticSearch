@@ -1,0 +1,60 @@
+thermal physics
+mechanical physics
+Multi-physics mOdelling of high Temperature engIne ValvEs
+multi-physics model capable
+engine environment
+project aim
+unique new set of multi-physics models
+controllability of pneumatic aircraft engine valves
+high-temperature engine valve environment
+physical setups
+physical laws
+experimental data
+project falls
+MOTIVE project
+experimental testing campaign
+pneumatic valve design
+modelling of elementary physical phenomena
+aerodynamic testing
+Enhanced Aircraft Performance
+key physical domains
+addition
+main objectives
+CS2 Large Passenger Aircraft IADP Platform
+major technical objectives
+faster pneumatic component prototyping
+scaled demonstration
+numerical insight
+demonstration cases
+numerical simulation
+CS2 programme
+IADP workspace places strong emphasis
+materials characterisation
+bespoke friction
+Applied Technologies
+successful completion
+Predictive assessment
+production
+fluid dynamics
+Development
+aerospace community
+scenarios different
+systematic understanding
+limits of validity
+range
+functionality
+designs
+framework
+transfer of results
+accuracy
+work package WP1
+validation
+IADP's Partners
+ground
+representativeness
+tools
+lead times
+flight
+mind
+immediate impact
+Achievement

@@ -1,0 +1,46 @@
+memory system efficiency
+lower memory system energy
+hardware level
+efficient memory systems
+different memory system problems
+high-level hardware
+system-level efficiency metrics
+energy efficiency
+designers approach memory system design
+Efficient Memory System Design Computer systems
+system-level metrics
+low-level hardware
+high-level system efficiency goals
+software components
+software optimizations
+software integration
+efficiency gains
+shared policy framework
+researchers
+increased performance
+shared exchange of metadata
+data movement
+disparate components
+CC-MEM
+open new possibilities
+bilateral exchange of metadata
+new challenges
+fine-grained optimizations
+development of local solutions
+effective divisions of responsibility
+today’s
+Keys
+opportunities
+Composability
+perspective
+novel communication
+bandwidth
+way
+powerful processors
+Coordination
+past decade
+key novelty
+computation
+trend
+point
+results

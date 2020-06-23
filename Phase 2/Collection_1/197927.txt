@@ -1,0 +1,53 @@
+Kähler geometry
+algebraic differential equations
+transcendental algebraic geometry
+important questions
+compact Kähler manifolds
+Ampère equations
+Diophantine equations
+analysis
+powerful recent results
+structure of projective
+basic questions
+ground-breaking questions
+important progress
+entire curves
+related area of research
+theorem
+higher dimensional generalizations of Faltings
+Kawamata
+improved understanding of Monge
+systematic applications
+Lang conjecture
+duality of positive cohomology cones
+positivity
+discovery of holomorphic Morse inequalities
+negativity properties
+large number of key concepts
+world
+young researchers
+Shokurov
+classification theory of surfaces
+Kollár
+Kodaira
+instability
+singularities of plurisuharmonic functions
+purpose
+so-called Vojta program
+Green-Griffiths
+curvature tensor
+tangent bundle
+singular hermitian metrics
+fundamental problems
+postdocs
+Mori
+variety of general type
+plan
+Harder-Narasimhan filtration
+international collaborations
+subjects
+stronger interactions
+grant
+goal
+dimensions
+breakthrough

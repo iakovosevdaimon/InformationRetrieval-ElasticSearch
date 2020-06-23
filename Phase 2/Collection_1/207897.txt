@@ -1,0 +1,57 @@
+universality hypothesis
+mathematical theory of universality
+Statistical Mechanics Universality
+interacting Fermi systems
+case of interacting systems
+Condensed Matter
+spin systems
+body systems
+improved fundamental understanding of universality phenomena
+quantum transport
+mathematical analysis
+representative of different instances of universality
+scaling theory
+broken continuous symmetry
+multiscale analysis
+disordered quantum
+phenomenon of continuous non-abelian symmetry
+key problems
+project
+discrete harmonic analysis
+order phase transition
+quantum critical point
+dimer models
+scaling limits
+broad context of statistical mechanics
+nematic order
+edge transport coefficients
+independence of certain key observables
+functional inequalities
+Ising
+reflection positivity
+loss of translational invariance
+equivalence
+bulk
+central concept
+constructive renormalization group
+inter-connected research lines
+pattern formation
+microscopic details
+development of new tools
+rigidity estimates
+role of boundary corrections
+study
+branches of mathematics
+effective combination
+validity
+conductivity
+quantization
+complementary techniques
+understood aspects
+settings
+impact
+final goal
+striking evidence
+particular attention
+physics
+Remarkable examples

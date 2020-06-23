@@ -1,0 +1,46 @@
+verification of progress
+properties of concurrent systems
+specification theory
+Progress Abstractions Concurrent computation
+software specification
+correctness of concurrent software
+type systems
+security protocols
+approach of VeSPA
+blocking concurrent programs
+analysis scalability problem
+automata theory
+building
+Gardner's work
+recent work of D'Osualdo
+compositional verification method
+case of Safety
+VeSPA project attacks
+sub-fields of Concurrency Theory
+industrial case
+Good specifications
+correctness proofs
+formal approach
+layers of abstractions
+system crash
+key properties
+process algebra
+Erlang programming language
+true encapsulation of behaviour
+space
+reasoning
+consideration
+D'Osualdo's experience
+decentralised collection of interacting components
+possible executions
+unique expertise of
+proper tools
+scalable methodology
+point of view
+critical infrastructure
+requests
+trust
+approaches
+goal
+secret
+society

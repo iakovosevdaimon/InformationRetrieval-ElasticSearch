@@ -1,0 +1,57 @@
+INformation-Theoretic analysis of Embodied
+information-theoretic concepts
+information structures
+application of information theory
+algorithmic application of information
+continuous flow of perceptual information
+systems of coupled equations
+theoretic measures
+quantitative methodology
+robust methodology
+nonlinear functional interactions
+importance of bodily interactions
+embodied cognition view
+grounding concepts
+kinematic studies
+analytical framework
+novel framework
+synthetic models
+causal relationships
+motor actions
+sensorimotor flow
+ecological perspective
+research plan
+initial development
+research program
+psychological experiments
+human kinematic data
+relevant scientific journals
+main scientific innovations
+dynamical system perspective
+neuro-robotics models
+physical world
+computer simulations
+qualitative descriptions
+mathematical tools
+robotic platforms
+structuring knowledge
+body parts
+software
+biological organisms
+general public
+lesioning synapses
+frequentist statistic
+testbed
+study
+datasets
+proposal
+proposed approach
+open source format
+industrial sector
+participants
+validation
+joints
+novelty
+Findings
+project
+variables

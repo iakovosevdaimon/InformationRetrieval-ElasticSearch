@@ -1,0 +1,51 @@
+natural enzyme complexes
+heteromeric enzyme complexes
+COMPUTATIONAL EVOLUTION OF ENZYME VARIANTS
+enzyme design paradigm
+Exploitation of isolated enzyme subunits
+alteration of enzyme structure
+heteromeric protein complexes
+CONFORMATIONAL NETWORKS Natural enzymes
+useful isolated subunits
+advantageous biosynthetic properties
+stand-alone enzymes
+previous computational design approaches
+computational predictions
+proficient enzymes
+natural counterparts
+application of conformational network models
+key conformational states
+different protein partners
+essential functional protein dynamics
+enormous array of useful reactions
+biosynthetic applications
+beneficial mutations
+specific properties
+Initial mutations
+Current approaches
+Experimental evaluation
+evaluation of thousands
+capable of accelerating reactions
+g Markov State Models
+mimicking Nature’s rules of evolution
+tremendous challenge
+chemoinformatic tools
+costly random mutagenesis experiments
+complexity
+present approach
+complex selective pressures
+modern chemical biology
+potential
+activity
+metabolic stress
+regulation
+host cell
+efforts
+resulting catalytic efficiencies
+functions
+orders of magnitude
+substrate scope
+underlying physical principles
+revolutionary nature of EnzVolNet
+debate
+new strategy

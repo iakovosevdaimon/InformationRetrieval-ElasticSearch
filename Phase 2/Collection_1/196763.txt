@@ -1,0 +1,53 @@
+pain patients
+spine surgery patients
+elderly patients
+individualized biomechanical models
+biomechanical information
+biomechanical scenario
+prolonged pain
+biomechanical factors
+surgery outcome prediction
+instability-related pain
+personalized treatment planning
+Individualized treatment planning
+multi-parametric biomechanical models Chronic
+advanced imaging
+biomechanical multi-body simulation
+conservative treatment
+finite cell models
+image analysis
+image-based criteria
+prediction of bone strength
+MRI
+high-level objective of iBack
+results of iBack
+advanced image post processing
+individual treatment success probability
+personalized surgical strategies
+magnetic resonance imaging
+bone mineral density
+main objectives of iBack
+finite element
+major burden
+major impacts
+routine density
+surgical approach
+established objective
+sagittal balance radiographs
+scaling indices
+underlying pathophysiologic process
+fracture assessment
+tools
+subjective decision
+surgeon’s experience
+MBS
+osteoporosis
+therapy
+computed tomography
+source of disability
+screw loosening
+interactions
+institution
+statistical model
+ccm
+example

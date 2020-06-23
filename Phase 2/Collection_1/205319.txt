@@ -1,0 +1,51 @@
+available contact data
+use of social contact data
+social contact surveys
+contact patterns
+dynamics of infectious diseases
+serial cross-sectional serological data
+Modeling Infectious Diseases TransMID
+diseases of major public health
+close contact household networks
+serial cross-sectional surveys
+Europe
+heart of TransMID
+range of public health questions
+Translational methodology
+key epidemiological parameters
+development of novel methods
+effective application
+temporal effects
+transmission dynamics
+temporal variations
+TransMID’s impact
+epidemiological challenges
+Transdisciplinary research
+mathematical theory
+unifying methodology
+potential effective contacts
+populations of different sizes
+different geographic contexts
+density dependent mass action
+heterogeneity
+applications
+specific focus
+empirical assessment
+assumption of homogeneous mixing
+sub
+accompanying software
+combination
+account
+households
+acquisition
+improved techniques
+nature
+design of sero
+frequency
+toolbox
+pertussis
+aim
+following work packages
+settings
+cytomegalovirus
+measles

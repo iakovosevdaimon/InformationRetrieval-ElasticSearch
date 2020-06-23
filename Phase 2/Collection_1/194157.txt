@@ -1,0 +1,63 @@
+network switches
+BEBA approach
+network devices capable
+large overhead of centralized network control tasks
+centralized control
+processing tasks
+middlebox-type network functions
+processing rules
+Network Functions Virtualization community
+static packet
+Behavioral Based Forwarding BEBA
+network security applications’ domains
+programming abstraction
+reactive control
+wire-speed
+BEBA’s approach
+open source virtual BEBA switch
+node-level processing primitives
+current OpenFlow devices
+high latency
+level events
+key benefits
+high performance
+platform independency
+current shortcomings
+commodity switches
+BEBA’s answer
+platform-agnostic XFSM
+time-varying flow
+Short-time impact
+form of eXtended Finite State Machines
+monitoring
+internal statistics changes
+link
+specific project’s attention
+merchant-silicon chipsets
+programs
+traffic behavior
+real world adoption
+operation
+specification
+implementation feasible
+queue conditions
+ambitious goal
+operators
+consistency
+scalability
+XFSMs
+reaction
+future-proof
+concrete
+promise
+enterprises
+identification
+OpenFlow’s extensions
+pragmatic innovation strategy
+vendors’
+software
+standardization
+possibility
+closed platforms
+emerging needs
+casting

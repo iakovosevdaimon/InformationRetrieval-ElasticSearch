@@ -1,0 +1,54 @@
+heat exchangers
+electrical components
+liquid loop systems
+vapour cycle systems
+Air cycle systems
+different cooling systems
+electrical environments
+electrical motors
+E-ECS architectures
+Thermal management architectures
+Wing ice protection systems
+heat transfer correlations
+Development of MODELICA Libraries
+Electrical Environmental Control System
+compressors
+VCS
+thermal management perimeter
+project
+object-oriented nature of Modelica
+different levels
+Jet pumps
+appropriate strategy
+detailed distributed approaches
+simple lumped approaches
+appropriate governing equations
+steady state
+Dymola compatible
+conservation law of energy
+pipes
+cold plates
+goal
+turbines
+empirical information
+momentum
+mass
+integrated simulation
+reservoirs
+power electronics
+finite volume method
+relevant parameters
+ε-NTU
+transient operational conditions
+fans
+optimized model
+valves
+diphasic coolants
+compressor efficiencies
+complete architecture
+sprayers
+multi-level approach
+addition
+instance
+modelling
+efforts

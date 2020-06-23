@@ -1,0 +1,61 @@
+NLP technologies
+Large-Scale NLP
+natural language processing
+scale NLP applications
+human language
+required information
+linguistic information
+information extraction
+access information
+circulating information
+Fast Natural Language Parsing
+language barriers
+large-scale processing
+widespread application of NLP
+web-scale processing
+fast parsers
+popularization of information technology
+speed of parsers
+faster parsers
+previous sentences
+meaning of sentences
+accurate syntactic parsing
+current state-of-the-art parsing algorithms
+kinds of web
+opinion mining
+public opinion
+joint application
+crucial goal
+vast amounts of available data
+large amounts of unstructured text
+high computational costs
+convenient forms
+address people's needs
+question
+reuse of intermediate results
+Internet
+summarization
+key asset
+machine translation
+fundamental problem of modern societies
+regularities
+form of written
+redundant calculations
+effective leveraging
+fronts
+search engines
+techniques
+major roadblock
+institutions
+patterns
+unprecedented growth
+small sets of documents
+second
+standard hardware
+individuals
+bottleneck
+inspired model
+context
+project
+FASTPARSE
+explicit calculation

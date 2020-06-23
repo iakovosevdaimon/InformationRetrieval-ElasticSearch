@@ -1,0 +1,52 @@
+model uncertainty
+Decision Theory
+role of uncertainty
+traditional decision models
+decision theorists
+research agenda
+Dynamic Decision Making
+dynamic decision problems
+standard model of decision making
+research frontier
+applied research
+comprehensive models
+Expected Utility model
+general theory of recursive intertemporal preference models
+analysis
+contexts
+static
+example
+Ambiguity
+fields of Economics
+Applications Everyday actions
+alternative approaches
+different approaches
+Macro-Finance
+behavioral phenomena
+deeper understanding
+Ellsberg
+steady state
+certainty effect
+violations of Independence
+randomization
+departures
+famous thought experiments of Allais
+agents’ behavior
+atemporal
+novel theoretical findings
+concepts
+incompleteness of preferences
+fundamental importance
+random choice
+relevance
+result
+main goals
+Macroeconomics
+important issue
+biases
+final outcome
+Knight's view
+relationship
+Risk
+Economists
+years

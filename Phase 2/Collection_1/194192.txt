@@ -1,0 +1,57 @@
+translation quality
+Translation experts
+high-quality translation
+implicit translation evaluation
+quantitative translation evaluation results
+automatic translation approach
+phase translation output
+statistical machine translation models
+human evaluation schema
+Massive Open Online Courses Massive Open Online Courses
+blog text
+language barrier
+language diversity
+high quality
+project results
+language-independent nature
+MOOC users’ blog posts
+end users
+lecture subtitles
+domain experts
+end user opinion
+types of text genre
+major growth impediment
+Iversity MOOC platform
+digital video lecture library
+value
+ZH
+existing infrastructure
+English
+presentations
+extensive advanced bootstrapping of new resources
+sentiment analysis
+strict-access control
+translated texts
+assignments
+MOOCs
+tests
+syntax
+strong use cases
+resulting entity lists
+parallel data
+BG
+cost-efficient crowdsourcing setup
+Separate task mining applications
+BRIC languages
+topic detection
+feedback vector
+methodology
+weak MT support
+PT
+peoples
+size
+citizens
+impact
+Phrase
+TraMOOC
+objectives

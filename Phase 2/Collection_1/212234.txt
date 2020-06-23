@@ -1,0 +1,48 @@
+nanosatellite clusters
+cluster flight software
+triple-nanosatellite autonomous cluster flight mission
+new Autonomous Nanosatellite-Clusters Control
+autonomous cluster flight algorithms capable
+clusters of satellites
+FADER algorithms
+long-term satellite cluster flight
+autonomous orbit control
+European nanosatellite industry
+Communication Software Coordinated operation of clusters
+embedded software
+NanoC4 software package
+communication links
+mission scenarios
+mission lifetimes
+inter-satellite communication modules
+nanosatellite-payload data fusion module
+Coordination
+FADER ERC
+existing orbital control methods
+conventional large satellite
+available product
+space sector
+SAMSON’s prototype implementation
+minimal amounts of fuel
+various space-qualified processors
+navigation
+relative geometry
+nanosatellites
+team
+low Earth orbits
+FADER’s results
+year
+benefit
+multiple partners
+performance
+distance constraints
+fraction
+Grant
+usage of atmospheric drag
+market
+propulsion systems
+cost
+academia
+components
+science return
+PoC proposal

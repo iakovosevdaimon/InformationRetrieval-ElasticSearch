@@ -1,0 +1,47 @@
+framework of sensorimotor processing
+flexible sensorimotor processing
+mathematical understanding of sensorimotor processing
+Sensorimotor Coordination
+sensorimotor stream
+flexible sensorimotor behavior
+mathematical principles of biological sensorimotor control
+multiple bounded rational actors
+motor tasks
+single bounded rational actors
+Bayes-optimal behavior
+limited information-processing capacity of bounded rational actors
+Bounded Rationality
+low-level perceptual processing
+human motor control
+fundamental principles of intelligent behavior
+Bayes-optimum
+resource allocation principles
+recent years Bayes-optimal actor models
+great computational power
+robust real-world performance
+well-controlled laboratory tasks
+emergence of hierarchical control structures
+real-world problems
+computational effort
+essential missing link
+multiple degrees of abstraction
+great technological value
+experimental evidence
+successes
+account
+speed
+football
+uncertain environments
+gold standard
+different time scales
+theoretical predictions
+humans
+decisive step
+learning
+machines
+disaster zone
+advances
+question
+individual
+aim of BRISC
+abstract concepts

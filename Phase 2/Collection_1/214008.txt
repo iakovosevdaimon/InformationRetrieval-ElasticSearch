@@ -1,0 +1,46 @@
+small angles
+Direct imaging
+existing HCI instruments
+characterizing exoplanets
+generation of exoplanets characterization instruments
+Exoplanet Imaging
+existing ground-based HCI instruments
+planet detection sensitivity
+Large Telescope
+planet signals
+stellar residuals
+direct detection of young
+Super-Earth exoplanets
+high-contrast imaging
+Habitable Zone
+faint planet photons
+detection limit
+cool stars
+wavefront errors
+dedicated Extreme Adaptive Optics instruments
+HZ of low mass stars
+bright stellar halo
+young Jovian
+low resolution spectroscopy of Neptune
+wavefront sensing
+research proposal
+ExAO WF residuals
+major goals of future ground
+chemical properties of exoplanetary atmospheres
+Earth’s atmospheric turbulence scatter starlight
+warm extrasolar giant planets
+science region
+required technique
+speckle noise
+control techniques
+example
+evidences of biosignatures
+diffraction effects
+times
+challenge
+ability
+state
+type
+Trail
+coronagraph
+motive

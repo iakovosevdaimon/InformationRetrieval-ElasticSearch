@@ -1,0 +1,34 @@
+Advanced Web Applications Web applications
+dynamic program analysis
+dynamic analysis
+performance of advanced web applications
+novel automated program analysis algorithms
+user's web browser
+modern software
+static
+lots of errors
+PAW project
+project hypothesis
+JavaScript
+basic principles of software verification
+main programming language
+formal reasoning
+programs
+recent results
+infrastructure available
+abundance of techniques
+libraries
+reach
+decades
+scientific breakthrough
+new ways
+design of languages
+advances
+researchers
+everyday users
+alternatives
+central idea
+TypeScript
+Dart
+reusability
+addition

@@ -1,0 +1,58 @@
+novel navigation system
+fusion of GNSS
+capable navigation system
+reliable navigation
+navigation solution
+non-dedicated mass market GNSS receivers
+inertial data
+inertial sensors
+technical feasibility
+INS Low-Cost Attitude Determination System
+advantages of multi-antenna GNSS systems
+proper commercial feasibility analysis
+differential GNSS carrier-phase measurements
+non-dedicated receivers
+complete low-cost hardware prototype
+integrating data
+MEMS sensors
+novel algorithms
+high data rates
+compensated inexpensive sensors
+objective of GLAD Phase
+multi-antenna configuration
+mass production
+hardware platform
+prototype demonstrator
+cost-effective implementation
+real-time implementation
+D project
+accurate orientation
+preliminary study
+excellent dynamic response
+antennas
+previous R
+size
+power
+business plan
+use of GPS
+drift inherent
+numerical integration of acceleration
+competitive performance
+computational complexity
+path
+test
+applications
+velocity
+Galileo
+absolute reference
+complementarity
+technologies
+addition
+targeted embedded microcontroller
+EGNOS
+FP7 programme
+fabrication
+accuracy
+position
+proposal
+approach

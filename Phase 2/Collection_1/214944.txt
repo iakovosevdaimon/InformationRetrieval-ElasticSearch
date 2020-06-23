@@ -1,0 +1,50 @@
+metabolic models
+CO2-water exchange models
+water gas exchange models
+extended diel models
+multi-layer models
+CAM metabolism
+CAM plants
+metabolic engineering of crop plants
+multi-timestep diel models
+gas-water exchange
+engineering high-temperature
+high productivity
+C3 photosynthesis
+drought REsistantLEAF metabolism
+operation of C4 photosynthesis
+high temperatures
+modelling of leaf metabolism
+couples genome-scale metabolic modeling
+higher temperatures
+diel cycle
+Crassulacean Acid Metabolism
+interface
+improved productivity
+carbon
+Model-driven studies of C4
+exhibit higher efficiency
+main site of photosynthesis
+Coupling CO2
+rational strategies
+research objectives
+fundamental questions
+mathematical description of processes
+computational approach
+Climate change
+increasing human population
+abiotic stresses
+biggest challenges
+Leaves
+environmental conditions
+Food security
+widespread form
+humidity cycles
+century
+workplan
+mechanisms
+cellular components
+trade-off
+values
+problem
+behavior

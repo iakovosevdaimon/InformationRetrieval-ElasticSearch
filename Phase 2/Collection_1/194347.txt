@@ -1,0 +1,48 @@
+cryptographic systems
+security post-quantum cryptography
+security post-quantum public-key systems
+Alternative systems
+building quantum computers
+large quantum computers
+PQCRYPTO
+long-term security Online banking
+exact security levels
+secure communication
+mobile communication
+elliptic curves
+Public-key algorithms
+cryptanalytic attacks
+RSA
+Long-term confidential documents
+underlying cryptographic algorithms
+portfolio of high
+cloud computing
+efficient implementations of high
+Enigma-encrypted messages
+broad spectrum of real-world applications
+different performance challenges of mobile devices
+telemedicine
+e-commerce
+patient health-care records
+finite fields
+state secrets
+implementation details
+discrete-logarithm problem
+parameter choices
+Cryptographers
+digital signatures
+research
+information
+cryptanalysts
+users
+society
+protocols
+person meetings
+EU
+governments
+practice
+Internet of Things
+consequences
+years
+speed
+variation

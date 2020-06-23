@@ -1,0 +1,71 @@
+project
+Mobile Radio Access Network
+mobile radio access technology
+wave mobile propagation
+mobile users
+European industry
+major European operators
+European head
+European competitiveness
+Millimetre-Wave
+new radio interface
+major European telecommunications regulators
+ultrafast mobile broadband services
+G standards
+extensive radio channel measurements
+Generation Integrated Communications
+major infrastructure vendors
+proposed concepts
+wave band deployment
+novel network management functions
+G multi-RAT ecosystem
+design new concepts
+G PPP’s KPI
+Universities Aalto
+standards fora
+measurement equipment vendors
+use of novel adaptive
+strong industry leadership
+advanced channel models
+ultra-responsive cloud services
+immersive applications
+CEA-LETI
+Fraunhofer HHI Institute
+Ericsson
+Germany
+Telefonica
+leading research institutes
+IMDEA Networks
+D streaming
+Alcatel-Lucent
+Rohde
+cooperative beam
+Keysight Technologies
+Dresden
+Chalmers
+Bristol
+France
+Samsung
+UHD
+Nokia
+Intel
+Orange
+Advisory Board
+mmMAGIC
+feasibility analysis
+academic excellence
+specific challenges
+secure essential IPRs
+Schwarz
+Finland
+tracking techniques
+Huawei
+GPP
+architecture components
+Sweden
+rigorous validation
+usage
+key component
+SME
+guidance
+consortium

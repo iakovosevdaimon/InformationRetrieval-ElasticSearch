@@ -1,0 +1,36 @@
+symbolic controllers
+high-level symbolic controller
+area of symbolic control
+symbolic control toolbox
+scalability of symbolic control
+use of symbolic control techniques
+symbolic control approach Cyber-physical systems
+compact symbolic models
+levels of control
+physical entities
+programmable cyber-physical systems
+continuous physical dynamics
+high-level programming language
+development of efficient controller synthesis algorithms
+automated model-based synthesis tool
+systems engineers
+novel algorithms
+low-level controllers
+synthesis of robust interfaces
+construction synthesis paradigm
+design of programmable CPS
+specified behaviours
+PROCSYS project
+rich set of behaviours
+main bottlenecks
+main objective
+discrete dynamical system
+partial exploration
+general framework
+advanced functionalities
+computational elements
+intuitive formalism of hybrid automata
+challenging real-life applications
+details
+robustness
+Correctness

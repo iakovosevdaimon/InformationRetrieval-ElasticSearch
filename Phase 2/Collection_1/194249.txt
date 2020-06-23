@@ -1,0 +1,49 @@
+CENTAURO robot
+human operator
+Robot Disaster scenarios
+Robot percepts
+human-robot symbiotic system
+Dexterous Manipulation
+developed disaster response system
+autonomous robot skills
+operator workload
+Centauro system
+routine manipulation
+body telepresence suit
+anthropomorphic upper body
+complex bimanual manipulation tasks
+capabilities of today's disaster response robots
+unmodified human tools
+upper-body haptic feedback
+CENTAURO project
+capable of robust locomotion
+necessary situation awareness
+navigation tasks
+complex tests
+Fullbody Telepresence
+Robust Mobility
+control loop
+rough terrain
+corresponding evaluation criteria
+austere conditions characteristic of disasters
+development
+bandwidth limitations
+Fukushima nuclear accident
+needed support
+communication latencies
+legged basis
+telepresent
+man-made environments
+inside of buildings
+end-user requirements
+Rich sensors
+suggested actions
+stairs
+rescue workers
+series
+augmented reality techniques
+valve
+compliant actuators
+order
+hose
+debris

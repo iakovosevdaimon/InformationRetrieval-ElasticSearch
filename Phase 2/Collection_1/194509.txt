@@ -1,0 +1,49 @@
+Big Data
+data structures
+data distribution
+data summarization
+Small Summaries
+distributed data sets
+effective summaries
+new summaries
+potential of summaries
+analysis of compact summaries
+compact summary
+summary techniques
+Popular summary structures
+complex structures
+massive matrices
+massive graphs
+influence of existing summary
+massive quantities of information
+fundamental challenge
+fundamental computations
+modern applications
+important problems
+expert team
+single machine
+wide array of problems
+five-year research grant
+sketches
+design
+point
+verification of outsourced computation
+Bloom filter
+key features
+PI
+state
+suitable representations
+vector norms
+areas
+substantial impact
+practice
+products
+set of items
+challenging algorithmic questions
+art
+promising approach
+Support
+Principal Investigator
+Success
+goal
+directions

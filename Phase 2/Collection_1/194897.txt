@@ -1,0 +1,65 @@
+Generation emergency services
+provision of emergency services
+generation eMergencY commuNicatiOnS Current emergency systems
+eCall services
+IP-based services
+IP technologies
+voice calls
+Generation platform capable of accommodating rich-media emergency calls
+EMYNOS demonstrator
+audio-video calls
+integration of social media
+hoax calls prevention
+partial media support
+broadband IP-based infrastructures
+eCall testers
+IP Multimedia Subsystem
+eCall concept
+centers
+Τhe main objective of EMYNOS project
+various mature technologies
+legacy telecommunication technologies
+caller location
+haptic devices
+heterogeneous devices
+European citizens
+end users
+lack of integration
+complementing location information
+satellite operator
+VoIP provider
+retrieval
+TV sets
+AAC
+SIP
+complementary expertise
+implementation
+people
+disabilities
+terms
+PCs
+IMS
+design
+closest-available
+regulatory requirements
+analog modem
+Session Initiation Protocol
+redirection
+photos
+powerful tool
+partners
+related limitations
+text
+limited data
+routing
+order
+videos
+SMS
+day
+chain
+operational environment
+WebRTC framework
+TRL
+issues
+operators
+responders

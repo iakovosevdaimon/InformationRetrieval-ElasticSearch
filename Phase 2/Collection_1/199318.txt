@@ -1,0 +1,52 @@
+automotive applications
+High Integrity Applications
+based applications
+informative applications
+market applications
+safety critical applications
+different positioning requirements
+continuous probabilistic positioning of high integrity
+high integrity satellite navigation
+innovative integrity framework
+red area
+high demands
+green area
+yellow area
+proper handling of positioning data
+data acquisition
+potential of advanced satellite positioning
+Automotive EGNSS Receiver
+high-level data fusion
+EGNSS localization
+area of Advanced Driver Assistance Systems
+use cases
+order
+InDRIVE
+future use of mass-market GNSS
+terms of false alarm rates
+specified false alarm rates
+signal tracking
+integrated solution
+future Intelligent Transportation Systems
+project stands
+computation of confidence
+connected vehicles
+low-level signal processing
+ADAS
+automated manoeuvres
+adoption
+lower time
+main objective
+compliance
+traffic
+emergency breaking
+accuracy
+collision
+new technology
+weather information
+approach
+areas
+innovation
+extension
+practice
+result

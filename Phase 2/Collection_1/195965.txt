@@ -1,0 +1,51 @@
+ANALYSIS OF RC STRUCTURES
+practical structural analysis
+RC element
+proposed structural analysis method
+nonlinear response of RC structures
+proposed procedure
+new structural analysis procedure capable
+nonlinear finite element analysis
+overall structural response of RC frames
+traditional methods of structural analysis
+predicted behaviour of RC frames
+proposed project
+proposed approach
+proposed work
+predicted behaviour of published physical models of RC structural elements
+nonlinear behaviour of reinforced concrete structures
+nonlinear finite-element analyses
+intricate structures
+numerical predictions
+efficient numerical procedure capable
+individual Neural Networks
+single neural network
+design optimization
+practical applications
+representative model
+combined use of published test data
+new solution strategy
+primary objective
+reliability problems
+result
+implications
+robustness
+beam-column joints
+ultimate limit state
+extensive parametric investigations
+formation
+effect of crack
+parameters
+counterparts
+joint regions
+computational resources
+Soft Computing framework
+comparative study
+research
+validity
+stability
+attention
+objectivity
+order
+training process
+studies

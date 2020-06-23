@@ -1,0 +1,52 @@
+EO data access catalogue
+dedicated data access
+big data access
+Coastal Waters research themes
+Earth Observation data
+new research applications
+processing infrastructure
+processing chains
+Coastal Waters Research Synergy Framework
+monitoring of Coastal Waters
+Co-ReSyF project
+research community
+pre-processing tools
+coastal domain
+distributed processing
+Co-ReSyF release
+Co-ReSyF capabilities
+future provision of future Coastal Waters services
+automated tools
+retrieval tools
+cloud infrastructure
+cloud framework
+end
+system beta testers
+easy deployment
+fast deployment
+number of pre-processing
+inexperienced researchers
+pioneering researchers
+methods
+standards
+discovery
+Summer School
+advantage
+scalability of resources available
+s collaborative
+algorithms
+definition of requirements
+toolboxes
+series of early adopters
+development of high
+extensive training material
+project's events
+Final Workshop
+control
+usage
+components
+included facilities
+Advanced users
+main objective
+platform
+SenSyF

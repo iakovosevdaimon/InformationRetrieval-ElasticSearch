@@ -1,0 +1,51 @@
+crossbar of integrated MEMS selectors
+Integrated Crossbar of Microelectromechanical Selectors
+crossbar architecture
+high nonlinearity
+prototype 3x3 crossbar of integrated memristor
+dense crossbar system
+neighbouring devices
+MEMS switches
+TiO2 memristor devices
+high synaptic density
+required high density
+stacked crossbars of analog non-volatile memory devices
+non-volatile memories
+inherent nonlinearity
+particular NVM
+terminal MEMS switch
+alternative selector
+memristors
+scalability
+stackability
+project
+fields of hardware ANNs
+Neuromorphic Computing
+complex ANNs
+transistor scaling
+neural networks
+biological prototypes
+selected device
+Biological systems
+sneak path problem
+artificial neuronal networks
+modern supercomputers
+electrical shorts
+foundational element
+improved architectures
+kWs of power
+Hybrid CMOS chips
+reasonable energy consumption
+RF applications
+major industry players
+vector matrix multiplication
+functionality
+remaining grand challenges
+example
+potentiation
+spiking
+ReRAM
+connectivity
+findings
+perceptron
+proposed work

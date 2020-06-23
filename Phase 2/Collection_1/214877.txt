@@ -1,0 +1,45 @@
+billiard flows
+Singularities
+D periodic Lorentz gas
+archetypal smooth systems
+ergodic theory of smooth dynamical systems
+geodesic flows
+anisotropic spaces
+Smooth dynamics
+dynamical zeta function
+particular transfer operators
+Intrinsic resonances of Sinai billiard maps
+Hilbert spaces
+Fine statistical properties
+existing spaces
+transversal families of smooth nonuniformly hyperbolic maps
+fractional susceptibility function
+Growth of dynamical determinants
+good spectral properties
+challenging natural systems
+particular existence
+infinite measure
+anisotropic Banach
+dispersing billiards
+Fractional response
+zeta functions of differentiable
+new technical tool
+functional analytical tools
+measure of maximal entropy
+Milnor-Thurston kneading theory
+nuclear decompositions
+applications
+form of hyperbolicity
+exponential mixing
+important progress
+Thermodynamic formalism
+low regularity
+desirable features
+logistic family
+global Gutzwiller formula
+beginning
+compact cusps
+development
+Goals
+project
+century

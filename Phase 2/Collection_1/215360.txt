@@ -1,0 +1,45 @@
+local protein unfolding events
+local unfolding rates
+slower local unfolding events
+slow global unfolding
+protein expression levels
+large libraries of therapeutic protein
+unique protein variant
+FRET signal
+heating
+FRET-loss
+evolution platform
+FRET-based signal
+minimised aggregation propensity
+increased thermostability
+variants
+thermostable therapeutic proteins
+droplets
+project
+FACS sorting
+single system
+set-up
+therapeutic antibody fragment proteins
+novel high-throughput
+low temperature
+screening approach
+enzymatic system
+single plasmids
+cell-free expression
+fast IR-induced temperature
+defined periods of time
+simple fluorescent assay
+direct report
+retention of folded structure
+non-natural amino-acid fluorophores
+enzyme activity
+emulsion
+advantage
+bulk
+TPs
+bovine enterokinase
+conditions
+perturbation
+stimulation
+denaturation
+recent advances

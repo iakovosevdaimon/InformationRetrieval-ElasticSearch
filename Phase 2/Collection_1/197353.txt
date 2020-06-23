@@ -1,0 +1,70 @@
+high degree of heterogeneity
+high mobility
+multi-service support
+high reliability
+high capacity
+anticipated heterogeneity
+new multi-service Air Interface
+multi-antenna schemes
+Scalable service delivery
+multi-cell radio resource management
+Flexible Air iNTerfAce
+device classes
+described sources of heterogeneity
+ultra-dense cell layouts
+scalable multiple access procedures
+multiple radio access technologies
+technical AI components
+overall AI framework
+massive machine
+low latency
+flexible waveform
+low cost
+mobility levels
+vehicular communications
+multicast services
+frame design
+modular design
+adaptive retransmission schemes
+massive number of devices
+mission critical communications
+system level simulations
+interference coordination
+ubiquitous coverage
+cooperation
+wIreless Communication networks
+innovation
+scalability
+high-end tablets
+advanced multi-user detection
+low-end sensors
+environments
+user-rates
+impacting standardization
+deployment types
+small cells
+forerunning projects
+mobile broadband
+versatility
+efficiency
+GNOW
+main stakeholders
+METIS
+flexibility
+macro
+intense validation
+static
+adaptation
+pursued properties
+partners
+exploitation
+Europe
+high-speed transport
+energy consumption
+Generation
+terms
+future-proofness
+Key Performance Indicators
+consortium
+respective outcomes
+forefront

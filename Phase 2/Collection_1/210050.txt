@@ -1,0 +1,52 @@
+permutation groups
+study of groups
+theory of random walks
+subject of growth concern matrix groups
+evolving theory of growth
+Classification of Finite Simple Groups
+subsets of finite simple groups
+PI
+proofs of growth results
+Product Theorem Szabo
+probability theory
+number theory
+asymptotic group theory
+CFSG-free proofs
+Babai's famous Quasipolynomial Graph Isomorphism Algorithm
+analysis of Babai's algorithm
+new area
+new Conjecture
+GROGandGIN initiative
+central result
+GROGandGIN team
+current GROGandGIN proposal
+parts of Babai's paper
+central open question
+symmetric group
+recent years
+spectacular progress
+conjecture of Helfgott
+similar result
+Pyber-Szabo
+bounded dimension
+recent probabilistic arguments
+major open problem
+ideas
+eye
+techniques
+issues
+deep consequences
+Breuillard-Green
+powers
+weaker version
+dependence
+Tao
+people
+perspective
+earlier work of Babai
+analogues
+different angles
+Lindenstrauss
+step
+way
+method

@@ -1,0 +1,65 @@
+scientific data management
+EST project
+VRE
+Research - Earth Science Themes
+Virtual Research Communities
+data publication
+research teams
+heterogeneous data
+Data providers
+ES data management specific services
+ES community
+EST e-infrastructure
+generic Service Oriented-based Architecture Virtual Research Environment
+European Virtual Environment
+Risk Management
+different multidisciplinary working ES domains
+scientific workflows
+VRC
+results
+needs
+preservation of scientific methods
+Land Monitoring
+Sea Monitoring
+specific requirements
+Capacity Building
+offering solutions
+collaborative working
+FP7 projects
+scientist potentials
+community engagement
+group of FP7 initiatives
+software
+state-of-the-art technologies
+weather
+wildfires
+tools
+implementation
+information
+Natural Hazards
+computational forms
+best practices
+models
+techniques
+floods
+volcanoes
+obstacles
+dynamic approach
+existing peaks
+end-user
+process
+algorithms
+citation
+output
+experiences
+curation
+resources
+creation of new knowledge
+users
+creativity
+means
+trust
+range
+access
+feedback
+capabilities

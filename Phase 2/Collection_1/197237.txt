@@ -1,0 +1,47 @@
+D surfaces
+D maps
+D conformal maps
+D Conformal mapping of protein surfaces
+D structures
+simplified representation of protein surfaces
+analysis of protein structures
+resolution of protein structures
+positive conformal maps
+new representation
+development of innovative high-throughput computation of protein interactions
+visualization methods
+powerful tool of conformal mapping
+emergence of new forms of visualization
+new classification
+new avenues
+surface of proteins
+mode of representation
+goals of structural biology
+DOCKing software
+molecular shapes
+structure of proteins
+different molecular architectures
+complete cross docking calculations
+long awaited proteome docking
+biological macromolecules
+present proposal
+interactive simulation methods
+picture of biological phenomena
+X-ray crystallography
+applications
+NMR
+comprehensive understanding
+atomic level
+knowledge
+basis
+negatives
+gates
+relationships
+chemical reactions
+life
+surficial similarity
+properties
+major impact
+insight
+paradigm
+fact

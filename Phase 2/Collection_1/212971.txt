@@ -1,0 +1,53 @@
+new objects
+astrophysical phenomenology
+new types of compact objects
+discovery of unexpected compact objects
+different fields
+strong gravity
+physical properties
+presence of fundamental fields
+alternative theories of gravity
+field of Numerical Relativity
+linear perturbation theory
+test-fields studies
+different models
+BHs
+non-linear stability
+numerical methods
+construction
+different scenarios
+non-linear numerical evolutions
+phenomenological properties
+solutions
+GW signals of binaries
+strong field regime
+General Relativity
+dynamics of new families of black holes
+trajectories of stars
+accretion disks
+X-ray spectrum
+computational developments
+Quasi periodic oscillations
+elliptic coupled PDEs
+lensing of light
+central player
+response
+NR
+recent detection of gravitational waves
+GWs
+shadows
+scientific scene
+ongoing experiments
+available libraries
+context
+synergies
+exceptional time
+perturbations
+Particular focus
+ringdowns
+project
+main items
+research
+endeavor
+observations
+breakthroughs

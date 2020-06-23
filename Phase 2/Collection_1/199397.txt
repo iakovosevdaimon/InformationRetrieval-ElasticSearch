@@ -1,0 +1,52 @@
+RAMPup modules
+Robotic Automation Modules
+Production RAMPup
+modular automation framework
+repository of process modules
+developers of automation solutions
+new automation installations
+manufacturer-independent process modules
+new market
+re-use of component modules
+SME robot developers
+modular industrial automation systems
+European SME production competitiveness
+process functionality
+module developers
+framework platform
+SME contexts
+existing technologies
+end user sites
+European end users
+small production lines
+end-user sites
+use-cases
+business case
+business perspectives
+functioning robot workcells
+broad range of processes
+real operational environments
+hardware
+performance
+integration effort
+level
+system integrators
+infrastructure
+physical reconfiguration
+different product variants
+software
+project
+customization
+technical realization
+SIs
+TRL7
+methodology
+cost
+play
+set
+plug-n
+Modularisation
+end-users
+ambition
+products
+demonstrators

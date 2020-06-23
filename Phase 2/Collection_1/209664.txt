@@ -1,0 +1,54 @@
+bone turnover
+bone tissue
+structural models of bone
+bone problems
+Mathematical models of bone
+complexity of bone models
+bone mass distribution
+prediction of bone adaptive behavior
+real description
+realistic situation
+complex systems
+continuous system
+excited hybrid systems
+different external signals
+realistic description of real world phenomena
+different biochemistry
+discrete system of particles
+real needs
+different time scales
+ordinary differential equations
+partial differential equations
+excited remodelling
+cellular level
+structural analysis non-linearity
+number of parameters
+external loading
+inner interactions
+approach closer
+analytical approach
+base of existing level of  known parameters
+parametric nonlinear analysis
+efficiency of numerical methods
+important role
+suggestions
+Multi-physics influences
+environmental conditions
+osteoblasts
+assumptions
+rate of periodicity
+delay
+patients
+osteoclasts
+demands
+theories
+great advantages
+explored model
+processes
+osteocytes
+strong skeleton
+project
+issues
+management of data
+aim
+strength

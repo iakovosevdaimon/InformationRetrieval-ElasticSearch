@@ -1,0 +1,41 @@
+Foundations of Efficient Lattice Cryptography Public key cryptography
+boundaries of efficient lattice-based cryptography
+advanced primitives
+building schemes
+practical constructions of schemes
+constructions of primitives
+advanced capabilities
+resulting schemes
+building blocks
+practical considerations
+novel capabilities
+fundamental barriers
+today's public key protocols
+crucial cryptographic protocols
+fundamental ones
+FELICITY project
+quantum attacks
+novel ways
+critical barriers
+cryptographic techniques
+general-purpose quantum computer
+improved solutions
+backbone of internet security
+decades
+corporate entity
+government
+central objective
+Recent theoretical breakthroughs
+basis
+focus
+frontier
+areas
+future
+promising candidate
+way of practicality
+bulk
+research
+efficiency
+reach
+progress
+methodology

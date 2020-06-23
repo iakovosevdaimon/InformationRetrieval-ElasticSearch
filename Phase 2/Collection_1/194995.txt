@@ -1,0 +1,51 @@
+analysis of nonlinear transmission problems
+inverse problems
+functional analysis
+analysis of singular perturbations of nonlinear transmission problems
+analysis of perturbed boundary value problems
+inclusion detection problems
+effect of perturbations
+functional analytic approach
+Concrete applications
+techniques of FAA
+analysis of physical models
+perforated domains
+respect
+Functional Analytical Approach
+implementation of analytic functions
+frame of potential theory
+existing literature
+complete theory
+terms of real analytic functions
+analyticity of certain nonlinear integral operators
+case of perforated
+domains of definition
+view of inter-sectorial applications
+new results of pure mathematics
+study effective properties of composite materials
+electromagnetic scattering
+method
+purpose
+development
+fluid dynamic
+layer
+research plan
+description
+shrinking holes
+key tool
+action
+elasticity
+present challenging difficulties
+realisation
+classical approaches
+inclusions
+future
+novelty
+following reasons
+coefficients
+continuum mechanics
+shapes
+final goal
+volume potentials
+explicit calculations
+special attention

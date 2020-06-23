@@ -1,0 +1,52 @@
+dynamical wireless environments
+successful evolution of wireless networks
+advanced MIMO technologies
+art of MIMO
+wireless broadband usage
+simultaneous wireless information
+potentials of MIMO technologies
+advantages of massive MIMO
+global wireless data traffic
+framework of advanced MIMO solutions
+existing wireless network testbed available
+high data throughput wireless communications
+generation networks
+ATOM project
+novel heterogeneous network architecture
+physical layer security
+successful deployment
+C-RAN
+gap
+network capacity
+proposed heterogeneous architecture
+key establishment
+cloud radio access networks
+comprehensive security solutions
+deployment of research knowledge
+power transfer
+dynamic physical layer conditions
+energy efficiency
+energy harvesting
+novel concept
+Multiple-input multiple-output
+keyless secure transmissions
+ambitious research agenda
+overall objective of ATOM
+rigorous algorithm-theoretic framework
+European countries
+spectrum scarcity
+consortium
+explosion
+world
+country partners
+order
+conventional cryptography
+SWIPT
+experimental evaluations
+practical constraints
+theory
+practice
+state
+annual rate
+novelty
+fold

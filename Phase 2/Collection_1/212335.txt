@@ -1,0 +1,53 @@
+population of visual neurons
+visual signals
+identified neurons
+motor-related activity
+walking-related signals
+self-generated visual flow
+internal estimation
+identified circuits
+fly’s walking behavior
+fly’s walking movements
+Circuit mechanisms of self-movement estimation
+early stages of visual processing
+neural activity
+internal representation
+accurate internal estimate of self-movement
+population of Drosophila optic-flow processing neurons
+activity of different cell-types
+motor-sensory coordination
+locomotor control
+identified sensorimotor principles
+specific locomotor parameters
+context of animal movements
+faithful representation
+use cell specific manipulations
+animal systems
+sensorimotor integration
+fundamental brain functions
+quantitative analysis of behavior
+spatial perception
+precise knowledge
+unprecedented causal relationships
+implications
+physiology
+cells
+formation
+ongoing body motion
+health
+optogenetics
+role
+locomotion
+record
+experiments
+scenarios
+modelling
+consequence
+framework
+dynamics
+disease
+results
+basic questions
+interaction
+evidence
+mammals

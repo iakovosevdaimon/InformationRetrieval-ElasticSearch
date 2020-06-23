@@ -1,0 +1,53 @@
+New Generation ADAS
+ADAS market
+automated driving
+new paradigm
+Trough e-Awake project
+HW
+Enhanced Driving Experience
+complex driving situations
+challenging new trends
+automated vehicles
+latest generation of Advanced Driving Assistance Systems
+high performance embedded system
+system architecture concepts
+software partitioning
+homogeneous software-centric architecture
+optimal hardware
+SW technology
+SW co-design methods
+optimal use
+accident vehicles
+vehicle-state
+vehicle integrators
+resulting - automotive qualified - embedded computing platform
+involved component technologies
+usage of multiple sensor technologies
+innovations
+single device
+significant enhancements
+IXION
+in-house developed algorithms
+functional acceleration
+innovative product
+efficiency
+scalability
+terms of cost
+x2
+automation of tasks
+environment
+heterogeneous information
+dedicated chips
+power consumption
+associated better road utilization
+flexibility
+tier
+solutions
+aforementioned challenge
+relevant actor
+reduction of development costs
+accidents
+reasoning
+overall goal
+years
+markets

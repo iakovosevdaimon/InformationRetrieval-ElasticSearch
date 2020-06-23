@@ -1,0 +1,47 @@
+quantum Springer theory
+Quantum Geometric Langlands Topological Field Theory
+geometric representation theory of quantum groups
+novel construction of quantum differential operators
+elliptic Springer theory
+four-dimensional topological field theory
+representations of quantum algebras
+computing QGL theory of arbitrary surfaces
+geometric approach
+geometric Langlands program
+unified construction
+higher genus surfaces
+new light
+new invariants of knots
+higher genus analogs of DAHA's
+DAHA of G
+Shende invariants
+conjectural knot invariants
+character variety
+quantization parameter
+quantizations of character varieties
+double affine Hecke algebras
+moduli spaces parameterizing G-bundles
+derived algebraic geometry
+modern techniques
+terms
+deep connections
+non-degenerate
+flat connection
+fundamental results of Cherednik
+Oblomkov-Rasmussen
+existence
+extension
+strong evidence
+root of unity
+long open problem
+mapping class group actions
+Verlinde algebra
+module
+previous research
+Witten
+great deal of attention
+interesting example
+special features
+following long-term projects
+manifolds
+torus

@@ -1,0 +1,52 @@
+data centre applications
+data-centre ecosystem
+data-centre vendors
+data centre market
+Heterogeneous Data Centres VINEYARD
+data-centre application programmers
+programmable hardware accelerators
+energy-efficient data centres
+typical data-centre programming frameworks
+types of programmable accelerators
+big-data analysis application
+types of energy
+VINEYARD consortium
+VINEYARD plans
+new programming framework
+novel hardware accelerator types
+programming complexity
+efficient energy use
+high-level programming framework
+resulting heterogeneous system
+coarse-grain programmable dataflow engines
+efficient servers
+bioinformatics application
+heterogeneous infrastructure
+application requirements
+fine-grain all-programmable FPGAs
+heterogeneous computing systems
+new servers
+reduced energy budgets
+accelerating applications
+Versatile Integrated Accelerator
+critical financial applications
+integrated platform
+embedded systems
+dataflow graphs
+required system software
+multiple ARM cores
+real use-cases
+soft-IP cores industry
+high-accuracy brain modelling
+higher performance
+MapReduce
+tight communication
+strong industrial foundations
+approach
+Storm
+advantages
+expansion
+processor
+value chain
+end-users
+Spark

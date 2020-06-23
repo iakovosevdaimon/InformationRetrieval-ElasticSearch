@@ -1,0 +1,55 @@
+Fast particle-based time integrator
+particle trajectories
+accurate particle-based time integrator
+larger time steps
+knowledge of matrix functions
+theory of matrix functions
+large time steps
+fixed-size matrix functions
+simulation of incompressible flows
+fluid particle position
+particle finite element method
+incompressible flows simulations
+flow equations
+faster method
+accuracy
+better stability
+suitability of incompressible flow simulation tools
+product-design engineers
+sea-worthiness analysis of watercrafts
+CFD engineers
+error analysis
+analytical solutions
+faster rate
+stability limit
+semi-Lagrangian semi-implicit formulation
+sea defence structures
+performance of innovative product designs
+order system of differential equations
+larger set of cutting-edge technology products
+research
+FastFlowSim project’s aim
+robust computation
+new concept
+framework
+velocity
+cross-disciplinary impact
+challenging physical conditions
+stable algorithms
+offshore technologies
+specialized area
+host
+scope
+deeper insight
+end users
+specific objective
+expert
+manner
+mechanism
+acceleration
+principal strategy
+exact pathlines
+Higham
+developments
+implementation
+hypothesis

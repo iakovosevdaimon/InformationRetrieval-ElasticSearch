@@ -1,0 +1,61 @@
+new generation of SDN
+metro-access networks
+fast ROADM
+footprint
+energy savings
+core networks
+functional subsystems
+flexible ROADM
+ROADM node
+s network capacities
+new photonic technologies
+programmable photonic components
+innovative photonic components
+necessary SDN software extensions
+complete functional SDN framework
+s sliceable bandwidth-variable transponder
+S-BVT
+G network
+Elastic Optical Networks
+new concepts
+scaling metro
+integrated flex-grid
+transponder aggregators
+significant savings
+energy consumption
+Sliceable multi-QAM format SDN-powered transponders
+regional network fiber plant
+scalable demonstrators
+large-scale flex-grid wavelength-selective switches
+large-scale WSSs
+operator costs
+suppressed operator margins
+TIM’s
+ROADMs
+Petabit
+Nokia’s lab infrastructure
+plugins
+Tb
+TPAs
+DCI
+digit growth
+datacenter interconnect
+holistic solution
+large channel counts
+dynamicity
+modules
+internet traffic
+resource utilization
+application interfaces
+white box
+C-band
+nanosecond-scale
+means
+Gbaud
+time
+sliceability
+emerging needs
+generations
+decade
+port
+QAMeleon’s devices

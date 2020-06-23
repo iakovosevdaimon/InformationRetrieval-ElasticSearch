@@ -1,0 +1,55 @@
+LIB safety
+safety hazard
+safety requirement
+LIB thermal management
+optimisation of LIB packs
+theoretical study of LIB cell
+embedded safety features
+high safety standards
+cell rupture
+single cell ignition
+safety perspective Lithium-ion batteries
+development of safer LIB cells
+ion battery packs
+explosion modelling
+potential ignition
+Electro-thermal modelling of lithium
+LIBs
+onset of runaway reactions
+explosion hazards
+extreme cases
+predictive tool
+reported accidents
+Conduct cases studies
+important knowledge gaps
+experiments
+particular emphasis
+cathode materials
+scale test data
+propensity
+heat generation
+effect different anode
+consumer electronics
+recommendations
+possible escalation
+performance
+electric vehicles
+extensive expertise
+airplanes
+dissipation
+applications
+conditions
+WP4
+European host
+flammable electrolyte
+predictions
+recalls
+WP1
+WP3
+PhD
+WP2
+research
+Fellow
+specific objectives
+companies
+explosions

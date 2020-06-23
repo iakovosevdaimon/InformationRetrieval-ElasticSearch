@@ -1,0 +1,58 @@
+wireless networks
+applications of wireless caching
+Robust WIrelesS Caching
+coding techniques
+wireless networking
+code design of consistent wireless caching networks
+main idea of wireless caching
+coding theory
+caching nodes
+new generation of mobile networks
+information security
+promising techniques
+performance limits
+codes design
+performance analysis
+area of information theory
+system design
+current mobile infrastructure
+transmission errors
+reliability of transmission
+challenges
+multimedia transmission
+researcher
+emerging new applications
+end terminals
+file consistent
+KTH testbed
+near future
+pre-store popular user data
+development of smart terminals
+reliable data delivery
+ever-increasing user requirements
+host
+RISE
+designed codecs
+unreliable channels
+complexity topology
+high-impact journals
+FPGA
+Ericsson Research
+SDR implementation
+solid background
+contributions
+Despite of great benefits
+important outputs
+scientific dissemination
+month secondment
+combination
+network throughput
+response latency
+engineering training
+proposed topic
+publications
+theoretical modeling
+remote servers
+detailed objectives
+request
+project

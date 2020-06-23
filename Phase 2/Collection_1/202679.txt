@@ -1,0 +1,52 @@
+actionable information
+network providers
+collected data
+security community
+creation of multiple high-quality feeds of actionable security information
+distributed sensor network
+worldwide sensor network
+improved information processing
+Secure Information Sharing Sensor Delivery event Network SISSDEN
+core of SISSDEN
+project consortium
+exchange of security intelligence
+important security issues
+counter security breaches
+multiple external data sources
+high-throughput data processing center
+national CERTs
+Law Enforcement Agencies
+remediation purposes
+curated reference data set
+passive threat data collection mechanism
+behavioral analysis of malware
+cost victim notification
+malware propagation
+hosting providers
+free of charge victim notification services
+development of situational awareness
+high-value resource
+cybersecurity posture of EU entities
+close collaboration
+end users
+state-of-the-art honeypot
+organizations
+ISPs
+mitigation of botnet
+darknet technologies
+efforts
+non-profit organization
+proactive tightening of computer defences
+in-depth analytics
+deployment
+experience of Shadowserver
+scale
+main goal
+impact
+EC3
+global effort
+metrics
+SMEs
+citizens
+capability
+threats

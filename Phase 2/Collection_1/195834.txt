@@ -1,0 +1,41 @@
+fish
+mechanisms of object recognition
+invariant recognition
+recognition system
+recognition mechanism
+complexity of recognition
+navigation Reliable vision-based object recognition
+visual landmarks
+appearance of objects
+active vision
+surface-bound animals
+visual environment
+result of changes
+view invariant
+motion
+high-level visual functions
+self-orientation related changes
+two-dimensional snapshot
+stored snapshot
+set viewpoint
+proposed project
+number of required snapshots
+learned representations of objects
+number of approach views
+fundamental importance
+complex mammalian brain structures
+similar neural circuitry
+knowledge
+particular issue
+wide range of species
+challenge
+fact
+capable of navigating
+evolutionary perspective
+identical routes
+path of breadcrumbs
+different viewing angles
+alternate possibility
+behavioural experiments
+goal
+problems

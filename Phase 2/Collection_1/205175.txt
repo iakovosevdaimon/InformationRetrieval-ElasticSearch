@@ -1,0 +1,61 @@
+Brain data Understanding
+birth of modern functional brain imaging
+computational foundations of brain data analysis
+primary impact of SLAB
+field of neuroscience
+neuroscience questions
+cognitive neuroscience
+analysis of electrophysiology data
+functional coupling
+functional MRI
+non-stationarity
+non-experts
+signal processing methods
+clinical applications
+EEG
+fields
+emergence of new challenges
+major challenges
+high noise levels
+high temporal resolution
+mining electrophysiology signals
+dedicated machine learning
+heterogeneity of sensors
+high quality open software
+computational biology
+new perspectives
+generation of models
+modeling of non-stationary spectral interactions
+fusion of heterogeneous sensors
+lack of accurate models
+development of fast algorithms easy
+autism
+neural ensembles
+acquisition costs
+tremor
+head magnetoencephalography
+representation
+epilepsy
+unique ways
+statistical power
+MEG
+tools
+astronomy
+complexity
+sleep disorders
+source localization
+system
+econometrics
+engineering
+objectives
+millisecond time scale
+pathological conditions
+mesoscale
+physics
+electroencephalography
+measurements
+answers
+years
+size
+datasets
+century

@@ -1,0 +1,55 @@
+digital breast tomosynthesis Breast cancer
+breast cancer patients
+DBT images
+early breast cancer detection
+visibility of breast lesions
+breast lesion location
+establishment of breast screening
+acceptable breast cancer diagnosis rates
+reason digital breast tomosynthesis
+DBT projections
+new DBT CAD system
+CAD systems
+output CAD tool
+BSPs
+performance limitations
+common cancer
+Scattered radiation reduction tool
+DBT experts’ support
+computer-aided diagnosis performance
+lesion detection performance of computer
+CAD’s performance
+novel tool
+proposed tool
+detection of subtle lesions
+CAD experience of ViCOROB
+scatter-reduced images
+high levels of scattered radiation
+synthetic DTB images
+series of projected images
+scatter reduction
+clinical sites
+aforementioned limitations
+current gold standard technique
+existing medical imaging companies
+existing convolution-based algorithm
+characterisation
+useful information
+lab
+UDIAT
+microcalcification clusters
+potential
+X-ray mammography
+success
+correct transfer of knowledge
+MCC
+image receptor
+mortality
+tissue superposition
+spin-off
+fellowship
+radiologists
+time
+obscure malignant pathology
+women
+aim

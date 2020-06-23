@@ -1,0 +1,54 @@
+cloud phase distribution
+Cloud ice formation
+art cloud
+phase clouds
+simulated phase distribution
+thermodynamic phase distribution
+cloud ice area fraction
+different cloud regimes
+complex cloud microphysics schemes
+heterogeneous ice nuclei
+systematic closure studies
+model parameterization of primary ice formation
+climate models
+high-resolution atmospheric models
+major impacts
+satellite data
+realistic case studies of clouds
+multitude of microphysical processes
+temporal coverage
+temporal evolution
+satellite observations
+function of temperature
+temperature range
+atmospheric environment
+various satellites
+microphysical parameterizations
+view of satellites
+long data record
+new retrieval schemes
+use clustering techniques
+passive polar orbiting
+clouds’ dynamical development
+understanding
+variables
+radiative properties
+geostationary sensors
+recent years
+aerosol particles
+weather
+forward modeling approach
+representation of mixed
+justified changes
+addition
+efficiency
+focus
+precipitation
+C2Phase
+parameters
+liquid water
+state
+Enormous progress
+Europe
+results
+improvements

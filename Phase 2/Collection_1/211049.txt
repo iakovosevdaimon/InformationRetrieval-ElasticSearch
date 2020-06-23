@@ -1,0 +1,36 @@
+aileron
+spoiler ECU SW design
+spoiler ECU HW design
+flight tests activities
+certification activities
+spoiler ECU development
+electronic control units
+dedicated control units
+flight control systems
+Development of electromechanical actuators
+assembly units
+VALidation tests of ElectroMechanical Actuators
+applicable qualification tests
+manufacturing time
+ECUs
+permit
+JTI-CS2
+order
+CFP03-SYS
+hand
+deep analysis of manufacturing routes
+innovative processes
+applicable Airworthiness Authorities
+level
+materials
+objective
+TRL
+raw material
+FTB2 demonstrator
+EMA4FLIGHT
+Regional Aircraft
+VALEMA project
+EMAs
+step
+environmental impact
+innovations

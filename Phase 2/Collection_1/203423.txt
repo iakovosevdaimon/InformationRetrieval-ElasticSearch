@@ -1,0 +1,60 @@
+neural networks
+entire networks
+corresponding networks
+scales
+information processing of neuronal networks
+single action potentials
+details of subcellular components
+single neurons
+specific neurons
+temporal domain
+extended time
+neuronal activity
+developmental effects
+alterations of components
+investigation of axonal
+component characteristics
+temporal-resolution methodology
+axonal initial segment
+genetic methods
+functional connectivity
+microelectrode chips
+preparation - details
+functional context
+mammalian cortical neuron cultures
+spatial domain
+neural diseases
+high-spatio
+effects of disturbances
+employing microtechnology
+CMOS-microelectronics
+Potential applications
+dedicated data analysis
+mutual interdependence of network
+high-density microelectrode arrays
+long-term developmental processes
+high-throughput monitoring
+large-scale data handling strategies
+somas
+advance knowledge
+electrophysiology
+high-resolution microscopy
+stimulation
+defined perturbations
+emergent properties
+new fundamental neuroscientific insights
+dendrites
+brain slices
+research
+recording
+overall synaptic input
+synapses
+axons
+integrated microsystems
+plasticity
+modeling algorithms
+mapping
+pharmacology
+patch
+access
+studying

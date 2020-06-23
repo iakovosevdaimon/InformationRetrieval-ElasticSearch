@@ -1,0 +1,48 @@
+Liquid biopsies
+cancer lesion
+neoadjuvant therapy
+targeted therapy response prediction
+tumor characterization
+prediction of drug therapy response
+rectal cancer patients
+selected breast cancer
+model-based cancer pathway activity assessment
+assessment of tumor heterogeneity
+cancer tissue samples
+advanced MR imaging
+MR imaging features
+neoadjuvant treatment
+liquid biopsy
+Clinical analysis
+current clinical workflow
+monitoring
+Tumor Cell isolation
+targeted drug
+dynamic genetic characterization of tumor
+based results
+clinical outcome
+improved cancer care LIMA’s overall objective
+quantitative signal pathway analysis
+computational model
+treatment phases
+quantitative manner
+Correlation of computational
+current state
+conceptual pillars
+LIMA project
+image
+better probe
+single CTC mRNA expression levels
+combination
+chemotherapy
+account
+diagnosis
+longitudinal observational studies
+technologies
+molecular information
+microenvironment
+detection of resistance
+tools
+DNA
+mutations
+robust method

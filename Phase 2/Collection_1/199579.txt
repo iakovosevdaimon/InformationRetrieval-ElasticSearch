@@ -1,0 +1,60 @@
+automotive Big Data Technologies
+analysis of video
+ADAS algorithms
+vehicle sensor data
+Cloud Large Scale Video Analysis Cloud-LSVA
+European automotive industry
+connected car
+annotated data sets
+heart of modern ADAS
+cost sensitive industry
+elasticity of Cloud computing
+petabyte scale video datasets
+lightweight analysis
+Cloud Crowdsourcing platform
+small scale
+Car manufacturers
+testing computer vision techniques
+open problem
+Navigation systems
+Mapping software
+Autonomous Vehicles
+Human annotation
+typical mid-range car
+machine learning techniques
+lack of software tools
+semi-automated annotation
+CMOS Image Sensors
+error-prone task
+Advanced Driver Assistance Systems
+events
+scenes
+training
+hardware platforms
+world leader
+primary area of innovation
+Annotations of road traffic objects
+need
+results
+Customer demand
+sustainable basis
+market
+price
+order
+step
+particular importance
+opportunity
+central hub
+complexity
+path
+cameras
+board
+functionality
+commercial tool
+present
+capability
+day
+date
+challenge
+consumer
+TB

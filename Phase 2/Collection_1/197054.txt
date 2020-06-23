@@ -1,0 +1,43 @@
+clinical routine
+SmartMarker - Clinical Validation of Biomarkers
+existing clinical biomarkers
+process of clinical biomarker validation
+actual routine clinical practice
+pertinent clinical endpoints
+predictive outcome of clinical biomarkers
+retrospective clinical biomarker validation studies
+useful biomarker
+primary biomarker
+overall goal of SmartMarker
+marker-defined patient subgroups
+effective treatments
+high risk of sudden death
+high risk cohorts
+risk of readmission
+patients
+heterogeneous patient health information
+queryable data
+commercial infrastructure
+cardiology domain
+ultimate goal
+Smart Data Analyses
+leading cause of death
+presence of heart failure
+Ischemic heart disease
+widening implementation gap
+appropriate analytical retrospective study methods
+international guidelines
+prognostic
+recommendations
+electronic medical records
+low cost
+systems
+development
+Brain natriuretic peptide
+daily basis
+developed world
+ejection fraction
+Exploitation
+mortality
+possible outcomes
+link

@@ -1,0 +1,65 @@
+G ESSENCE system
+G ESSENCE infrastructure
+G Experiences
+G ecosystem
+G ESSENCE leverages knowledge
+edge network acceleration
+G-PPP Phase
+Embedded Network Services
+computing-intensive network applications
+Radio Access Network
+Small Cell market
+benefits of Cloud
+edge cloud environment
+paradigms of Edge Cloud computing
+use of end-to-end network slicing mechanisms
+efficient Virtualised Network Function placement
+vertical industries
+latency reduction
+low latency services
+centralisation of Small Cell functions
+RAN
+centralised tier
+new opportunities
+distributed tier
+two-tier architecture
+enormous fronthaul latency restrictions
+real-life use cases
+new business models
+mission critical applications
+neutral host market
+data  isolation
+SW modules
+lightweight virtual resources
+prototypes
+high processing power
+crowded event
+scale
+revenue streams
+operational costs
+ownership
+resource efficiency
+high-performance virtualisation techniques
+multiple operators
+live migration
+deployment
+scalable platform
+user planes
+projects
+SESAME
+toperation
+in-flight communications
+capabilities
+barriers
+demonstration
+amortisation
+control
+prototyping
+technical approach
+key-role
+foundations
+ambitious objectives
+tenant basis
+drivers
+impressive pace
+versatility

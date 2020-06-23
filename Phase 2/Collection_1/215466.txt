@@ -1,0 +1,55 @@
+implementation of post-quantum cryptographic schemes Quantum computers
+post-quantum project
+quantum-safe cryptographic solutions
+field of post-quantum cryptography
+standardizing quantum-resistant cryptographic algorithms
+analysed schemes
+security
+proposal
+robustness
+forthcoming classical computers
+military communications
+mathematical problems
+secure ones
+research project
+line of commercialized devices
+lattice-based ones
+financial transactions
+development
+resilience
+Swiss company
+online shopping
+hardware
+ID Quantique
+beneficiary
+NIST
+performance trade-off point of view
+immense computational capability
+attacks
+specific family of encryption method
+state secrets
+available standardized softwares
+various forms
+integrity
+authentication
+world
+soliciting
+tools
+training
+advantage
+Evaluation
+communication channels
+different objectives
+promising candidates
+results
+confidentiality
+international program
+telecommunications
+hardness
+dreadful impact
+society
+golden opportunities
+aspects
+EU
+implementations
+weakening

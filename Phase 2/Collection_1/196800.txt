@@ -1,0 +1,42 @@
+high-level layer
+low-level variational models
+low-level layer
+low-level vision
+D image
+Computer Vision
+integration of high-level prior models
+Variational methods
+magnitude of image gradients
+traditional variational models
+layer architecture
+natural integration of high-level priors
+mid-level layer
+human visual system
+higher-dimensional space
+visual information
+visual cortex
+lifted space
+important image features
+boundary completion processes
+disocclusion processes
+successful methods
+mid-level tasks
+higher-dimensional embedding
+natural way
+object detection
+developed mathematical approaches
+unified mathematical framework
+active research field
+nature of object detectors
+explicit access
+images
+stunning performance
+direction
+decomposition
+years
+distributions of gradient orientations
+turn
+lifting
+abilities
+recognition of objects
+advantages

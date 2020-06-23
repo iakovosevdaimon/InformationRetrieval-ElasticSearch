@@ -1,0 +1,59 @@
+graph theory
+ergodic theory
+analytic invariants
+asymptotic group theory
+Asymptotic invariants of discrete groups
+probability theory
+manifold theory
+different invariants
+asymptotic behavior of various invariants of discrete groups
+invariant processes
+PI
+representation theoretic invariants
+sparse graphs
+graph convergence
+symmetric spaces
+emerging notion of invariant random subgroups
+profinite actions
+graph polynomials
+Ramanujan graphs
+cost
+large volume
+large girth
+sequence of finite models
+matching measure
+entropy
+proposed research
+chain
+L2 Betti numbers
+symmetric semisimple space
+large injectivity radius
+Plancherel measures
+chromatic measures
+new estimates
+Lebesque measure
+new results
+sofic group
+limit objects
+infinite worlds
+recent applications
+suitable limit object
+arbitrary fields
+deficiency
+graphings
+higher order versions
+monomer-dimer free energies
+minimal number of generators
+tools
+measured complexes
+statistical mechanics
+points
+cellular automata
+ways
+geometry
+rank gradient
+site
+unifying language
+game
+Energy
+connections

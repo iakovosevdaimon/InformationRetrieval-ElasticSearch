@@ -1,0 +1,37 @@
+linear programming relaxations
+optimisation problems
+limits of convex relaxations
+power convex relaxations
+semidefinite programming relaxations
+applicability of convex relaxations
+classes of problems
+decision problems
+Discrete Optimisation Convex relaxations
+limits of linear
+Power of Algorithms
+non-uniform constraint satisfaction problems
+important type of problems
+limits of local consistency methods
+considered algorithms
+efficient algorithms
+extensions of methods
+fundamental techniques
+optimisation variants
+new techniques
+powerful techniques
+realm of non-uniform CSPs
+ultimate goal
+operational research
+general setting
+novel results
+remarkable progress
+theoretical computer science
+project
+lens
+applied mathematics
+artificial intelligence
+precise characterisations
+Recent years
+robust solvability
+computational complexity consequences
+polynomial time

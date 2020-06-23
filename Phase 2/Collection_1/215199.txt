@@ -1,0 +1,58 @@
+quad mesh
+quad re-meshing of curved domains
+problem of quad re-meshing
+quad faces
+existing re-meshing methods of triangle surfaces
+triangle mesh surfaces
+efficient quad re-meshing machinery of general geometries
+engineering domains
+novel methods
+mesh parametrization
+proposed research
+fabrication of curved objects
+given triangle mesh surface
+numerical splitting scheme Geometric curved objects
+processing of
+engineering problems
+new class of algorithms
+motivated methods
+previous work
+discrete surfaces
+Ginzburg
+following research
+research objectives
+resulting algorithms
+novel energy functionals
+recent body of work
+vast related work
+multiclass extensions
+computer aided design systems
+image processing
+long-standing problems
+cross field
+Landau potential
+proposed energies
+multiclass classification of high
+new point of view
+thresholding numerical schemes
+generalized vector field
+PDE-based approaches
+mixed-integer problem
+numerous computational science
+dimensional data
+architectural geometry
+heat
+physics
+analysis
+theory
+practice
+extensive literature
+tasks
+common methodology
+minimizers
+applications
+gap
+edges
+vertices
+action
+heuristic solvers

@@ -1,0 +1,48 @@
+decoding complexity
+efficient fiber-optic systems
+optic communication systems
+code performance
+generation systems
+code length
+Flash memory systems
+limits of fiber
+efficiency of fiber
+data rates
+decoding process
+optic data transport
+fiber-optical communications
+order
+error rates
+expected complexity savings
+design of energy
+goal
+objective
+efficient component code selection strategies
+finite-length scaling law
+error-correcting codes
+stringent requirements of terabit
+deterministic codes
+future data traffic demands
+vehicular communication networks
+overall energy consumption
+Current algorithms waste resources
+terms of target
+trade-offs
+computation of sparse fast Fourier transforms
+important role
+noise level
+regime
+power
+hardware implementation
+project
+function
+code’s threshold
+major novelty
+development of low
+system parameters
+results
+fundamental tool
+bits
+example
+sustainable way
+valuable information

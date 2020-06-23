@@ -1,0 +1,55 @@
+pain-sensing
+Voltage-Gated Sodium Channel Chronic pain
+Mass Spectrometry-Based Chemoproteomic Profiling of Nav1
+order
+voltage-gated sodium channels
+pharmacological treatments of pain
+chemical probe
+known modulators
+model system
+mass spectrometry-based chemoproteomics
+Nav subtype-selective modulators
+model cell lines
+binding interaction
+excitable cells
+specific stimuli
+painful stimuli
+selective inhibitors
+chemical tools
+ligand-binding events
+patient-derived cells
+peripheral nervous system
+different cell types
+key-role
+cellular membrane
+major unmet medical need
+challenging task
+generation
+response
+signal transmission
+changes
+solid phase peptide synthesis
+tandem photoaffinity
+transmembrane protein-complexes
+bioorthogonal conjugation approach
+fundamental step
+project
+design of safe
+exciting target
+way
+VGSCs
+functional information
+flux of Na
+function mutations
+disease-relevant systems
+congenital indifference
+syndrome
+loss
+propagation of action potentials
+attainment
+neurons
+nociceptive processing
+patients
+main focus
+ability
+VGSC subtypes

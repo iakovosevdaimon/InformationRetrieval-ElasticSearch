@@ -1,0 +1,62 @@
+G slices
+G network providers
+G use cases
+G network slicing framework
+G service providers
+G network operators
+G verticals businesses
+integrated SliceNet framework
+G networks of different players
+cognitive network management
+End-to-End Cognitive Network Slicing
+Software Network
+logical network slices
+service creation
+Service functions
+multi-operator domains
+Scalable Slicing
+Multi-Tenant
+end-to-end management
+demanding service requirements
+representative vertical use cases
+Slice Management Framework
+operation of end-to-end slicing
+orchestration of slices
+Virtualised Multi-Domain
+unprecedented guaranteed service quality
+bespoke control
+verticals-oriented
+operator environment
+agile cognitive QoE-optimisation
+Smart Grid
+Smart City
+orchestration techniques
+integrated FCAPS
+broad range of individual scenarios
+cost-efficient way
+users
+novel mySlice
+Configuration
+Accounting
+Fault
+Security
+eHealth
+provision
+Performance
+diverging
+reliable operations
+shop solution
+unique perspectives
+achievements
+key challenges
+Strand
+involved outstanding issues
+delivery
+tools
+prototype
+mechanisms
+ambition
+innovations
+impacts
+ICT
+API

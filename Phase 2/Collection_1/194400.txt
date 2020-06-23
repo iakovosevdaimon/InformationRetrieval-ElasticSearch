@@ -1,0 +1,53 @@
+security of protocols
+design security protocols
+formal verification of security protocols
+security goals
+Automated Security Proofs of Cryptographic Protocols
+mobile telephone protocols
+automated analysis of protocols
+means of cryptographic protocols
+main goals of protocols
+e-voting
+new security properties
+particular privacy properties
+strong security guarantees
+user’s privacy
+people’s privacy
+privacy of votes
+privacy of users
+Untrusted Platforms
+e- commerce
+novel e
+techniques
+voting process
+practical tools
+execution platforms
+new design principles
+Spooc project
+face
+mobile phones
+paper transactions
+solid foundations
+ability of people
+relaxing trust assumptions
+digital counterparts
+home banking
+RFID
+malware
+personal computers
+Internet
+transparency
+Applications
+ubiquity of electronic devices
+rich framework
+confidentiality
+rise
+development
+viruses
+ill-conceived systems
+authentication
+methods
+voter client software
+way of life
+situation
+flaws

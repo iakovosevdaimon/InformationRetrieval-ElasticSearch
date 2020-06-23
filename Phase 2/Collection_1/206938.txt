@@ -1,0 +1,43 @@
+Applications of Functional Cryptography
+premise of functional cryptography
+Basing cryptography
+cryptography community
+development of modern cryptography
+understanding of modern cryptography
+basing public-key cryptography
+functional cryptographic tools
+encryption key
+usability of functional cryptographic systems
+sensitive data
+challenging key problems
+fundamental objectives
+private-key primitives
+cryptographic primitives
+encrypted data
+fundamental task of data encryption
+better understanding of functional cryptography's building blocks
+fundamental open problems
+fine-grained access
+Foundations
+wide variety of evolving applications
+design paradigm
+substantial progress
+meaningful progress
+entire technological development
+worst-case complexity assumptions
+well-studied assumptions
+schemes
+fact
+algorithmic techniques
+utmost importance
+interdisciplinary flavor of research directions
+significant impact
+new light
+vision
+instrumental role
+years
+effort
+subtle approach
+proposal
+example
+majority

@@ -1,0 +1,43 @@
+Homotopy theory of cosimplicial unstable
+algebra of homotopy operations
+homotopy theory of cosimplicial spaces
+rational homotopy
+deformation theory of unstable
+AQC of unstable coalgebras
+Steenrod algebra
+realizing homotopy types
+realization of unstable coalgebras
+identity functor of simplicial unstable algebras
+simplicial commutative algebras
+mod p case
+map of spaces
+mod p Massey-Peterson case
+natural operations
+realization problems
+general coefficients
+Goodwillie tower
+algebraic topology
+related parts
+Goodwillie calculus
+new methods
+algebraic description
+fallback projects
+general vanishing theorem of higher obstructions
+rigidity results
+coauthors
+research proposal
+existence
+relation
+odd primes
+Andre-Quillen cohomology
+time frame
+content
+mathematics
+program
+layers
+longterm goal
+fellowship
+work packages
+Biedermann
+understanding
+risk management

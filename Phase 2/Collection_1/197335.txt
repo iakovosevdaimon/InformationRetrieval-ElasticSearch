@@ -1,0 +1,62 @@
+theory of regular languages
+classes of languages
+Formal Languages
+View duality
+complexity theory
+category theory
+order logic duality
+Eilenberg-Reiterman theory
+Ghilardi-Zawadowski duality
+categorical semantics
+search
+special case of Stone duality
+Boolean algebras
+semantics Dualities
+development of duality theoretic methods
+Recent results
+unifying approach
+Boolean circuit classes
+single profinite algebras
+classes of finite monoids
+separation results
+infinite words
+decidability results
+unifying topics
+Heyting algebras
+robust extensions
+main tools
+subject of focus
+important tool
+infinite trees
+topological structure
+universal algebra
+new tools
+recent work
+main objective
+important breakthroughs
+robust generalisations of regularity
+powerful technical tool
+Jonsson-Tarski canonical extensions
+Bodirsky-Pinsker topological Birkhoff theorem
+active area
+varying alphabets
+Forssell's
+Awodey
+Makkai's
+cost functions
+structures
+various forms
+logics
+spectrum of intermediate cases
+goal
+lower bounds
+theoretical computer science
+number of subjects
+Coumans
+project
+operators
+systematising
+mathematics
+data
+co-authors
+problem

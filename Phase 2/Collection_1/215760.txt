@@ -1,0 +1,60 @@
+charge recombination
+organic solar cells
+new recombination model
+BHJ solar cells
+Organic Photovoltaics
+recombination rate
+organic materials
+numerical model
+minimised recombination losses
+BHJ blend
+organic bulk heterojunction
+Long-Range Non-Equilibrium
+solar power cheap
+new ways
+new parameterisations
+dispersive type of charge transport
+overlooked phenomena of charge transport
+ReMorphOPV
+proposed numerical approach
+successful theoretical description
+Impact of Morphology
+phase purity
+key areas
+key features
+promising approach
+photovoltaics community
+complex nanoscale morphology
+long-range motion of carriers
+phase-separated network
+use of extensive kinetic Monte Carlo simulations
+global transition
+domain size
+realistic assumptions
+molecular miscibility
+nanostructure
+clean energy
+design rules
+Europe's world-leading position
+experiments
+potential
+underlying principles
+main loss mechanism
+renewable energies
+temporal resolution
+different prototype material systems
+great relevance
+lack of fundamental understanding
+easy dissemination
+feedback loop
+important open question
+limitations
+basic hypothesis
+electricity
+thickness
+results
+researchers
+aspects
+hand
+devices
+predictions

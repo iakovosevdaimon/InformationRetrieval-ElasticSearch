@@ -1,0 +1,48 @@
+new quantum
+new method
+Weakly correlated states
+new technological materials
+accurate theoretical spectroscopy
+materials - dynamical configuration interaction
+body perturbation theory
+DCI implementation
+new optoelectronic applications
+body physics
+quantum chemistry
+scalable implementation of DCI
+considerable theoretical challenge
+potential technological applications
+systems
+dynamical correction
+normal CI Hamiltonian
+new level of predictive accuracy
+CI basis
+phthalocyanine molecules
+molecules host
+d-electrons
+strong correlation
+excited states important
+non-local correlation
+simple mean-field methods
+exact ab-initio Hamiltonian
+frequency dependent quantities common
+need
+researchers
+Green's function
+spectra
+expensive approximations
+ability
+benchmark
+porphyrin
+GW
+BSE
+numerical calculations
+synthesizing
+spaces
+MBPT
+regime
+solids
+center
+laboratory
+coupling
+goal

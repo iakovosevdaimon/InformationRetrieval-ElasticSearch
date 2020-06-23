@@ -1,0 +1,52 @@
+Flexible Optical Networks
+flexible networking
+rate granularity
+flexible frequency grid
+development of future
+spectral efficiency
+project
+high-capacity transport optical networks
+future-proof flexible solution
+fixed symbol-rate transceivers
+variable symbol-rate transceivers
+flexible transceiver prototype
+terms of signal generation
+development of novel DSP strategies
+network capacity
+optical transmission systems
+proof optical broadband infrastructures
+development of novel numerical tools
+physical layer modelling
+fixed frequency grid
+ITU-T
+signal reach
+optimization of signal modulation
+energy efficiency
+dual-generation approach
+order
+time domain hybrid QAM techniques
+upcoming capacity crunch
+optimization of NL compensation methods
+heterogeneous global network
+primary goal of Horizon
+primary technical objective
+control-plane management
+digital processing
+new technological paradigms
+algorithms
+delivery of fast Internet connections
+intelligent reconfigurability
+prototypes
+strong investment
+smooth upgrade
+research
+industry players
+European competitiveness
+proposed concepts
+urgent need
+software
+industrial contributions
+tight collaboration
+telecom sector
+propagation regime
+technology

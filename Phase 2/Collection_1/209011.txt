@@ -1,0 +1,56 @@
+SDN Programmability
+INSPIRING-SNI
+optical networks
+SDN ecosystems
+optical South
+experimental SDN applications
+metro networks
+carrier networks
+different network segments
+North- bound Interfaces Population
+actual carrier-grade SDN deployments
+application programming interfaces
+ever-increasing network complexity
+host institution
+SBI
+host group
+OaaS framework
+logic control-plane decisions
+access segments
+open-source network planning tool Net2Plan
+SouthBound Interface
+NorthBound Interface
+enabling technology
+networking scene
+NBI proposals
+technology diverse environments
+Software Defined Networking
+forwarding data-plane actions
+innovative industry-driven standardization initiatives
+dynamic optimisation of multilayer backbone
+management
+EU Research
+Internet connectivity
+IP
+Innovation effort
+realistic perspective
+funding
+TID
+telecom operator
+OpenROADM
+traffic volume
+strategic inter-sectorial secondment
+expertise of
+growing international attention
+variety of controllers
+ICT
+service
+Garrich's background
+critical aspects
+career perspectives
+dynamicity
+challenges
+academia
+expression
+line
+optimization

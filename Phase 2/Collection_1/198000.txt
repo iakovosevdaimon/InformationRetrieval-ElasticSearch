@@ -1,0 +1,52 @@
+photonic components
+WDM systems
+Hybrid Photonic Engines
+monolithic photonic integration
+large-scale photonic integration
+data centers
+HYPHEN
+optical engines
+Conventional systems
+cloud networks
+associated cost
+Euro market opportunities
+in-depth analysis of market opportunities
+hybrid multi-chip integration
+novel class of optical WDM engines
+design flexibility of discrete systems
+discrete components
+communication networks
+performance requirements
+variety of material systems
+technique of photonic wire bonding
+global explosion of data traffic
+intra-DC communication links
+current data-center infrastructures
+Massive Cloud Connectivity
+throughput of inter-DC
+performance-optimized solutions
+risk analysis
+fundamental question
+associated IP strategy
+competitive boundary conditions
+benefits
+transmission schemes
+migration of essential services
+specification of technical product concepts
+Wavelength-division multiplexing
+funds
+bottlenecks
+SFP
+CFP transceivers
+commercial potential
+comprehensive business plan
+framework
+Grant EnTeraPIC
+limits
+scalability of computing
+important technology gap
+storage
+phase of commercialization
+project
+order of magnitude
+answer

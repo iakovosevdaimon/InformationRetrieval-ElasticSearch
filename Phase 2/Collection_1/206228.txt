@@ -1,0 +1,50 @@
+automated semantic transformations
+Rail Transportation
+rail sector
+semantic web technologies
+IP4
+automation of transformations
+case scenario
+S2R-CFM
+fundamental industrial research
+transformations of existing European TAP-TSI specification exchanges
+research institutions
+major European rail operator
+existing industrial platform
+application
+actual run-time demonstration scenario
+actual runtime demonstration scenario
+technology
+related Shift2Rail projects
+S2R-OC
+Governance
+IT2Rail
+specific work packages
+dedicated work package
+Shift2Rail Interoperability Framework
+industrial providers of mission critical ICT solutions
+ontology engineering
+ticketing of multimodal travel solutions
+web of transport
+Travel companion
+Shift2Rail Multi Annual Action Plan
+public transportation authorities
+partnership of specialist participants
+industry associations
+realisation
+proposal
+heterogeneous data formats
+components
+sales’ process
+tracking services
+calls
+management structure
+market uptake
+complex
+Shopping
+lighthouse
+original consortium of designers
+sustainability
+elements
+objectives
+capabilities

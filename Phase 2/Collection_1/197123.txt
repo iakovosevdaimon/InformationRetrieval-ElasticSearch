@@ -1,0 +1,57 @@
+multi-material CHOs
+D reconstruction of CHOs
+D scanning
+D Printing Scan4Reco
+material composition
+Material analyses
+D printing procedures
+analysis of cultural heritage objects
+digitized cultural objects
+segments of cultural objects
+Uni-material models
+preventive conservation
+conservation methods
+complex structures of CHOs
+heterogeneous objects of various sizes
+automatic digitization
+structure of underlying materials
+Multimodal Scanning of Cultural Heritage Assets
+eminent conservation need
+multi-spectra data
+accurate digital surrogates of CHOs
+varied classes of materials
+multilayered digitization
+volumetric structure
+heterogeneous nature
+degradation mechanisms
+automatic restoration
+multi-layered rendering
+original shape
+imminent degradation effects
+context-dependant ageing models
+scientific community
+DSS
+prediction
+general public
+field experts
+modular solution
+time
+special care
+real case scenarios
+mechanical arm
+hierarchical approach
+recreation
+visualization techniques
+dedicated Decision Support System
+future appearance
+virtual model
+pilot real-world use cases
+spots
+suggestions
+surface
+accessibility
+environmental phenomena modeling
+museum
+insight
+goal
+situ

@@ -1,0 +1,60 @@
+assurance of security
+Security Assurance FramEwoRk
+security metrics
+security needs
+connected vehicle systems
+involved security assurance levels
+available security mechanisms
+cost-effective identification of security assurance levels
+connected vehicles systems paradigm
+equipped infrastructure-connected vehicles
+individual hardware components
+individual modules
+emerging systems
+SAFERtec project
+numerous third-party components
+dynamic Cyberphysical system
+numerous threats
+hardware interfaces
+cost-effective use
+systematic vertical approach SAFERtec
+automotive stakeholders
+innovative framework
+unit communication
+pervasive V2I setting
+incomplete automotive standards
+upper-layer V2I applications
+neTworked vEhicular teChnology
+penetration-testing
+prototype
+in-depth look
+varying exposure
+reliability
+privacy
+possible vulnerabilities
+generic instances
+prohibited cost
+variety of wireless
+summary
+cloud application
+model
+interaction
+framework's transition
+party provider
+way
+enormous potential
+passengers' smart devices
+corresponding protection profile
+safety features
+statistical tools
+skilled consortium
+OEMs
+open-access toolkit
+dependability methods
+large attack surface
+degree of confidence
+identified risks
+safer transportation
+Research
+road
+results

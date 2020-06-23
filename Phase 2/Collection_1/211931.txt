@@ -1,0 +1,60 @@
+real-time whisker tracking
+whisker motion
+Real-time tracking of whisker kinematics
+whisker-based studies
+desired kinematics of whisker behavior
+powerful whisker-tracking software
+available whisker-tracking tools
+mouse
+kinematics of multiple whiskers
+processing platform
+hardware-software platform
+high-throughput
+high-speed image acquisition
+high-performance image-acquisition
+special hardware platform
+scheme
+sensorimotor adaptation
+high speeds
+sensorimotor decisions
+acquisition frequency
+real-time applications
+order
+commercialization of WhiskTrackGP
+high frame rates
+loop neuroscientific experiments
+original processing time
+sophisticated sensorimotor apparatus
+bleeding-edge neuroscientific experiments
+offline use
+field of behavioral studies
+terms of computational time
+accelerated offline video analysis
+NVidia GP-GPUs
+companies active
+main experimental challenge
+minimum penetration
+labs
+maximum contact
+structures
+neural activity
+hair
+minimal intervention
+Maxeler Dataflow-Engines
+solution
+texture
+place
+cerebellum
+orientation
+paradigms
+shop
+surroundings
+fps
+cerebellar function
+D environment
+model system
+distances
+experimenter
+account
+msec
+limitations

@@ -1,0 +1,52 @@
+open rotor experimental data
+high subsonic Mach conditions
+test data
+Existing experimental data
+high quality data base
+high subsonic relative Mach number
+representative high subsonic Mach number Prediction of Open Rotor broadband noise
+use of low Mach number data
+CROR blade profiles
+rotor blade boundary layer
+high fidelity simulations
+row CROR blade
+blade trailing edge
+rotor blades
+blade span
+documented data base
+high fidelity wind tunnel test
+future high fidelity numerical computation of broadband noise emission
+prediction of broadband traling edge noise emission
+major sources of broadband noise
+surface pressures
+similar airfoils
+CRORTET project
+scale Reynolds number
+boundary layer statistics
+inappropriate surface pressure statistics
+realistic Contra-Rotating Open Rotor
+turbulence statistics
+Experimental characterization of turbulent pressure fluctuations
+D airfoil
+NACA0012
+reference airfoil
+Existing semi-analytical models
+semi-analytical methods
+turbulent vortices
+DNW-TWG wind tunnel
+shortfall
+spanwise correlation length
+comparison
+flat plates
+convection velocity
+fluctuation spectrum
+deformation
+results
+appropriate Ma range
+interaction
+approach
+lack
+take-off
+main goal
+cruise
+literature

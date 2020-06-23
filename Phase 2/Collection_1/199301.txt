@@ -1,0 +1,66 @@
+GNSS receivers
+GNSS software-defined receiver
+advanced receiver
+GNSS networks
+GNSS-SDR
+GNSS developers
+resulting receiver
+augmentation data
+flexible receiver module
+advantages of software receivers
+custom dual-frequency receiver module
+new receivers
+software layer
+software demonstrator
+existing professional receivers
+ultra-tight coupled GNSS
+Advanced Multi-Constellation EGNSS Augmentation
+multi-frequency multi-constellation support
+complementary techniques
+better accuracy
+public data
+cost-effective precision agriculture services
+performance of current augmentation services
+low level access
+low power system
+correction data streams
+Monitoring Network
+increase accuracy
+embedded system
+sample level
+better corrections
+implementation of novel precise-positioning techniques
+real-time operation
+goal of AUDITOR
+innovative approach
+hardware accelerators
+faster convergence times
+INS systems
+integration
+farmers
+scalability
+modularity
+medium-sized businesses
+successful open-source project
+interference analysis
+authentication
+remote servers
+encrypted bands
+solutions
+upgradability
+key internals
+capabilities
+algorithms
+areas of Europe
+form factor
+ionospheric errors
+researchers
+costs
+evolution
+reflectometry
+sophisticated atmospheric models
+code
+flexibility
+consortium
+applications
+market

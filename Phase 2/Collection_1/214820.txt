@@ -1,0 +1,56 @@
+pressurised LH2 jets
+behaviour of LH2 jets
+large-scale LH2 releases
+P-LH2 results
+release of pressurised LH2 jet
+safe operations of LH2 technologies
+releases Hydrogen
+development of LH2 specific international codes
+transport of liquefied hydrogen
+Characterisation of pressurised liquid hydrogen
+distributed energy storage
+new energy technologies
+distributed energy system
+forthcoming upscaling of hydrogen supply infrastructure
+cryogenic jets
+wide flammability range of hydrogen
+well-known compressed gaseous hydrogen
+low ignition energy
+European Strategic Energy Technology Plan
+specific objectives
+specific hazards
+two-way transfer of knowledge
+fuel cell technologies
+robust modelling strategies
+robust solver LH2FOAM
+facility siting
+confinement
+flashing
+direction
+droplets
+rainout
+intense phase changes
+special consideration
+obstacles
+realistic conditions
+utilization
+frame of OpenFOAM
+wider audiences
+spray
+order
+morphology
+flammable envelope
+effect of wind speed
+standards
+power
+greenhouse gases
+principle structure
+overall goals
+interdisciplinary project
+automotive applications
+explosion safety
+participating organisations
+Experienced Researcher
+effective option
+reduction
+impact

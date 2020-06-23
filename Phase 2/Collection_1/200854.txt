@@ -1,0 +1,55 @@
+Assistant Based Speech Recognition
+speech data available
+data link communication
+speech recognizer
+ABSR models
+voice communication
+Machine Learning of Speech Recognition Models
+introduction of automatic speech recognition
+media of communication
+data sources
+natural way of communication
+re-learning
+ATM world
+context information
+Machine learning algorithms
+sensor information
+introduction of higher levels of automation
+pilots exchange information
+assistant system
+effective solution
+intensive use of spoken language
+main causes
+local environment
+promising solution
+automated systems
+main issue
+respective environment
+venture capital funded project AcListant
+customisation process
+Controller Assistance
+different accents
+adaptation
+Air Traffic Management
+new environments
+search space
+known advantages
+command error rates
+deviations
+standard phraseology
+end
+misunderstandings
+operators
+ops-rooms
+time
+controllers
+laboratory
+situation
+manual
+USAAR
+Saarland University
+failures
+future
+costs of deployment
+lack of acceptance
+difference

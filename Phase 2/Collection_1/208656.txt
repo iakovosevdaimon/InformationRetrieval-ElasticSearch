@@ -1,0 +1,54 @@
+data storage
+analysts of sequential data
+data processing methods
+specialized data series storage
+physical data independence
+gEneration Sequence sTORage Sequential data
+overwhelming amounts of sequential data
+small data processing scenarios
+large amounts of unnecessary data
+massive collections of data series
+aircraft engine monitoring data
+larger scale data management
+custom data analysis solutions
+various fields
+sophisticated query processing systems
+database systems
+large processing overhead
+various domains
+industrial fields
+Current relational storage layers
+retrieval systems
+different fields
+order
+previous database research
+query optimization
+access patterns
+DNA sequences
+proposed research project
+Europe
+social impact
+advantage of indexes
+astronomical light curves
+NESTOR
+potential of great economic
+organizations
+sensing technologies
+higher level programming languages
+unprecedented speeds
+prices of stock options
+need
+common practice
+abnormalities
+exploration
+networking
+right tools
+contrast
+Recent advances
+scalability
+extract knowledge
+new opportunity
+wealth of information
+complex analytics inefficient
+Python
+techniques

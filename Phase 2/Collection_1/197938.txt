@@ -1,0 +1,27 @@
+Adaptivity appRoach
+energy efficiency
+energy management
+Energy efficient eXascale HPC systems Energy-efficient heterogeneous supercomputing architectures
+breakthrough approach
+Exascale supercomputers
+Exascale level
+supercomputer software stack
+heterogeneity
+disruptive holistic approach
+new software stack capable
+ANTAREX project
+express application self-adaptivity
+heterogenous High Performance Computing
+decision layers
+autotune applications
+design-time
+runtime
+challenging problems
+different levels
+job
+node
+benefits
+system capabilities
+scalability
+AutoTuning
+main goal

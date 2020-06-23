@@ -1,0 +1,60 @@
+strength expansion of KS DFT
+strong-correlation limit of DFT
+new approximations
+reliability of electronic structure calculations
+key features of strong correlation
+weak correlation regimes
+mathematical structure
+New exchange-correlation functionals
+correlated systems
+KS DFT’s predictive power
+infinite coupling strength
+chemical reactions
+chemical bonds
+novel framework
+density functional theory
+lattice-based results
+inadequate approximations
+new approach
+physical systems
+exact infinite-coupling
+representative benchmark chemical
+mass transportation theory
+rigorous expansion
+computational efficiency
+computational chemistry
+lattice hamiltonians
+natural framework
+advanced functional materials
+condensed matter physicists
+novel combinations of ideas
+virtue
+overall usefulness
+Kohn-Sham
+mathematicians
+optimal transport problem of mathematics
+research communities
+metal complexes
+group
+enormous successes
+chemists
+catalysis
+links
+method of choice
+recent formal developments
+industrial partner
+intrinsic bias
+solid-state physics
+real space continuum
+adaptation of methods
+manmade nanostructures
+degenerate
+accuracy
+Crucial examples
+ground
+body properties
+assistance
+artificial symmetry
+fundamental issues
+algorithms
+hand

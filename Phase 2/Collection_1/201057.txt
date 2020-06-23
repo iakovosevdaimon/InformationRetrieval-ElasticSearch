@@ -1,0 +1,48 @@
+cryogenic plasma etching
+plasma species
+plasma behavior
+plasma- surface interactions
+limited plasma damage
+cryogenic etching Microchips
+cryogenic etching of low
+current state-of-the-art plasma processing
+different plasma investigation approaches
+surface processing
+O2
+SiF4
+SF6
+CxFy plasmas
+CxFy gas mixtures
+computer modeling
+shrinkage of feature sizes
+electronic feature dimensions
+typical feature sizes of semi-conductor
+nm features
+modeling results
+interdisciplinary project
+molecular dynamics model
+experimental validation of plasmas
+hybrid Monte Carlo - fluid model
+significant challenges
+mathematics
+physics
+deep insight
+material
+applicant’s expertise
+numerical models
+chemistry
+chemical engineering
+novel process
+anisotropy
+revolution
+electronics
+purpose
+µm
+important role
+fundamental mechanisms
+substrate
+Moore's law
+effort
+secondment
+decades
+experiments

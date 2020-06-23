@@ -1,0 +1,41 @@
+cell differentiation
+single cell level
+parallel single cell transcriptomic
+cell type specific distribution
+existing single cell ChIP approaches
+cellular differentiation
+distribution of histone modifications
+single cell RNA seq analysis pipelines
+specific differentiation stages
+histone state
+transcriptional changes
+order of changes
+described method
+variety of histone mark specific monoclonal antibodies
+transcription status
+cells
+use
+key regulators of transcription
+epigenomic analysis
+epigenetic mechanisms
+ChIC-seq
+orchestration of epigenetic
+order of events
+novel approach
+co-acquisition of transcriptomic
+research
+precipitation step
+antibody targeted micrococcal nuclease
+RaceID
+genomic information
+gene expression
+comparison
+influence
+minimal material loss
+modification dependent enzymatic digestion
+DNA
+StemID
+knowledge
+global understanding
+normalization
+lab

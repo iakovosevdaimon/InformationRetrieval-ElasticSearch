@@ -1,0 +1,55 @@
+improved security
+embedded security
+security evaluations
+fundamentals of physical security
+sound security guarantees
+sound physical assumptions
+empirical verification of physical assumptions
+cryptographic research
+physics
+good understanding
+Reliable Devices Cryptographic implementations
+efficiency
+adversaries
+improved transparency
+secure computations
+general challenge of restoring trust
+good separation
+closed systems
+better understanding
+secure objects
+implementation details
+target implementation
+open source hardware
+so-called hardware Trojans
+design of small components able
+important building block of future information systems
+mathematics
+ambitious goal
+vulnerabilities
+channel leakages
+view
+paradigm shift
+mathematical proofs
+Obscurity
+SWORD project
+approach
+fault insertions
+recent Snowden revelations
+fabrication
+attacks
+essential element
+main ingredients
+misunderstanding
+software
+arguments
+contexts
+evaluators
+knowledge
+longer term
+order
+large extent
+problem
+purpose
+difficulty
+trade-off

@@ -1,0 +1,53 @@
+order automatic provers
+order automatic theorem provers
+proof automation
+users of proof assistants
+higher-order superposition
+higher-order SMT
+interactive proof obligations
+new provers
+proof rules
+Proof System
+modern superposition provers
+Strong Higher-Order Automation Proof assistants
+success rate of automatic provers
+higher-order reasoning
+interactive theorem
+Fast Interactive Verification
+SMT solvers
+specialized verification tools
+similar tools
+best tools available
+end users
+Isabelle
+high levels of automation
+representative benchmarks
+success stories
+lines of research
+starting point
+representative benchmark suite
+point of diminishing returns
+substantial productivity gains
+careful manner
+years
+theories
+satisfiability
+TLA
+strategies
+backends
+Coq
+integration
+place
+novel stratified architecture
+hardware
+middleware
+black boxes
+desirable properties
+software
+mathematics
+PI
+logical work
+grand challenge
+situation
+approach
+project

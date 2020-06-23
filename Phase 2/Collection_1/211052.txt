@@ -1,0 +1,63 @@
+FEC technology
+FEC domain
+FEC implementations
+s technology
+EPIC aims
+FEC algorithm design
+FEC research area
+silicon technology
+EPIC concept
+EPIC consortium
+state-of-the-art FEC schemes
+class FEC blocks of wireless Tb
+s link technology
+disruptive FEC design framework
+technology roadmap
+key EPIC objective
+Generation Channel Coding EPIC
+technology IP generation
+Practical Wireless Tb
+s Communications
+s barrier
+corresponding silicon implementation architectures
+fundamental research outcomes
+virtual silicon tape
+future of European research strength
+Polar codes
+principal channel codes
+impactful scientific publications
+new generation of Forward
+impactful industry partners
+graduate students
+implementation domains
+key finding
+SME partners
+utmost scientific excellence
+post-graduate researchers
+x throughput improvement
+market opportunities
+magazines
+leading journals
+standardization contributions
+leadership position
+dynamic SMEs
+major innovations
+Turbo
+lectures
+tutorials
+Error-Correction
+institutes
+LDPC
+lead inventors
+routine progress
+unified fashion
+development
+methodology
+B5G
+use-cases
+IPR protection
+SoA
+decade
+integrated approach
+solutions
+objectives

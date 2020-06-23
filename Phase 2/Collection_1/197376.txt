@@ -1,0 +1,65 @@
+test specification
+test program implementation
+development effort of test programs
+documented test development process
+Reduction of test escapes
+under-testing
+over-testing
+automated test pattern generator
+semiconductor testing software field
+development of new testing technologies
+innovation
+industrial feasibility objectives
+Economic Feasibility objectives
+semiconductor market
+Integrated Cicuit Testing Software
+gap analysis
+semiconductor industry
+Market study
+Advanced data analysis techniques
+industrial user needs
+Economic risk assessment
+automated tools
+SME’s existing industrial capability
+marketing approach
+costs quantification
+financial program
+Correlation techniques
+production
+processes optimization
+ATPG
+project
+final product
+Infineon
+STMicroelectronics
+adaptation
+vector sequences
+verification
+quality
+yield loss
+strong share
+intellectual Property
+IP
+NXP
+possibility of human errors
+profitability
+complexities
+growing rate
+important global challenge
+definition
+traceability algorithms
+Plan
+management
+enterprise
+Detection of bottlenecks
+formal modeling
+device reliability
+diligence
+regulatory requirements
+customers
+Europe
+capital
+investments
+problems
+SME phase
+semiconductors

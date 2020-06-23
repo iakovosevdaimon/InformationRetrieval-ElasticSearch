@@ -1,0 +1,59 @@
+Detection of food fraud
+food identification
+food components
+food hazards
+spot food quality sensing
+prediction of food shelf-life
+sensing device
+Detection of early sign of spoilage
+miniaturized smart integrated system
+shelf-life prediction
+Detection of mycotoxins
+sensing functionality
+Aflatoxins detection
+following use case
+multi-target food sensitive mini-portable system
+Portable photonic miniaturised smart system
+Advanced detection algorithms
+PhasmaFOOD system
+miniaturised smart sensor node
+additives analysis
+spectroscopy analysis
+meat
+Smart signal processing
+smartphone application
+UV-LED
+miniaturised IR emitter
+IR spectrometer
+smartphone device
+project
+nm
+combined bio-chemical data analysis
+cloud-base application
+UV-VIS spectrometer
+white LED
+level of cloud
+advanced microcontroller
+sensor devices
+possible presence of aflatoxin
+heterogeneous micro-scale photonics
+Adulteration of alcoholic beverages
+fruits
+common consumers
+estimation
+fish
+help
+vegetables
+main objective
+spectrum images
+convenient ultraviolet test
+milk
+various grains
+place
+knowledge
+MEMS
+product expiration date
+nuts
+reference database
+light sources
+camera

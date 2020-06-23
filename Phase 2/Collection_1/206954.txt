@@ -1,0 +1,57 @@
+rapid protein
+termed RAPID
+genome-wide chromatin dynamics
+heritable chromatin state
+chromatin-associated proteins
+relevant chromatin states
+cell division
+cell cycle-linked processes
+fast cell cycle of pluripotent cells
+inheritance of histone
+genome-wide occupancy
+eukaryotic genome
+mouse embryonic stem cell
+selective protein labeling method
+dynamic packaging system
+dynamic evolution
+bioorthogonal capture Histone proteins
+model system
+form of pulse
+epigenetic inheritance
+period of time
+pulse-chase experiments
+flexible time dimension
+interstitial heterochromatin
+relative importance
+stability
+epigenomic landscape
+little information
+mESC
+propagation
+population-based snapshots
+ChIP-Seq
+multi-dimensional descriptions
+studied feature
+epigenomics
+regulated Polycomb domains
+understanding of cellular memory
+pluripotency
+lineage specification
+multitude of signals
+features
+fundamental rules
+readouts
+mass spectrometry
+microscopy
+gene expression
+State-of-the-art methods
+modification
+art genetics
+minutes
+replication
+days
+project
+marks’
+combination
+gen sequencing
+propensity

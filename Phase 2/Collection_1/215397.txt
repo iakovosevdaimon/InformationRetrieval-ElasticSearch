@@ -1,0 +1,45 @@
+computational neuroscience of decision-making
+neuro-computational models of decision-making
+autonomous decision-making
+computational modeling
+neural models
+fusion of cognitive neuroscience
+domain of cognitive neuroscience
+RML embodiment
+meta-learning neural model of human decision-making
+modeling neurobiology of decision-making
+novel neuro-computational model
+cognitive processing
+Robotic embodiment
+role of embodiment
+humanoid robotics
+cognitive control signals
+new path
+toy problems
+contribution
+new way
+humanoid robotic platform
+main limitations
+real world problems
+complex decision problems
+Reinforcement Meta-Learner
+disembodied computer simulations
+promising path
+simplistic way
+different domains
+main goal
+embodied cognition
+combination of empirical testing
+different experimental data sets
+internal parameters
+homunculus-free
+iCub
+state
+art
+robots
+environment
+effectiveness
+project
+bodily processes
+unique opportunity
+cases

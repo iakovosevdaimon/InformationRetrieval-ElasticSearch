@@ -1,0 +1,60 @@
+system-system
+human-system
+system-human
+Cyber-Physical Systems
+embedded modular system
+cyber-physical era
+Cyber-Physical age
+O Module
+physical world
+easy programmability of multi-core multi-board systems
+Smart Living
+possible energy
+fast interconnect
+CPSs
+Modular scalability
+people
+DSM
+expectations
+Smart Video-Surveillance
+innovative modular ARM-based board
+possible thanks
+energy efficiency
+best existing standards
+open-source OmpSs programming model
+exploit
+enhanced capabilities
+Distributed Shared Memory
+performance scaling
+interfacing
+fundamental problems
+new software
+close interactions
+minimal costs
+assigned tasks
+computational power
+nodes
+accelerating functions
+concepts
+hardware architectures
+Home
+objects
+key scenarios
+AXIOM project
+general expectation
+digital network
+FPGA
+Agility
+technical approach
+technological challenges
+things
+Domotic
+aim
+modularity
+eXtensibility
+imaginary
+information
+time
+knowledge
+set
+modules

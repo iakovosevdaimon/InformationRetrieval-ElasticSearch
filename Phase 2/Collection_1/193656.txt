@@ -1,0 +1,53 @@
+BIVPs
+Quantum Chemistry
+Bivariational Approximations
+objective
+new coupled-cluster type method
+new axis of method development
+bivariational principles
+ab initio approaches
+cornerstones of quantum mechanics
+development of ab initio methodology
+cluster theory
+existing ab initio methods
+popular traditional coupled cluster
+standard variational principles
+standard VPs
+size-consistent hierarchy of approximations
+TCC
+bivariational parameters
+project
+time-independent
+transformative impact
+novel approach
+unconventional approach
+time-dependent Schröodinger equations
+Applications
+addition
+applied mathematics
+nuclear physics
+background
+scientific disciplines
+number of electrons
+large potential benefits
+multiconfiguration Hartree
+systematic multireference
+MRCC
+orbitals
+polynomially scaling
+electronic structure
+PI's broad contact
+fact
+feasibility
+implementation
+Fock
+tools
+mathematical foundation
+system Hamiltonian
+dynamics
+usefulness
+generalization
+properties
+aim
+proposal
+instance

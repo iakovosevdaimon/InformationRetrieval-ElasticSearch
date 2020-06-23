@@ -1,0 +1,53 @@
+obstacle detection
+fusion system
+reliable detection of obstacle
+real-time marshalling yard management system
+SMART prototype solution
+order
+multi-stereo vision system
+Smart Automation of Rail Transport SMART main goal
+resources available
+night operation
+short distance wagon recognition
+short range
+reliable prototype solution
+planning of marshalling operations
+prototype hardware
+optimization of available resources
+platform available
+shunting operations
+ATO module
+initiation of long distance
+long range
+shared usage of marshalling yards
+planned Autonomous Train Operation
+real time data
+overall transport time
+planned fusion of sensors
+distance estimation tolerance
+automation of railway cargo haul
+cargo handling
+night vision technologies - thermal camera
+quality of rail freight
+TSI standard  data formats
+image intensifier
+connection
+external network systems
+laser scanner
+TAF
+contribution
+standardised interfaces
+software algorithms
+different service providers
+costs
+buffers
+European railways
+integration
+day
+following measurable objectives
+effectiveness
+capacity
+braking
+development
+impaired visibility
+market

@@ -1,0 +1,53 @@
+G MiEdge
+G RAN
+G networks
+MiEdge project
+G Radio Access Networks
+liquid RAN C-plane
+G test-bed
+mmWave edge cloud
+standardization of mmWave access
+G ecosystem Current research efforts
+novel control plane
+Mobile Edge Computing
+mission-critical applications
+case of mobile networks
+new cellular network control plane
+Millimeter-wave Edge cloud
+eMBB
+classes of applications
+traffic
+services
+MEC
+application providers
+application centric orchestration
+critical issue
+enhanced mobile broadband
+low latency
+new system
+computation resources
+computational resources
+strict latency constraints
+context information
+enabler
+order
+storage
+city of Berlin
+demand
+mmW ave
+key technology
+GPP
+connections
+Tokyo Olympic Stadium
+unsolved issues
+perfect couple of technologies
+weakness
+proactive resource allocation
+users’ requests
+main goal
+attention
+networks’ limited capacity
+Gigabit Ethernet
+IEEE
+summary
+end

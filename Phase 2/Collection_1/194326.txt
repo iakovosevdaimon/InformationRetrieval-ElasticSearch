@@ -1,0 +1,60 @@
+Uncertainty Modelling Framework
+Search-based Testing Methodologies Uncertainty
+Handling Systems
+distributed systems
+dependability of CPSs
+Cyber-Physical Systems
+holistic MBT of CPSs
+realistic unknown uncertainty models
+modelling uncertainties
+systematic Model-Based Testing
+various facets of CPSs
+extensible MBT frameworks
+novel interactions of embedded systems
+testing standards
+extensible taxonomy of uncertainties
+U-Test consortium
+Geo Sports
+search algorithms
+diverse domains
+Healthcare domains
+UMF
+critical domains
+evolved models
+exiting modelling
+cost-effective test cases
+cost-effectiveness of U
+intelligent way
+solutions
+implementation of proper mechanisms
+various levels
+cloud infrastructures
+Configurable Model
+Genetic Algorithms
+correct implementation
+cost-effective manner
+key commercial tools available
+market
+networking equipment
+domain experts
+ModelBus
+software
+unwarranted threats
+wider impact
+standardization
+acceptable cost
+Logistics
+case studies
+addition
+users
+Fokus
+interoperability
+operation
+relationships
+actual practise
+environment
+humans
+CertifyIt
+properties
+technologies
+objectives

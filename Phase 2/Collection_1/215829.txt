@@ -1,0 +1,52 @@
+Multiscale Applications
+diverse set of multiscale
+certified multiscale simulations
+available multiscale VVUQ tools
+generic multiscale VV
+pre-existing multiscale modelling
+emerging exascale environments
+Scientific Advisory Board
+multiphysics applications
+VVUQ toolkit
+Scientific excellence
+social scientific domains
+Verified Exascale Computing
+wider set of production applications
+wide range of scientific
+exascale-aware implementation
+fast track
+lifetime
+deep track development of new capabilities
+UQ primitives
+potential impact
+societal impact
+domains of concern
+project’s Innovation Advisory Board
+open source toolkit
+sharp end of clinical decision
+current multi-petascale computers
+climate
+integration
+exploitation
+drug discovery
+high fidelity
+migration
+intrusive way
+fusion
+respect
+proposal
+purpose
+advanced materials
+uncertainty quantification
+simulation schemes
+automated algorithms
+personalised medicine
+tight error bars
+central deliverable
+output
+European HPC centres
+calculations
+stages
+outreach
+important decisions
+computational science

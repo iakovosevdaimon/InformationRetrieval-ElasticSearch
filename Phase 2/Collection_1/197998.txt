@@ -1,0 +1,57 @@
+Heterogeneous Integration of NEMS
+integration of ICs
+heterogeneous integration platforms
+established heterogeneous integration technologies
+type of heterogeneous
+wafer-level heterogeneous integration of integrated circuits
+D integration technology
+type of MEMS devices
+high-performance MEMS devices
+MEMS-ICs system component
+sized MEMS components
+IC-integrated MEMS products
+target ICs
+NEMS devices
+NEMS components
+integrated systems
+innovative platform technology
+nm-range
+ultra-low power circuits
+variety of small
+small device dimensions
+USA
+μm-range
+ERC
+low-power FPGAs
+micro-mirror arrays
+International Technology Roadmap
+detector arrays
+competing technologies
+specific target application
+nano-electromechanical systems
+combination of standard CMOS
+micro-manufacturing approaches
+world’s largest CMOS foundry
+NEM switches
+large-volume markets
+respect
+infrared
+placement accuracies
+limitations
+Taiwan
+ITRS
+gyroscopes
+Proof of Concept proposal
+InvenSense
+collaboration
+TSMC
+M’s
+accelerometers
+Semiconductors
+mCube
+great success
+Moore paradigm
+s Starting Grant project
+microphones
+contrast
+extent

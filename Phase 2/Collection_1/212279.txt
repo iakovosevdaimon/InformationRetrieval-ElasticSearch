@@ -1,0 +1,50 @@
+titin protein
+titin chain
+titin map of vulnerability
+mSNPs classification
+giant muscle protein titin
+efficient classification of titin SNPs
+titin-based heart condition
+staggering number of titin truncations
+existent structural models of titin components
+new titin-centric scoring function
+pathogenic potential of mSNPs
+estimating mSNPs-induced changes
+poly-domain chain
+repetition of structural
+filtering step
+subsequent step
+early disease stages
+clinical use Mutations
+major cause of heart disorders
+medium-throughput molecular diagnostic pipeline
+Development of novel computational biology pipeline
+free energy
+missense single nucleotide polymorphisms
+mechanistic effect
+conformational dynamics
+bioinformatics evaluation
+specific characteristics
+mSNP exchange
+existing predictors
+human populations
+hot-spots
+Routine DNA screening of patient cohorts
+intervention
+functional loci
+risk
+stable predictions
+substantial challenge
+clinicians
+pertinent training set
+patients
+link
+rest
+genomics databases
+biochemical data
+research community
+tool
+work
+problem
+Calculations
+methodology

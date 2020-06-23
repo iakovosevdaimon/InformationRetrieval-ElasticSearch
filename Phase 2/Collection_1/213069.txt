@@ -1,0 +1,65 @@
+degradation mechanisms
+Degradation investigations
+components degradation phenomena
+performance losses
+developed methodology
+Stress Testing ID-FAST aims
+components manufacturers
+ID-FAST test program
+automotive fuel cell community
+ageing data
+durability prediction improvement
+Combined AST protocols
+expertise of partners
+understanding
+development of Accelerated Stress Tests
+PEM Fuel cells
+impact of various stressors
+Investigation of stressors impact
+real world ageing
+single mechanism AST
+prediction of stack lifetime
+deployment of Proton Exchange Membrane Fuel Cell
+consolidated data
+industrial companies
+automotive applications
+Definition of protocols
+large companies
+testing time
+real systems
+situ characterisations
+accelerating factor
+strong expertise
+advanced ex-situ
+PEMFC
+modelling
+technologies
+relevant analysis of failure modes
+validation of specific ASTs
+end-users
+Advisory Group
+objects
+known history
+cars
+multi-scale simulation tools
+correlation
+relevance
+access
+associated transfer functions
+introduction of innovative materials
+recognised laboratories
+university
+SME
+value chain
+research centres
+causes
+mean
+generation designs
+main points
+USA
+Japan
+capability
+Thanks
+objectives
+regard
+project

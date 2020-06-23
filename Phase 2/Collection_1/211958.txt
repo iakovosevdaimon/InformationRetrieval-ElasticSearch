@@ -1,0 +1,46 @@
+Spine Toolbox
+toolbox suitable
+Open source toolbox
+actual Spine Model
+integrated energy systems Spine project
+energy system modelling
+modelling chain
+single modelling tool
+project partners
+large problems
+specific modelling capabilities
+Model instances
+policy-support
+detailed modelling of complex features
+input data verification tool
+data acquisition
+large system
+internal tools
+business relevant results
+business decision-support
+user-defined data collections
+analysis relevant
+large-scale problems
+relevant stakeholders
+different tools
+existing tools
+expected impacts
+large number of scenarios
+broader set of problems
+user community
+open sourcing
+automated features
+parallelization service
+post-process outputs
+sectoral dimensions
+temporal
+potential users
+models
+iterative approaches
+future
+novel approach
+order
+design
+series of case studies
+developments
+adaptability

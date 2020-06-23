@@ -1,0 +1,59 @@
+generation TCMS
+TCMS generation
+TCMS functions
+safety functions
+train control
+different train functions
+generation of TCMS architectures
+safety braking
+TCMS support
+safe TCMS
+optimal train network
+train-wide communication network
+safety relevant braking functions
+generation of electronic braking systems
+replacement of train lines
+generation of high Capable
+high safety electronic control of brakes
+communication network solutions
+functional interfaces of functions
+safety-related railway applications
+braking distances
+onboard systems
+TD1
+specific applications
+heterogeneous communication networks
+sub systems
+scope of CONNECTA
+generic functional architecture
+corresponding high level system architecture
+standard specifications
+Onboard Multimedia
+general specifications
+wireless technologies
+wireless capabilities
+different manufacturers
+specific actions
+railway EN standards
+number of sophisticated pneumatic components
+S2R Multi-Annual Action Plan
+OMTS
+use
+optimisation
+new technological concepts
+ground communications
+monitoring
+research
+Telematic Services
+performance improvement
+hardware
+loop
+overall LCC
+distributed testing
+subsystems
+principles
+Shift2Rail
+SIL4
+simulation framework
+Phase
+coupling

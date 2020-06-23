@@ -1,0 +1,40 @@
+induced collision avoidance
+induced collision scenarios
+traffic densities
+certain surrounding traffic scenarios
+Negotiated Traffic Present traffic alert
+robust collision avoidance system
+monitoring of surrounding traffic
+TCAS failure scenarios
+collision avoidance levels accounting
+functionalities of TCAS
+TCAS range
+different context scenarios
+Adaptive self-Governed aerial Ecosystem
+induced collisions
+different negotiation
+conflict resolution
+operational level
+machine communication
+project proposal
+realistic aircraft performances
+dynamic state space analysis
+security
+safety
+mechanisms
+capacity
+NM
+human behaviour
+multithread
+tools
+automatism interdependencies
+resolutions
+approach
+development
+new framework
+cost-efficiency aspects
+square nautical mile
+uncertainties
+virtual Ecosystems of aircrafts
+shortages
+excellent performance

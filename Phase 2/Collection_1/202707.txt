@@ -1,0 +1,37 @@
+SIEM infrastructures
+existing SIEM systems
+available systems
+SIEM-independent way
+SIEMs Security Information
+infrastructure-related information
+security-related decision project
+obtained events
+diversity-related technology
+Diversity Enhancements
+quality of events
+diverse set of sensors
+high-level security metrics
+raw events feed
+ubiquitous ICT infrastructures
+diverse sources
+types of sensors
+DiSIEM project
+open-source intelligence data available
+Event Management
+models
+fundamental component
+use of multiple storage clouds
+backbone
+possible threats
+novel anomaly detectors
+extensions
+vulnerabilities
+attacks
+internet
+tools
+support
+high costs of deployment
+large-scale production environments
+new ways
+digital society
+organization

@@ -1,0 +1,58 @@
+Electrical Power Conditioner
+power subsystem
+power sources
+satellite electrical
+high power payloads
+Power Conditioning Unit
+primary power bus
+High Voltage Electrical Power System Architecture
+term of power conditioning
+electrical chain
+new electrical propulsion units
+bus voltage
+new electrical propulsion systems
+destructive electrical discharges
+large design variety of power buses
+high voltage feeds
+distribution units
+voltage levels
+units optimization
+system analysis
+choice of high voltage electronic parts
+main driving units
+Plasma Propulsion Unit
+communication systems
+solar arrays
+active systems
+current needs
+study
+main objective
+environment constraints
+representative environment
+mission needs
+total platform cost
+PPUs
+radio frequency amplifiers  supply
+EPCs
+materials
+PCDU
+present application domain
+classical technologies
+HV-EPSA project
+radiations
+science
+characteristics
+higher operating voltages
+PCU
+electric thrusters
+connectors
+pressure
+cables
+real technical challenge
+validation
+short-term need
+telecommunication satellites
+major constituent
+electrochemical batteries
+arcs
+life

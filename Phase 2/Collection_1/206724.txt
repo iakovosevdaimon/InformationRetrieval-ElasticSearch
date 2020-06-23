@@ -1,0 +1,46 @@
+mechanism design theory
+Robust Mechanism Design
+mechanism design problems
+economic institutions
+agents' behavior
+empirical studies of auction
+desirable institutions
+empirical relevance
+Game theory
+economic agents' possible behavior
+strategic behavior of economic agents
+players' behavior
+existing studies
+proposed projects
+novel theoretical frameworks
+narrow classes of economic environments
+correlated environments
+practice
+Robust Prediction
+outcomes of various institutions
+desirable robust mechanisms
+common knowledge
+robustness
+common-knowledge prior
+specified games
+significant relevance
+literature focus
+restrictive assumptions
+key roles
+policy recommendation
+certain types of misspecifications
+conditions
+desired social objectives
+approaches
+papers
+uncertainty
+distributed private information
+monotone
+comparative statics
+uncertain variables
+welfare consequences
+situations
+goal
+reality
+interests
+decades

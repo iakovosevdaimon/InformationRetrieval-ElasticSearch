@@ -1,0 +1,58 @@
+MHD simulations
+applicant
+non-thermal radio sources
+galaxy clusters
+numerical simulations
+MHD-turbulence
+interpretation of radio data
+Cosmological simulations of radio bright plasmas
+non-thermal cluster physics
+ionised cluster medium
+generation of radio telescopes
+intra-cluster-medium
+cosmic-rays
+MHD dynamo
+leading experts
+leading theorists
+European radio astronomical community
+non-thermal processes
+leading numerical researcher
+Eulerian cosmological MHD simulation
+formation of large diffuse radio sources
+simulation of cosmic ray acceleration
+magnetic field amplification
+LOFAR data
+outgoing host
+project
+leading vendor of super-computers
+amplification of magnetic fields
+European LOFAR  observatory
+self-consistent treatment of cosmic
+complex picture
+outgoing-phase
+complex mechannisms opeating
+acceleration of relativistic particles
+key figure
+algorithms
+complementary  observations
+Cray
+optimization of grid methods
+challenging demands
+complexity of models
+understanding
+implementations
+comparison
+shocks
+recent advances
+University of Minnesota
+energetic events
+leap
+simulators
+observers
+capabilities
+Universe
+roots
+interaction
+results
+instruments
+return

@@ -1,0 +1,54 @@
+Homotopy Type Theory
+core type theory
+extension of type theory
+CoqHoTT project
+major proof assistant
+decidable type checking algorithm
+new axiom
+CompCert project
+new generation of proof assistants
+software quality
+formalization of mathematics
+efficiency
+ability
+univalence principle
+use
+correctness of important pieces of software
+interactive theorem provers
+computational version of univalence
+significant Coq developments
+homotopical concepts
+new compilation phase technique
+advanced concepts of computer science
+computer scientists
+major drawback
+logical expressivity
+program certification
+principles of equality
+main goal
+compile time
+software bugs cost hundreds of millions
+effective logical model transformation
+year
+euros
+prevalent notion
+difficulty
+C compiler
+power
+base
+essential tool
+trade-off
+fundamental property of mechanized proofs
+companies
+virtuosos
+internal logic
+mismatch
+administrations
+programs
+democratization
+mathematicians
+traction
+code
+success
+impact
+approach

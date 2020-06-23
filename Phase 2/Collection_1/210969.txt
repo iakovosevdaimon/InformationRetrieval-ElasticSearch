@@ -1,0 +1,50 @@
+algebraic geometry
+Algebraic Methods
+algebraic number theory
+algebraic foundations
+security cryptography
+finite fields
+Construction of Algebraic Crypto Primitives
+novel methods
+basic theory
+degree
+Advanced Theory of Arithmetic Codices
+novel ways
+novel perspectives
+arithmetic codex
+public-key cryptography
+finite-dimensional algebras
+crucial applications
+fundamental understanding of cryptographic security
+coordinate-localities
+constant communication-rate two-party cryptography
+coordinate-wise multiplication
+Number Theoretical Cryptanalysis
+surprising foundational results
+connections
+complexity theoretic aspects
+richer arithmetical structures
+analysis of high
+ambient vector space
+multi-party computation
+error correcting
+combinatorics
+play
+powerful adversaries
+future generation
+symmetries
+design
+cryptology
+proposal
+interconnected modules
+simulating
+simulation
+products
+overarching objective
+efficiency
+functionality
+scope
+utility
+frontiers
+approach
+lens

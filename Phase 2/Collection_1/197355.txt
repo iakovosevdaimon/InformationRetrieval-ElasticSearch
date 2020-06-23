@@ -1,0 +1,65 @@
+G integration
+G technologies
+G-PPP
+G collaboration framework
+G air interfaces
+G radio access network concepts
+G radio access network design
+radio concepts
+mobility framework
+Radio network architecture
+air interface harmonisation framework
+cross-air
+Key objectives of METIS
+interface system access
+user plane framework
+efficient integration of new
+legacy air interfaces
+efficient support
+ubiquitous access continuum
+standardisation bodies
+regions
+holistic spectrum management architecture
+major international vendors
+major operators
+common evaluation
+technical enablers
+spectrum crunch
+common control
+relevant bodies
+standardisation groups
+key researchers
+cross-layer
+international consortium
+needs of mobile
+wireless communications Enablers
+agile Resource Management
+concerted action
+EU
+D initiatives
+varying traffic demand
+Strand
+China
+forums
+Information Society
+means
+partners
+broad versatility of services
+Japan
+service requirements
+results
+Korea
+implementation
+proposal
+vertical industries
+ICT14
+dynamics
+components
+unique capability
+future-proof
+consensus
+picture
+innovation pillars
+strategic level
+H2020 program
+goal

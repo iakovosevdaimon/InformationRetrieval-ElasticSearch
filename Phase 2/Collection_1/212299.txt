@@ -1,0 +1,43 @@
+lightweight cryptography
+lightweight realm
+Lightweight Cryptanalysis
+new secure lightweight ciphers
+existing lightweight ciphers
+New Directions
+IoT cryptography
+new smart devices
+new research methodology
+security of generic lightweight building blocks
+billions of IoT devices
+order
+white-box cryptography
+specific ciphers
+resource constrained devices
+constrained environment
+main directions
+standard theoretical attacks
+analysis tools
+encryption schemes
+current design
+secure designs
+bad actors
+bad guys'
+standard cryptanalytic techniques
+applications of discrete analysis
+pessimistic security estimates
+practical low complexity attacks
+GSM cellular phones
+car remote controls
+rigorous conditions
+central challenge
+years
+notable examples
+weaknesses
+minimal number of operations
+problems
+Internet of Things
+way
+revolution
+near future
+PI
+level

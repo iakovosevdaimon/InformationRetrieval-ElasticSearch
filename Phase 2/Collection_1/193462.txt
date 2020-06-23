@@ -1,0 +1,63 @@
+MAShES control
+RT control
+RT-control
+cognitive control system
+loop control
+MAShES system
+Multimodal spectrAl control of laSer processing
+process speed
+laser power
+laser welding
+different laser processing applications
+image-based laser processing
+multiple process variables
+embedded approach
+cognitivE abilities MAShES
+laser metal deposition
+multimodal process observation
+multispectral imaging system
+high speed -multiple inputs
+efficient processing
+breakthrough approach
+modular approach
+process quality diagnosis
+high speed monitoring
+multiple outputs
+cognitive factory
+different imaging modalities
+compact embedded solution
+accurate estimation of temperature
+operational scenarios
+interoperability issues
+standardisation issues
+accurate measurement of temperature distribution
+D seam profile
+dynamic manufacturing scenarios
+MWIR spectral range
+D melt pool geometry
+LMD
+compliance
+cyber-physical operation
+use of machine learning techniques
+gas flow
+powder
+VIS
+self-adjustment
+modulation
+data
+non-grey bodies
+emissivity values
+real time
+representative end-user facilities
+dissimilar materials
+usability
+surface texture dynamics
+snapshot
+demonstration of prototypes
+contributions
+processes
+spot size
+result
+Validation
+regard
+play

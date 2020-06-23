@@ -1,0 +1,25 @@
+order
+scale models
+Synthetic Jet Actuator
+objective
+accurate numerical models
+actuator configurations
+accurate theoretical performance estimations
+generation SJA’s
+project activities
+Synthetic Jet flow Control CFD
+geometrical input parameters
+improvement of performance predictions
+transducer elements parameters
+modelling accuracy of SJA actuators
+tests of existing SJA’s designs
+Characterization
+analyses
+lessons learings
+topic manager
+future applications
+manufacturing
+testing
+demonstration rationale
+state
+development

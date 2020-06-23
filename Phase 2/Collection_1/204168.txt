@@ -1,0 +1,54 @@
+automated management system
+future ATM system
+role of overall system managers
+automated systems
+major airport
+controller task load
+SESAR
+traffic management
+Airport- Collaborative Decision Making
+grounding principles of automation
+complex tasks
+human actors
+implementation tasks
+human operators
+TACO project
+inherited tasks
+Control TACO
+hand
+management of surface movements
+significant enhancement of integrated automation support
+ground movement of airport vehicles
+non-nominal conditions
+identification of sensitive state transaction
+flight
+process
+anticipation
+complexity
+ability
+CDM
+required degree of integrity
+controller’s forward thinking
+way
+monitor
+increase of capacity
+aircraft
+usable tools
+established safety
+graceful manner
+cognitive resources
+situations
+environmental goals
+redundancy
+challenges
+dove
+re-program
+responsibilities
+programme
+key solution
+core
+Main focus
+loop
+interaction
+algorithms
+solutions

@@ -1,0 +1,53 @@
+semantic representations
+meaning representations of texts
+reasoning models
+supervised learning
+Coverage Semantic Parsers
+different texts
+linked data
+human-annotated data
+notions of semantic equivalence
+open domain
+applications
+large amounts of unannotated data
+annotated resources
+language technology
+language variability
+humans
+accurate open-domain parsing
+latent factor models
+natural language processing
+tutoring systems
+information retrieval
+text summarization
+amounts of annotation
+modeling relations
+knowledge bases
+log-linear feature-rich models
+document-level modeling
+lack of accurate methods
+forms of linguistic knowledge
+functional machine translation systems
+opinion mining
+example
+dialog
+reliance
+unsolved problem
+automatic parser
+unsatisfactory performance
+NLP
+number of important successes
+sentences
+facts
+Induction of Broad
+quiz games
+progress
+entailment
+abstractions suitable
+approach
+domains
+languages
+key bottleneck
+decades
+ambiguity
+project

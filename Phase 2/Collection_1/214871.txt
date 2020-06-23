@@ -1,0 +1,60 @@
+GDPR requirements
+GDPR compliance
+process models
+business requirements
+process lifecycle
+process mining
+requirements interpretation
+operational requirements
+diverging requirements
+consistent execution of GDPR
+comprehensive process modelling technology able
+data handling
+compliant processes
+Business Process Re-engineering
+Compliance Metamodel
+end-to-end GDPR-compliant intra-
+unified data view
+data subject’s rights
+data subjects’ involvement
+holistic framework able
+privacy-aware
+comprehensive set of tools able
+advanced privacy provisions
+various scales
+various PETs
+ex post analysis of processes
+goal of BPR4GDPR
+specified policies
+inter-organisational ICT-enabled processes
+expressive policy framework
+security
+consent
+functional toolkit
+processing actions inventory
+accountability
+enforcement
+broad territorial scope
+optimised fulfillment
+automatic verification
+regulation
+priorities
+order
+time
+strong semantic foundation
+proposed solutions
+major challenges
+design
+diverse application domains
+added value
+techniques
+subsequent transformation
+infrastructure
+place
+starting point
+Service
+Cloud
+organisation logs
+organisations
+mechanisms
+CaaS

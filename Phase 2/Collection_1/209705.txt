@@ -1,0 +1,50 @@
+route planning
+place cells
+spatial navigation Spatial navigation
+hippocampus
+navigation circuits
+downstream brain structures
+key roles
+use of information
+route decisions
+estimate of future positions
+animal’s future position
+downstream target of RSC
+key elements
+key insights
+spatial proximity
+larger context of brain circuits
+future representations
+brain influence cognition
+spatial representation system
+key circuit dynamics
+goal
+mPFC
+Neural circuits
+internal metric space
+animal’s instantaneous position
+fundamental ability
+internal models
+retrosplenial cortex
+behaving rats
+geometric space
+medial prefrontal cortex
+hippocampal area CA1
+prominent feature of rats
+extensive use of computational methods
+multiple regions
+optogenetic silencing of specific projections
+animals
+brief trajectory sequences
+positional relationships
+growing body of evidence
+Simultaneous high-density recordings
+codes
+map
+activity
+environment
+behaviour
+movements
+replay
+studies
+ideas

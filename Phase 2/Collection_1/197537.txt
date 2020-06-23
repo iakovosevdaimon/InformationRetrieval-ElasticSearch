@@ -1,0 +1,67 @@
+Exascale Fluid Dynamics Simulations
+exascale computing
+exascale environments
+complex simulations
+FD simulations
+academic problems
+problems of practical engineering
+emerging exascale architectures
+model problems of industrial
+nature of fluid flows
+results of previous exascale projects
+industrial partners
+open domains
+use of accurate simulation models
+alternative sources of energy
+reduced energy consumption
+evaluation of energy efficiency
+improved climate models
+complex computational domains
+important simulation aspects
+major open-source simulation packages
+solver design
+academic relevance
+improved health care
+co-design fashion
+software engineering techniques
+number of pilot applications of concrete practical importance
+adaptive mesh refinement
+close collaboration
+substantial societal impact
+novel parallelism features
+cloud formations
+essential element
+arteries
+oceans
+airplanes
+changes
+plankton transport
+potential
+CRESTA
+natural driver
+situ compression
+error control
+powerful tool
+output
+breathing
+blood flowing
+cars
+ships
+EPiGRAM
+resilience
+fault tolerance
+analysis
+resources
+formation of stars
+algorithmic challenges
+liquids
+galaxies
+extreme data
+fluids
+complexities
+phenomena
+parallel input
+gases
+main goal
+heterogeneous modeling
+algorithms

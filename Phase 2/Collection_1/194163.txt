@@ -1,0 +1,52 @@
+Virtualizing data analytics
+deployment of big data analytics services
+virtualized analytics services
+data reduction services
+data placement
+stack of SDS data services
+analytics platform
+SDS Services
+data-intensive systems
+running analytics close
+latency-sensitive analytics
+efficient execution of virtualized analytics applications
+virtualized storage resources thanks
+Software Defined Storage toolkit
+low cost data management models
+native object store analytics
+SDS toolkit
+main objective
+service-wide objective function
+IOStack
+efficient deployment strategies
+compute disaggregation
+efficient manner
+OpenStack platform
+orchestration
+disaggregation of existing hardware resources
+policy-based provisioning tools
+provisioning of virtual components
+design of scalable algorithms
+Apache Hadoop
+Apache Spark
+improved performance
+virtual model
+service instances
+OpenStack projects Sahara
+specialized persistent caching mechanisms
+taxing initial migration
+advanced prefetching
+costs
+Cinder
+Nova
+users
+batch
+networking
+usability
+Swift
+creation
+focus
+virtualization
+different workloads
+set of QoS policies
+Major challenges

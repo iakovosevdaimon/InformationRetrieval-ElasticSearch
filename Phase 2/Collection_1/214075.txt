@@ -1,0 +1,49 @@
+analysis of RD designs
+Regression Discontinuity Designs
+huge popularity of RD designs
+practical methods
+Econometric Methods
+observational data
+observational units
+manipulation
+corresponding nonparametric methods
+causal effects
+modern machine learning methods
+empirical economics'
+researchers
+estimation
+project
+treatment group
+empirical economic research
+empirical Bayes approaches
+treatment's causal effect
+discrete running variable
+known cutoff value
+group structures
+current state-of-the-art inference procedures
+number of policy relevant areas
+decades
+account
+different sides
+popular strategies
+proposal's focus
+actors
+education
+transparent source of identification
+sizable impact
+new confidence intervals
+range of methodological tools available
+respective institutional context
+general framework
+public finance
+settings
+potential
+covariates
+strategic action
+branches of science
+sociology
+special covariate
+various extensions
+mild conditions
+epidemiology
+parts

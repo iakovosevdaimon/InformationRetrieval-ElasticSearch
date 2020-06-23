@@ -1,0 +1,41 @@
+transfer learning
+constrained based learning
+training Brain-Computer Interfacing Brain-Computer Interfaces
+observed brain signals
+recorded brain signals
+machine learning algorithms
+BCI community
+re-calibration
+calibration data
+calibration session
+novel machine learning methods
+training BCIs
+initial BCI prototypes
+training times
+training Motor Imagery
+effort
+ERP
+labelled data-set
+concepts of constraint
+motor function
+paralysed patients
+non-stationarity
+non-medical applications
+voluntary modulation
+prostheses
+restoring communication
+minutes
+specific mental tasks
+Event Related Potential
+limited attention span
+gaming
+external device
+need
+project
+idea
+user’s intention
+goal
+accuracy
+decoder
+minimum
+paradigms

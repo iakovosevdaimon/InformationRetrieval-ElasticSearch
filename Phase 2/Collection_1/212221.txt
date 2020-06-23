@@ -1,0 +1,56 @@
+Precision Farming of Hazelnut Orchards
+precision farming of large orchards of hazelnut
+integrated system
+proposed SCADA system
+big-data management
+context of orchards management
+Data Acquisition
+plant health
+single plant
+irrigation system
+hazelnut productions
+Simplified orchard management
+individual plant
+proposed SCADA infrastructure
+current state
+common farming operations
+information
+better average state of health
+friendly water usage
+fields of robotics
+lack of water
+single tree
+chemical inputs usage
+increased effectiveness of Integrated Pest Managements
+limited number of heterogeneous unmanned robotics components
+industrial Supervisory Control
+remote sensing
+different robotic units
+relevant step
+automatic feedback actions
+agricultural equivalent
+pests
+diseases
+goal of PANtHEOn
+objective
+detection of possible limiting factors
+aerial robots
+technological advancements
+IPM
+resolution
+Corylus avellana
+art
+main advantages
+technology
+central operative unit
+evolution
+scale
+final demo
+decisions of agronomists
+project
+focused interventions
+farmers
+conclusion
+architecture
+capability
+outcome

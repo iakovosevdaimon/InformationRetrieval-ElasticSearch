@@ -1,0 +1,47 @@
+hybrid SPNs
+deep learning approaches
+deep learning architecture
+deep generative networks
+Hybrid Learning Systems
+hybrid conditional SPNs
+so-called inference networks
+expensive inference
+efficient inference
+superior inference properties of SPNs
+deep learning tool kit available
+generative adversarial networks
+intractable generative models
+Sum-Product Networks
+recent deep architecture
+intractable models
+purpose of variational posterior inference
+fast amortized approximate inference
+aforementioned models
+probabilistic models
+state-of-the-art approaches
+set of inputs
+set of outputs
+hand
+constrained type of neural network
+variational distributions
+new state-of-the-art results
+terms of simple network passes
+neural auto-regressive density estimators
+unique advantage
+latent variables
+goal
+Pixel-RNNs
+date
+semantic image segmentation
+given target distribution
+Kullback-Leibler divergence
+Monte Carlo estimation
+substantial improvement
+flexibility
+CNNs
+representation
+end
+parameters
+structural prediction tasks
+output space
+project

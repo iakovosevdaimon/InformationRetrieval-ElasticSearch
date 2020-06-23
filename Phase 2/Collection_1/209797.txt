@@ -1,0 +1,49 @@
+cell poles
+cell division
+cell morphology
+bacterial cell
+cell periphery
+localization of mRNAs coding
+eukaryotic cells mRNAs
+unbiased view of mRNAs
+limited number of mRNAs
+widespread mRNA localization
+chaperone proteins
+scope of mRNA
+morphological proteins
+cellular targeting
+different classes of localized proteins
+classic CLIP-seq experiments
+role of protein translation
+novel CLIP-seq
+RNA sequences
+mechanisms responsible
+protein synthesis
+based approach
+specific places
+specific parts
+Gram-negative bacteria
+complementary approach
+genome location
+established fluorescence
+motility
+membrane
+Gram-positive model bacterium Bacillus subtilis
+situ hybridization
+FISH
+deep-sequencing
+functional insight
+conflicting results
+Signal Recognition Particle
+discoveries
+serendipitous nature
+basic morphogenetic process
+SRP
+addition
+cytoskeleton
+spatiotemporal control
+technique
+dataset
+prokaryotes
+studies
+Information

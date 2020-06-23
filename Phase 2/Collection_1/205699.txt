@@ -1,0 +1,67 @@
+augment ICN
+ICN testbeds
+ICN enhancements
+existing ICN solutions
+development of compelling demonstrations of ICN
+virtualization services
+EU-Japan cooperation
+multimedia applications
+EU-JP1
+Cloud topics
+social networks
+cloud concept
+G networks
+set of innovative applications
+EU-JP2 calls
+Internet
+social networking
+Cellular networks
+ICN2020 consortium
+real-world deployment
+fellow projects
+fruitful cooperation
+leading experts
+Networking technology
+project partners
+computer interactions
+real-world use-cases
+global test-bed
+Industry POCs of products
+network of data centers
+established network mechanisms
+critical industry investment of resources
+global scale experimentation Information access
+video delivery
+IoT features
+wreaking havoc
+abstractions
+interactive videos
+CDN
+research
+contributors
+overall expected impact
+encryption
+evolution
+traffic
+NFV likely
+slice concepts
+architectures
+dramatic growth
+communication model
+design
+interfaces
+IoE
+foreseen unprecedented flexibility
+common APIs
+main aims
+standards
+scenario
+infrastructure landscape
+SDN
+coordinators
+wealth of studies
+perfect solution
+goal
+Security concerns
+Usage
+generation

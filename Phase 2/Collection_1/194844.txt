@@ -1,0 +1,57 @@
+metamaterial cloak
+cloak design
+cloak properties
+elastic waves
+sub-wavelength resonators
+given frequency band
+sub-wavelength energy
+novel metamaterial
+optimal design of metamaterial devices
+flexural waves
+theory
+detailed numerical simulations
+large band gaps
+infrasound frequency range
+cloaking capacities
+combination of elastic wave protection
+current models
+Mechanical Engineering
+Broadband cloaking
+performance level
+effective properties
+optimisation strategies
+construction of laboratory models
+control of mechanical vibrations
+development of optimisation schemes
+refraction
+negative diffraction
+broad scalability
+quantitative analysis
+Physics
+vertical beams
+nominal section
+index
+Imperial College
+Mathematics
+metamaterials
+cluster
+groupings
+innovative applications
+structure
+experimental validation
+modelling
+plate
+main parameters
+periodic arrangement of resonant elements
+local resonance effects
+interaction
+seismology
+performances
+real practical impact
+unrealistic composite material
+relevant expertise
+distribution
+kHz
+solids
+studies
+project

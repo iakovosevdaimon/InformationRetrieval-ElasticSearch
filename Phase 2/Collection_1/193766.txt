@@ -1,0 +1,58 @@
+Global systems Rapid Assessment tools
+specification process
+Constraint FUnctional Languages
+Constraint Programming
+error process
+managed physical systems
+Domain-specific Languages
+building scalable Rapid Assessment Tools
+constraint composition
+DSL
+political modelling
+Functional Programming
+active problem
+problem case of Climate
+needs
+domain-specific constraints
+making of policies
+verifiable simulators
+use of simulators
+adequate high-level modelling
+visual forms of CP
+collective policy
+political question
+collective decision
+group session
+case study
+paradigm shift
+stakeholders’ objectives
+social discipline of Group Model Building
+foundational scientific work
+underlying scientific details
+external multi-disciplinary Advisory Board of Stakeholders
+ambition
+Resilient Urban Design
+different levels
+promising way
+water
+execution
+FP
+business organizations
+composable solvers
+power networks
+central role
+general framework applicable
+Special emphasis
+trial
+usability
+host language
+gamification aspects
+heuristics
+solutions
+diverse disciplines
+interests
+base
+People
+project
+beginning
+Results

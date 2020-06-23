@@ -1,0 +1,48 @@
+Large-Scale Simulations of Biological Systems
+molecular simulations of biological systems
+computer simulations
+biomolecular simulations
+feasibility of large-scale simulations of complex biological systems
+biological polymers
+self-consistent field approach
+new hybrid particle-field approach
+soft-matter simulations
+proposed approach
+project
+biological charged membranes
+computational modelling of complex biological environments
+reliable simulations of polyelectrolyte mixtures
+explicit electrostatics
+self-consistent field formalism
+multi-phase systems
+complex molecules
+new pathway
+new methodology
+explicit treatment of electrostatic interactions
+computational advantages
+typical time
+current limits
+current proposal
+size bottlenecks
+proposed method
+computation of intermolecular interactions
+rigorous treatment of particles
+molecular resolution accuracy
+linear scaling cost
+great positive impact
+polysaccharides
+applicant’s early stage researcher career
+major research targets
+continuous progress
+easy parallelization
+orders of magnitude
+proteins
+antibiotic resistance studies
+outer membrane of Gram
+bacteria
+date
+nucleic acids
+main development
+international collaboration
+lipopolysaccharide moieties
+key players

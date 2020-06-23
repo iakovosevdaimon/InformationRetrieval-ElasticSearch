@@ -1,0 +1,53 @@
+analysis of molecular dynamics modelling
+Molecular Information Dynamics MID
+surprisal analysis
+unfolding dynamics
+analysis of chemical reactions
+dynamics of individual biomolecules
+information-theoretic approach
+theoretical approach
+molecular level
+dynamics of single biomolecules
+dynamics of specific DNA-ligand complexes
+theoretical modelling of molecular systems
+molecular recognition
+information theory
+information-theoretic methodology
+analysis of high throughput biological signalling data
+analysis of selective energy requirements
+specific energy disposal of chemical reactions
+high throughput biological data
+specific conformational transitions
+computational modelling
+maximum entropy approach
+expertise
+simulation data
+consistent theoretical machinery
+level of individual molecules
+novel representation
+compact representation
+local minima
+special reference
+response
+researcher
+anharmonic motions
+host Professor
+turn
+long relaxation times
+mechanistic insights
+state variables
+development
+gas-phase
+project
+main outcome
+synergy
+mechanical stimuli
+analogous framework
+successful implementation
+assumptions
+applications
+chemistry
+equilibrium
+proposal
+power
+formalism

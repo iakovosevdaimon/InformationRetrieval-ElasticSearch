@@ -1,0 +1,47 @@
+domain parallel corpora
+Statistical Machine Translation Rapid translation
+translation services
+problem of statistical machine translation
+problem of domain adaptation
+domain-specific translation systems
+large parallel corpora
+domain texts
+open source translation systems
+challenge of domain adaptation
+mining
+high level of translation quality
+parallel text available
+parallel corpus
+knowledge available
+unsolved problem
+standardized corpora
+Statistical approaches
+machine learning approaches
+SMT
+basic knowledge source
+academic impact
+weighting
+vast number of domains
+initial promising work
+European languages
+European Parliament
+natural language processing systems
+medical literature
+direct impact
+inconsistent results
+larger scale
+standard solutions
+basic problems
+new research area
+areas of artificial intelligence research
+legal decisions
+cornerstone of good governance
+SMEs
+heuristics
+proceedings
+translations
+state
+break
+entire web
+Wikipedia
+omission

@@ -1,0 +1,69 @@
+disease prediction
+disease state
+reprogramming disease
+core disease signatures
+inflammatory bowel disease
+chronic inflammatory disease
+initial disease risk
+predictive models of disease outcome
+focus
+Systems medicine approach
+data deconvolution
+major cohorts
+human data sets
+Principle data layers
+blood signatures
+major CID indications
+SYSCID consortium
+dedicated data management infrastructure
+future long-term systems
+major levels of resolution
+development of solid biomarkers
+prospective clinical cohorts
+immune cell types
+epigenome code
+clinical trials
+distinct characteristics
+independent retrospective
+identification of shared
+fundamental aims
+molecular risk map
+specific immune cells
+independent of temporal variation
+strong algorithmic development groups
+selected single cell level analyses
+biological validation
+systemic lupus erythematodes
+macrophages
+lymphocytes
+approaches
+SME
+CD8
+stratification
+SNP variome
+methylome
+ICGC
+IHEC
+Meta-HIT
+exploitation of innovative software tools
+large overlap
+initiatives
+Europe
+results
+potential novel therapeutic tool
+stable epigenetic alterations
+new causative therapies
+therapy decisions
+transcriptome
+TwinsUK
+CD4
+pathways
+rheumatoid arthritis
+individual patient basis
+target
+CD14
+previous work
+gut microbiome
+macrophage polarization defects
+diseases
+generation

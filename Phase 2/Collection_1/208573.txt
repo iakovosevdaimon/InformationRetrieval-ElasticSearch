@@ -1,0 +1,60 @@
+structural core sandwich panels
+finite element models
+periodic panels
+plate models
+finite element modeling of sandwich
+plate theories
+use of novel steel sandwich panels
+derived models
+finite elements
+computational micromechanics-based beam
+available finite element software
+linear micropolar continuum beam
+Aalto University
+higher-order continuum theories
+Finland
+addition
+project
+flexible joints
+unidirectional structural cores
+Reddy’s research group
+substitute-continuum beams
+global structural response
+Chalmers University of Technology
+Advanced Marine Structures research group
+ship decks
+large ship
+computational limits
+key theoretical modeling idea
+bridge engineering
+conventional stiffened plates
+applications
+material
+return phase
+shipbuilders
+new understanding of interdisciplinary issues
+energy-efficient designs
+proposed approach
+space
+workshops
+Meyer Turku shipyard
+Sweden
+host’s
+Texas
+shipbuilding
+existing methods
+residential buildings
+researchers
+fuel savings
+discrete lattices
+sense
+accounting
+determination
+model parameters
+necessary features
+central topic
+laser
+micromechanical aspect
+accounts
+objective
+results

@@ -1,0 +1,65 @@
+space missions
+space development
+space robots
+space environment
+space robotics community
+Space-oriented RCOS
+space-grade Reliability
+robotics frameworks
+Space partitioning approach
+non-space solutions
+space-grade RAMS attributes
+European Space Robot Control
+open-source frameworks
+existing frameworks
+development of robotics systems
+open-source solution
+open source framework
+actors leading robotics missions
+integration of complex robotics applications
+open standard
+sufficient RAMS properties
+industrial robot companies
+Robot Control Operating Software
+Terrestrial RCOS
+ESROCOS activity
+ESROCOS proposal
+vendor lock
+vendor-lock
+ESROCOS objectives
+Current state-of-the-art robotic frameworks
+existing assets
+solution interoperable
+ROS third-party libraries
+qualification of industrial drivers
+generation of flight software
+formal verification
+requirements
+Maintainability
+design
+Rock
+Availability
+Time
+Intellectual Property Rights
+IPR
+visualizers
+VxWorks
+Safety
+performance
+PikeOS
+use
+vendor’s dependency
+adequate features
+simulator
+mature toolsets
+situations
+advanced modelling technologies
+proprietary environments
+elevation of TRL levels
+research labs
+degree of quality
+industry
+Leverage
+goal
+key aspects
+platform

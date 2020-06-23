@@ -1,0 +1,43 @@
+flow separation
+laminar-turbulent transition
+sensitive flow physics
+outstanding flow
+flow sensitivities
+transition regions
+interaction of laminar
+turbulent flows
+little understanding of flow physics
+separation locations
+laminar area
+significant regions of separation
+drastic changes of laminar
+difficult interaction of multiple separation
+unsteady wings
+new possibilities
+aerodynamic bodies
+computational methods
+central unsolved fluid physics problems
+failure of Computational Fluid Dynamics
+computational prediction capabilities
+sensitive interplay
+recent results
+direct numerical simulations
+major shortcoming of CFD
+high-lift wing configurations
+boundary layers
+turbulence problem
+multi-peta scale computing
+increased roughness
+experiments of Saric
+influential report
+NASA
+vision
+smooth surface
+Texas
+Slotnick
+enigmas
+Univeristy
+possibility
+proposal
+inability
+research

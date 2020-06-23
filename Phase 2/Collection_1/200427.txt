@@ -1,0 +1,44 @@
+ATM Performance ATM performance results
+performance indicators
+ATM performance monitoring
+performance drivers
+ATM performance datasets available
+ATM KPAs
+development of new indicators
+development of microscopic performance models
+new insights
+new metrics
+multi-dimensional performance assessment
+new data-driven modelling techniques
+new angles of analysis
+new decision support tools
+Understanding Trade-offs
+modelling approaches
+potential of visual analytics
+cause-effect relationships
+different scales
+specific regulations
+stakeholders
+specific objectives
+machine learning algorithms
+set of visual analytics
+interactive dashboard
+temporal scales
+Interactive Toolset
+management purposes
+long-term objectives
+system-wide KPIs
+lack of useful macro approaches able
+local improvements
+complex interaction of interdependent policies
+extraction of relevant
+impact
+systems
+understandable patterns
+visualisation functionalities
+technologies
+systematic characterisation
+market conditions
+project
+goal of INTUIT
+lot of effort

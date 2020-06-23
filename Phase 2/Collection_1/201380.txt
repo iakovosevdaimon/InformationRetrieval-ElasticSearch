@@ -1,0 +1,48 @@
+topological polariton states
+Topological Polaritons
+topological gap
+Semiconductor Photonic Crystal Structures
+quantum emulation
+suitable photonic crystal
+development of semiconductor microcavity photonic crystal structures
+experimental observation of topological polariton edge states
+observation of topological exciton-polariton edge states
+optical quantum-Hall
+microcavity photonic crystals
+physics of topological hybrid
+active quantum wells
+realization of solid state quantum simulation
+scaleable photonic-trap method
+Exotic band structures
+hexagonal lattice structures
+etching techniques
+unidirectionally propagating polariton mode
+low etching-induced sidewall damage
+confinement potential
+new technologies
+ongoing refinement of semiconductor growth
+exciting goal
+electro-optical tuning
+non-trivial phenomena of light
+future optoelectronic devices TOPOPOLIS
+energetic disorder
+high Q-factor microcavities
+versatibe platform
+matter coupling
+artificial graphene
+open dissipative nature
+particle interactions
+tunable mass
+bosons
+logics
+direct monitoring
+excitons
+precise control
+project
+magnetic field
+tool
+systems Hamiltonian
+application point of view
+approach
+scattering
+context

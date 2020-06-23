@@ -1,0 +1,57 @@
+Random Geometry
+random walks
+critical percolation
+topic of random planar maps
+critical models of statistical physics
+geometric structure of random spaces
+physics literature
+physics community
+finite graphs
+two-dimensional statistical physics
+Cayley graphs
+dimensions of certain random sets
+rigorous theory
+set of problems
+mean-field geometry
+non-rigorous predictions
+thriving field
+rigorous proof
+various high-dimensional graphs
+central problems
+popular models
+proposal
+circle packing structure
+contemporary probability theory
+usual square lattice
+intersection of probability
+corresponding dimension
+metric spaces
+non-amenable groups
+conformal invariance
+self-avoiding walk
+quantum gravity
+mysterious KPZ correspondence
+conjectural formula
+complete graph
+aspects of universality
+sense
+investigation
+combinatorics
+resulting percolated clusters
+typical displacement
+important open problem
+progress
+Hamming hypercube
+complex analysis
+surfaces
+objective
+major conjecture
+expanders
+solution
+lattices
+Gurel-Gurevich
+research
+area
+goal
+consequences
+program

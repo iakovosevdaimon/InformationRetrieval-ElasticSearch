@@ -1,0 +1,55 @@
+grid operation efficiency
+digital distribution grid operation
+LV grid outage diagnosis
+Digital electricity Grid Reliable
+increasing number of grid
+novel LV grid observability applications
+voltage quality enhancement
+LV outage diagnosis
+Networked Data
+Net2DG solutions
+data-quality aware processing
+medium-sized DSOs early adopters of digital technologies
+low-voltage
+distribution system control solutions
+security solution
+concept solution
+Net2DG approach
+Net2DG project
+related data sources
+Distribution System Operators
+secure data collection
+existing communication technologies
+existing actuation capabilities
+measurement capabilities of Smart Meters
+needs of small
+information
+ICT reachability of Smart Meters
+existing DSO subsystems
+system level resilience
+robust control
+resulting observability
+efficient electricity supply
+order
+academic partners
+SME
+different European countries
+off-the-shelf computing hardware
+loss minimization
+Intelligent Electronic Devices
+distributed customers
+main task
+startup technology companies
+coordination approaches
+principle accessible
+shelf components
+offered customizability
+inverters
+measurements
+proof
+inverter vendors
+consortium
+grids
+cases
+use
+clients

@@ -1,0 +1,49 @@
+deep ERT
+High-enthalpy hydrothermal systems
+numerical simulations of fluid flow
+classical ERT
+High-enthalpy environments
+Advective high-enthalpy systems
+ERT stUdies
+distribution of high
+field of ERT methods
+NERUDA
+interpreted ERT surveys
+enthalpy fluids
+overall fluid distribution
+available flow simulators
+user-friendly MATLAB hydrothermal module
+Classical cable-structured ERT methods
+user-friendly numerical tools
+acquisition of deep
+deep reservoirs
+major control
+tectonic control
+fault control
+complementary methods
+lack
+deep Electric Resistivity Tomography
+open-source MRST
+role of faults
+wireless system
+little knowledge available
+MATLAB Reservoir Simulation Toolbox
+developed IRIS Fullwaver system
+multidisciplinary approach
+areas
+accessibility
+volcanoes
+leading-edge technology
+multi-layered structure
+scientific community
+development of geothermal energy
+sharp topography
+strong impact
+situ data
+depths
+functionalities
+volcanic settings
+project
+challenge
+world
+complex logistics

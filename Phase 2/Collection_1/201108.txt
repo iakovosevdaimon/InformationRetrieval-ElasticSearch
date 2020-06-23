@@ -1,0 +1,54 @@
+process - phagocytosis
+model of phagocytosis
+synthetic biology
+basic molecular mechanism of phagocytosis
+GUVs capable of phagocytosis
+cell membrane
+actin cortex
+actin-driven membrane reorganisation
+molecular basis
+molecular components
+particle binding
+understanding of biology
+artificial phagocytic receptors
+individual phagocytic pathways
+minimal-model approach
+dynamic actin cytoskeleton
+numerous receptors
+initiation of actin polymerisation sufficient
+key molecular players
+signalling pathways
+minimal phagocyte
+engulfment process
+biophysical process
+apoptotic cells
+ability of cells
+cell mobility
+basic biophysics common
+giant unilamellar vesicles
+innate immunity
+invading microorganisms
+work programme
+ERA-NET ERASynBio
+cellular functions
+Horizon
+large objects
+future innovation drivers
+improved drug delivery systems
+cutting-edge biotechnologies
+spatial cues
+objectives
+novel biotechnological applications
+tissue remodelling
+closure
+abscission
+resultant cup
+open questions
+affinity
+creation
+knowledge
+Reconstitution
+line
+role
+protocells
+gap

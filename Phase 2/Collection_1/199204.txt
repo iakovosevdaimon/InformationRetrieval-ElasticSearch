@@ -1,0 +1,68 @@
+memory cells
+memory matrix
+developed memory solution
+Revolutionary embedded memory
+nanoelectronic devices
+emerging devices
+edge devices
+alternative embedded memory blocks
+nanoelectronics devices
+CMOS technology
+simulation technology
+internet of things devices
+Matrix memory subcircuits
+terms of low power
+variability effects
+variability analysis
+variability immunity
+Floating-Body memory
+ultra-low-power consumption
+FD14 technology nodes
+low voltage
+Extreme low power solutions
+addition variability tolerant design techniques
+electrical characterization of ultimate CMOS nanometric devices
+nm
+FD28
+embedded DRAM solution
+New techniques
+FDSOI
+power-consumption point of view
+objectives of REMINDER
+future CMOS circuits
+Advanced simulation tools
+strained Si
+V materials
+eventual replacement of Si
+energy reduction REMINDER
+New behavioural models
+state
+chip application
+high reliability
+SiGe
+modelling
+SMEs
+system
+robustness
+speed
+reduced footprint
+concept
+fabrication
+benchmarking
+redesign of different applications
+research centers
+industrial partners
+cost
+Demonstration
+selection
+Investigation
+device performance
+deep understanding
+proposal
+universities
+optimization
+consortium
+fulfilment
+development
+architectures
+evaluation

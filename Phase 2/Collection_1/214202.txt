@@ -1,0 +1,53 @@
+LPV framework
+robust LPV control design
+nonlinear systems
+LPV representations
+nonlinear models
+Nonlinear identification
+nonlinear modelling
+Nonlinear system modelling
+LPV-based control strategies
+estimation of LPV models
+considered LPV system class
+control tools
+control synthesis
+available tools of nonlinear system identification
+unified framework
+frequency-domain LPV model uncertainty analysis framework
+Complex nonlinear behavior
+trademark of LTI framework
+systematic control design flow
+linear parameter-varying control
+physical systems
+project
+terms of system complexity
+Linear Time-Invariant
+energy applications
+core research objectives
+energy efficiency
+high-tech applications
+systematic way
+long time
+intuitive features
+research proposal
+significant gap
+frequency-domain weighted cost function
+performance requirements
+operational constraints
+digital controllers
+specific regimes
+past lack
+steady-state conditions
+topic
+simple interpretation
+chemical processes
+possibility
+place
+Growing challenges
+engineering
+result
+end
+extension
+limitations
+hand
+view

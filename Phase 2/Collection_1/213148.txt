@@ -1,0 +1,51 @@
+D sequential integration process
+D integration stack
+D system
+Process Sequential Integration
+D-MUSE
+smart sensors
+analog sensors
+dimension of sequential
+plethora of sensors
+volume
+functional blocks
+multi-process
+cyberphysical systems
+number of different sensors
+mixed-signal circuits
+hand
+IoT
+micro circuits
+signal electronics
+necessary digital processing power
+power scavenging
+interfaces
+actuators
+lower power budget
+functional performance scaling of sensor nodes
+multiple tiers
+processing capability
+cost needs
+analog device options
+optimal digital designs
+major bottleneck
+increase
+beneficial trade-offs
+novel architectures
+wafer-bonding
+excellent candidates
+single plain
+cube
+interconnect density
+emancipation
+complex interactions
+concept
+turn
+environment
+product
+technology
+connected devices
+trend
+heart
+progression
+time

@@ -1,0 +1,46 @@
+Modern Pattern
+Pattern matching
+modern models
+modern techniques
+modern algorithmic techniques
+important pattern
+modern challenges
+space lower bounds
+new models of computation
+popular notion of conditional lower bounds
+conditional time
+new hardness conjectures
+New computational models
+sparse recovery
+old models of computation
+popular conjectures
+lack of hardness conjectures
+evidence of hardness
+string problems
+entire algorithmic field
+proposal
+various algorithmic tasks
+space tradeoffs
+sub-field
+day life
+technological advances
+crucial role
+decade
+computer scientists
+gap
+theory
+technology
+ideas
+computing applications
+small auxiliary memory
+data
+internet
+input
+useful tool
+era
+algorithms
+basic sense
+research community
+insight
+world
+respect

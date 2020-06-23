@@ -1,0 +1,45 @@
+collections of music
+music works
+interactive music systems
+Music mood classification
+online database of scores
+generation systems of interactive music
+broader areas of music
+music emotion recognition
+mood-indexed database of scores
+final database
+lyrics
+musical excerpts
+online game
+D animations
+dance video recordings
+vector
+digital scores
+evaluation
+artists
+intermedia case studies
+explicit domain-specific knowledge
+new knowledge
+public domain
+sound generation
+metadata
+computational creativity
+development
+Internet users
+motion domains
+sophisticated features
+selected dancers
+project
+audio
+information retrieval
+present research
+mental state
+purpose
+investigation
+taxonomy of relations
+cross-modal approach
+results
+Validation
+model
+Datasets
+exploitation

@@ -1,0 +1,51 @@
+TNBC therapeutic resistance
+occurrence of therapeutic resistance
+new therapeutic targets
+TNBC tumour microenvironment
+hypoxic microenvironment
+hypoxic tumour microenvironment
+Agent-Based Modelling of Gene Networks
+dynamic microenvironment
+validated drug combinations
+effective drug combinations
+adaptability of gene signalling networks
+powerful computational modelling techniques
+cancer cells
+novel modelling framework
+combinations of druggable targets
+clonal selection
+computational approaches
+effective treatment selection
+number of possible combinations
+triple negative breast cancer
+new powerful tool
+selection of resistant clones
+targeted cancer therapies
+empowering experimental models
+overall survival
+major cause
+survival advantage
+major factors
+framework able
+breast cancers
+experimental strategies
+heterogeneous population of cells
+microC
+virtual environment
+small effect
+assays
+driver genes
+individual tumours
+multiple interactions
+data
+diagnosis
+therapy
+testing case
+available treatments
+clinical samples
+lack
+project
+vitro
+biological hypotheses
+controlled stepwise fashion
+patient

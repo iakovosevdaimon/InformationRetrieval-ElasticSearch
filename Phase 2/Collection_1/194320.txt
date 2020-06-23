@@ -1,0 +1,65 @@
+interaction manipulation
+RobDREAM robots
+mobile manipulation systems
+industrial mobile manipulators’ perception
+navigation
+capabilities
+mammals sleep
+inspiration of RobDREAM
+related key technologies
+Quality of Service
+improvement phases
+RobDREAM’s technologies
+inactive phases
+technology providers
+increased adaptability
+working memory
+economic perspective
+scientific perspective
+working day
+professional service robotics
+portfolio of key algorithms
+technology readiness level
+market shares
+higher product variety
+setup
+parts
+SME
+settings
+flexibility
+validation
+dependability
+TRL
+iterative real-world testing
+automatic optimization of parameters
+areas of operation
+selection of tools
+improved abilities
+Total Cost of Ownership
+programming
+jobs
+smaller lot-sizes
+decisional autonomy
+configurability
+strategies
+turn
+processing experiences
+competitiveness of Europe's manufacturing sector
+higher-level cognitive functions
+simulation
+use case driven evaluation
+new tasks
+Overall Equipment Efficiency
+parameter tuning
+time
+constraints
+beginning
+head
+Optimising Robot Performance
+result
+motion
+possible future situations
+learning
+advantages
+reasoning
+hominids

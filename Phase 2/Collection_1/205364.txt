@@ -1,0 +1,39 @@
+literature
+large datasets
+fixed coefficient estimation methods
+standard Bayesian estimation methods
+favour of kernel estimation
+time varying estimation of parameters
+large dimensional covariance matrices
+proposed estimators
+theoretical results
+explored problem of covariance estimation
+case of large dimensional datasets
+data rich methods
+large dimensional linear regression
+preliminary empirical results
+time varying covariance matrix
+time variation
+interesting empirical applications
+empirical papers
+interesting strand
+sample forecasting
+theoretical paper
+aim
+optimal portfolio allocation theories
+area of Macroeconomic Forecasting
+considerable focus
+primary focus
+key macro variables
+econometric models
+presence
+utility
+methodological advancements
+benefits
+terms
+extensive Monte Carlo analysis
+process
+structural change
+novel extension
+project
+end

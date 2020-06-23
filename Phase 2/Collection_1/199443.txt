@@ -1,0 +1,55 @@
+statistical physics methods
+circle of questions
+interface of Statistical Physics
+models of statistical physics
+questions of existence
+fundamental questions
+Combinatorics Mathematical statistical physics
+classical open questions
+tantalizing open questions
+high dimensions
+localization features of random operators
+random Schrodinger operators
+phenomena of localization
+reinforced random walks
+fluctuation behavior of random surfaces
+Probability Theory
+long-range order
+high-dimensional systems
+field
+combinatorial problems
+proposed research
+approach
+model of Polyakov’s
+Ordering Phenomena
+combinatorial structures
+Existing problems
+D Heisenberg model
+physical systems of large size
+higher spin versions
+spectacular progress
+prediction
+exponential decay of correlations
+PI’s proof of Kotecky’s
+rigorous results
+loop O
+rigidity of proper
+question of Brascamp
+analogue
+colorings
+long-standing universality conjectures
+band matrices
+asymptotics
+notable example
+recent years
+Lieb
+Lebowitz
+temperature
+context
+conjectured thresholds
+way
+main goal
+connection
+delocalization
+phenomenon
+study

@@ -1,0 +1,39 @@
+NNLL accuracy
+accuracy of parton showers
+underlying parton shower
+intrinsic logarithmic accuracy
+fixed-order calculations
+fixed order predictions
+parton-shower Monte Carlo approach
+higher-order resummation
+high-precision theoretical calculations
+matching
+perturbative calculations
+merging
+LHC data extraction
+future improvements
+Higgs precision measurements
+kind of theoretical prediction
+traditional standard-model studies
+certain BSM searches
+exploitation
+PSMCs
+processes
+past decade
+QCD radiation
+broad class of observables
+interpretation
+time
+enhanced contributions
+final state particles
+structure
+benefit
+Advances
+recent developments
+technology
+accounts
+progress
+coupling
+attention
+project
+foundations

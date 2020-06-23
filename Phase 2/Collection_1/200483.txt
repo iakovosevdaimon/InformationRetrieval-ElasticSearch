@@ -1,0 +1,52 @@
+control of large scale heterogeneous networks
+reverse engineering of biological networks
+engineering of large scale heterogeneous networks
+power distribution networks
+synthesis of large scale complex networks
+scalability
+control theory
+fundamental theory
+fundamental limitations
+control theoretic methodologies
+fundamental limits
+intrinsic fluctuations
+guaranteed robustness
+contribution
+Analysis
+noise
+important applications
+biological world
+arbitrary feedback
+tools
+arbitrary interconnection
+network designs
+various applications
+proposed research
+robust stability
+proposed project
+Major challenges
+data network protocols
+group coordination problems
+conditions
+random births
+conservative schemes
+sources
+fluctuating environments
+significant impact
+local interactions
+molecular level
+deaths of molecules
+poor performance
+cell
+chance
+traditional domains
+systems
+associated tradeoffs
+societies
+everyday lives
+known configurations
+distinctive feature
+Life
+fact
+nature
+questions

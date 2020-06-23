@@ -1,0 +1,54 @@
+experiments
+new experiment
+dynamics of stratified turbulence
+maintained stratified shear flow
+overall flow
+turbulent flow
+stratified fluid
+new laboratory experiment
+study turbulence
+mixing processes
+mixing rates
+temporal intermittent flow
+stratified inclined duct
+new insights
+DNS
+measurements
+state-of-the-art computations
+limited region of parameter space
+density fields
+time evolution
+three-dimensional region
+unique capability
+heat uptake
+wide range of questions
+atmosphere
+global ocean
+standard
+knowledge
+homogenising of products
+dilution of pollutants
+efficient cooling of buildings
+dynamical aspects
+transport
+components of velocity
+layer counterflow
+initial conditions
+quantities
+diagnostics
+future studies
+near-instantaneous
+life-cycles
+rich variety of flows
+direct numerical simulations
+food industry
+problem
+data
+long times
+addition
+computational code
+mechanisms
+volume
+situations
+results
+scale

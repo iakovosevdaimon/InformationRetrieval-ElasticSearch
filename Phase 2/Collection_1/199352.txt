@@ -1,0 +1,51 @@
+Novel heating processes
+repair of composite airframes
+associated application equipment
+development of Quick Composite Repair
+stages novel processes
+development of positive pressure application equipment
+frequent repair cases
+Composite Repair Technology NEWCORT
+bonded composite repair procedure
+composite fuselage curvature
+adaptation of material removal equipment
+frequent aircraft repair cases
+curved thick composite structures
+heating flux sensors
+dielectric sensors
+control software
+heating mats
+improved curing control
+application of new power supply control logic
+frequent geometries
+polymerization of patch
+curved structures
+simultaneous development
+simulation software
+embedded thermocouples
+improved compaction of patch layers
+optimized pressure measurement devices
+polymerization of new types of resins
+key stages
+thermocouples installation topology
+potential simplification of stepping requirements
+close tolerance applications
+kits
+viscosity monitoring
+process optimization
+selection of blankets
+QCR
+scarfed pre-cured patches
+surface preparation
+developments
+TRL
+thermoplastic materials
+real-life aeronautical environment
+research
+validation campaign
+M20
+proposing consortium
+project steps
+targeted areas
+integration of innovations
+solutions

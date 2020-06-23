@@ -1,0 +1,54 @@
+real-time data
+big-data domain
+Big Data AnalyticS Big data applications
+big data developers
+data analytics platforms
+continuous data flows
+Current data analytics systems
+large heterogeneous data streams
+extreme amounts of complex data
+innovative capabilities
+rest analysis
+motion analysis
+innovative distributed architectures
+sound real-time guarantees
+Distributed Software Architecture
+innovative services
+high-performance domain
+timing analysis methods
+embedded domain
+Edge
+complementary capabilities
+CLASS framework
+information
+novel software architecture
+Representative applications
+heterogeneous sensors
+programming models
+CLoud Computation
+larger models
+process mining
+incompatible requirements
+challenging requirements
+energy-efficient parallel architectures
+traffic management
+prototype cars
+case
+V2I connectivity
+actuators
+wide urban area
+advanced driving assistance domains
+technological background
+cluster support
+compute continuum
+heavy sensor infrastructure
+transparent way
+adopting
+real smart-city
+advent of autonomous vehicles
+need
+reactive response
+intensive feedback
+approaches
+drivers
+conflicting  priorities

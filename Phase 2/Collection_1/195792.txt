@@ -1,0 +1,53 @@
+functional ESCRT assembly structure
+protein assembly
+Individual ESCRT proteins
+yeast ESCRT machinery
+ESCRT assemblies’ size
+computational modeling
+local contacts
+Fuse smFRET
+new structural biology method
+high-throughput single molecule FRET
+FRET efficiency
+new methodology
+individual complexes
+FRET efficiencies
+molecule level
+complex functional protein assemblies
+individual building block structures
+local contact formations
+High-throughput biochemistry
+label-label distance
+HIV infections
+assembled structure
+model system
+atomistic model
+labeling technology
+overdetermined structures
+distinct labeling sites
+fact
+experiments
+flexibility lead
+control
+distances
+role
+barriers
+invaginated supported lipid bilayers
+cell’s ESCRTs
+copy number
+replica exchange Monte Carlo simulations
+composition
+conformation
+membranes
+TIRF microscopy
+current methodologies
+stoichiometry
+experimental data
+Cy3
+information
+Alterations
+infected cells
+Stepwise photobleaching
+blocks
+goal
+Cy5

@@ -1,0 +1,52 @@
+reference platform
+higher processing power
+embedded image processing systems
+image processing libraries
+image processing applications
+Ubiquitous Low-power Image Processing Platforms Tulipp
+processing innovation
+scalable low-power board
+power consumption issues
+idle power management
+low-power medical image processing product prototype of surgical X-ray system
+reference HW architecture
+instance
+typical embedded systems requirements
+constrained systems
+performance requirements
+automotive real time embedded systems
+system integration
+Tulipp approach
+manageable project structure
+computing performance
+implementation rules
+required experimentation
+elementary board
+required inter-disciplinary expertise
+UAV
+Unmanned Aerial Vehicles
+Mobile c-arm
+Size
+Weight
+reduced cost
+different application domains
+advances
+interfaces
+concept demonstrators
+driver assistance
+energy aware tool chain
+sufficient number of partners
+risks
+rise
+new standards
+resulting boards
+standardisation organisations
+demonstration activities
+SWaP
+designers
+consortium
+ambitious goals
+case
+proof
+effectiveness
+industry

@@ -1,0 +1,48 @@
+multisite phosphorylation networks Multisite phosphorylation of proteins
+phosphorylation sites
+novel phenomenon of multisite phosphorylation
+Cdk1-dependent multisite phosphorylation of kinetochore components
+linear patterns of phosphorylation networks
+net phosphorylation rate
+cell cycle regulation
+patterns of budding yeast Cdk1 multisite networks
+temporal order of cell cycle events
+cell division
+Biological signal processing
+powerful signal processing mechanism
+new interpretation of CDK signal processing
+crucial substrate
+disordered protein segments
+proposed model
+study
+cyclin-dependent kinase
+crucial roles
+kinetochore formation
+important mechanism
+phospho-regulation
+synthetic biology
+complex substrate arrangements
+toolbox of synthetic parts
+context of different kinases
+fast time scales
+microtubule attachment
+distribution of serines
+wide combinatorial possibilities
+C terminal direction
+differentiation
+distance
+field
+error correction
+key parameters
+molecular basis
+threonines
+circuits
+application
+position of docking motifs
+concept
+alternative wiring
+rules
+switches
+disease
+goals
+proof

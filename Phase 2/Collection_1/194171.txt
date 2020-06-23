@@ -1,0 +1,51 @@
+Technology Homomorphic cryptography
+Homomorphic Encryption Applications
+HEAT project
+HEAT proposal
+goal of HEAT
+contributed case studies
+industrial partners
+wider applicability
+proposed outputs of HEAT
+thorough security analysis
+academic research
+way
+statistical analysis
+existing ground breaking research
+shared satellite infrastructure applications
+leading expertise
+existing interests
+tantalizing goal
+Europe's leading researchers
+useful cryptographic tool
+post-quantum cryptographic systems
+wider variety of end developers
+new design
+KU LEUVEN
+detection of organized crime
+CRX
+field
+linkage
+open source software library
+implementation techniques
+UPMC
+links
+smart grid
+UNIVBRIS
+sensitive information
+European industry
+NXP
+lattices
+cryptanalysis
+organizations
+citizens
+efficiency
+step change
+encrypted form
+Thales UK
+right
+input data
+practical issues
+stepping stone
+privacy
+results

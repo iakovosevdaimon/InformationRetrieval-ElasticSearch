@@ -1,0 +1,47 @@
+spin torque networks
+spin torque nanodevices
+spin torque modules
+Bio-inspired Spin-Torque Computing Architectures
+bio-inspired spin torque computing architectures
+spin-torque nano-synapses
+foundations of spin torque bio-inspired computing
+spin-torque nanodevice chips
+computing models
+brain-inspired algorithms
+higher level computing tasks
+power of complex non-linear dynamical networks
+nano-neurons
+non-linear dynamics
+features typical of non-linear dynamical networks
+neuromorphic nanodevices
+recognition tasks
+class of models
+abstract models
+complex dynamics
+tunable nonlinear dynamical nano-components
+constraints of hardware implementations
+low power
+efficient CMOS
+CMOS buffers
+bioSPINspired project
+spintronic data processing systems
+spintronics
+capable of emulating
+synchronization
+separation properties
+magnetic interactions
+large-scale simulations
+fabrication
+edge of chaos
+approach
+attractor state
+skills
+path
+prototypes
+external inputs
+experience
+chaotic behaviour
+table
+traditional microprocessors
+observations
+schemes

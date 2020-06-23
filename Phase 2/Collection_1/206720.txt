@@ -1,0 +1,40 @@
+Post-Quantum World
+security of symmetric cryptography
+quantum adversary
+obtained quantum symmetric cryptanalysis toolbox
+big quantum computers
+security of symmetric primitives
+existence of quantum computers
+equivalent security
+secure communications
+current state-of-the-art asymmetric cryptography
+key lengths
+corresponding cryptanalysis toolbox
+help
+exhaustive key searches
+affected disciplines
+future communications
+big gap
+Grover’s algorithm
+square root
+biggest known threat
+efficient solutions
+induced breakthrough
+enormous consequences
+scientific community
+sight
+continuous scrutiny
+years
+computational power
+normal complexity
+ultimate aim
+money
+trivial task
+main challenge of QUASYModo
+chaos
+confidence
+time
+advance
+Cryptology
+alternatives
+project

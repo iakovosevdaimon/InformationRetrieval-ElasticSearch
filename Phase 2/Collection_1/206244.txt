@@ -1,0 +1,61 @@
+Supermarkets
+store logistics needs
+real retail store
+refill shelves
+logistics companies
+supermarket articles
+misplaced articles
+display shelves
+retail market domain
+autonomous sorting of articles
+Integrated Logistics Lines
+store monitoring
+mobile robots
+REFILLS project
+scenarios
+development of efficient logistics solutions
+scenario employs robot arms
+robotic systems able
+robotic clerk capable
+human clerks
+technology challenges
+human intervention
+design of cost-efficient robotic units
+shopping experience
+sensory experience
+semantic environment maps
+layout identification
+stiffness
+weight
+online grocery stores
+exploitable results
+professional use
+reactive control
+perception
+contexts
+changing task requirements
+shape
+surface
+backroom
+wide impact
+execution errors
+integration
+fragility
+number of research
+shelf refilling
+goods
+evaluation phases
+work plan
+uncertainty
+costs
+time
+powerful knowledge bases
+Robotics
+customers
+final demonstration
+modular approach
+efficiency
+Reasoning
+Information
+autonomy
+sum

@@ -1,0 +1,31 @@
+ensemble weather forecasts
+D ensemble visualization
+weather centres
+D meteorological ensemble visualization
+forecasts of high impact weather events
+occurrence of weather events
+ensemble of simulations
+ensemble fields
+potential of Met
+future weather state
+Improved Communication of High Impact Weather Events
+operational ensemble prediction systems
+operational use of Met
+ensembles of numerical forecasts
+uncertainty
+s potential
+scope of SaferVis
+opensource software tool Met
+possible societal impact
+researchers
+training forecasters
+decision makers
+physical phenomenon
+form of probabilities
+public
+single deterministic computation
+algorithms
+ERC Advanced Grant
+development of novel concepts
+commercialization
+PoC

@@ -1,0 +1,52 @@
+cloud resources
+Federated Cloud Networking Cloud federation
+cloud aggregation
+cloud providers
+cloud bursting
+cloud network resources
+multi-cloud applications
+Cloud networking aspects
+federated cloud networking features
+secure federation of cloud networking resources
+secure deployment of federated cloud applications
+integrated management cloud layer
+new inter-cloud network capabilities
+existing open source cloud platforms
+new rich inter-cloud APIs
+deployment of federated applications
+federated orchestration of networking
+automated federation of applications
+different clouds
+different aspects
+Different types of federation architectures
+OpenDOVE project
+collaborative project
+multiple datacenters
+large virtual pool of resources
+multi-tenancy
+storage management
+different level of resource coupling
+multiple network locations
+open source software
+storage infrastructures
+cross-site virtual networks overlays
+homogeneous virtualization layer
+heterogeneous underlying physical networks
+computing
+OpenNebula
+OpenStack
+enablement
+compute
+placement
+interoperation
+elasticity
+techniques
+legal domains
+research
+OpenDaylight
+proposal
+Linux Foundation
+fold
+situations
+main goal
+organization

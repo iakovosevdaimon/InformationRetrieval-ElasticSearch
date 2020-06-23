@@ -1,0 +1,30 @@
+characters of simple representations
+categories of representations
+indecomposable tilting representations
+geometry of modular representations of reductive algebraic groups
+main theme
+main tools
+characters of tilting modules
+main problems
+conjectural formula
+Elias-Williamson
+Geometric Representation Theory of reductive algebraic groups
+geometric framework
+character formulas
+closed fields of positive characteristic
+proposal
+case
+Soergel bimodules
+base field
+new perspective
+study of parity sheaves
+category
+Juteau-Mautner
+diagrammatic presentation
+primary goal
+Lusztig
+recent breakthrough
+smaller characteristics
+area
+program
+Andersen

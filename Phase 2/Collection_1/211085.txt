@@ -1,0 +1,53 @@
+Gb
+G FiWi network
+G networks
+s wireless data-rates
+G integrated Fiber-Wireless networks
+s peak data rate PON
+integrated FiWi packetized fronthaul
+s PON access networks
+G broadband wireless networks
+s peak data-rate SDM
+s peak data-rate WDM
+FiWi traffic
+G-PHOS
+area of optical technologies
+analog optical beamforming
+multi-bitrate optical communications
+dense areas
+Triplex optical beamformers
+cooperative radio-optical beamforming
+wireless resources
+field-trial experiments
+SDN-programmable network architectures
+converged FiWi SDN control plane
+dense environments
+set of SDN
+photonic integrated circuit technology toolkit
+packetized C
+Hot-Spot areas
+densities
+km2
+Tb
+use cases
+deployed network of Greek operator COSMOTE
+existing photonic technologies
+multi-format
+massive mmWave MIMO communications
+programmable units
+FlexBox-Pro
+different 64x64 MIMO Remote Radio Head configurations
+InP transceiver
+Medium-Transparent Dynamic Bandwidth Allocation mechanisms
+recent results
+lab-scale
+advances
+stadium of
+performance
+CPRI
+msec latency
+Thessaloniki
+multiplexers
+Greece
+order
+blocks

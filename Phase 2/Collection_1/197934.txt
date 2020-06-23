@@ -1,0 +1,61 @@
+big-data
+big data management
+Storage Interconnect
+Storage ExaNeSt
+European Exascale System Interconnect
+exascale deployment
+system deployment
+subsequent data management
+exascale-level compute
+European Exascale Systems
+unified distributed storage compute architecture
+complete spectrum of Big Data applications
+platform management scheme
+minimum data communication energy overheads
+unified Communication
+compute elements
+efficiency compute
+physical platform
+European-sourced advanced cooling system
+data sw locality models
+Hyper-density system integration scheme
+HPC simulations
+first-hand experience of HPC applications
+Business Intelligence support
+prototype
+low latency connectivity
+available high density
+High throughput
+architectural solution
+physical rack
+operating systems
+decade of advanced R
+property maintenance
+computing IP
+experts
+environmental structures
+kernel
+algorithms
+entire value chain
+non-volatile memories
+knowledge
+follow-up industrial commercialization phases
+QoS guarantees
+congestion mitigation
+ETP4HPC roadmap
+skills
+databases
+application analysis
+racks
+task
+reliability
+technology
+resilience
+cost of ownership
+consortium
+direction
+complexity
+costs
+applicability
+frameworks
+aspects

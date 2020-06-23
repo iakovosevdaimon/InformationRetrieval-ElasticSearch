@@ -1,0 +1,35 @@
+maintenance engineer
+Industrial Maintenance Tasks
+maintenance technicians
+preventative maintenance
+Robot Assistant
+monitoring of maintenance technician
+unseen tasks
+system's ability
+robot's task
+number of representative tasks
+construction
+training phase
+actual training
+state
+perceptual systems
+activity recognition
+knowledge base
+result of prompting
+set of competencies
+robot's behavioural repertoire
+subject
+assistance
+routine
+proposal
+theory of action
+validation
+dynamic behaviour generation
+pair of hands
+context
+SecondHands
+collaboration
+scope of work
+Assessment
+understanding
+help

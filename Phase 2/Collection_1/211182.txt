@@ -1,0 +1,62 @@
+Inertial Systems
+accurate gyros
+non-inertial sensors
+development of miniaturized vibratory gyros
+set of inertial sensors
+Unmanned Aircraft Vehicles
+unmanned aircraft applications
+demand small low-cost aircraft
+overall navigation capabilities of General Aviation
+aviation community
+core component of CNS systems
+systems improvements
+pitch
+Mems
+initial heading
+order
+angles self-initialization
+heading term
+hour
+local horizontal component of Earth Rate
+autonomous northfinding capabilities
+self-initialization technique
+innovative aerospace grade Inertial Unit
+air taxi
+Micro Electro Mechanical Sensors
+terms of accuracy
+non-nominal performance
+local reference frame
+air traffic services
+future
+GYro Compassing
+charter
+Surveillance
+aiding
+UAV
+specific Communication
+fractional ownership
+efficiency
+significant investments
+existing commercial solutions
+respect
+Appliance
+affordable costs
+external interference
+safety
+unscheduled operations
+years
+gyrocompassing
+magnetometers
+capacity
+security
+accelerometers
+bias instability levels
+manufacturers
+function
+MAGYCO project
+limit
+players
+consequence
+accelerometer measurement
+range
+attitude

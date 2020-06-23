@@ -1,0 +1,38 @@
+parameterized problems
+foundations of parameterized complexity
+running times of parameterized algorithms
+Pareto-Optimal Parameterized Algorithms
+core philosophy of parameterized complexity
+possible parameterized algorithm means
+running time of algorithms
+efficient algorithms
+new approach
+project
+possible algorithm
+complexity theoretic tools
+multi-dimensional algorithmic paradigm
+new definitions
+algorithm design
+best algorithm
+new fundamental questions
+multi-dimensional framework
+new world of research directions
+research questions
+variable
+modern multi-variate approach
+one-dimensional approaches
+notion of Pareto
+adjacent subfields of theoretical computer science
+practical applications
+existing paradigms
+mathematics
+art
+state
+optimality
+economics
+underlying question
+terms
+case
+previous formalizations
+successful completion
+instances

@@ -1,0 +1,50 @@
+security of distance
+design of positioning systems
+Today's positioning systems
+Physical Layer
+physical-layer
+secure positioning
+performance of distance measurement techniques
+right distance measurement
+Cross-Layer Design of Securing Positioning
+Link Layer
+simple upgrade - existing positioning systems
+legacy distance measurement techniques
+security requirements
+security considerations
+cross-layer endeavor
+bounding
+equivalent non-secure systems
+achievable limits of security
+logical-layer attacks
+expected deployment of cyber-physical systems
+protocols
+devices
+realistic attacker models
+wide range of applications
+development of new location-based services
+speed of execution
+existing knowledge
+new approach
+critical applications
+scalability limits
+measured positions
+trusted execution environments
+right Medium Access Control
+MAC
+reliance
+autonomous cars
+time information
+resilience
+mobile platforms
+drones
+terms
+accuracy
+use
+account
+following fundamental questions
+project
+start
+integration
+problem
+way

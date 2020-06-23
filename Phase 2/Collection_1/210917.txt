@@ -1,0 +1,62 @@
+mixed traffic scenarios Automated driving
+variable road scenarios
+introduction of automated driving systems
+fault-tolerant automated driving controllers
+road safety
+road users
+conditional automated vehicles
+human behaviour
+ego vehicle
+vehicle classes
+systematic identification of critical road scenarios
+list of relevant scenarios
+human driver uncertainty
+agile vehicle validation
+design of controllers
+vehicle value chain
+simple controllers
+TrustVehicle consortium
+operational system behaviour
+in-depth analysis of possible traffic situations
+conditional automation
+user-friendliness of level
+weather-independence
+SAE level
+sensor fusion systems capable
+current location
+time-effective assessment of driver
+different kinds of weather conditions
+loop situations
+End users
+TrustVehicle project
+consortium activity
+implementation of intuitive human-machine interfaces
+real-world operating conditions
+complex
+account user acceptance
+transition phases
+cost
+self-diagnostics
+significant challenge
+development of trustable
+safe management
+future locations
+demonstrators
+participants
+gender-specific aspects
+data logging
+concerns
+test cases
+consequence
+setup of new tools
+Improved trustworthiness
+initial stages
+expectations
+establishment
+demonstration
+market
+requirements
+outputs
+technology
+Special focus
+main objectives

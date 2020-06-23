@@ -1,0 +1,51 @@
+Inpainting-based codecs
+lossy codecs
+Popular transform-based codecs
+Inpainting-based Compression of Visual Data
+inpainting process
+inpainting methods
+sophisticated data coding
+successful realisation of inpainting
+suitable inpainting mechanism
+huge amounts of visual data
+JPEG
+efficient numerical algorithms
+parallel numerical algorithms
+forthcoming coding standards
+high compression rates
+decisive advantages
+qualitative advantages
+stored information
+fundamental paradigm
+Research results
+convincing results
+missing information
+specific applications
+dedicated applications
+different ideas
+difficult fundamental problems
+number of different features
+design of real-time capable sequential
+pleasant image editing tool
+benchmarking
+theoretical foundations
+decoders
+impact
+growing demand
+entire spectrum
+mechanisms of human perception
+state
+decoding step
+video player
+demonstrator
+videos
+images
+challenges
+integrated approach
+significant improvements
+daily life
+limitations
+potential
+optimisation
+situation
+concept

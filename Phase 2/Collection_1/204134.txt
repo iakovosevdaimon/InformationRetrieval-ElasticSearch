@@ -1,0 +1,56 @@
+implantable CIs
+cochlear electrode
+middle ear
+battery problems
+generation autonomous CIs
+operation principle of CIs
+external microphone
+RF coil
+battery charging
+electronic hearing
+rechargeable battery
+cochlear implants
+Autonomous Cochlear Implant Sensorineural impairment
+RF transceiver pair
+profound hearing loss
+major drawback of conventional CIs
+RF transceiver cause limitations
+elimination of continuous RF transmission
+sound detection
+sound processor
+electronics
+main units
+energy harvesting
+Implantable MEMS
+FLAMENCO
+entire natural hearing mechanism
+power hungry units
+low-power CI
+piezoelectric transducers
+continuous access
+functional parts
+main obstacle
+critical problems
+profound deafness
+multi-frequency self-powered implant
+set of piezoelectric cantilevers
+utilization of internal energy
+damage risk of external components
+perfect candidate
+front-end filters
+hair cells
+system
+water
+majority
+people
+signal processing
+project
+aesthetic concerns
+neural stimulation
+daily acoustic band
+groundbreaking nature
+auditory nerve
+customization
+Limited volume
+feasibility
+animal tests

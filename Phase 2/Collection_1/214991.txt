@@ -1,0 +1,44 @@
+iEEG responses
+fast drug discovery
+integrated drug screening platform
+innovative drug discovery programs
+Active probing of brain excitability
+electrical micro-stimulations
+neural responses
+Cortical excitability
+concept of active probing of brain states
+iEEG data recording
+Automatised active probing platform
+standard iEEG power analysis
+animal models
+industrialization goal
+scientific objective
+PoC
+automatic data processing
+overall objective of EXCITATOR
+main scientific goal
+deep brain structures of rodents
+small animals
+effects of drugs
+industrialization process
+changes of oscillatory power
+acute challenge of drugs
+biopharmaceutical industry
+biotechnology company
+human database
+collaboration
+cortex
+intracranial EEG
+FTRACT technology
+control conditions
+Synapcell SAS
+F-TRACT ERC project
+relevant functionalities
+methods
+electrode configurations
+stimulation artefacts
+industrial use
+constraints
+proof
+Electrodes
+practice

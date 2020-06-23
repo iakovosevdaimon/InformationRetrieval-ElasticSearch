@@ -1,0 +1,60 @@
+cloth simulation
+way cloth
+real-time photorealistic cloth animation
+real-time believable cloth animation
+high-dimensional space of cloth
+physics-based model
+image-based methods
+physics-based methods
+new  model
+new model
+image-based infomation
+image-based approach
+physical-based method
+high-dimensional problem
+low-dimensional model
+studies methods
+computer graphics techniques
+lower-dimensional subspace
+high-dimensionality
+new animations
+clothing
+appearance
+salient dynamic geometric properties
+multi-scale framework
+area of computer science
+express physics laws
+large number of properties
+dynamic geometry
+pose space
+challenging problem
+video input
+input imagery
+physical objects
+fine-scale details
+main trends
+poses
+captured data
+mathematical equations
+interesting case
+deformations
+collisions
+materials
+different levels
+potential contexts
+key element
+real world
+small portion
+trouble
+real-world behavior
+expressiveness
+textures
+illumination
+wrinkles
+low-resolution representation
+Current approaches
+motion
+PhotoCloth
+fellowship
+visual content
+identity

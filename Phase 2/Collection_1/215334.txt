@@ -1,0 +1,42 @@
+NC algorithms slow
+model NC problems
+modelling of NC problems
+subclass of control algorithms
+new NC algorithm
+Network Control
+new services
+project results
+real problems
+congestion control
+software package
+new mathematical framework
+diversity of services
+future services
+network resources
+Faster Approach
+resource allocation problems
+faster method
+simple language
+industry research lab
+increasing complexity of data networks
+fast way
+academia
+NEC
+time
+video streaming
+areas of optimisation
+previous solutions
+months
+scheduling
+recent breakthroughs
+solid theory
+VoIP
+paper
+pencil
+pace
+practice
+networking
+years
+paradigm
+instance
+phase

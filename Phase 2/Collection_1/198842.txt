@@ -1,0 +1,41 @@
+nano-crossbar arrays
+Switching Nano-crossbar Computer
+crossbar memories
+Emerging Computing Models
+emerging nanocomputer
+project
+nanotube crossbar arrays
+Nano-electronic Technologies
+construction of emerging computers
+proposed methodology targets variety of emerging technologies
+foundation of nano
+optimization methodology
+memory elements
+New computing models
+Performance Optimization
+CMOS
+topic
+magnetic switch-based structures
+circuit design techniques
+research area
+terminal switch
+combination of arithmetic
+performance parameters
+complete synthesis
+H2020 work programmes FET
+simulation of new nanoscale switches
+nanowire
+Future
+synchronous state machine
+delay
+SSM
+main goal
+ICT
+power dissipation
+representation
+modeling
+Computational Nanoelectronics
+diode
+reliability
+nanoarrays
+results

@@ -1,0 +1,52 @@
+cryptographic proof of security
+end-to-end security of web applications
+robust security guarantees
+security of modern web applications
+critical security updates
+strong security theorems
+core security components of web browsers
+Transport Layer Security
+browser security mechanisms
+use of formal security verification
+cryptographic libraries
+Secure web applications
+TLS libraries
+major web browsers
+verified components
+opportune time
+variety of critical components
+precise cryptographic assumptions
+TLS implementation
+protocols
+team of researchers
+Certified Implementations of Robust
+end-to-end verification architecture
+FREAK attacks
+Standards bodies
+frequent attacks
+legacy code
+software developers
+mainstream software
+high-profile vulnerabilities
+entire classes of vulnerabilities
+standalone reference implementations
+messy details of nascent standards
+recent Triple Handshake
+single sign
+functionality
+servers
+Snowden reports
+grant
+landmark results
+subtle bugs
+great challenge
+key idea
+aid
+ERC
+direction
+response
+proposal
+designs
+goal
+challenges
+CIRCUS

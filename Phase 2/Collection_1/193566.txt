@@ -1,0 +1,52 @@
+interpretation of regulatory enhancer activity
+kinds of regulatory architectures
+regulatory targets
+regulatory activities of enhancers
+determinants of regulatory activity Enhancers
+conformations of enhancer architectures
+unprecedented modeling of regulatory architectures
+systematic characterization of human regulatory architectures
+complex architectures
+interpretation of regulatory genetic variations
+enhancer transcription
+accurate classifier of enhancer activity
+restricted spatio-temporal activity
+enhancer-promoter co-expression
+data
+properties
+great potential
+mechanisms of transcriptional regulation
+Genome-wide chromatin assays
+different modes of regulation
+chromatin-based analysis
+phenotypic outcomes
+correct spatio-temporal activation of gene expression
+clear insight
+state-of-the-art genome-wide studies
+comprehensive characterization
+target genes
+dynamic activities
+Careful computational analysis
+non-coding DNA
+homeostasis
+appropriate experimental systems
+distinct levels of output
+dysregulation of differentiation
+new insights
+ability
+robustness
+inference
+disease susceptibility
+cell type specificity
+understanding
+date
+functional impact
+flexibility
+single model
+addition
+characteristics
+time
+results
+factors
+work
+project

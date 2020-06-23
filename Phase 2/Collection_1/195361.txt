@@ -1,0 +1,54 @@
+wireless transceivers
+wireless networks
+Duplex Active Cancellation
+active self-cancellation techniques
+set of new co-existence technologies
+new technologies
+duplex future-oriented wireless communication network
+denser deployment of wireless infrastructure
+FUDACT goal
+technology limits of active cancellation of self-interference
+Europe
+architecture capable
+dBm transmitter
+new radio transmission paradigm
+receiver architectures capable
+dBm of narrowband blocker
+Innovation Union
+shared antenna system capable
+W transmitter
+frequency bands
+spectral bands
+conditions of simultaneous transmission
+innovation-friendly environment
+project's primary goal
+H2020 Future Internet challenges
+higher blocker signal levels
+reception
+solution
+deployed small cells
+fundamental understanding of limitations
+way
+flagship initiatives
+Digital agenda
+mixer
+systems
+billions of connected devices
+spectrum efficiency
+great research challenge
+art
+state
+year
+generation
+development
+millimeter-wave frequencies
+vision of hundreds
+following
+key problem
+result
+related objectives
+data rates
+orders of magnitude
+design
+ambitious goals
+physical level

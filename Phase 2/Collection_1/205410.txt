@@ -1,0 +1,52 @@
+billet modelling
+integrated simulation chain
+developed mechanical properties simulation tool
+existing mechanical properties simulation tool
+property simulation tool
+state-of-the-art simulation chain
+modelling of materials properties
+yield strength variations
+fatigue properties
+duplex grain structures
+microstructural modelling
+influence of non-uniform grain structures
+manufacturing of forged disks
+forged turbine disks
+evaluation of billet inhomogeneity
+optimization of forged engine disks
+billet supplier Böhler Edelstahl GmbH
+circumferential direction
+effect of duplex grain size
+grain class model
+hand
+integration of non-uniform microstructures
+capabilities of Böhler Schmiedetechnik GmbH
+quantitative prediction
+aero engine applications
+increasing prediction fidelity
+influence of inhomogeneous breakdown
+earlier research project
+virtual design
+lower fuel consumption
+current shortcomings
+order
+feedstock processing
+efficiency of future engines
+respect of weight
+certain process conditions
+special importance
+effectiveness
+improvements
+reduction of CO2 emission
+BSTG
+forging operation
+additional impacts
+proposal
+safety
+development
+customer
+topic
+close collaboration
+metallurgical understanding
+validation
+behavior

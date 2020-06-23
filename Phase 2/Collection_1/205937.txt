@@ -1,0 +1,51 @@
+COEMS approach
+software systems development
+safe systems
+efficiency of software
+software defects
+software developers
+Continuous Observation of Embedded Multicore Systems
+core computing systems
+safety-critical domains
+identification of non-deterministic software failures
+real-time behaviour
+domains of safety
+safe behaviour
+supporting verification methods
+comprehensive online observation approach
+critical medical applications
+critical element
+increased test efficiency
+increased debug efficiency
+new verification methods
+real-world multicore applications
+efficient real-time access
+system’s actual behaviour
+Airbus Group
+cross-layer programming approach
+failure detection
+terms of performance
+issues of detection
+development cycle
+performance optimization
+improved testing
+Global Players Thales Group
+novel observer platform
+race conditions
+automation
+effectivity
+computer-based system
+fundamental requirement
+automotive industry
+analysis
+execution
+inconsistent data
+internals
+correctness
+energy consumption
+insight
+release
+suitable demonstrators
+reliability
+Internet of Things
+addition

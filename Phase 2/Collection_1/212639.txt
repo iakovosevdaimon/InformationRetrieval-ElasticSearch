@@ -1,0 +1,49 @@
+hierarchical inference
+principles of active inference
+cortical information flow
+established cortical motor control hierarchy
+precision of prediction errors
+sensory prediction error
+cortical areas
+cognitive control of attention
+weighting of prediction errors
+suppression of prediction error
+human brain Recent research
+Active inference’s specific predictions
+new formal account of motor control
+visuomotor adaptation
+hierarchical generative model
+visual movement feedback
+general free-energy principle of brain function
+terms of hierarchical Bayesian filtering
+proprioceptive movement feedback
+manual actions
+research gap
+photorealistic virtual hand model
+predictive coding
+predicted precision
+MEG experiment
+fMRI experiments
+virtual reality environment
+increased sensory noise
+dynamic causal modelling
+simple manual tracking tasks
+Bayes-optimal predictive models
+MR-compatible data glove
+multiple levels
+participants
+testing
+contribution
+belief
+relative impact
+interdisciplinary exchange of knowledge
+world-representation
+attentional allocation
+bodily movements
+novel proposal
+concrete empirical investigation
+stimulus
+proposed project
+visuoproprioceptive conflicts
+responses
+assumption

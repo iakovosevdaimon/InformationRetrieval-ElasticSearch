@@ -1,0 +1,52 @@
+smart charging of PEVs
+smart charging stations
+clustering of charging stations
+latest charging protocols
+remote interactive charging power management
+INCH project
+new data
+price-performance optimised smart AC charging station
+end users
+provision of new services
+corresponding new functionalities
+support
+new added value services
+advanced power management
+commercial feasibility of INCH
+electromobility actors
+integration of PEV
+home use
+built-in flexible power management
+energy providers
+PEV supply equipment operators
+European smart grids
+evaluation of project costs
+relevant use cases
+electromobility stakeholders
+Economical feasibility
+main categories of users
+detailed time-plan
+proposed feasibility assessment
+external actors
+service providers
+advanced features
+VPP operators
+potential outages
+potential Phase
+initial business plan
+precise metering of energy consumption
+real-time communication
+DSOs
+different connectivity options
+plug-in electric vehicles
+market
+controllability
+user needs
+thanks
+enabling technology
+semi-private areas
+study
+existing installation
+HW
+device
+SW

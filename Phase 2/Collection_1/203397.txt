@@ -1,0 +1,61 @@
+LED market
+compact LED models
+LED components
+multi-domain LED compact models
+LED component integrators
+market of LED products
+domain model of LED chips
+good design of LED systems
+set of LED model equations
+Multi-Domain Compact Models of LEDs
+use of compact models
+development cost
+European lighting industry
+Compact thermal model
+lighting systems
+simulation tools
+modelling tools
+semiconductor industry
+multi-physics
+industry standard
+order
+product development chain
+domain simulation of LEDs thermal
+measurement tools
+development process
+following tools
+development times
+product performance
+Cost of Non-quality
+project
+modelling approach
+standardized method
+kind of luminaire designs
+temperature
+tape
+testing data
+purpose of
+unique competitive advantage
+way
+light output characteristics
+application
+potential new markets
+key challenges
+current dependence
+seamless integration
+interfacing
+freedom
+Measurements
+speed of growth
+CFD tool
+benefits
+environment
+Generic
+main challenge
+bridge
+form of standardization
+FEM
+Modeling interface
+goal
+Achievement
+objectives

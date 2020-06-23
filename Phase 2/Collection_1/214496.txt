@@ -1,0 +1,42 @@
+DeepGeo
+developed methods available
+urban soil pollution
+state-of-the-art methods
+available data
+improved methods
+Geostatistical Data Analysis Urban soil contamination
+use of deep Gaussian processes
+flexibility issues
+urban environments
+Current statistical methods
+enormous flexibility
+scalability issues
+limited flexibility
+standard co-kriging
+outputs
+open-source software library
+novel discoveries available
+developed class of models
+training of deep neural networks
+deeper Gaussian process architectures
+new algorithms
+land-use
+distribution of pollution
+complicated correlations
+nonlinear correlations
+mentioned problems
+increasing depth
+multi-output models
+specialised covariance functions
+empirical studies
+approximate inference
+recent advances
+wide audience
+broad range of research fields
+inducing sparsity
+Direct measurements
+city-wide assessment impossible
+surroundings
+datasets
+geochemical industry
+information

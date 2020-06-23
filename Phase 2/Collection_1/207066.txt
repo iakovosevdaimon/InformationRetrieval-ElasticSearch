@@ -1,0 +1,59 @@
+D MIMO SCs
+D SCs
+D MIMO channels
+D MIMO technology
+D MIMO configurations
+D MIMO antenna arrays
+D indoor scenarios
+D deployment of SCs
+D SC network deployment
+D MIMO SC network planning
+D MIMO Array Antennas
+D MIMO antenna array design
+D MIMO SC network performance limits
+D MIMO small cell scenarios
+D deployment of small cells
+D distribution of user equipment
+high capacity indoor venues
+indoor high capacity challenge
+indoor hot spots
+model indoor
+typical indoor environments
+biggest network capacity increase challenge
+multiple-antenna
+typical high capacity venues
+indoor small-cell Networks
+wireless network traffic
+network performance gains achievable
+deployment guidelines
+OTA performance
+extra capacity gain
+performance evaluation
+technical challenges
+deployment locations of SC access points
+reliable OTA antenna characterization method
+is3DMIMO project
+excellent technical combination
+lack of understanding
+fundamental understanding
+following objectives
+is3DMIMO consortium
+B5G system design
+exponential traffic growth
+promising dimension
+advantage
+APs
+Sweden
+UK
+place
+China
+geographical areas
+team
+crucial inputs
+times
+complementary expertise
+laboratory conditions
+partners
+techniques
+decade
+achievement

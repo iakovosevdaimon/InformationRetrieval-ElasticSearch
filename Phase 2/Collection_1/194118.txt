@@ -1,0 +1,53 @@
+cloud ecosystem
+Self-Managing Heterogeneous Cloud
+delivery infrastructure
+service delivery
+new cloud management
+self-management
+hyperscale cloud infrastructures
+Self-organisation
+service deployment
+traditional cloud management techniques ineffectual
+heterogeneous clouds
+self organisation approach
+Self-Organising
+power efficient heterogeneous resources
+delivery model capable
+self optimisation
+standard delivery models
+access
+machines of different types
+powerful techniques
+power efficiency
+optimization effort
+different architectures
+software stack
+evolving complexity
+preliminary work
+data flow engines
+application development effort
+large number of machines
+integrated cores
+empirical experimentation
+graphics processing units
+performance
+significant challenges
+optimisations easier
+end user
+consumer
+initial simulation results
+reevaluation
+size
+order
+prohibitive expense
+issues
+context
+Platform
+basis
+testbed
+IaaS
+time
+PaaS
+principles
+SaaS
+CloudLightning

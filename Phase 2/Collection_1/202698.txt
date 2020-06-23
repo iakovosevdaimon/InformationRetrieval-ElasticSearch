@@ -1,0 +1,58 @@
+FutureTrust project
+Future Trust Services
+trustworthy services
+electronic signatures
+foundations of trust
+trust anchors
+Global Trust List
+trusted services
+FutureTrust consortium
+eID related services
+compatible trust models
+Trustworthy Global Transactions
+significant global electronic transactions
+electronic identification
+existing trust management concepts
+focus
+trustworthy creation of remote signatures
+existing models
+regulation
+Open Source software components
+EU member states
+eID-based application
+non-EU countries
+comprehensive Open Source validation service
+interoperable solutions
+scalable preservation service
+positive business cases
+subset of use cases
+real world pilot applications
+functional base
+borders
+seals
+reliance
+metadata
+fast adoption of standards
+basic research
+private sector
+qualified certificates
+relevance
+eIDAS
+internal market
+background
+practical implementation
+long-term authenticity of data
+documents
+aim
+respect
+need
+mobile environment
+accountability
+transparency
+usability
+Europe
+visibility
+trustworthiness
+globe
+purpose
+standardisation process

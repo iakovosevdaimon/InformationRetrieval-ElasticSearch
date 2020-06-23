@@ -1,0 +1,42 @@
+program analysis algorithms
+program static program analysis techniques
+Analysis questions
+program static analysis techniques
+library code
+web-based service
+general-availability web-based software analysis service
+key program comprehension questions
+proposed work
+minimal needed code
+direct value
+packaged versions of binary code
+Reorganization
+high precision
+high-precision
+PI’s group
+open-source library
+ERC frontier research project
+value-flow
+wide deployment
+research space
+direct contact
+PARSE project
+major software companies
+specific coding needs
+potential
+taint analyses
+SPADE
+possible commercialization
+pointer
+aid
+large number of professional programmers
+partners
+Facebook
+current projects
+AaaS
+approach
+Past tools
+Oracle
+security vulnerabilities
+objects
+decade

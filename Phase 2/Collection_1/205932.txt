@@ -1,0 +1,47 @@
+data subjects
+data access
+data controllers
+individual personal data
+big data applications
+multiple data assets
+data drives knowledge
+EU data privacy regulation
+Scalable Oblivious Data Analytics
+b data experimentation incubators
+MPC scale
+domains of MPC
+techniques
+comprehensive privacy approach
+FRESCO MPC framework
+practical privacy
+differential privacy
+use case-driven approach
+analytics of information
+personal information
+multidisciplinary approach
+healthcare use case
+feedback loop
+ICT
+substantial performance improvements
+final objective
+open-source improvements
+aggregated results
+technical development
+technical innovations
+encrypted processing
+Legal analysis
+improved compliance
+multi-party computation
+consent control component
+Philips practice
+value creation
+expertise
+unwillingness
+society
+medical demonstrator
+main technological challenge
+User studies
+SODA project
+organizations
+public hacking challenges
+potential

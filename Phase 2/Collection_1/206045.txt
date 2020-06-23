@@ -1,0 +1,56 @@
+different similarity models
+combined similarity models
+semantic representations
+different data sources
+different aspects of meaning
+better characterization of different similarity measures
+different levels
+computational models
+different neural contributions
+Aspects of Semantics Semantic representation
+nature of semantic structure
+behavioural data
+Representational Similarity Analysis
+neural activity
+new knowledge
+semantic feature norms
+brain activity
+new research era
+new research agendas
+study of semantics
+differences
+activity measurement
+Neural Conceptual Representation
+research efforts
+patterns of brain
+fMRI study
+text corpora
+adult English speakers
+lexical decision
+hot topics of debate
+one-to-one mappings
+ratings studies
+categorization
+essential component
+state-of-the-art technique
+brains
+way
+relation
+sensorimotor experience
+sort of regularity
+human ones
+field
+mind
+entities
+basis
+world
+day
+Innovations
+time
+dimensionality-reduction approaches
+tasks
+Results
+written language
+project
+queries
+information

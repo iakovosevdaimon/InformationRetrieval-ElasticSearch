@@ -1,0 +1,66 @@
+time-critical
+RECIPE
+critical issue of reliability
+energy efficiency
+reliability models
+established HPC applications
+predictive reliability methodology
+evolution of HPC infrastructure
+proactive thermal management
+aware Predictive management of heterogeneous Exascale systems
+key application domains
+face
+current HPC facilities
+time-ConstraInts
+mean time
+critical aspects
+Exascale range
+hierarchical runtime resource management infrastructure
+enormous complexity of future HPC centers
+energy-delay product
+following set of real world use cases
+industry-based use cases
+supercomputing centers
+heterogeneous architecture
+resource manager
+REliable power
+dedicated middleware
+wide variety of applications
+set of integration layers
+reasonable power budgets
+long-term hardware failures
+effective exploitation avenues
+POLIMI
+UPV
+PSNC
+biomedical machine learning
+throughput-oriented computation
+leading academic partners
+geophysical exploration
+CHUV
+EPFL
+IBTS
+BSC
+CeRICT
+consortium
+meteorology
+timing
+research hospital
+enforcing of QoS
+MTTF improvement
+deep heterogeneity
+increasing number of resources
+SME
+data analytics
+results
+performance
+watt
+increase
+years
+reduction of faulty executions
+Quantitative goals
+end
+gap
+order of magnitude
+project
+way

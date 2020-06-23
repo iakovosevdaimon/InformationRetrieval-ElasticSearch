@@ -1,0 +1,56 @@
+Eukaryotic Algae Eukaryotic algae evolutionary history
+eukaryotic tree
+Plastid Endosymbiosis
+history of plastid evolution
+eukaryotic phylogeny
+non-plastid genes
+green algae
+red algae
+order
+non-plastid marker tree
+plastid-based dataset
+dating
+deep eukaryotic speciation events
+secondary plastid endosymbiotic acquisitions
+nuclear-coding plastid markers
+evolutionary questions
+deep evolutionary transitions
+extant living groups of calcareous algae
+Dasycladales lineages
+broadest possible eukaryotic taxonomic sampling
+species
+molecular clock analyses
+post- phylogenomic analyses
+state-of-the-art evolutionary models
+project
+aims
+correlation of events
+divergence steps
+diversification rates
+different Corallinales
+lack of sufficient molecular data
+established datasets
+known fossil calibrations
+robust divergence times
+distinct photosynthetic lineages
+calcareous ecosystem adaptations
+rich fossil record
+novo transcriptomic data
+gen sequencing
+collaborations
+high computational capabilities
+climate change
+information
+knowledge
+reef formation
+proper method implementation
+Thanks
+timing
+studies
+rate shifts
+objectives
+light
+matter
+results
+myr
+AlgDates

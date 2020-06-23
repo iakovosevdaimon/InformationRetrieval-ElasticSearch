@@ -1,0 +1,60 @@
+reliable design framework
+Reliable Design Environment
+reliable design of dependable Cyber-Physical Systems
+design bugs
+CPS examples
+emerging CPS modelling frameworks
+various design aspects
+fault management infrastructure
+cross-layer CPS model
+Integrated Modelling
+project
+holistic fault model
+cross-layer modelling based tool framework
+automated debug aspects of verification
+framework tools
+maintenance costs of dependable cyber-physical systems
+development of dependable CPSs
+core based CPS networked architectures
+ultra-fast fault detection
+development time
+main aim
+automated system debug
+improved reliability
+IMMORTAL plans
+application domains
+expected impacts
+effective life-time
+different error sources
+network architecture
+consortium of leading European academic
+recovery
+isolation
+analogue
+control
+device
+industrial players
+satellite
+firmware
+circuit
+avionics
+ageing
+telecommunication
+demonstration
+wear
+security
+gap
+environmental effects
+software layers
+expertise
+significant impact
+considerations
+process variations
+real-world use-case
+uniform manner
+validation
+addition
+board-computer
+results
+line
+coming years

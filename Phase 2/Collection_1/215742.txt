@@ -1,0 +1,54 @@
+role of MFP2
+Activation of ECs
+phalanx EC subtypes
+quiescent phalanx ECs
+proliferating stalk ECs
+role of peroxisomal fatty acid oxidation
+metabolic switch
+vascular sprouting
+Role of peroxisomal fatty acid β-oxidation
+leading tip EC
+metabolic gene signature of tip
+pFAO’s role
+pFAO genes
+metabolic mechanisms
+blood vessel
+mitochondrial fatty acid oxidation
+possible role of peroxisomes
+MFP2 silencing
+key enzyme of pFAO
+metabolic fate of peroxisomally metabolized VLCFAs
+angiogenic switch
+MFP2 loss results
+angiogenesis models
+pathological angiogenesis
+host lab
+long chain fatty acids
+data promise
+ultimate goal
+MAIN GOAL
+Initial data
+single cell level
+active endothelial cell
+glycolysis
+specific roles
+strategies
+potential novel targets
+insights
+growth factors
+cellular biology
+C tracing
+relative importance
+population
+conditional mouse genetics
+TRANSLATIONAL IMPACT
+multidisciplinary approach
+RATIONALE
+physiological relevance
+VEGF
+state-of-the-art metabolomics
+NOVELTY
+BACKGROUND
+Multifunctional protein
+scRNA-seq
+METHODOLOGY

@@ -1,0 +1,55 @@
+silicon solar cells
+size silicon solar cell
+silicon solar cell conditions
+solar cell modeling
+silicon solar cell simulation tasks
+multidimensional silicon solar cell simulation tool
+project
+accessibility of numerical solar cell simulations
+mature Quokka
+PV scientists
+mature simulation tool
+dominating PV technology
+free tools
+free hosting
+applicant
+forms
+major PV research institutes
+economic basis
+Quokka’s capabilities
+leading web-portal
+world-leading expertise
+valid simplifications
+terms of computational speed
+documentation
+existing energy system
+rapid increase of usage
+host institution
+new standard
+Europe
+socio-economic problems
+integration
+engineers
+general semiconductor modelling approaches
+childhood
+D efforts
+conventional electricity generation
+persistent market share
+numeric routines
+validation cases
+powerful commercial software
+physical models of highest future relevance
+fossil fuels
+students
+manufacturers
+larger mesh sizes
+ease of setup
+Fraunhofer ISE
+useful capability
+measure
+coding
+underlying algorithms
+eve
+key point
+release
+field of photovoltaics

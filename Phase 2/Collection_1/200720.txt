@@ -1,0 +1,63 @@
+plasmonic-photonic emitters
+photonic devices
+silicon platform
+orientation of silicon
+passive silicon photonic waveguides
+optical mode
+Nanoscale photonic components
+new plasmonic materials
+PLASMIC alternative plasmonic metals
+chip communications
+energy efficiency of plasmonic
+lower optical losses
+V nanowire lasers
+integrated communications
+metal nitrides
+plasmonically-enhanced nanoscale emitters
+dimensional scaling potential
+great potential
+plasmonics
+chip optical interconnect solutions
+semiconductor-metal transition
+novel nanowire
+V NWs
+large losses
+ambition of PLASMIC
+diffraction-limit
+hybrid cavity
+lasing threshold
+subthreshold operation mode
+New pioneering device concepts
+deposition methods
+integration approach
+VLSI compatibility
+tuning
+multi-layers
+compounds
+dimensions of half
+Si waveguide
+gratings
+Template
+speed
+applications
+interface
+wavelength of light
+field-effect
+electrical interconnects
+feedback
+Epitaxy
+confinement
+bottleneck
+plasma frequency
+doped semiconductors
+density
+near-
+lithographic features
+Conventional photonics
+unique advantages
+use
+gain medium
+size
+team
+barriers
+dielectric

@@ -1,0 +1,55 @@
+aircraft arrival times
+Enhanced Arrival Management
+arrival management actions
+arrival sequence
+destination arrival management system
+use of arrival management techniques
+use of arrival management tools
+airborne aircraft
+multiple arrival constraints’
+impact of multiple arrival constraints
+pre-departure aircraft
+destination airport
+network management action
+efficient aircraft profiles
+aircraft operator’s fuel costs
+upstream control units
+aircraft’s departure time
+air traffic control workload
+en-route Control units
+use of SWIM
+airborne delays
+arriving traffic
+XSTREAM project
+methods
+Upper Airspace Control unit
+London Heathrow
+Orly
+day
+Cross Border SESAR Trials
+speed advisory
+noise
+Paris CDG
+associated negative effects
+periods
+variation
+predicted peak
+Greater congestion
+Gatwick
+increased emissions
+vicinity
+capacity
+calculation
+engineering standardization work
+Zurich
+concepts
+gain
+benefits
+trajectory extension
+ground
+current operations
+combination
+operational demonstrations
+optimized arrivals
+meaningful effect
+flight

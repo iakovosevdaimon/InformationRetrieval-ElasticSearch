@@ -1,0 +1,37 @@
+cost-efficient core
+Load Slice Core microarchitecture
+multi-core performance
+cost-efficient Load Slice Core design
+inherent power
+improved power
+novel multi-core processor architecture
+variable thread-level parallelism
+future hardware
+future challenges
+Cost-Efficient Microarchitecture
+order engine
+order cores
+available power budget
+extracting memory hierarchy parallelism
+extraction of memory hierarchy parallelism
+software challenges
+potential
+project
+ideal processor building block
+key building block
+chip-level dynamism
+importance of sequential performance
+times higher performance
+cost efficiency
+managed language workloads
+light
+quest
+combination
+true value
+long-lasting impact
+Watt
+euro
+significant improvement
+microprocessor industry
+preliminary results
+overarching objective

@@ -1,0 +1,46 @@
+Kaehler-Ricci flow
+singular variety
+unique singular Kaehler-Ricci flat metric
+Kaehler-Einstein metric
+Singular Calabi-Yau manifolds
+singular Calabi-Yau problems
+singular points
+incomplete Kaehler-Ricci flat metrics
+Calabi-Yau variety
+initial current
+conifold metric
+regularity result
+expected asymptotic behavior
+singular G2 holonomy setting
+maximal flow
+regularity properties
+Zeriahi
+proposal
+Guedj
+main goal
+related goal
+bet result
+degenerate initial data
+simplest isolated singularities
+positive Lelong number
+case of Fano manifolds
+singularitiy
+potentials
+existence
+regularizing effect
+analytic sets
+Ossa
+years
+Eyssidieux
+physicists
+analogies
+seminal paper of Candelas
+ideas
+theoretical physics
+work
+long time
+possible strategy
+techniques
+Lu
+decades
+example

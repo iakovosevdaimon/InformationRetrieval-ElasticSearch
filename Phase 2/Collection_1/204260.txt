@@ -1,0 +1,46 @@
+Industrialisation of Jet Noise Prediction Methods
+Jet Noise Reduction
+simulation methods
+prediction of isolated jet noise
+Predictive Methods
+validation of methods
+jet-flap interaction noise
+input of advanced methods
+field integration methods
+challenging noise reduction goals
+complex installed jet flows
+industrial exploitation of turbulence
+numerous developments
+comprehensive best practice guidelines
+industrial leadership
+increased computational efficiency
+underlying numerical approaches
+High cost-efficiency
+growing importance of installation effects
+European aero engine OEM sector
+configurations
+flexibility
+low technical risk
+reduced user burden
+framework of previous
+accurate means
+significant contribution
+Topic JTI-CS2
+pillar
+ongoing projects
+renewed ACARE SRIA
+results
+confidence
+design features
+fan diameters
+SME coordinator
+scope
+CFD
+Horizon
+CFP02-ENG
+Clear perspectives
+HYDRA software
+positive impact
+trend
+implementation
+improvements

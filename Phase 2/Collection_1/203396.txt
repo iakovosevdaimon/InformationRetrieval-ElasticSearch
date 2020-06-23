@@ -1,0 +1,54 @@
+testing of automated systems
+verification of automated systems
+validation platform
+validation environment
+Secure Systems
+autonomous systems
+global race of automated systems
+new validation tools
+resulting validation framework
+standardized validation procedures
+reuse of validation scenarios
+probability of malfunction behavior of automated systems
+Provision
+holistic test
+test effort
+functional ACPS
+security of ACPS
+European industry
+smart mobility
+coverage-oriented test selection methods
+smart health
+classical testing
+Virtual testing
+physical stimuli generators
+S3
+mobility domains automotive
+Europeans Industry competitiveness
+physical sensor signal stimuli generators
+new technique
+European Initiative
+systematic coverage measures
+health care domain
+relevant industrial use-cases
+expected market potential
+aerospace
+rail
+rapid re-qualification
+adoption
+accelerated application
+functionality
+safety
+way
+eco-system
+reasonable efforts
+level of dependability
+Promotion
+development stages
+benefits
+technological progress
+open standards
+Creation
+requirements
+Project results
+technical objectives

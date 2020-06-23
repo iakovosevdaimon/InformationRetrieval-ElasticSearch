@@ -1,0 +1,54 @@
+design process
+chain of design
+Multi-ObjecTive design Optimization of fluid eneRgy machines
+effective design optimization methods
+ICT-enabled design optimization technologies
+design space exploration
+automatic shape optimization
+geometry
+screw machines
+different types of FEMs
+efficient FEMs
+mechanical energy
+different levels of shape variety
+different representations
+level approach
+modular approach
+computational tools
+MOTOR project
+modernized process chains
+real process chains
+performance
+high-order solutions
+physics simulations
+improved accuracy
+enhanced accuracy
+accurate representation
+reliability of numerical simulations
+isogeometric analysis simulation toolbox
+advanced interactive visualization toolkit
+FSI problems
+CFD
+CSM
+ship propellers
+aircraft engines
+water turbines
+increased efficiency
+exact interface
+parameterization
+terms of reduced time
+domain geometries
+production
+number of approximate conversion steps
+concept demonstrators
+novel methodologies
+volumetric mesh generator
+significant impact
+local searches
+synergies
+small modifications
+functional free-form surfaces
+designed product
+proof
+effectiveness
+vision

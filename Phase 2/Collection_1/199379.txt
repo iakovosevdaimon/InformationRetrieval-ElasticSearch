@@ -1,0 +1,48 @@
+D systems
+D tensor network methods
+generation of tensor network methods
+higher dimensions accurate methods
+Accurate simulations
+D frustrated materials
+systems tremendous progress
+tensor networks
+understanding SCS
+project
+topological order
+exotic phases of matter
+extension of DMRG
+essential features of HTSC
+quantitative understanding
+computational condensed matter physics
+Prediction of novel phases of matter
+Study of extended Hubbard models
+finite temperature simulations
+challenging models
+substantial progress
+major breakthroughs
+relevant open problems
+classification of topological states
+biggest challenge
+famous density-matrix renormalization group
+high-Tc superconductivity
+experiments
+thanks
+quantum spin liquids
+pioneering work
+cold atoms
+computation of excitation spectra
+unprecedented accuracy
+ground-breaking advances
+longstanding question
+previous state-of-the-art approaches
+ingredients
+improvement
+fascinating phenomena
+pivotal role
+rise
+optical lattices
+Development
+way
+goal
+Milestones
+years

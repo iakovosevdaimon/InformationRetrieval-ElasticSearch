@@ -1,0 +1,49 @@
+convex optimization problems
+convex polynomial optimization problems
+important practical problems
+important areas
+optimization algorithm
+combinatorial optimization
+emergence of Polynomial Optimization
+areas of science
+NP-hard problems
+important real life problems of significant size
+powerful methodology
+systematic methodology
+important potential applications
+various areas
+applications of science
+theoretical computer science
+important Optimal Power Flow Problem
+global optimality
+promising new method
+systematic approach
+global optimum
+local optimum
+TAMING
+real algebraic geometry
+new field
+practical challenges
+severe problem size limitation
+powerful positivity certificates
+best candidate algorithm
+optimality certain types
+quantum computing
+engineering
+strategic domain of Energy Networks
+hardness of approximation
+applied mathematics
+promises
+high computational cost
+moment-SOS
+famous Unique Games Conjecture
+basic tool
+Lasserre hierarchy
+present form
+lot of attention
+data
+decade
+backbone
+practice
+cases
+convexity

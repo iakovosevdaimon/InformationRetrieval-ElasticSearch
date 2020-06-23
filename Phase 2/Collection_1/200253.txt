@@ -1,0 +1,57 @@
+Big Data services
+data management
+commoditisation of Big Data analytics
+benefits of Big Data analytics
+costs of Big Data analytics
+accurate Big Data analytics
+Big Data sources preparation
+management of Big Data analytics processes
+in-house Big Data expertise
+handling Big Data opacity
+demand data preparation
+distributed data acquisition
+expensive data consultancy
+entire Big Data analysis process
+TrustwOrthy model-awaRE Analytics Data platfORm
+TOREADOR MBDAaaS
+TOREADOR framework
+BDA enactment
+TOREADOR project
+TOREADOR open
+BDA detailing privacy
+model-based BDA
+parallel deployment of analytics
+BDA life cycle
+privacy compliance
+privacy regulations
+standardisation models
+budget
+model-driven set-up
+architectural framework
+major problems
+major hurdles
+European companies
+assessment of legal compliance
+machine-readable Service Level Agreements
+storage
+diversity
+price competition
+substantial automation
+timing
+design
+security
+set of components
+abstract modelling
+auditing
+example
+accuracy needs
+reach of EU organizations
+algorithm parallelisation strategies
+potential competitive advantage
+approach
+presentation of results
+domain-specific customer requirements
+SMEs
+organisations
+artefacts
+Activities

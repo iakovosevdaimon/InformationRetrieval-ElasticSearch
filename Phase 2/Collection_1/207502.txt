@@ -1,0 +1,57 @@
+Development of Design
+material properties
+conventional methods
+fatigue properties
+CAE methods
+conventional production methods
+material characterization
+design tools
+design method
+traditional production methods
+optimal system components
+fatigue requirements
+mechanical properties
+hardware development
+Development of novel
+Innovative Re-Design
+Validation of Complex Airframe Structural Components
+Cost Reduction Additive manufacturing
+D Computer Aided Design
+manufacturing landscape
+fatigue performance
+complex shapes
+structures
+geometry dependent material behavior
+specific build requirements
+reduced weight
+cost effective
+practical use
+Topology Optimization
+holistic product optimization
+arbitrary geometric shapes
+AddMan project deals
+flexible parametric CAD models
+automated knowledge based engineering framework
+connection
+machining
+costs
+prevailing stress
+processing strategy
+order
+lack of efforts
+overall aim
+regulations
+data
+casting
+aerospace industry
+finite element
+fruitful technique
+aeronautical area
+technology
+grid
+metal
+guidelines
+physical objects
+developments
+enabler
+significant progress

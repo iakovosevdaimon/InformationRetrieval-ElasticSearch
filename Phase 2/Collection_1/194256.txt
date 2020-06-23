@@ -1,0 +1,52 @@
+Data-Intensive Cloud Applications
+critical data-intensive applications
+data-intensive technologies
+data-intensive applications capable
+Big Data technologies
+Big Data market
+business-critical cloud applications
+quality-driven development methodology
+incorporation of quality
+application development
+development of business
+advanced quality engineering
+quality engineering toolchain
+guide software quality evolution
+Iterative Quality Enhancements
+medium ISVs
+cloud-based storage
+medium European ISVs
+European independent software vendors
+novel MDD methodology
+capability of small
+popular standards
+private deployments
+high-quality standards
+private clouds
+demand
+massive growth opportunities
+testing
+rapid increase
+continuous integration
+stream processing
+simulation
+verification
+resources
+MapReduce
+Hadoop
+early design stages
+extensions
+MARTE
+NoSQL
+related tools
+monitoring feedback analysis
+barrier
+DevOps-inspired methods
+numerical optimisation
+project
+UML
+expertise
+principles of model
+TOSCA
+challenge
+DICE

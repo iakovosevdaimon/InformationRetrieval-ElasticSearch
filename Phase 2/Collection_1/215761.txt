@@ -1,0 +1,59 @@
+power systems
+PV grid integration
+solar power forecasting system
+probabilistic forecasting system
+prototype of operational solar forecasting systems
+Computer Systems
+large scale integration of PV systems
+electric system operations
+HIgh INtegration of distributed PV generation
+generation forecasts
+Electric Energy Systems Laboratory
+grid operations
+ICCS
+simulating power system operations
+System operators
+significant potential of small capacity PV systems
+high integration of renewable energy sources
+renewable generation
+operational flexibility
+network reliability
+existing network
+high solar resource
+support Hellenic Electricity Distribution Network Operator
+significant targets
+important Hellenic research institute
+significant efforts
+developing accurate forecasts
+HENDO
+successful incorporation of forecasts
+research roadmap
+Institute of Communication
+important challenge
+THINKPV project
+European Union policy
+climate
+international task forces
+countries
+machine learning
+major themes
+development
+Smart Grids SRA
+industrial partners
+EESL
+tools
+training program
+efficiency
+order
+variability
+Greece
+correct application
+forecast accuracy
+state of
+advantage of data
+radical modernization
+uncertainty
+period
+model
+security
+context

@@ -1,0 +1,59 @@
+cell contact
+cell polarity
+cell sorting
+cell position
+cell lineages
+single-cell level
+self-organised blastocyst patterning
+blastocyst cavity
+study
+design principle of multi-cellular self-organisation
+contact-free cell surfaces
+fate specification
+physical models
+early embryogenesis
+organismal scales
+symmetry
+physical parameters
+physical signals
+feature of multi-cellular living systems
+early mammalian development
+early mouse embryos
+generation of pressure
+apical domain
+apical polarisation
+quantification of molecular
+reduced systems
+lineage maps
+cortical contractility
+coalescence of fluid
+fluid cavities
+outside patterning
+unique set of strategies
+mammals eggs lack polarity
+well-suited model system
+relation
+biology
+capacity
+mechanics
+advanced live-imaging
+physics
+controlled manipulations
+spatio
+unexplored parameter
+emerging properties
+adhesion
+extensive gene expression studies
+functional validation
+coordinated signalling
+novo assembly
+silico
+spaces
+segregation
+patterns
+paradigm
+mechanisms of feedback
+Progressive expansion
+project
+rest
+complexities

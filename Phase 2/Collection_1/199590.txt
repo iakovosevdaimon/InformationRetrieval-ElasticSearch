@@ -1,0 +1,68 @@
+innovative power system control laws
+control zone
+foreseen power quality disturbances
+resulting degradation of power quality
+promising control solutions
+existing protection schemes
+HVAC system operations
+high penetrations of Power Electronics
+Massive InteGRATion of power Electronic devices
+area control techniques
+upgrading of protection devices
+PE proliferation
+novel protection technology
+HVAC pan-European transmission system
+deployment schemes
+innovative solutions
+new PE grid connection rules
+future renewable penetration
+future deployment scenarios
+European TSOs
+economic impacts
+new major barrier
+present grid codes
+portfolio of incremental improvements of existing technologies
+recommendations
+development
+mitigation
+knowledge sharing
+pilot test of wide
+Schneider Electric
+Enercon
+Netherlands
+Italy
+France
+Ireland
+Germany
+Iceland
+Finland
+tuning of controllers
+laboratory tests
+targeted stakeholders
+project outputs
+universities
+Alstom
+Slovenia
+Estonia
+areas
+instability
+measures
+EC level
+Numerical simulations
+challenges
+UK
+manufacturers
+Spain
+wind
+distance
+order
+innovations
+necessity
+dynamic stability issues
+research centres
+interfaced generators
+harmonics propagation
+day
+year
+electricity
+Dissemination activities

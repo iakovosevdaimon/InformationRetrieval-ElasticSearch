@@ -1,0 +1,48 @@
+wind farm operation
+wind farm open
+wind farm simulation
+entire wind farm
+wind turbines operation
+wind farm dynamic modelling of wind farm models
+wind turbine operation
+existing wind farms
+wind farm level tests
+wind tunnel tests
+way of operating wind farms
+Closed Loop Wind Farm Control Current practice
+non-optimum approach of wind farms operation
+lack of advanced control solutions
+lack of tools
+closed loop advanced control algorithms
+advanced control concepts
+Proposed control algorithms
+open loop validations
+development of appropriate dynamic tools
+open source
+non-optimum way
+lack of knowledge
+perturbed flow
+terms of reliability
+major reasons
+major system
+performance improvements
+available information
+available tool
+new innovative solutions
+terms of energy capture
+future
+validated simulations
+unique integrated optimization problem
+reasonable computing effort
+project
+end
+players
+possible thanks
+loading
+dynamics
+WINDCON
+measurements
+controller
+addition
+LCOE
+costs

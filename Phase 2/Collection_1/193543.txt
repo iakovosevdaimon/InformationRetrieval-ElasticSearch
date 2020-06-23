@@ -1,0 +1,50 @@
+robot locomotion
+Control of contact interactions
+robot movement
+manipulation
+locomotion tasks
+control methods
+robustness of robot behaviors
+structure of sensory information
+better sensory models
+efficient use of sensory information
+fundamental principles
+predictive models
+world
+CONT-ACT
+ubiquitous robots capable
+real-time predictive controllers
+uncountable number of tasks
+robust planning
+general manner
+general theory
+fundamental aspect
+dynamic interaction
+algorithmic principles
+necessary step
+sensor space
+sensor representations
+reactive controllers
+development of high performance
+motion generation
+humans
+consistent theoretical framework
+ambition
+environment
+architecture
+arms
+creation of physical contacts
+approach
+core
+naïve question resorts
+force sensors
+couch
+unsolved problem
+heart
+rocky terrain
+addition
+legs
+performances
+object
+screwdriver
+ladder

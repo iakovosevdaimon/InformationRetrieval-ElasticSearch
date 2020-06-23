@@ -1,0 +1,53 @@
+core cardiac models
+core models
+cardiac surgeons
+human cardiac function
+complex integrated heart model
+new reduced order models
+quantitative study of cardiac function
+numerical approximation of IHM
+new paradigms
+relevant cases
+project
+new high order methods
+Ordinary Differential Equations
+efficient solution
+numerical coupling
+multiscale system of Partial Differential Equations
+efficient computational techniques
+resulting large-scale discrete problems
+inverse uncertainty quantification problems
+fluid mechanics
+microscopic cellular force generation
+PDEs
+life sciences
+cardiologists
+steps
+electrophysiology
+simulation
+multiphysics interactions
+improvements
+diagnosis
+treatment
+researchers
+applied mathematics
+adaptive preconditioners
+ODEs
+stability
+cardiovascular pathologies
+valve dynamics
+powerful tool
+convergence analysis
+dysfunction
+mathematical properties
+goal
+data variability
+software libraries
+LifeHEART
+RedHEART
+pulmonary blood circulations
+potential
+scientific community
+iHEART
+deaths
+Europe

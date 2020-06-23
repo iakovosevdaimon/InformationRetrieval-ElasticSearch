@@ -1,0 +1,60 @@
+aeration process
+denitrification process
+better process parameters
+wastewater utilities
+reduction of energy costs
+running cost of wastewater treatment plants
+Energy-Efficient Activated Sludge Monitoring
+municipal wastewater applications
+aeration of activated sludge accounts
+biomass
+maintenance costs
+online monitoring
+solution
+project duration
+reduction of nitrous oxide emission
+reduction of greenhouse gas emission
+design operating parameters
+lower energy consumption
+existing prototype of on-line microbial respirometer
+operational purposes
+management purposes
+microbial population
+biological activity
+original prototype
+near real-time capability
+existing hardware sensors
+design of new installations
+central data repository accessible
+remote access
+alerts
+continuous improvement
+benchmarking
+Cambridge
+Anglian Water’s Milton
+SCADA systems
+operators information
+midsize WWTPs
+status
+months
+Europe
+cloud-based implementation
+requested EC funding
+measurements
+diurnal
+TRL6
+active component
+integration
+variable
+large-scale pilot
+electricity
+Euros
+financial benefits
+manual interventions
+reliability
+USA
+higher degree
+toxic events
+country-level
+technology
+efficiency

@@ -1,0 +1,55 @@
+analysis of systems
+analysis of stochastic systems
+aeronautical systems
+stochastic choices
+stochastic behaviour
+medium size systems
+variety of interesting systems
+parametric analysis
+non-functional goals
+parametric models
+stochastic model checking
+mixed goals
+non-functional properties
+environment
+partial control
+control strategy
+antagonistic nondeterminism
+biological models
+shortfalls
+Early techniques
+efficient techniques
+antagonistic behaviour
+aspects
+w-regular goals
+isolation scale
+positive nondeterminism
+probabilistic choices
+LTL
+energy usage
+response time
+proteins
+PCTL
+servers
+given rate
+safety
+important research area
+exact failure rates of components
+certain probability
+best way
+addition
+developing field
+automated method
+tool
+parameters
+scenario
+Verification
+focus
+combinations
+probabilities
+good complexity
+controller
+case
+proliferation
+values
+target

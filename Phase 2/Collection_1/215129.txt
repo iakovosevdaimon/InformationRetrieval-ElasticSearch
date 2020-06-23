@@ -1,0 +1,50 @@
+Wireless Powered Communication Networks
+wireless sensor networks
+future wireless communication systems
+Optimized ResourceAllocation Wireless powered communication network
+practical deployment of WPCN
+conventional battery-powered communication networks
+batteries of wireless devices
+microwave wireless power transfer
+project
+large networks
+numerous low-power WDs
+concept of energy
+initiated WPT
+low end-to-end WPT efficiency
+new heterogeneous networking architecture
+promising networking paradigm
+manual battery replacement
+demand energy supplies
+tons of battery disposal
+distributed energy beamforming technique
+information transmissions
+critical issues
+Protocols
+Architectures
+long  distance
+maintenance-free operations
+idea of WD
+inter-play
+environmental-friendly
+recharging
+scenarios
+WSNs
+generation
+internet of things
+hassle
+IoT
+duplexing
+challenges of scalability
+massive machine-type communications
+way
+technology
+harvest
+wide range of applications
+hazardous environment
+comprehensive study
+resource allocation
+number of innovative techniques
+biomedical implants
+cables
+results

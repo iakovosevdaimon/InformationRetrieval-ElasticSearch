@@ -1,0 +1,49 @@
+cavity quantum electrodynamics
+quantum simulation
+quantum networks
+quantum state
+quantum simulator
+node QN
+exchange quantum information
+quantum information processing
+fiber cavity
+Cavity-QED Ion Quantum Network Trapped ions
+toolbox of quantum communication protocols
+principle ion-based QN
+high finesse cavity
+high-finesse cavity
+fiber-cavity setup
+resulting QN
+QN architecture
+nodes
+single ion
+coherent transfer of information
+strong coupling regime
+distant ions
+intermediate coupling regime
+QIP
+miniaturized linear ion trap
+detection of photons
+fundamental protocols
+material qubits
+optical fibers
+long distances
+strategic research areas
+separate locations
+promising candidates
+entanglement
+European Union’s leadership
+building block
+small mode volume
+coated facets
+basis
+issue
+scalability
+metrology
+complex architectures
+development
+meters
+approach
+proof
+route
+fellow

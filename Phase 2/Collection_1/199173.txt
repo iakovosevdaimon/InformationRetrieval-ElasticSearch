@@ -1,0 +1,66 @@
+heterogeneous integration of devices
+low power processing
+processing devices
+low power storage
+heteroGeneous integRated magnetic tEchnology
+high integration density
+ultra-low power
+Magnetic devices
+power consumption
+key issues of monolithic heterogeneous integration
+high processing capabilities
+better integration of embedded
+mobile communication systems
+unique STT-MTJ cell technology
+smart systems
+IoT SoCs
+single baseline technology
+advanced MSS technology test chip
+high speed
+communication circuits
+wireless communication
+multifunctional standardized sTack
+dense storage
+representative M2M IoT platform
+sensors
+D self-integrated heterogeneous architectures
+goal
+STT-MTJs
+GREAT STREP project
+mobile technologies
+autonomous battery-operated smart embedded systems
+STT unique set of performances
+major outputs of GREAT
+architecture platform
+multiple functions
+key requirements
+simpler way
+different functions
+interconnected objects
+project final objectives
+non-volatility
+infinite endurance
+design
+fabrication
+IP solutions
+moderate read
+significant decrease
+computing
+system-level simulation
+Advisory Board
+Sensing
+leaders
+consortium
+Internet of Things
+CEA
+bottleneck
+terms of costs
+miniaturization
+EU partners
+main components
+autonomy
+separate chips
+RF receivers
+CMOS
+logic
+memory

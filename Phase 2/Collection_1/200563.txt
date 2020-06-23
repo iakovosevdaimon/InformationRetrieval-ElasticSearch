@@ -1,0 +1,56 @@
+probabilistic traffic situations
+probabilistic traffic forecasts
+traffic predictions
+concept of probabilistic trajectory
+probabilistic trajectories
+definition of probabilistic trajectory
+concept of probabilistic traffic situation
+ATC Planning
+planning horizons
+intensive planning
+Accurate planning
+basis of flight trajectory predictions
+prediction of occupancy counts
+COPTRA objective
+important aspect of prediction uncertainty
+project management
+quantifying forecast accuracy
+management work packages
+research work packages
+main objective
+CRIDA’s proven track
+different levels of accuracy
+future TBO environment
+measurable improvements
+research projects
+project conclusion
+main challenge
+sub-objectives
+Probable TRAjectories SESAR implementation
+optimal control problems
+WP1
+study
+WP5
+techniques
+results dissemination
+advanced methods
+complexity imbalances
+quality indicator
+partners
+modern dynamical systems
+EUROCONTROL
+experts
+efficient method
+inter-disciplinary competencies
+T-E
+WP4
+potential conflicts
+BR
+WP6
+expertise
+UCLouvain ICTEAM
+addition
+uncertainties
+WP2
+respective area
+WP3

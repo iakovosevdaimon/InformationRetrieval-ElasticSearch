@@ -1,0 +1,58 @@
+POINT platform
+ICN prototype
+ICN-based network
+betTer ip
+current IP-based applications
+current IP networks
+ICN community
+goal of POINT
+viable IP-over-ICN deployment
+communication platform
+research prototype
+production networks
+operational prototype
+operator's production network
+working platform ready
+operators
+production use
+KPIs
+set of Key Performance Indicators
+new business opportunities
+technology company
+set of abstractions
+key driver
+business value chains
+new resource coordination mechanisms
+systems vendors
+TCP
+solution
+service providers
+idea
+real-world field trial
+innovations
+HTTP
+hypothesis
+entire chain
+telecom vendor
+academic partners
+FP7 PURSUIT
+competencies
+ISP
+SMEs
+wide range of dissemination activities
+migration scenarios
+real customers
+CoAP
+content provider
+commercial viability
+turn
+cooperative
+addition
+open source code
+design
+relevant data
+consortium
+experience
+testbed
+impact
+industry

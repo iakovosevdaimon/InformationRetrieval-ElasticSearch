@@ -1,0 +1,56 @@
+DA-RAN
+disaggregated neTwork
+G-PICTURE
+network functions
+network ʽsoftwarizationʼ
+matching network
+compUte REsources
+novel optical network solutions
+G Programmable Infrastructure
+infrastructure service
+inelastic network infrastructures
+storage resources
+high mobility
+wireless
+G railway experimental testbed
+seamless service provisioning
+media services
+pool of resources
+converged fronthaul
+HW programmability
+new mission-critical services
+mobility management
+novel concept
+SW components
+storage domains
+energy efficiency
+required performance
+project results
+new types of connectivity
+open reference platform
+ultra-high user density
+conventional closed networking model
+today’s NFV-based solutions
+operators
+stadium
+explosive growth of mobile internet traffic
+high-speed moving environments
+elastic ecosystems
+need
+case
+vendors
+ʽDis-Aggregated RANʼ
+flexible functional splits
+paradigm shift
+smart city environment
+vertical industries
+current D
+limitations
+Key enablers
+approaches
+Τo
+adoption
+ʽResource disaggregationʼ
+demand
+capabilities
+standardization

@@ -1,0 +1,112 @@
+data scientists
+data economy
+TB of data
+PB of data
+fast data challenges
+multi-source data
+reach of data analytics tools
+big data leadership
+big data analytics skills barrier
+web-scale data extraction
+business analytics
+single system
+system specific
+STREAMLINE consortium
+fast reactive analytics suitable
+system adaptation technologies
+consequence of system
+rest
+open source tools
+fast reactive machine learning technologies
+fast results
+System latency issues
+stream-oriented analytics tools
+fast reactive machine learning library
+distributed systems
+European online media businesses
+cross-sectorial analytics
+European open source tool
+motion
+online games
+high level declarative language
+telecommunications services
+targeted services
+state-of-the-art technologies
+human latencies
+online media consumption
+Human latency results
+open-source platform ready
+heterogeneity of existing tools
+media content streaming
+leading European enterprises
+areas of database systems
+areas of global telecommunication services
+broad number of European SMEs
+business value
+business use-cases
+low level programming languages
+distributed parameter servers
+customer retention applications
+high input rates
+multilingual web content
+programming expertise
+representative of EOMB
+industrial partners
+world-renowned scientists
+added complexity
+research excellence
+Hadoop ecosystem
+domain specific matters
+inordinate number of boilerplate codes
+development
+user-interface
+innovators
+approximate algorithms
+parallelisation
+DFKI
+solid foundation
+corresponding automatic optimisation
+analysing
+ad targeting
+competitive advantage
+healthcare
+diverse market sectors
+lambda architecture
+IPTV
+Internet
+entertainment
+Rovio
+NMusic
+SICS
+IMR
+wide array of problems
+landline networks
+personalised recommendation
+lack of appropriate
+companies
+households
+databases
+millions of stakeholders
+manufacturing
+Esper
+Storm
+recommender
+SolR
+simplified operations
+burden
+markets
+cost
+plethora of scripts
+billions of events
+innovation actions
+SZTAKI
+impact
+international awards
+patents
+government
+transportation
+users
+time
+regard
+startups
+etab

@@ -1,0 +1,62 @@
+MRI data analysis
+metabolic MRI data
+complex MRI data
+support of large data
+envisioned clinical decision support system
+future clinical decision making
+psychiatric disorders
+data organisation
+advanced MRI methods
+Quantitative multimodal brain MRI
+multiple MRI readouts
+large scale clinical trials
+quantitative analysis of structural
+based classification module
+additional disorders
+future use
+quantitative approaches
+advanced feature extraction
+large number of neurological
+use of advanced modality
+data independent of vendor specific scan protocols
+multimodal quantitative magnetic resonance imaging
+widespread use
+interoperability
+functional imaging
+monitoring of patients
+access
+feature extraction algorithms
+personalized treatment
+treatment response
+related patients
+multiple sclerosis
+Existing tools
+specific subtle changes
+multi-parametric classification
+subtypes
+primary diagnoses
+early differential diagnosis
+objective criteria
+regard
+perfusion
+basis
+effective therapy
+disease progression
+time
+exploitation
+neuroscience
+diffusion
+diagnostics
+stratification
+deficiencies
+integration
+non-expert users
+machine
+quantification
+Scientific studies
+tremendous negative socio-economic impact
+development
+information content
+single software framework
+major depression
+modalities

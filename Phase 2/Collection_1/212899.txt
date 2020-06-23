@@ -1,0 +1,24 @@
+objects
+autonomous vessels
+EGNSS Hull
+position
+vessel’s hull relative
+location information
+high precision
+high integrity
+close proximity
+use
+safe operations
+proposal
+maritime community
+basic form
+GNSS antenna
+overall objective
+mariners
+correct navigation decisions
+need
+fundamental requirement
+area of operation
+EGNOS
+GALILEO
+systems

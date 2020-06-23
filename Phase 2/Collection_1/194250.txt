@@ -1,0 +1,57 @@
+hybrid network
+satellite domain
+hybrid SatCom-terrestrial networks
+Satellite backhauling
+SDN
+operable virtualised satellite networks
+VIrtualized hybrid satellite-TerrestriAl systems
+Satellite Virtual Network Operator
+flexible integration of satellite
+fLexible future networks VITAL
+combination of Terrestrial
+Network Functions Virtualization
+combined networks
+federated resources management framework
+virtualization of SatCom network components
+hybrid architectural framework
+terrestrial segments
+SatCom domain
+better network resilience
+end-to-end communication services
+hybrid telecom service delivery
+Proof of Concept validation of VITAL solutions
+optimised communication resources
+communications services
+algorithmic solutions
+third-party operators
+NFV deployments
+project
+federated resource management paves way
+improved innovation capacity
+key innovation areas
+number of virtualised functions
+improved coverage
+standardization initiatives
+service providers
+key application scenarios
+open platform initiatives
+combination of real prototypes
+strategies
+SVNO
+business agility
+required mechanisms
+ambitious proposal
+implementation
+unified control plane
+performance optimisation
+technologies
+appropriate tools
+order
+interfaces
+development
+Software
+emulators
+design
+Networking
+innovations
+operation

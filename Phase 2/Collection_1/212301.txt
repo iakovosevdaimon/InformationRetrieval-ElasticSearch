@@ -1,0 +1,52 @@
+quantum communication
+quantum nodes
+quantum processors
+quantum channels
+range of quantum
+quantum bits
+feasibility of quantum networks
+current quantum science
+size of quantum networks
+potential of quantum networks
+future quantum network
+Scalable Quantum Network
+quantum-controlled system
+cavity quantum electrodynamics
+distributed quantum information processing
+quantum spin-photon interface
+seminal quantum repeater proposal
+novel fundamental tests of quantum theory
+implementation of remote entanglement
+Successful implementation
+secure communication
+exceptional properties of individual Erbium ions
+current fundamental limit
+global distances
+Yttrium crystals
+larger distances
+exceptional coherence of spins
+specific host crystals
+numerous applications
+milestone advancement
+cold atoms
+prototypes
+non-local correlations available
+powerful concepts
+pursued research topics
+scaling
+purification
+frequency-selective addressing
+bottlenecks of existing physical systems
+new technology
+telecommunication wavelength
+precision measurement
+reach
+key proposed steps
+classical devices
+conventional computers
+experimental platform
+contrast
+end
+goals
+experiments
+Internet

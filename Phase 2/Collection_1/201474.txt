@@ -1,0 +1,46 @@
+BMC integration
+application of BMC
+potential of BMC
+use of BMC
+rendering integral
+Bayesian Monte Carlo
+classic MC methods
+illumination integral
+samples placement
+rendering algorithms
+high-dimension integration problem
+CG
+computer graphics
+classic MC techniques
+new set of samples
+careful samples
+weighting
+works
+light transport simulation
+higher dimension problems
+previous integral estimate
+non-diffuse materials
+challenging problems
+Global Illumination
+new trend
+random sampling
+realistic images
+virtual scene
+adaptive sampling strategy
+photo-realistic image
+innovative approach
+accurate model
+path tracing
+ability
+holy grail
+possible ray paths
+numerical approximations
+curse of dimensionality
+incipient phase
+research plan
+double objective
+value
+prior knowledge
+quality
+Brouillat
+Marques

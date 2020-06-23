@@ -1,0 +1,63 @@
+system integration
+results of SAFE4RAIL
+SAFE4RAIL results
+modular integration
+SAFE4RAIL simulation
+vehicle integration
+early functional integration testing
+roLling stock SAFE4RAIL
+modular certification
+mixed-criticality integration
+Robust distributed Application Integration
+generation TCMS embedded platform
+testing of applications
+testing environment
+non-critical functions
+networked TCMS platform
+TCMS system lifecycle
+generic embedded platform architecture
+mission-critical train functions
+European railway providers
+simplified embedded computing
+safety signals
+SAFE architecture
+wire system safety concept
+European transport industry
+European cross-industry consortium
+reconfigurable computing
+architectural concepts
+operating costs
+recommissioning costs
+SIL4 brake
+domain separation concepts
+distributed hard real-time controls
+secure interconnection of technical solutions
+rapid deployment
+hardware abstraction
+global leadership
+baseline
+virtualization
+worldwide competitiveness
+commonality
+connector
+computer count
+verification
+synergies
+standardization
+interoperability
+reduced weight
+industrial partners
+networking resources
+SMEs
+reliability
+experts
+aerospace
+validation
+reuse
+streamlined approaches
+physical complexity
+availability
+technologies
+recommendations
+reconfiguration
+project

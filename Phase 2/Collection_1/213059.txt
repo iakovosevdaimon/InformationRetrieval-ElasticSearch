@@ -1,0 +1,52 @@
+deployment of inspection robots
+inspection skill
+actual inspection process
+different inspection technologies
+programming of complex inspection tasks
+inline framework
+offline framework
+efficient setup of industrial inspection robots SPIRIT
+SPIRIT project
+CAD model
+software framework
+accurate process-specific model
+D object model
+project partners
+automatic planning
+generic frameworks
+work-cell model
+sensor data acquisition process
+complex parts
+automatic coverage
+system integrators
+generic interface
+easy exchange of process models
+sensor data mapping
+different kinematic structure
+different type of product
+automatic robot program generation
+D measurements
+exploitation potential
+proven frameworks
+sufficient accuracy
+engineering costs
+suitable return
+experience
+technology providers
+effort
+risks
+step
+aerospace industry
+larger market
+regional focus
+investment
+SMEs
+backbone
+execution
+features
+mentioned technological issues
+additional robotic installations
+end-users
+years
+heart
+Results

@@ -1,0 +1,43 @@
+INSTET
+Internet of Things Intrinsic-ID
+lack of security
+security solutions
+Integral Security  Trust Element
+IoT devices
+low-end chips
+trust foundation
+PUF
+fully-fledged security solution
+Root of Trust
+market fit
+technology
+distributed IoT systems
+semiconductor industry
+core problem of semiconductor vendors
+market strategy
+set of core software components
+Dutch SME
+Philips Research
+wearables
+world leader
+OEMs
+product
+business model
+promising vertical segments
+fingerprint
+medical electronics
+spin-off
+additional hardware
+costly redesigns
+inherent characteristics
+field
+memory component
+Physical Unclonable Function
+month feasibility study
+advanced attacks
+SRAM
+savings
+digital equivalent
+costs
+ones
+patents

@@ -1,0 +1,48 @@
+function Antibody-secreting cells
+B cells
+long-lived quiescent plasma cells
+Xbp1 sgRNA
+function of antibody
+Regulated target genes of IRF4
+Transcriptional control of plasma cell development
+new regulators of plasma cell differentiation
+Ikaros
+Aiolos
+CRISPR
+plasma cell-specific Cre lines
+transcriptional control of antibody
+essential effector cells of humoral immunity
+exception of Blimp1
+Xbp1 mutant phenotypes
+known upregulated genes
+Cre retrovirus-mediated deletion of Irf4
+XBP1-regulated transcription factor Bhlha15
+Cas9-based screens
+loxP-mediated mutagenesis
+E-proteins
+short-lived proliferating plasmablasts
+new insight
+conditional mutagenesis
+loxP methods
+pooled sgRNA libraries
+acute response
+long-term protection
+infection
+retroviruses
+proof
+molecular mechanisms
+individual validation
+host
+ChIP
+key players
+RNA-seq analyses
+interesting functions
+best hits
+pathogens
+duration
+optimized system
+Rosa26
+existing protocols
+principle experiment
+proposal
+experiments

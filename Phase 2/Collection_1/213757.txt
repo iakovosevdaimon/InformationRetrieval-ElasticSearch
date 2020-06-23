@@ -1,0 +1,53 @@
+grid inertia
+power volatility
+power smoothing
+grid reinforcement
+EASY-RES approach
+DSOs
+reactive power support
+grid voltage levels
+traditional electrical power systems
+centralized approach
+developed functionalities
+Renewable Energy Sources
+existing grid codes
+converter-interfaced DRES
+secondary frequency control
+fault ride
+Ancillary Services
+sized storage systems
+dispatchable SGs
+damping of transients
+conventional SGs
+TSOs
+use of central electric energy storage systems
+large frequency deviations
+novel control algorithms
+independent RES producers
+small Individual Control Areas
+adaptable response
+inertial response
+new functionalities
+provision of large currents
+voltage regulation problems
+growing penetration of converter
+increase of SG spinning reserves
+inherent properties of synchronous generators
+security
+stability
+distribution network segmentation
+capabilities
+solutions
+prosumers
+viable business models
+high cost
+designed ICT infrastructure
+benefits
+contribution
+faults
+actions
+modifications
+costs
+capability
+implementation
+aforementioned stakeholders

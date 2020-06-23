@@ -1,0 +1,53 @@
+metabolism genes
+metabolic genes
+cancer genes
+nucleotide metabolism
+carbohydrate metabolism
+lipid metabolism
+inositol metabolism
+cellular growth genes
+metabolic reactions
+metabolic entries
+metabolic map
+cancer cell growth
+amino acid metabolism
+cell cycle genes target
+integration energy metabolism
+metabolic library targets
+selected metabolic processes interrogation
+cellular survival
+relevant cancer cell line
+new avenues
+Identification of links
+cellular growth pro-survival mechanisms
+new druggable targets
+potential links
+identification of new Achilles’ heels
+METLINK
+undiscovered selective links
+tricarboxylic acid
+enzymatic processes
+single reactions
+library of compounds
+medium-throughput screening
+Cas9 lentiviral vectors
+biological oxidations
+oncogenes
+respiratory chain
+pooled libraries of CRISPR
+treatment
+TCA
+vitamin synthesis
+poorer understanding
+network
+sub-pools
+human fibroblasts BJ
+IMR90
+use
+SciLifeLab
+protein processing
+regulation
+proposal
+evidence
+Karolinska Institute
+hits

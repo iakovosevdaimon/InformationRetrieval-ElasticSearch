@@ -1,0 +1,49 @@
+IoT framework
+different heterogeneous IoT platforms
+different application domains
+Interoperability of Heterogeneous IoT Platforms INTER-IoT project
+different operations
+different levels
+different layers
+smart IoT applications
+seamless integration of different IoT architectures present
+multiple application domains
+project outcome
+addresses domains
+voluntary interoperability
+transportation time
+port transportation
+heterogeneous Internet of Things
+interoperable framework architecture
+open cross-layer framework
+port environment
+surgery units
+waiting list
+associated methodology
+safety
+network
+access control
+CO2 emission
+remote patient attendance
+increasing efficiency
+middleware
+experimentation
+number of subject
+services
+implementation
+resources
+design
+overall goal
+need
+mobile devices
+hospitals premises
+data
+advantage
+subjects
+charge
+health
+logistics
+cases
+assistance activities
+reduction
+proposal

@@ -1,0 +1,33 @@
+Smart City platform
+conceptual Smart Cities Information Framework
+common framework
+so-called Smart City enterprise application
+information models
+various sectors
+horizontal interoperability
+communities systEmic Standardisation apPRoach
+form of multi-dimensional city models
+project
+development
+common denominators
+integration reference models
+relevant open standards
+key common denominator
+various standardization organizations
+future levels of interoperability
+applications relevant
+potential issues
+number of data provision
+processing services
+workflows
+essential parts
+processes
+foundation
+overlaps
+technologies
+gaps
+scope
+order
+use
+ESPRESSO
+guidelines

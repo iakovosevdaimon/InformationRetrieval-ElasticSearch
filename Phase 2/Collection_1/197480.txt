@@ -1,0 +1,51 @@
+endoscopic tumor diagnosis
+tumor detection
+invasive tumor diagnosis
+tumor recurrence
+Computational Biophotonics
+Endoscopic Cancer Diagnosis
+clinical endoscopic imaging
+tissue shape
+high precision
+discrimination of malignant tissue
+high costs
+functional data
+computer
+quantitative multi-modal imaging biomarkers
+Therapy Key challenges
+photoacoustic images
+radiation-free real-time imaging
+specific local tissue classification
+low cost
+Spatio-temporal registration of multi-modal data
+D vessel topology
+low level of sensitivity
+lack of global orientation lead
+white light images co-registered
+global context-aware instrument guidance
+undertreatment
+texture
+intra-operative complications
+systematic integration
+specificity
+independant fields of research
+blood volume
+extent
+interventions
+innovative approach
+multidisciplinary project
+radiological contrast imagery
+oxygenation
+potential socioeconomic impact
+point
+precise navigation of medical instruments
+endoSCOPY
+visible surface
+physician’s view
+information
+goal
+colonoscopy
+laparoscopy
+combined manner
+naked eye
+procedure

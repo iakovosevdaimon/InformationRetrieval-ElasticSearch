@@ -1,0 +1,58 @@
+drug design
+important drug targets
+discovery of fragment ligands
+early drug discovery process
+fragment-based lead discovery
+peptide-GPCRs
+difficult targets
+project
+Computational design of GPCR drugs
+new methods
+binding GPCRs
+promises of FBLD
+computational structure-based methods
+access
+fragment complexes
+modelling of GPCR
+GPCR structural biology
+computational platform
+ligands of peptide
+modulation of multiple targets
+successful use of FBLD
+existing methods
+novel lead candidates
+important roles
+atomic resolution
+new pharmaceuticals
+biophysical screening
+atomic level
+neurological diseases
+novel strategies
+difficult problems
+structural information
+sensitive screening assays
+knowledge of receptor function
+predictive models of receptor
+efficient treatment of neurological disorders
+fragments
+opportunities
+numerous physiological processes
+technological advances
+industry struggles
+goal
+ligand interactions
+receptors
+optimization
+address
+vision
+Jigsaw puzzles
+powerful approach
+molecular docking
+Breakthroughs
+challenge
+G protein
+potent leads
+research
+techniques
+objective
+focus

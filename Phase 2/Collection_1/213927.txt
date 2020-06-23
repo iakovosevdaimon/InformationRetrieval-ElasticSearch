@@ -1,0 +1,64 @@
+heterogeneous embedded architectures
+Heterogeneous Architectures Deep Learning
+heterogeneous low-energy computing platforms
+energy-efficient heterogeneous computing platforms
+algorithms
+kind of architectures
+energy consumption
+software development tool flow
+energy savings
+inference tasks
+software development tools
+ALOHA tool flow
+low-power embedded systems
+terms of power
+software framework
+classification tasks
+Implementation of middleware
+edge computing paradigm
+main features
+main goal of ALOHA
+Algorithm design
+secure deep Learning
+high performance
+architecture-awareness
+severe performance requirements
+on-line classification task
+adequate support
+smart industry automation
+runtime-Adaptive
+surveillance
+identification
+midcaps
+tight constraints
+SMEs
+vast scope of new applications
+shift
+numerous recognition
+markets
+artificial intelligence
+security
+advanced skills
+need
+optimized mapping
+medical application domains
+target platform
+significant effort
+different use-cases
+primitives
+promising instrument
+step
+adaptivity
+project
+pervasive adoption
+productivity
+scheduling
+Porting
+deployment
+limitations
+extensibility
+precision
+device
+programming
+analysis
+aim

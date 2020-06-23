@@ -1,0 +1,51 @@
+monitoring building automation systems
+Intelligent Building Automation Diagnostics
+intelligent building automation diagnostic system
+existing BMS
+Domognostics platform
+energy efficiency
+development of advanced Building Management Systems
+intelligent fault diagnosis algorithms
+commercial buildings
+energy consumption
+water heating
+software algorithms
+ERC Advanced Grant project Fault-Adaptive
+effective monitoring
+unexpected events
+mobile sensors
+new sensors
+faulty components
+component faults
+various faults
+operational efficiency
+emergence of networked cyber-physical systems
+machine learning capabilities
+heterogeneous sensor types
+novel solution
+IoT devices
+air conditioning
+ventilation
+wearables
+lighting
+remedial reconfiguration actions
+actuator networks
+market need
+redundancy
+flexibility
+capacity
+proposed proof of concept
+situations
+performance
+available information
+measurements
+enhanced reasoning
+experience
+objective
+serious degradation
+theoretical foundations
+techniques
+people’s lives
+EU
+University of Cyprus
+Studies

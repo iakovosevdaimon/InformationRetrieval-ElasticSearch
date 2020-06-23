@@ -1,0 +1,49 @@
+speech analysis
+STatistical parametric speech Synthesis
+speech waveform
+speech sound
+synthesis methods
+applications of statistical approaches of speech technologies
+high-quality analysis
+phase information
+use of statistical approaches
+statistical characterization exhibit
+limits of current analysis
+quiet environments
+majority of applications
+phase spectrum properties
+lack of perceived quality
+smart-phone applications
+noisy environments
+High-Quality voice model
+high perceived quality
+recent phase processing tools
+amplitude information
+time sequence of parameters
+good quality
+problem
+parameters' sequence necessary
+voice restoration
+key properties
+description
+music
+navigation devices
+video game industries
+announcements
+way
+cornerstones
+HQSTS project
+listener
+cinema
+train stations
+drawbacks
+telecommunications
+accurate representation
+correlation
+person
+text
+primary goal
+decades
+details
+absolute necessity
+issue

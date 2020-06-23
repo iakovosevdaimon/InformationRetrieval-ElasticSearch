@@ -1,0 +1,52 @@
+shared trajectory data
+ground Trajectory Prediction
+Initial Trajectory Information Sharing
+benefits of initial trajectory sharing
+processing ADS-C data
+ATM ground systems
+Flight data Processing systems
+ground industry
+operational experts
+operational environment
+ground stakeholders
+DIGITS
+airborne unit capable of downlinking ADS-C data
+variety of operational conditions
+representative operational conditions
+pre-operational system platforms capable
+system impacts
+airborne industry
+ATM benefits
+ATM performance improvements
+post-processing
+demonstration actions of key airborne
+key feature of SESAR
+deployment of PCP AF
+potential human performance impacts
+shadow mode system set-up
+participating ANSPs
+revenue flights
+commercial flights
+Project partners
+successful flight trials
+opportunities
+enhancement
+coordinated development
+air traffic
+standard
+ATN Baseline
+Extended Projected Profile
+compliance
+controllers
+certification
+European airspace
+offline analysis
+early validation
+significant efforts
+Operations concept
+use of downlinked
+Aviation infrastructure
+working positions
+EPP
+gap
+Demonstrations

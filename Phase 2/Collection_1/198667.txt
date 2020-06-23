@@ -1,0 +1,50 @@
+pathway models
+large systems
+cell biology
+specific models
+Slow-Fast Systems
+mathematical analysis of ODE models
+novel dynamical systems methods
+particular slow-fast dynamical systems
+Cellular Biology Mathematical modelling
+models of great biomedical importance
+Detailed models of individual pathways
+cell division cycle
+better understanding of cell
+qualitative analysis
+theoretical analysis
+great importance
+systematic use of perturbation methods
+project
+difficulties GSPT
+structural complexity of cellular processes
+extended version of GSPT
+signalling pathway
+geometric singular perturbation theory
+Pertinent mathematical questions of biological
+important tool
+essential roles
+existing theory
+negligible roles
+multiple time scale dynamics
+periodic oscillations
+stability of equilibria
+existence
+moderate number of components
+different timescales
+NF
+solutions
+cyle
+phenomena
+standard form
+parts
+computational approaches
+hierarchies of local approximations
+p53 system
+investigation
+functioning
+simulations
+bifurcations
+evidence
+issues
+area

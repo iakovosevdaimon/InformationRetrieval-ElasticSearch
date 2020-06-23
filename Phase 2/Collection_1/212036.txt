@@ -1,0 +1,54 @@
+cloud devices
+use-cases
+NECOS platform
+NECOS approach
+NECOS project
+adoption of cloud computing
+Lightweight Slice Defined Cloud
+service components
+proposed use cases
+orchestration approach
+use of edge clouds
+large networks
+orchestration algorithms
+baseline platform
+use of artificial intelligence techniques
+limitations of current cloud computing infrastructures
+new concept
+uniform management
+various service demands
+Telco service provider
+high-level of orchestration
+grouping of resources
+slices
+large number of small network
+demand of new services
+optimal allocation of resources
+new deployment model
+low computation
+complexity of large scale virtualized infrastructure environments
+lightweight principle
+involved networks
+Embedded algorithms
+networking infrastructure
+terms of low footprint components deployable
+state
+data centres
+order
+TONIC
+APIs
+LSDC
+dynamic changes
+art open software platforms
+storage capacity
+edges
+Novel Enablers
+FIBRE testing frameworks
+reality
+research activity
+main distinguishing features
+context
+envisaged solution
+execution
+virtualization
+scratch

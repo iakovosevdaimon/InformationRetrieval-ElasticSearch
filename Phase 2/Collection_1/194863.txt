@@ -1,0 +1,61 @@
+device loss
+device support
+remote device
+local access control
+access control techniques
+access control attribute credentials
+Device-centric Access Control ReCRED’s ultimate goal
+online service access
+advanced attribute-based access control approaches
+unified authentication
+Attribute-based CREDentials
+service secure authentication mechanisms
+user’s personal mobile device
+usable identity management
+set of supported authentication
+privacy issues
+local user
+users privacy
+privacy awareness tools
+exposure of user credentials
+multi-factor authentication mechanisms
+widespread identity management standards
+authorization proxy
+authorization protocols
+usable tools
+identity consolidation services
+extensibility
+management of multiple digital identifiers
+advanced learning techniques
+physiological user signatures
+party service providers
+complex reasoning of authorization policies
+digital world
+Real-world Identities
+ReCRED’s viability
+nature of supported stakeholders
+large-scale realistic pilots
+real-world operational environments
+role
+type
+network infrastructure
+resilience
+complementary directions
+theft
+aggregation
+deployable strategy
+key security
+necessary extensions
+developed components
+impersonation
+combination
+traditional ones
+relevant interaction
+suitability
+end-users
+integration
+Simplicity
+usability
+flexibility
+complexity
+TRL7 readiness

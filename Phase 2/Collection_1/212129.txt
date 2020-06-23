@@ -1,0 +1,55 @@
+Programs String
+string programs
+string variables
+Algorithmic Verification of String
+heavy string manipulations
+fundamental theoretical contributions
+modern programming languages
+web applications
+programming mistakes
+novel verification algorithms
+novel implementation methods
+basic string analysis procedures
+design expressive constraint languages
+fundamental breakthroughs
+growing popularity of scripting languages
+used data types
+various applications
+programming course
+key objective
+strong theoretical performance guarantee
+tool implementation challenges
+robust verification tools
+automatic detection of XSS vulnerabilities
+design generic semi-algorithms
+proposed project
+important problems
+powerful methods
+central objective
+cross-site scripting
+automatic grading systems
+long-standing open problems
+key application domains
+combination
+strings
+termination properties
+safety
+area
+integers
+correctness
+respect
+technologies
+decidability
+attacks
+practice
+case of client
+JavaScript
+challenging problem
+security breach
+malicious user
+good complexity
+serious consequences
+Python
+cases
+proof of concept
+reason

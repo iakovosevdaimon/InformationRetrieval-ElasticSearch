@@ -1,0 +1,62 @@
+transistor behavioral model
+model extraction
+Cardiff Model
+Doherty design
+Power Amplifier Design
+necessary model changes
+G PAs
+design expert
+G sub-
+G systems
+G RF Doherty PAs
+behavioral modelling
+knowledge of Doherty
+G base-stations
+efficient use of energy
+CAD
+PA output
+PA needs
+number of measurements
+power consumption
+Jorge
+use of large antenna arrays
+traditional transistor models
+Behavioural Modelling
+large number of internal nodes
+energy sustainability
+hundreds of elements
+array elements
+waveform measurements
+actual application
+radiating element
+cost
+implementation
+climate change
+size reasons
+simulation
+band
+important issue
+impact
+circulator
+modifications
+PABLO
+procedure
+pervasiveness of wireless networks
+range of expertise
+expansion
+interaction
+world
+account
+method
+EU2020 targets
+project objective
+trend
+CHFE
+consequence
+interesting choice
+way
+thanks
+advantages
+time
+research program
+situation

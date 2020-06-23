@@ -1,0 +1,55 @@
+In-Depth Bridge Inspection
+bridge inspection industry
+bridge components
+under-bridge inspection vehicles
+field of inspection
+structural bridge assessment
+requiring inspection
+AErial RObotic System
+proposed robotic system
+low flying unmanned robots
+robotic solutions
+potential cracks
+depth of cracks
+parallel cracks
+case of concrete swelling
+arms
+computer vision
+concrete beams
+inspectors
+spalling
+associated fields of intelligent control
+access equipment
+civil infrastructure
+near term
+short term
+actual bridges
+recent research results
+bucket trucks
+latest developments
+manlifts
+sensors
+specialised multi-joint arm
+floor
+robotics
+surface
+difficult-toaccess areas
+scaffolds
+vehicular lifts
+ladders
+piers
+diameter
+distance
+sensing
+given limits
+reinforcing steel bars
+visual observations
+delamination
+width
+input
+traffic
+bottlenecks
+congestion
+deformation
+following step
+AEROBI

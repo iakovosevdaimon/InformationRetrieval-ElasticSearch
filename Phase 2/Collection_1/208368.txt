@@ -1,0 +1,49 @@
+promoter-enhancer interactions
+D distances
+enhancer-promoter activity
+D chromatin architecture
+D chromatin organization
+selected enhancer
+D chromatin structure influences enhancer action
+engineered enhancer-promoter pairs
+D genome organization Enhancers
+specific patterns of enhancer
+promoter physical interactions
+long-range transcriptional regulation
+transcriptional outputs
+isolated chromatin environment
+formation of chromatin loops
+mechanism of long-range transcriptional modulation
+enhancers-promoters physical communication
+Associating Domains
+cognate promoters
+different distances
+TADs
+goal
+system
+biophysical mechanisms chromosome architecture
+C-based technologies
+large genomic distances
+mammalian chromosomes
+single-cell methods
+chromosome conformation capture
+live-cell imaging
+close spatial proximity
+art genome engineering techniques
+mouse embryonic stem cells
+regulatory elements
+result
+context
+target gene
+quantitative relationship
+temporal expression of genes
+Recent studies
+unprecedented view
+Genetic evidence
+metazoans
+state
+proposal
+manner
+establishment
+space
+aim

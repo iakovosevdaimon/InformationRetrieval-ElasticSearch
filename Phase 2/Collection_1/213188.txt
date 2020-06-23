@@ -1,0 +1,56 @@
+V process
+V dies
+V Lab
+project objectives
+project results
+SOI process
+Uniform Bonding Layer
+thinner bonding layer
+higher performance lasers
+High Yield Heterogeneous
+high density future generation of PICs
+assessment of PICs
+characterization of PICs
+silicon process
+objective of PICTURE project
+types of PICs
+end process
+uniform dielectric bonding layer
+direct growth of high performance quantum-dot lasers
+lower cost PICs
+higher yield
+record performance MOSCAP
+consortium partners
+selective area growth
+growth of semiconductor materials
+heterogeneous integration platform
+photonic integration technology
+University of Southampton
+future exploitation
+SOI wafers
+Si modulators
+Si Photonic Integrated Circuits
+new generation of wavelength tunable distributed feedback lasers
+University College London
+bonded templates
+Tyndall
+Imec
+Argotech
+CEA
+smaller footprint
+photo-detectors
+different epitaxial stacks
+total capacity
+rate digital communication systems
+comprehensive supply chain
+D CMOS line
+Nokia Bell Labs
+potential
+design
+Gb
+skills
+addition
+house
+suitable partnerships
+system configuration
+adequacy

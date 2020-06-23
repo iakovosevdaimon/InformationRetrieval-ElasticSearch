@@ -1,0 +1,53 @@
+wireless infrastructure
+demand wireless networking
+SDR infrastructure
+time-critical
+wireless innovation
+SDR technology
+Software-Defined Networking
+wireless technologies
+ultra-low latency
+end-to-end networking experiments
+different levels
+ultra-high throughput
+ultra-high reliability
+diverging QoS requirements
+stringent application requirements
+demand wireless network slices
+high data rate
+experimentation facilities
+Software-Defined Radio
+manufacturing market
+software of machines
+SDN technology
+specific set of requirements
+Interesting evolutions
+Different applications
+non-time critical downloads of large data volumes
+creation of parallel
+market segments
+Reconfguration Control Architecture ORCA
+spectral bands
+control mechanisms
+versatile testbed facilities
+overall ORCA objective
+novel frequency bands
+creation of multiple virtual networks
+humans
+ambient assistant living
+public events
+healthcare
+automotive industry
+collaborative robots
+D video-driven interaction
+home automation
+Dynamic Spectrum
+communication needs
+way
+Orchestration
+instance
+utilities
+mmWave frequencies
+advanced reprogramming
+services
+DSS

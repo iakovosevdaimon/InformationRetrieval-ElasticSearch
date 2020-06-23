@@ -1,0 +1,56 @@
+optical transceivers
+Time Shared Optical Network
+Reconfigurable Optical-Wireless
+transport network
+core network
+network components
+wireless network solution able
+evaluation of novel optical
+advanced passive optical networks
+wireless architectures
+network management algorithms
+Network Function Virtualization
+dynamic allocation of network resources
+high capacity optical interconnects
+wireless elements
+Cloud-RANs Small Cells
+flexible wireless solutions
+Software Defined Networks
+G-XHaul technologies
+C-RAN
+Cognitive Control Plane
+fronthaul architectures
+Cloud-Radio Access Networks
+SDN
+NVF
+control functions
+G-XHaul consortium of industrial
+Wave transceivers
+novel concepts
+low latency
+low cost
+traffic demand
+flexible implementations
+fine granular bandwidth allocation
+constituent domains of communication systems
+skills
+research partners
+unique expertise
+broadband connectivity
+key enablers
+point
+stringent requirements
+conjunction
+development of international standards
+mobile scenarios
+end-to-end performance
+techno-economic contributions
+space
+ability
+actual hotspots
+impact
+user mobility
+testbed
+Bristol
+UK
+consensus

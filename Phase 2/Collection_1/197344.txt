@@ -1,0 +1,66 @@
+G-Crosshaul Packet
+G networks
+G-Crosshaul transport network
+G-Crosshaul experiments
+G-Crosshaul proposal
+G-Crosshaul project
+G-Crosshaul Control Infrastructure
+G Integrated fronthaul
+G-Crosshaul technology components
+G-Crosshaul KPI targets
+G service requirements
+G radio access
+G Test-bed
+network capacity increase
+fronthaul transport network
+core network functions
+network cloud nodes
+unified data plane
+abstract network model
+high-capacity copper
+high-capacity switches
+Mobile data traffic
+core networks
+mobile data tsunami
+innovative high-capacity transmission technologies
+control plane integration
+mini data centres
+packet core capable
+software-defined reconfiguration
+service-oriented unified management environment
+multiple service providers
+heterogeneous transmission links
+cloud-processing units
+Remote Radio Heads
+increased traffic load
+novel deterministic-latency switch architectures
+multi-tenant
+fibre
+networking elements
+mmWave
+wireless optics
+GPoAs
+small cells
+ms
+P7 objectives
+macro
+points
+solutions
+latencies
+XCI
+special focus
+Taiwan’s high-speed trains
+presence
+Berlin
+implementation
+XFE
+manner
+validation
+ICT
+Work Programme
+Horizon
+TCO reduction
+GPPP
+Demonstration
+Mobility
+fold

@@ -1,0 +1,32 @@
+Cloud Operations
+orchestration of cloud resources
+inter-cloud communication
+particular cloud networking techniques
+meta data description language
+analysis of physics experiment data
+management of federated private cloud infrastructures
+IP stacks
+software-defined data centres
+integrated network stacks
+Secure Infrastructures
+secure intra
+data center performance analysis tools
+SSICLOPS projects
+SSICLOPS testbed
+prototypical extension of network stacks
+inter-DC
+workload-specific adaptations
+specific use cases
+flexible scheduling system
+policies
+client
+automated provisioning
+workloads
+TCP
+telecom provider
+dynamic configuration
+memory database
+wide-area networks
+transport mechanisms
+topics
+Key deliverables

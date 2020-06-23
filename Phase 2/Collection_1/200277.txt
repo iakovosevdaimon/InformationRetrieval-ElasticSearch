@@ -1,0 +1,21 @@
+time-dependent density functional theory
+Molecules
+multicomponent density functional theory
+AMO-dance project
+nuclear dynamics
+Strong Field Dynamics of Atoms
+non-empirical history-dependent functionals
+fundamental theory development
+Exact Kohn-Sham Potentials
+investigation of Kohn
+electron-nuclear coupling
+quantum features
+multi-component
+numerical implementation
+host supervisor
+Angel Rubio
+Elham Khosravi
+application
+researcher
+accounting
+real systems

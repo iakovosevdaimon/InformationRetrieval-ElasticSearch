@@ -1,0 +1,43 @@
+numerical analysis
+optimal precision
+bits of precision
+limited precision
+required precision
+runtime variation of precision requirements of numerical algorithms
+experts
+runtime behavior
+runtime decision
+transprecision computing
+high-performance computing
+energy-efficiency
+lower energy consumption
+runtime systems software
+research experience
+Energy Efficient Transprecision Techniques
+ambitious research project
+development of novel algorithms
+computations
+parallel computing
+higher execution speed
+breadth of skill
+novel results
+fundamental assumption
+fundamental insights
+Entrans project
+research group of Dr Hans Vandierendonck
+combination of skill sets
+Linear Solver
+conjunction
+Queen’s University Belfast
+bespoke mentoring
+Fellow’s academic profile
+formal training
+floating-point arithmetic
+unique collaboration
+computer architecture
+JunKyu Lee
+loss of accuracy
+foundation
+actual represented values
+idea
+fly

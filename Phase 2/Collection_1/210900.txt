@@ -1,0 +1,39 @@
+BCI users
+BCI commands
+BCI control
+reliable BCI
+mental commands
+brain signals
+poor BCI reliability
+Brain-Computer Communication
+user training approaches
+human-machine interaction
+new generation of BCIs
+wheelchair control
+high Quality User Training Brain-Computer Interfaces
+suboptimal user training
+human learning principles
+standard training approaches
+communication systems
+high signal
+signal processing
+model
+current poor reliability
+co-adaptive communication system
+mental imagery
+imagined hand movements
+noise ratio
+heuristics
+assistive technologies
+physical activity
+computers
+application areas
+fundamental knowledge
+laboratories
+skill
+promising potential
+instance
+average
+order
+research efforts
+study

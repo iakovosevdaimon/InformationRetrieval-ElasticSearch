@@ -1,0 +1,41 @@
+Deformation theory of algebraic structures
+algebraic geometry
+bialgebra structures
+deformation quantization of moduli stacks of algebraic structures
+homotopy type of realization spaces of algebraic structures
+realization spaces of Poincaré duality structures
+geometric invariants of manifolds
+deformation theories of bialgebras
+derived geometry approach
+realizations new topological
+moduli spaces
+geometric nature
+various kinds of algebras
+equivariant string topology
+Lurie's higher category theory
+construction of link invariants
+higher dimensional manifolds
+general setting of algebras
+Quillen’s work
+various cases
+Rham complex
+kinds of problems
+homology level
+chain level
+generalization of Turaev's work
+homotopical algebra
+Toen-Vezzosi’s
+little disks operad
+crucial role
+prop
+action
+realisation
+present
+project
+questions
+longstanding formality conjecture of Kontsevich
+open problem of Sullivan
+Grothendieck-Teichmüller group
+methods
+mathematical physics
+machinery

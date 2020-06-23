@@ -1,0 +1,53 @@
+execution of data
+Data Virtualization
+Data Utility
+amounts of data
+data closer
+heterogeneous data sources
+Data-intensive applications Improvement
+data intensive applications able
+terms of Virtual Data Containers
+adoption of Fog computing
+DITAS execution environment
+current adoption of Cloud Computing paradigm
+traditional devices
+mixed cloud
+goal of DITAS
+heterogeneous sources
+fog environmentS
+security
+application logic
+potential
+new generation of smart devices
+traditional servers
+terms of performance
+significant barriers
+computation
+increasing need
+requirements
+responsibility of finding
+quality
+complexity
+developers
+underlying infrastructure
+possibility
+sensor networks Distribution
+compliance
+companies
+edge
+processing
+future
+organizations
+secure manner
+paradigms
+privacy
+SDK
+latency
+reliability
+scalability
+Abstractions
+development
+synergic way
+framework
+user needs
+time

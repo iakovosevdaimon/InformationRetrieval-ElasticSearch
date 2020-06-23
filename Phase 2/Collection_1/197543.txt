@@ -1,0 +1,54 @@
+AO application
+Large Telescope
+technical solutions
+academic partners
+industrial partners
+high throughput requirements
+main goal of Green Flash
+E-ELT AO systems preliminary design studies
+telescope operations
+mainstream solutions
+diameter telescope
+enabling technologies
+prototype
+innovative tailored solutions
+energy efficient high performance computing
+large scale European scientific facility
+real-time science
+system requirements
+Real-Time Controller
+market opportunities
+potential wide application range
+development cost
+technical challenges
+critical component
+scale demonstrator
+RTC modules
+combination of high data transfer bandwidth
+identified critical barriers
+light instruments consortia
+low latency
+resilient modular solution
+technological validations
+Adaptive Optics
+astronomical community
+strong interaction
+value
+designs
+road
+ecosystem
+return
+missing links
+prototyping
+proof of concept
+developed products
+increases
+Exascale
+Components specifications
+instrumentation
+D program
+simulator
+strategy
+investment
+features
+sky

@@ -1,0 +1,46 @@
+Compositional Approximate Reasoning
+effective proof techniques
+developed proof techniques
+associated proof techniques
+behavioural metrics
+compositionality
+general mathematical framework of compositional proof techniques
+quantitative systems
+Bialgebraic Semantics Programming languages
+quantitative properties
+quantitative analysis
+behavioural equivalence
+chance of failure
+network programs
+extension of bialgebraic semantics
+systematic study of languages
+wide variety of different quantitative languages
+general applicability
+general manner
+chance of congestion
+motivating case study
+probabilistic features
+probabilistic language
+effective tools
+hand concrete
+combination of algebra
+overall envisaged result of CARBS
+large-scale systems
+hand fundamental insights
+essential points of focus
+abundance of possible case studies
+categorical approach
+application
+randomized protocols
+model uncertainty
+quantiative coalgebras
+networks
+calculi
+throughput
+models
+ProbNetKAT
+instance
+computer science
+problem
+inference
+system component

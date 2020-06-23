@@ -1,0 +1,54 @@
+US  images
+diagnostic images
+real-world clinical images
+non-expert finds US images
+clinical medicine
+Perception Ultrasound
+machine learning
+real world obstetric US data
+clinical experts
+Sonographic Experience PULSE
+based computational models
+routine US scanning services
+new generation of ultrasound imaging capabilities
+universal implementation of ultrasound
+need
+videos
+sonographers
+portable imaging technology
+real world training video data
+diagnostic study
+new approach
+expert sonographer
+Novel machine
+eye motion tracking
+collaboration
+potential
+use
+computer vision
+image processing
+latest ideas
+healthcare
+social benefits
+community
+subject
+knowledge
+hospitals
+probe
+novices
+innovative inter-disciplinary project
+highest level
+multiple perceptual cues
+high quality
+human makes decisions
+powerful assistive interpretation methods
+greatest barrier
+Europe
+skilled operators
+standardised protocol
+scans
+purpose
+observation
+Software demonstrators
+review
+innovation

@@ -1,0 +1,47 @@
+structure of population activity
+Large-scale analysis of neuronal population activity
+activity of large
+neuron’s activity
+macroscopic activity of excitatory
+mechanistic basis of population activity
+dynamics of neuronal populations
+distributed neuronal populations
+brain function
+multiple brain structures
+large-scale neuronal recording
+multiple brain areas
+inhibitory populations
+function of brain state
+behavioral output
+resulting models
+behavioral impact
+effect of optogenetic perturbations
+resulting flood of data
+underlying circuit mechanisms
+Optogenetic stimulation of excitatory
+recordings of thousands
+novel data analysis techniques
+awake mice
+concise principles
+site probes
+computational advances
+interaction of macroscopic variables
+single high-count probes
+Recent technological advances
+unprecedented opportunity
+specific signals
+thalamus
+neural firing
+experiments
+neurons
+wide-field calcium imaging
+compact summary
+low-dimensional dynamical system
+simple formulae
+discrimination task
+hippocampus
+relation
+sensory inputs
+regions of cortex
+two-level model
+ability

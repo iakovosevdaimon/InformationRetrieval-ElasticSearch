@@ -1,0 +1,55 @@
+MaMMoTH
+Upper Stages
+Modular Monitoring
+telemetry data
+monitored data
+usage of COTS
+limited data bandwidth
+unreliable COTS components
+new monitoring infrastructure
+advanced dependability analysis
+advanced dependability enhancements
+self-configuring monitoring framework
+compress sensor data
+on-going launcher developments
+generation avionics solutions
+required levels of dependability
+innovative avionics solution
+launch vehicle
+design solutions
+demo-flight
+reliable launch operations
+improved computing performance
+board-computing capacities
+virtual prototype
+cost-efficiency
+various phases
+conventional launching systems
+proposed technology
+realization
+European dependence
+detailed information
+advantages
+concept
+tight coupling
+pre-process
+sensors
+immediate commercial potential
+direct advantage
+market
+work plan
+path
+competitors
+external suppliers
+competitiveness
+Shelf
+ground
+TRL
+time
+result
+project
+proof
+factor
+key objectives
+goals
+demonstrator

@@ -1,0 +1,55 @@
+TSO-DSO interoperability
+TSO-DSO information exchange interfaces
+future TSO-TSO interoperability
+novel Information
+secure information systems
+automated information exchanges
+project
+larger volumes of information
+DSO levels
+Distribution data eXchanges
+Secure ICT Systems
+IEC
+Common Grid Model Exchange System
+novel aspects of ICT tools
+new data requirements
+data access portals
+defined interfaces
+emerging international smart grid ICT standards
+Distribution System Operator
+Transmission System Operator
+Use Case analysis
+defined interface specifications
+Micro-grid Operators
+DSOs
+Market-participants
+market participants
+techniques
+specified suite of ICT protocols
+network analysis
+Role-based access control
+renewables integration
+new users
+business processes
+Coordination of Transmission
+unbundling processes
+Distributed Energy Resource Operators
+Aggregators
+relevant actors
+industry specification
+field tests
+demonstration
+European marketplace
+implementation
+security
+protection
+attacks
+communications
+external threats
+Communication Technology
+electrical power sector
+Proof of Concept
+ENTSO-E
+scalability
+context
+state-of-the-art progress

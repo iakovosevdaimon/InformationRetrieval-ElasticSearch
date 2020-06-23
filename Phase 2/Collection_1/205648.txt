@@ -1,0 +1,57 @@
+Data management
+maintenance strategies
+prescriptive maintenance
+maintenance works
+heterogeneous maintenance-related data
+Intelligent Asset Management Strategies
+overall concept of Intelligent Asset Management
+data mining
+Intelligent Innovative Smart Maintenance of Assets
+maintenance workflow processes
+signalling monitoring systems
+integRated Technologies IN2SMART
+TD3
+Dynamic Railway Information Management System
+maintenance interventions planning
+unmanned systems
+decision support process
+railway assets decay
+railway assets status
+data analytics procedures
+Railway Information Measuring
+following Technology Demonstrators
+development of future decision support tools
+analytic tools
+rolling stock identifications systems
+field
+decision-making process
+following Grant
+TDs
+final Integrated Technology Demonstrators
+generic framework
+innovative measurement of train parameters
+wheel defects
+crossings
+switches
+DRIMS
+robot platform
+outcomes
+standard open interfaces
+RIMMS
+track geometry
+optimised tamping tool
+proposal
+MAAP
+anomalies
+foundation
+IN2RAIL lighthouse project
+execution
+homogeneous TRL4
+enabler
+scope
+objectives
+sources
+IAMS
+main interlinked layers
+Shift2Rail members
+Degradation models

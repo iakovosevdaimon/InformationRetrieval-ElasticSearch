@@ -1,0 +1,49 @@
+storage systems
+public DS systems
+generation DS systems
+current DS systems
+Distributed storage
+large DS networks
+Data centers
+sparse-graph codes
+modern coding theory
+unabated growing of digital data volume
+graph erasure
+design of practical coding schemes
+recent years
+optimization theory
+application of sparse
+cost efficiency
+media networks
+new technologies
+practical concerns
+recent estimates
+proposed project falls
+information revolution of modern societies
+email
+applications
+robustness
+cloud computing
+people
+explosion of services
+collection of cheap devices
+order
+central server
+challenges
+relevant insights
+node failures
+process
+track
+nodes
+video sharing
+complexity
+category of fundamental research
+grand challenge
+file
+findings
+network operations
+rate
+factor
+day
+Nextgeneration
+focus

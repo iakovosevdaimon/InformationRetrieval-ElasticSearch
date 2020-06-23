@@ -1,0 +1,48 @@
+tractability of cut problems
+undirected graphs
+Planar graphs
+parameterized complexity of graph separation problems
+routing problems
+tractability foundations
+algorithmic toolbox of parameterized complexity
+challenging case of directed graphs
+major open problems
+main open problems
+structural graph theory
+paradigm of parameterized complexity
+improved tractability of graph isomorphism testing
+fixed-parameter tractability toolbox
+mature algorithmic toolbox
+algorithmic approaches
+sparse graph classes
+minimum cut problem
+tractability of Maximum Independent Set
+paradigms
+theoretical computer science
+understanding
+mathematical foundations of algorithms
+Tree decompositions
+disjoint paths problem
+theory of minimal triangulations
+structure of small cuts
+aforementioned successful structural approach
+network design
+various variants
+respect
+synergy
+proposal
+knowledge
+approximation schemes
+opportunities
+significant potential
+combinatorial properties
+flow
+discovered connections
+symmetric demands
+Erdos-Hajnal conjecture
+Coloring
+project
+Recent advances
+specific goals
+distance sparsifiers
+themes

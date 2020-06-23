@@ -1,0 +1,59 @@
+CPS engineering
+complexity of CPS
+LASSO framework
+Optimization of Cyber-Physical Systems Cyber-physical systems
+missing framework
+engineering of complex CPS
+physical components
+optimization of missing cyber-components
+optimization of performance
+learning of models
+traffic systems
+quantitative models
+number of CPS case studies
+powerful tools
+theoretical well-founded framework
+embedded systems verification
+medical devices
+efficient analysis
+terms of performance
+unknown components
+companies
+performance measure
+safety constraints
+safety critical
+machine learning
+new generation of scalable tools
+crucial safety conditions
+smart grids
+smart cities
+automatic synthesis
+quantitative modeling
+extensive combinations
+extensive contributions
+metric guarantees
+model-driven methodologies
+society of better solutions
+complete metric approximation theory
+trade-offs
+different research areas
+validity
+promise
+lack
+timely meet
+market demands
+efficiency
+PI
+objective
+cars
+utmost care
+specifications
+usability
+constant growth
+properties
+task
+original system
+principle barrier
+provider
+existing methods
+applicability

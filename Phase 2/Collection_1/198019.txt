@@ -1,0 +1,54 @@
+non-convex optimal control
+Closed Loop Optimal Control of PDEs
+large scale optimal control problems
+Closed loop control
+model-predictive control
+optimal control of partial differential equations
+important non-smooth problems
+numerical realization of optimal feedback strategies
+bidomain equations
+new formulation
+numerical concepts
+inverse problems
+suboptimal feedback controls
+use of non-smooth functionals
+optimal actuator location problem
+computational techniques
+interpolation techniques
+nonlinear PDEs
+suboptimal strategies
+established model
+topology optimization problems
+model reduction
+new algorithmic concepts
+direct numerical treatment
+dynamic observer techniques
+development of new analytical
+perfect formulation
+paramount importance
+pressing topics
+boundary measurements
+availability of boundary
+multi-bang controls
+special statistical importance
+rich dynamical systems behavior
+great practical relevance
+Hamilton-Jacobi
+continuum mechanics
+instance
+convexity
+proposal
+proposed methods
+quasi-static evolution of fractures
+lack of Lipschitz continuity
+Bellman equation unfeasible
+diverse situations
+electrical activity
+curse of dimensionality
+significant obstacles
+bf robustness
+system perturbations
+basis
+case
+heart
+sparsity

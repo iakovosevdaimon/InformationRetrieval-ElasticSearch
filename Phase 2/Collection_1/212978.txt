@@ -1,0 +1,63 @@
+applications of nonlocal methods
+use of nonlocal methods
+image data
+unstructured data processing
+noisy input data
+Arbitrary Data Sources
+characterisation of nonlocal operators
+analysis techniques
+continuous limits of nonlocal models
+optimisation techniques
+mathematical analysis
+computational analysis
+computer vision
+real-world application
+reliable computational techniques
+scale-independent
+discrete point clouds
+efficient algorithms
+practical application
+computer science
+development of resolution
+academic theories
+long-term vision
+real-world problems
+development of new robust
+fundamental mathematical principles
+combinatorial point of view
+academic pet projects
+overarching applied theme
+increasing attention
+mathematics
+high quality software products
+NoMADS
+spectral clustering
+biomedical imaging
+ambitious target
+remote sensing
+engineering
+implementation
+current gaps
+medicine
+society
+rich playground
+direct impact
+stability
+theory
+graph partitioning
+strong international group of researchers
+methodologies
+years
+biology
+investigations
+statistics
+neural networks
+large gap
+imposed smoothness
+context
+relationships
+size
+aim
+reason
+practice
+properties

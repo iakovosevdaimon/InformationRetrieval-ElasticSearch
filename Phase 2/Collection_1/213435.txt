@@ -1,0 +1,63 @@
+predictive techniques
+current techniques
+proposed techniques
+application of atomistic techniques
+meshless quasicontinuum techniques
+computational toolset
+Mechanics of Metals
+computational power
+new scale
+computational science strategies
+statistical mechanics
+predictive atomic-scale simulations
+quantum mechanics
+combination of scale
+foreseeable future computational resources
+thermo-mechanical processing
+large-scale simulations
+open-source
+open challenges
+new theory
+Coarse-Grained Atomistics
+temporal upscaling
+Spatial upscaling
+atomistic input
+macroscopic mechanical performance
+particle methods
+microstructural mechanisms
+corrosion
+concepts
+steel
+recrystallization
+microns
+economic importance
+PI's nonlocal
+user community
+magnesium
+problems
+capabilities
+order
+gap
+time scales
+engineering disciplines
+material properties
+buzz words
+millimeters
+wider range of materials
+heat
+link
+relevant length
+methodologies
+numerical tools
+representative
+hydrogen embrittlement
+five-year research program
+outcomes
+nanometers
+prediction
+applications
+discovery
+minutes
+technology
+principles
+mass transfer

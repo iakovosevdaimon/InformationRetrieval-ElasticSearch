@@ -1,0 +1,63 @@
+project
+basic metrology concepts
+metrology area
+new metrology concepts
+separate metrology tools
+number of metrology solutions
+electrical properties
+D-Devices
+D-composition profiling
+basic layer properties
+Capres
+D-technologies
+semiconductor industry
+BEOL
+IonTOF
+dedicated test structures
+similar test structures
+additional capabilities
+additional value
+tool assessment
+probing voids
+processing challenges
+general applicability field
+specific processing steps
+sheet resistance measurement tool
+automated micro-Hall
+reliability
+FIB column
+Scanning Probe stage
+build
+technological readiness
+measurements
+food chain of equipment delivery
+successful commercialization of novel European products
+co-existence
+relevance
+TSV’s
+Tepla
+selected applications
+Tofsims system
+FEOL
+complementary information
+range
+acoustic Microscope
+ICT25
+developed protocols
+barriers
+lab
+stacked dies
+companies
+strong position
+innovation action
+objectives
+issues
+main leaders
+metallization
+methodology
+future
+portfolio
+significant efficiency gain
+line
+COO
+stacking

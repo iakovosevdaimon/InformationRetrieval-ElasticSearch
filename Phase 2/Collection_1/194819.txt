@@ -1,0 +1,49 @@
+wet plastic recycling
+wet separation processes
+wet environment
+innovative lagrangian particle-fluid simulations Wet particle separation
+Lagrangian particle-fluid modelling framework applicable
+process parameters of wet particle separation technologies
+wide usage wet particle separation processes
+systems of particles
+field of plastic recycling - improvements
+recycling sector
+developed framework
+background numerical modelling
+Lagrangian Smooth Particle Hydrodynamics
+computational framework
+unresolved fluid flow
+density differences
+operational parameters
+DEM
+SPH
+design
+project
+technical scale systems of complex shaped particles
+lack of applicable numerical schemes
+technology improvements
+operational problems
+reduced landfill
+strong environmental impact
+sink-float drum separator
+separate mixtures of particulate materials
+usable fractions
+large movements
+European companies
+novel
+lower overall pollution
+handling free surfaces
+mineral processing
+feed material
+challenging task
+Discrete Element Method
+results
+development
+methods
+mesh
+proposed research
+parts
+review
+state
+objective
+time

@@ -1,0 +1,58 @@
+causal predictions
+causal modeling
+causal models
+causal nature
+automated causal inference
+cyclic causal systems
+state-of-the-art causal inference algorithms
+cyclic causal relationships
+large-scale applications of causal inference
+Causal Analysis of Feedback Systems
+causal analysis of time
+interventional data
+simulated data
+series data
+theory
+feedback loops
+robust algorithms
+science
+dynamical systems
+practical applications
+decision making
+field
+work
+molecular biology
+considerable gap
+goal of CAFES
+various challenging domains
+cause-effect relationships
+non-stationary processes
+discovery
+studies
+industry
+reasoning
+questions
+machine learning
+branch of statistics
+great value
+policy
+everyday life
+promising areas
+strong focus
+context of confounders
+established connections
+Extensions
+available resources
+variety of disciplines
+economy
+practice
+remarkable progress
+decades
+order
+situations
+climatology
+assumptions
+ability
+external intervention
+influence B
+key challenge

@@ -1,0 +1,56 @@
+Berkovich spaces
+Theory of Stein Spaces
+adic Stein spaces
+Berkovich Geometry Complex Stein spaces
+projective analytic spaces
+adic geometry
+complex analytic geometry
+setting of Berkovich geometry
+work of Berkovich
+analytic analogues
+basic tools of potential theory
+number fields
+p-adic counterpart
+coherent cohomology of polydisks
+rings of integers
+topological properties
+potential-theoretic properties
+usual analytic machinery
+affine schemes of algebraic geometry
+notions of p
+function fields
+comprehensive study of p
+global cohomology groups
+convergent arithmetic power series
+work of Baker
+ring of integers
+fundamental fact
+relative polydisks
+main goal
+deeper investigation of rings
+Jonsson
+Boucksom-Favre
+Thuillier
+Rumely
+convergence of holomorphic functions
+rationality criteria
+Chambert-Loir
+places
+road
+topology
+recent developments
+Hrushovski-Loeser
+commutative algebra
+integral coefficients
+crucial importance
+inverse Galois problem
+Ducros
+manners
+fine understanding
+conditions
+applications
+instance
+cohomological sense
+envelopes of holomorphy
+meromorphy
+equal footing

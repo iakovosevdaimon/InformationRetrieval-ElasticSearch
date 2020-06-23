@@ -1,0 +1,53 @@
+cancer evolution
+Allele-specific Deconvolution of Tumour DNA Methylation
+Expression Data toReveal Underlying Cell Populations
+DNA methylation heterogeneity
+tumour bulk gene expression
+detailed analysis of tumour expression
+omics data
+cancer development
+paradigm of genomic tumour heterogeneity
+allele-specific expression
+massive amounts of data
+single-cell datasets
+methylation rates
+distinct underlying cell populations
+massive pan-cancer datasets
+wealth of available cancer
+collaborative single-cell sequencing projects
+International Cancer Genome Consortium
+admixed normal cells
+RNA-Seq
+Bisulphite-Seq
+genomic alterations
+sequencing technology
+pure transcriptomes
+methodological advances
+mixed pure samples
+sub
+clinical prognostic prediction
+basis
+significant improvements
+clones
+confounding interpretation
+large initiatives
+estimates
+methods
+number profiles
+states
+recommender-system approach
+personalised treatment
+interactomic
+changes
+molecular mechanisms
+actionable transcriptome
+comprehensive taxonomy of cancers
+better understanding
+innovative algorithms
+step
+epigenomes
+Careful validation
+turn
+Tumours
+issue
+signal

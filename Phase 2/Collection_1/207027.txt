@@ -1,0 +1,64 @@
+vascular surgery
+invasive surgery
+expansion of RAMIS
+popularity of RAMIS
+SMart weArable Robotic Teleoperated Surgery Robot
+embedded surgical tools
+surgical field
+wearable smart glasses
+testing
+surgeons
+potential
+soft tissue orthopaedic surgery
+wearable multi-sensory master
+real-world surgical scenarios of urology
+rigid tools
+complex remote handling procedures
+technology closer
+novel technology
+dexterous anthropomorphic instruments
+commercial robotic manipulators
+lack of force feedback
+additive manufacturing methods
+tele-operation
+rapid prototyping
+minimal cognitive demand
+range of bespoke end-effectors
+augmented reality guidance
+SMARTsurg advanced hardware
+action
+user-centred approach
+dynamic active constraints
+improved vision
+current instrumentation
+organs
+confined spaces
+perception
+control
+D reconstruction
+domains
+traditional MIS
+health providers
+challenges
+precision
+software features
+exploitation
+patients
+restricted access
+barriers
+advantages
+industrial partners
+serious limitations
+laboratory phantoms
+ergonomics
+acceptance
+safety
+team
+dexterity
+patient outcomes
+demonstration platform
+safe regions
+clinicians
+adoption
+study
+costs

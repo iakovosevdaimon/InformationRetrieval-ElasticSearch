@@ -1,0 +1,53 @@
+accurate QM methods
+new multireference QM methods
+employed QM method
+accurate structures
+metalloenzymes
+embedding method
+accurate embedding scheme
+advanced embedding schemes andquantum mechanical methods
+underlying protein structures
+high potential
+underlying structures
+protein environment
+polarizable embedding schemes
+clean energy production
+low-carbon energy production
+PMOs
+biofuel production
+protein electrostatics
+great potential
+proposed project
+hydrogenases
+MetEmbed project addresses
+areas of energy efficiency
+transition metal systems
+density matrix renormalization group method
+little use
+spin-state energetics
+new level of confidence
+multiconfigurational density functional theory hybrid
+MD
+simulations
+extensive molecular dynamics
+key intermediates
+hydride ions
+central parts
+tailored force fields
+reversible conversion of dihydrogen
+reaction
+protons
+electrostatic interactions
+polysaccharide monooxygenases
+active site
+proteins' catalytic cycles
+target enzymes
+HORIZON2020 program
+nearest ligands
+overall objective
+inaccuracies
+effect
+polarization
+combination
+adequacy
+failures

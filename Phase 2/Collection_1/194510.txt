@@ -1,0 +1,39 @@
+Combinatorial Construction Combinatorial Construction
+problems of combinatorial construction
+construction of networks
+combinatorial designs
+applications
+explicit algorithmic construction
+general class of combinatorial objects
+codes
+powerful new method
+Theoretical Computer Science
+distributed communication
+communication costs
+sorting networks
+desirable property
+Existence Conjecture
+mathematical challenge
+mathematical community
+lottery problem
+new method of Randomised Algebraic Constructions
+data storage
+expanders
+transmission errors
+result
+little overhead
+fundamental question
+considerable attention
+cryptography
+Mathematics
+minimum number of tickets
+solution
+recent preprint
+derandomisation
+discovery
+popular culture
+prize
+Steiner
+Combinatorics
+Examples
+significance

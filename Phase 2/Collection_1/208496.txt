@@ -1,0 +1,58 @@
+Intelligent Gearbox
+project
+health monitoring condition of gearboxes
+lateral rotor gearboxes
+main gearbox reduction stages
+technologies suitable
+generation gearboxes
+Endurance Advanced Rotorcraft
+engine
+Active Space Technologies
+ultimate goal
+Structural Health Monitoring
+innovative approach
+innovative system
+Fast Rotorcraft IADP
+use of data fusion
+early detection of gearing
+health state transitions
+system oriented approach
+use of ceramic ball bearings
+iGear proposal
+early detection of on-going failures
+condition indicators
+high importance
+signal fusion
+robustness of diagnosis
+high speed shaft
+acceptable rule-based diagnosis
+temperature detectors
+Cranfield University
+traceability
+probability
+developments
+framework of LifeRCraft demonstrator
+new materials
+solutions
+harsh environments
+accelerometers
+ongoing research activities
+significant knowledge
+acoustic emission sensors
+prompt maintenance
+fuzzy logic
+oil analysis
+localization
+sensitivities
+order
+provision
+excessive computation
+combination of vibration
+topic
+primary objective
+effectiveness
+SHM
+replacement
+key innovation
+damage measurements
+user

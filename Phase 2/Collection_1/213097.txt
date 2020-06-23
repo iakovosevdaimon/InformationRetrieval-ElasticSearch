@@ -1,0 +1,64 @@
+existing IoT platforms
+IoT federation framework
+open IoT federation architecture
+secure IoT business platforms
+respective IoT platforms
+fragmentation of IoT
+SOFIE - Secure Open Federation
+Data
+existing open standards
+existing components
+applicable security
+pilots sustainable
+auditability
+key management
+end-to-end security
+results
+management of identities
+decentralised solutions
+privacy policies
+inter-ledger technologies
+W3C Web of Things
+Distributed Ledger Technology
+key performance indicators
+gaming
+food chain
+actuation
+accountability
+interfaces
+authorisation
+Internet
+smart contracts
+blockchains
+different sectors
+FIWARE
+examples
+EU GDPR
+scientific journals
+regulations
+conferences
+social media
+developer communities
+workshops
+Cloud
+encryption keys
+utilising DLTs
+energy market
+Fog
+unlimited scalability
+instructions
+limits
+new ones
+compliant manner
+applications
+documentation
+standardisation
+challenges
+user
+control
+approach
+design
+integration
+practicality
+oneM2M
+adapter

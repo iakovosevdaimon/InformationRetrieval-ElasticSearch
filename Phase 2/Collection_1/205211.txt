@@ -1,0 +1,41 @@
+anaphoric expressions
+Language Interpretation Natural language expressions
+context
+aspects of language interpretation
+massive amounts of data
+single interpretation
+study of disagreements
+computational linguistics
+additional cases of ambiguous anaphoric reference
+anaphora resolution
+Purpose
+fundamental issue of disagreements
+computational methods
+examples of use
+massive amounts of judgments
+annotated gold standard
+novel methods
+similar findings
+Bayesian models of annotation
+Phrase Detectives Game
+ambiguity
+existence
+serious challenge
+people
+current theories
+proposed project
+wordsense disambiguation
+supervised approach
+assumptions
+blueprint
+genuine ambiguities
+goal
+areas
+large scale
+dominant methodology
+epidemiology
+advanced games
+speech tagging
+work
+infelicitousness
+scratch

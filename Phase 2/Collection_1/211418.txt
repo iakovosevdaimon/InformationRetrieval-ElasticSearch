@@ -1,0 +1,53 @@
+RNA structure probing
+RNA thermometers
+RNA structure elements
+role of RNA structure
+RNA secondary structure probing
+corresponding temperature
+RNA-Seq data
+temperature shift
+targeted individual RNA
+RNA structural features
+Validation of RNA thermometer
+temperature regulation mechanism
+temperature-regulatory elements
+living cell Temperature
+structure level conservation
+different temperature regime
+extreme temperature changes
+corresponding translation efficiency
+plant growth
+predicted RNATs
+crops
+translational efficiency
+identified single nucleotide variations
+transcriptome-wide scale
+genome-wide scale
+sequence level conservation
+plants’ growth
+putative RNAT
+proposed study
+Ribosome profiling data
+studying nature variations
+post-transcriptional regulation of gene expression
+Arabidopsis thaliana
+powerful platform
+SNV
+approach
+significant effects
+cause yield losses
+response
+heat stresses
+global warming
+Computational Prediction
+fact
+organisms
+various environmental stimuli
+potential
+crop improvement
+host lab
+protein abundance
+development
+alteration of
+time
+date

@@ -1,0 +1,59 @@
+computational sensing
+accelerated sensing
+compressed sensing
+signal processing
+processing techniques
+address sensing tasks
+emerging sensing modalities
+task-orientated sensing systems
+low dimensional models
+data processing tasks
+data-driven models
+iterative reconstruction techniques
+computational cost
+traditional techniques
+good signal representations
+commercial imaging systems
+low dimensional structure
+new generation of data
+richer class of hierarchical low dimensional signal models
+MR imaging
+imaging coding
+research
+new framework
+generation of compressive
+statistical estimation
+estimation accuracy
+real need
+real world
+decade sparse representations
+application domains
+detection
+advanced radar
+system design
+stunning performance gains
+computer vision
+multispectral time
+super-resolution microscopy
+physics-aware
+physical laws
+dynamic range
+noise
+measurements
+applications
+fold acceleration
+classification
+quantitative guidance
+deep neural networks
+MRI
+notion
+project
+aim
+random sampling strategies
+order of magnitude
+prior information
+PIs recent work
+area
+flight cameras
+final goal
+ability

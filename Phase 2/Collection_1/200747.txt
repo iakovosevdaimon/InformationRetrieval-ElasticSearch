@@ -1,0 +1,67 @@
+life-cycle assessment of WTs
+wind energy
+number of WTs
+Smart Monitoring
+Life-Cycle Assessment of Wind Turbines
+short life-span
+area of structural monitoring
+WT technology
+reliable life-cycle assessment methodologies
+visual inspection
+fusion of structural response information
+WT operators
+new monitoring paradigm
+smart framework
+global energy pool
+excessive energy consumption
+affordable sensor technology
+data processing tools
+sustainable resource management
+design span
+value of information
+policy makers
+lack of efficient management schemes
+stochastic framework
+number of shortcomings
+existing tools
+Data Acquisition systems
+state-of-the-art numerical modeling
+implementable software package
+offline non-destructive evaluation methods
+necessity
+titled ETH-WINDMIL
+fatigue
+quantifiable terms
+current Supervisory Control
+solution
+structure-foundation
+factors
+PI
+simulation of influential
+soil interaction
+norm
+engineering practice
+assets
+renewable sources
+Europe
+stakeholders
+hardware
+facilities
+focus
+background work
+minimal intervention principle
+deterioration
+damage
+cradle
+protection-suit
+anomalies
+lead
+project
+pursuit
+scale
+grave
+proposal
+maturity
+end goal
+suggested kit
+integrated approach

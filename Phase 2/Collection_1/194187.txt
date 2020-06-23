@@ -1,0 +1,55 @@
+CROPS project
+Sweet Pepper Harvesting Robot
+insights of CROPS
+robotic harvesting
+successful CROPS software modules
+labour costs
+project CROPS extensive research
+DOF robot arm
+Robotic-Operating
+SWEEPER
+level of robotic cognitive abilities
+approximate  location of sweet peppers
+high level of technological readiness
+different cropping systems
+Technological Innovation Gap
+model-based vision
+different growers
+high demand
+resulting increase
+fruit detection
+European greenhouse sector
+gripper end-effector
+harsh greenhouse climate conditions
+repetitive tasks
+reduced capacity
+modern greenhouses
+competitiveness
+major pressure
+plant models
+TRL
+skilled workforce
+accurate measurement
+EU-FP7
+science
+societal impact
+transition
+position
+orientation
+proven hardware
+crop density
+need
+colour
+ROS
+sensors
+knowledge
+applications
+agricultural robotics
+D information
+availability
+patent
+Present robotization
+LightField sensor
+benefit
+experiments
+groundwork

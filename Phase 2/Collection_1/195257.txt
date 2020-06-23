@@ -1,0 +1,51 @@
+dup patients
+dup disorder
+reciprocal aneusomy syndromes
+functional pathways
+dup support group
+WBS
+identification of relevant molecular pathways
+gene expression
+genomic reciprocal rearrangements
+expression data
+functional basis
+dysregulated pathways
+molecular levels
+functional mechanisms
+Limitations
+CNVs
+identification of multiple rare rearrangements
+lack of quantitative data
+omic analyses
+somatic cells
+transcriptome analyses
+computational methods
+specific alterations
+Characterization of 7q11
+large group
+limited computational capabilities
+available animal models
+multiple differentiation stages
+systematic gene annotations datasets
+neuron-specific alteration patterns
+induced pluripotent stem cells
+protein interaction
+integrative multidisciplinary approach
+defined subset of individuals
+phenotypic features
+Williams-Beuren
+area of communication
+Technological advances
+understanding
+number variants
+microduplication syndrome
+appropriate therapeutic targets
+disease model
+neurons
+brain development
+disorders
+exhaustive studies
+sociability
+proposal
+results
+project

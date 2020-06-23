@@ -1,0 +1,52 @@
+range of influence
+based SDM methods
+Influence-based Decision-making
+approximate influence representations
+based SDM algorithms
+new class of influence
+SDM techniques
+fundamental problems of scalability
+large complex problems
+machine learning methods
+traffic lights
+current state of traffic
+hundreds
+optimal traffic light control plan
+entire city
+thousands of state variables
+scalability issues
+thousands of variables
+optimal decisions
+project
+broad range
+promise of autonomous agent technology
+principled manner
+recent successes
+accurate representations
+principled way
+intelligent agent
+Uncertain Environments Decision-theoretic sequential decision making
+large-scale autonomous warehouse
+simulated challenge domains
+intersection’s local problem
+robotic order
+rigorous empirical evaluation
+theoretical framework
+decentralized system perspective
+world champion
+Atari games
+actions
+capability
+agents
+aspects of society
+deal
+potential
+account
+important step
+novel ways of abstraction
+network
+task performance
+instance
+rest
+key idea
+field

@@ -1,0 +1,51 @@
+CMOS transistors
+CMOS compatibility
+conventional CMOS technology
+progress of CMOS technology
+magnetic domain
+resulting non-volatile magnetic flip flop
+physical limits of CMOS scaling
+device performance
+dire need
+magnetic tunnel junctions
+magnetic exchange coupling
+complete device operation
+need of continuous conversion
+Spintronic hybrid solutions
+RS flip
+spintronic signal domain additional transistors
+signal conversion
+integration density
+high costs of future technology nodes
+high endurance
+fast operation
+near future
+alternative technologies
+market prototypes
+promising results
+results of NOVOFLOP
+small footprint
+circuit layout
+dense layout
+alternative degree of freedom
+spin transfer torque effect
+respect
+comparison
+power consumption
+TCAD models
+attention
+nonvolatility
+information storage
+manufacturing process
+package
+companies
+densification
+computational principles
+speed
+corresponding simulation tools
+viability
+venture capitalists
+10nmx40nm
+extensive micromagnetic simulations
+step
+shift

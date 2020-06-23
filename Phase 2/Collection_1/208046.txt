@@ -1,0 +1,52 @@
+flow separation
+UHBR-induced Flow
+active flow control strategy
+predicted flow field
+innovative active flow control strategies
+High Fidelity CFD
+UHBR powerplant-equipped aircraft
+high fidelity prediction
+terms of control
+high fidelity predictive CFD methodology able
+optimal ZNMF
+dynamics of ZNMF pulsed jets
+UHBR powerplant installation
+initial climbing
+high angle of attack
+synthetic pulsed jets
+work-plan
+work packages
+Determination
+HIT09
+technical tasks
+major tasks
+ISAE
+landing flight phases
+actuation location
+actuation frequency
+critical take-off
+aerodynamics performances
+aerodynamic performances
+specific tasks of increasing complexity
+X-Pulse project
+real flight conditions
+multi-objective optimization function
+outlet geometries
+momentum coefficient
+multigrid
+single lane
+complex geometry representative
+impact
+influence
+following parameters
+amplitude modulation
+low speed
+suction
+proposed technological solutions
+TRL4 level
+different skills
+well-defined responsibilities
+scope
+improvement
+Adaptation
+coordination

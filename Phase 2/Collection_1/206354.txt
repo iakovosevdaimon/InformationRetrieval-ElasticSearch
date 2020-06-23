@@ -1,0 +1,64 @@
+multi-oBjective dEsign of Reconfigurable systems
+Cross-layer modEl-based fRamework
+Design speed
+cross-layer model based approach
+uncertain environments
+continuous design environment
+embedded CPS
+multi-objective decisions
+loop incremental design
+simulation-based methods
+unceRtain hybRid envirOnments ICT
+multi-layer autonomous engine
+CERBERO effectiveness
+reconfigurable CPSs
+energy
+unique framework
+security
+notion of Cyber Physical Systems
+Smart Travelling CPSoS
+ocean monitoring CPSoS
+TNO-CRF
+open innovation
+TASE-S
+increased performance
+non-functional requirements
+IBM- AI
+embedded computational collaborating devices
+physical elements
+open-source
+advanced adaptivity support
+libraries of generic Key Performance Indicators
+planetary explorations
+self-healing capabilities
+early-stage analysis
+Electric Vehicle
+UPM
+PAPI-ARTICo3
+rapid prototyping
+INSA
+optimization of functional
+PREESM
+maintenance
+project
+industrial leaders
+MDC
+real path
+standardisation
+reduced costs of deployment
+DynAA
+AOW
+pillars
+different views
+order of magnitude
+runtime verification
+UniCA-UniSS
+diverse scenarios
+USI
+reliability
+limit of current tools
+additional features
+Interoperable components
+daily lives
+humans
+construction designs

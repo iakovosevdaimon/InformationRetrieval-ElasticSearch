@@ -1,0 +1,51 @@
+engagement of children
+ASC
+Automated Measurement of Engagement Level of Children
+novel machine learning models
+automated context-sensitive estimation of engagement levels of children
+state-of-the-art machine learning approaches
+machine learning algorithms
+sensitive assistive technology
+assistive robots
+novel technology
+objective of EngageME
+Autism Spectrum Conditions
+physiological cues
+dynamic graph models
+Existing approaches
+head pose
+educational therapy
+assistive tools
+ability
+candidate
+modeling atypical behavioral displays of engagement
+multi-modal behavioural cues
+current expertise
+humanoid robots
+multi-modal ordinal data
+Human-robot Interaction
+facial expressions
+sequence classification
+communication centred activities
+wearable
+emerging field of affect
+visual processing
+audio technologies
+sense
+domain adaptation
+leading experts
+NAO
+time
+eye-gaze
+cutting-edge training
+cardinal challenges
+frontiers
+therapists
+face-videos
+end
+fields
+set of skills
+poor outcome
+cultures
+key
+opportunities

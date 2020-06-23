@@ -1,0 +1,36 @@
+Aircraft Electrical Model Simulation Identification
+parameter model
+wide range of operating conditions
+different operating conditions
+generic models of aircraft electrical systems
+reliable parameter identification
+electrical system architectures
+Fitting Toolbox
+fitting methods
+representation of electrical systems dynamics
+experimental data
+AEMS-IdFit project
+parameter calculation
+account
+test
+experimental measurements
+cost-effective architectures
+set of parameters
+manufacturers design data
+response
+devices
+requirement
+dependence
+right knowledge
+developers of future
+way
+general objective
+limitations of weight
+space
+mapping algorithms
+technologies
+order
+hand
+process
+need
+complexity

@@ -1,0 +1,54 @@
+formal verification
+undecidability of verification
+verification process
+Supervised Verification of Infinite
+new methodology of supervised verification
+asymptotic complexity of verification
+tractable verification algorithms
+Correctness of computerized systems
+classical pattern of automated verification
+formal correctness guarantees
+system correctness
+human guidance
+human supervisor
+real world systems
+certain realistic systems
+overall understanding of computerized systems
+State Systems Modern society
+substantial human effort
+existing formal methods
+new opportunities
+practical solutions
+complex safety-critical tasks
+cost of testing
+automatic procedures
+novel approaches
+big open problem
+developers productivity
+incorrect behaviors
+upper bounds
+suitable mode of interaction
+computing
+industry
+medicine
+applicability
+way
+conceptual leap
+security
+disastrous outcomes
+bugs
+current practice
+research
+automation
+contrast
+dramatic effects
+lives
+avionics
+economy
+proposal
+machine
+agility
+human's role
+absence
+time
+addition

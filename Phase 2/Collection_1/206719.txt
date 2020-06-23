@@ -1,0 +1,48 @@
+collective models
+collective dynamics of active particles
+active fluids'
+predictive models
+example of active microscopic particles
+Collective Swimming of Active Microparticles Bacteria
+individual microscopic propulsion
+physico-chemical processes
+individual level
+numerical models
+Existing models
+physico-chemical exchanges
+macroscopic fluid dynamics
+chemical sensing
+diversity of electro-chemical processes
+swimmer’s interaction
+macroscopic physical properties
+interaction rules
+controlled properties
+predictive tools
+environment
+detailed physico-mechanical description
+Self-propulsion of autophoretic swimmers
+large number of particles
+plurality of interaction mechanisms
+major challenges
+experimental data
+autophoretic microswimmers
+phoretic suspensions
+important experimental characteristics
+Major scientific gaps
+self-organization process
+complete multi-scale description
+complex hydrodynamics
+confined geometry
+quantitative understanding
+motion
+large-scale flows
+fluid’s viscosity
+nonlinear coupling
+biologists
+engineers
+issues
+ad
+confinement
+fundamental questions
+diffusivity
+project

@@ -1,0 +1,60 @@
+geometric tools
+numerical methods
+adaptive methods
+geometric design
+geometric modeling
+geometric description
+innovative tools
+Computer-based simulation of PDEs
+variational methods
+isogeometric methods
+classes of methods
+general geometric models
+numerical analysis
+discretisation of PDEs
+computer science
+geometric modelling counterpart
+innovative mathematical tools
+multilevel representation of  geometric entities
+innovative adaptive framework
+geometrical entities
+PDE unknowns
+challenging numerical problems
+modern computer architecture
+efficient algorithms
+simulation of Partial Differential Equations
+optimal use of computer resources
+interplay of ANalysis
+PDE solvers
+geometrical entity
+common framework
+computational mechanics
+computational domain
+efficient implementation
+high performance computing
+GEometry
+exciting features
+final goal
+definition
+optimisation
+indispensable tool
+processing
+extensions of standard finite elements
+competencies
+robustness
+polyhedral partitions
+historical reasons
+innovation
+bio-mechanical applications
+issue
+lack
+New CHallenges
+technology
+project
+different representations
+CHANGE
+growing impact
+team
+objects
+properties
+research

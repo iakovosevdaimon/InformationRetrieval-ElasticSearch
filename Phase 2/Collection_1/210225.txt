@@ -1,0 +1,62 @@
+control service modules
+control station
+border surveillance
+internal borders
+external borders
+different advanced command
+background individual technologies
+scalable command
+different assets
+external interfaces
+prototype development approach
+variety of borders
+CAMELOT partners
+Live Observation Technologies
+consistent approach
+Schengen area
+practitioner needs
+user needs
+SOA architecture
+standardisation work
+plethora of heterogeneous assets
+integrated situational picture
+C2 Advanced Multi-domain Environment
+multiple platform domains
+sea
+final demonstrations
+creation
+expertise
+relevant stakeholders
+current challenges
+UAV
+platforms
+end users
+open architectures
+air
+results of previous studies
+high level of security
+UGV
+USV
+radar
+sensors
+land
+operator
+advantage
+new approaches
+functionalities
+maturity of TRL6
+large amounts of data
+UUV
+operation
+definition
+IRL
+major achievements
+efficient interaction
+specific testing
+project
+EU
+countries
+field
+responsibility
+location
+agreement

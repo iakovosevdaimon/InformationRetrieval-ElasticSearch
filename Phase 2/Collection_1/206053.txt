@@ -1,0 +1,45 @@
+wireless systems
+latency wireless communication systems
+MTC systems
+design of current systems
+Low-Latency Wireless Communications
+low-latency communications
+low-latency systems exchange packets
+design of low
+current systems exchange packets
+current high-rate systems
+theoretical understanding of low
+majority of wireless connections
+capacity
+design guidelines
+machine-type communications
+different design approach
+finite-blocklength information theory
+extensive information-theoretical knowledge
+new services
+traditional broadband services
+enhanced mobile-broadband services
+theoretical framework
+bits
+reliable real-time communication
+error-correcting codes
+high probability
+desired reliability
+human-operated mobile terminals
+transmission errors
+stringent requirements
+fundamental tradeoffs
+rates close
+relevant performance measure
+role
+great challenge
+problem
+important emerging area
+generation
+contrast
+project's vision
+devices
+autonomous machines
+packet lengths
+presented project
+behavior

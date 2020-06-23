@@ -1,0 +1,39 @@
+editing problems
+new models of complex networks
+hidden structures of complex networks thanks
+Algorithms group
+mobility of Christophe Crespelle
+new way
+algorithms necessary
+order
+real-world context
+modelling
+reduced instance
+PROXNET project
+original instance
+uncertainty
+randomness
+University of bergen
+real-world datasets
+specific structure
+main training action of Christophe Crespelle
+analysing
+goal
+approach
+world-wide leader
+optimal solution
+huge instances of graphs
+key theoretic challenge
+desired property
+NP-hard
+topic
+organisation
+results
+reduction rules
+hand
+promising technique
+difficulty
+size
+reason
+noise
+adjacencies

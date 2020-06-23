@@ -1,0 +1,46 @@
+uncertainty of sector demand
+weather uncertainty
+trajectory scale
+sector scale
+wind uncertainty
+effects of meteorological uncertainty
+Meteorological Uncertainty Management
+developed trajectory planning
+types of meteorological uncertainty
+robust trajectory planning
+sector demand analysis
+pre-tactical level
+project
+probabilistic sector loading
+meteorological capabilities
+individual trajectories
+D trajectories
+main objective
+ATM planning processes
+Operations
+Weather predictions
+account
+methodology
+ATM efficiency
+problem of analysing
+individual storm cells
+convective zones
+use of stochastic optimal control algorithms
+integration
+hours
+impact
+Ensemble Prediction Systems
+predictability of efficient
+various tactics
+advanced air traffic simulator
+storms
+Nowcasts
+departure
+understanding
+Monte-Carlo method
+environmental considerations
+problems
+flight
+following objectives
+goal
+solutions

@@ -1,0 +1,45 @@
+image recognition
+image processing algorithms
+algorithm of image reconstruction
+algorithms of image reconstruction
+biomimetic image processing tasks
+primary visual cortex V1 of mammals
+veritable artificial visual cortex
+functional architecture of V1
+sound processing
+dedicated hardware
+non-isotropic diffusion
+non-isotropic way
+particular algorithm
+non-isotropic structure
+dedicated software
+ERC project
+POC
+ARTIV1
+exceptional performances
+hand connections
+exceptional level of parallelism
+huge degree of parallelism
+tackled problems of diffusion equations
+optical flow estimation
+industrial partner
+instance softwares
+geometric control methods
+CPUs
+signals
+grant GECOMETHODS
+state
+development
+customers
+integrated circuit
+sense
+bio-mimetic
+following features
+information
+striking achievements
+applications
+eyes
+idea
+fact
+results
+performant

@@ -1,0 +1,46 @@
+flexible optical transport networks
+optical transport technology
+present optical transport networks
+Flexible optical Architecture
+programmable optical hardware
+optical fibre amplifiers
+channel transport
+capacity-scalable hardware
+optical component technologies capable
+future SDM-based systems
+flow transport functions
+developed SDN
+fibre transmission systems
+Reconfigurable Infrastructure
+current systems
+multicore fibres
+SAFARI project
+SDN-controlled programmability
+critical interworking capability
+multicore erbium
+conventional fibres
+new demands
+physical layer
+long term future
+software-defined network
+terms of network flexibility
+existing single-mode
+unrelenting exponential data traffic growth
+Space-Division Multiplexing
+diversity of bandwidth intensive applications
+MCFs
+graceful upgrade scenario
+unique functionality
+system experiments
+number
+services
+throughput
+high level objectives
+MC-EDFAs
+order
+fundamental limits
+capabilities
+Gbps
+cores
+Specific attention
+annum

@@ -1,0 +1,55 @@
+multicomponent droplets
+single droplets
+governed droplets
+relevant diffusive droplet dynamics
+applications of droplets
+multicomponent fluid systems Liquid-liquid extraction
+modern fluid dynamics
+fundamental fluid dynamics of diffusive processes
+cases of immersed droplets
+quantitative understanding of diffusive droplet dynamics
+modern liquid-liquid extraction processes
+droplet microfluidics
+multi-component droplets
+chemical technology
+extraction recovery
+analyte extraction process
+high droplet number density
+multiple scales
+surface
+core process
+gap
+multiscale high-precision chemical engineering
+number of key controlled experiments
+remediation industry
+coating industry
+larger scales
+objective of DDD
+numerical simulations
+diagnostics
+idealized setups
+microanalysis
+solvents
+orders of magnitude
+one-to-one comparison
+macroscopic ones
+length scale
+nano
+interface science
+transfer
+relevance
+bulk
+diffusion
+numerics
+paint
+theory
+breakthrough
+preconcentration factor
+solute
+food processing
+current challenge
+spite
+time
+trial
+error
+calculations

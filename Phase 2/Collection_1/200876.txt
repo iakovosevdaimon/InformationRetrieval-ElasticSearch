@@ -1,0 +1,39 @@
+count time series models
+multivariate time series data
+flexibility of time series models
+variety of time series models
+SCouT project
+spatio-temporal data
+simultaneous order selection
+integer-valued property of count data
+statistical methods
+estimation of autoregressive
+spatial analysis of public health surveillance data
+development of appropriate statistical models
+average terms
+composite likelihood methods
+higher-order autoregressive
+fitted model
+field of temporal
+difficulties
+complex dependence structures
+computational burden of traditional model selection approaches
+powerful statistical tools
+efficient estimation procedures
+main application field
+Sparse Composite Likelihood Inference
+sparsity techniques
+great support
+interesting datasets
+innovative methodological approach
+basis
+availability
+predictive performance
+unified framework
+timely detection of disease outbreaks
+achievement
+research activity
+extensions
+potential
+suggested methodology
+practical usefulness

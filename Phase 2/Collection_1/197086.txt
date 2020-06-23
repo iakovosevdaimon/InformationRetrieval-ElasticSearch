@@ -1,0 +1,55 @@
+charge transfer nonadiabatic dynamics
+charge transfer states
+multichromophoric light
+charge transport dynamics
+simulation of light
+excitonic transfer
+charge injection efficiency
+design of efficient light
+novel classes of light
+multichromophoric nanostructures
+mechanisms of efficient energy
+nonadiabatic relaxation processes
+induced nonadiabatic processes
+efficient mixed quantum-classical methodology
+multichromophoric assemblies
+light-induced surface hopping methods
+novel intermolecular nonadiabatic relaxation channels
+delocalized excitonic
+simulation of time
+principles methodology
+mixed quantum-classical framework
+new methodology
+efficient electronic structure methods
+systems
+nanostructures of self-assembled organic molecules
+constrained density functional theory
+unified description of excitonic
+configuration interaction framework
+coupled electron-nuclear dynamics
+goal of DYNAMO
+ultimate goal
+linear response time
+low band-gap organic polymers
+rise
+CDFT
+funnels
+photon capture
+TDDFT
+tubular J-aggregates
+multidimensional spectra
+intramolecular nonradiative transitions
+conical intersections
+squaraines
+chromophores
+fundamental role
+guidance
+hybrid plasmon-exciton architectures
+photochemistry
+coupling
+addition
+order
+experiment
+evidence
+direct link
+plasmonic fields

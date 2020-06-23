@@ -1,0 +1,34 @@
+game content
+game fun
+game design concepts of game experience
+faster game design
+generated game mechanics
+engaging game ideas
+procedural content generation
+production bottlenecks of professional game
+intrinsic motivation formalisms
+Information Theoretic Evaluation of Random Content Generation
+actual human motivation
+new insights
+new ones
+human mind
+Human play testers
+Games INTERCOGAM’s goal
+certain intrinsic motivations
+information theory
+challenge level
+existing formalisms
+major challenge
+different worlds
+different aspects
+identification
+applicable fitness functions
+external reward present
+complexity
+pacing
+humans
+idea of evolutionary algorithms
+field
+search
+engagement
+tool

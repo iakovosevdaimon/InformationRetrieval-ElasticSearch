@@ -1,0 +1,55 @@
+theories of neural computation
+Neural networks
+autonomous systems
+neuromorphic cognitive agents
+biological systems
+neuromorphic computing technology
+sensory processing
+realistic neural computational primitives
+computing elements
+computing substrate
+autonomous cognitive behavior
+Neuromorphic Electronic Agents
+state-dependent computation
+machine learning
+processing of sensory data
+today’s artificial systems
+robust cognitive behavior
+computational embodiment
+physics
+robotic platforms microelectronic neuromorphic processors
+compact low-power intelligent sensory-motor systems
+hardware implementations of dedicated brain-inspired  computing platforms
+deep learning algorithms
+parallel computational neuroscience
+tremendous progress
+remarkable progress
+challenging tasks
+biological ones
+temporal dynamics
+Conventional computers
+on-line spike-based learning strategies
+impressive state-of-the-art results
+way today's computers
+sensors
+context
+latest developments
+consumer robotics
+programming
+large impact
+recent advancements
+probabilistic inference methods
+service
+synchronous logic gates
+Internet of Things
+active-sensing
+hand
+functions
+prosthetics
+uncertain settings
+environment
+reasons
+virtual time
+personalized medicine
+project
+properties

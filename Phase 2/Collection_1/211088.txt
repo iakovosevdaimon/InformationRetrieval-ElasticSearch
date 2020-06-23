@@ -1,0 +1,68 @@
+G PPP phase
+G-enabled electricity
+G Mobile Network advances
+G devices’ abstractions
+G seamless application
+G networks management automation
+Smart Energy
+Energy vertical
+G PPP-compliant software framework
+energy utilities
+energy domain
+G ETSI-MANO predictive analytics framework
+energy efficient communications
+play support
+overall network capacity
+technologies
+NRG
+number of software frameworks
+gas distribution network optimized management
+stringent capacity
+end-to-end security
+smart metering
+xMBB communications
+variety of applications
+open issues
+Mobile Edge Computing
+variety  of  constrained devices
+latency
+AMI
+pilot sites
+resilience
+free plug
+mMTC
+projects
+deployment of generic MTC-related NFVs
+Service
+supervisory control
+micro-clouds
+reference architectures
+utility-centric VNFs
+decentralized renewable-oriented systems
+Italy
+real life demonstrations
+high replication potential
+uMTC
+xMEC
+lock
+transition
+load
+concept implementations
+validation
+huge range
+proof
+France
+fault localization
+elastic VNF reconfiguration
+scalability
+MCM
+delays
+novel
+diverse requirements
+test cases
+clear gap
+verticals
+need
+portability
+Extensive lab
+sectors

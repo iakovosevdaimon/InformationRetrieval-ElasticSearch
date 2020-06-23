@@ -1,0 +1,57 @@
+RNA enrichment
+proteome RNA-binding proteins
+specific RNA target
+complex RBP-RNA interactions
+application of TPP
+regulatory steps of RNA expression
+iron regulatory proteins
+proteolysis of mutant APP proteins
+thermal proteome profiling
+mutant APP mRNA
+thermal profiling
+post-lysis protein
+disease conditions
+AD treatment
+endogenous protein
+Tracking interactions
+scope of individual RBPs
+ASOs
+field of neurodegenerative disease treatment
+Amyloid Beta Precursor Protein
+proteome-wide level
+new potential targets
+hallmark of Alzheimer’s disease
+unbiased manner
+iron response element
+high-throughput manner
+post-transcriptional gene regulation
+identification of non-abundant targets
+aggregation-prone β-amyloid peptides
+key players
+unravelling
+well-characterised interaction
+benchmarking
+wild-type
+global cellular effects
+innovative proteomic technique
+help
+hybridisation of antisense oligonucleotides
+issues
+specificity
+proposal
+IRE
+methodologies
+stabilisation
+spliced mRNAs
+summary
+meltRBP
+relevant system
+techniques
+detailed knowledge
+screen
+mass spectrometry
+study
+ligand
+insertion of tags
+methodology
+project

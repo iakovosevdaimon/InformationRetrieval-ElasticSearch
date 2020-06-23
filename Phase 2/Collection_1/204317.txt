@@ -1,0 +1,55 @@
+advanced stack design
+Integration of Novel Stack Components
+key components
+automotive stack
+iterative stack design
+advanced critical PEMFC stack components
+stack component development
+BOL performance
+catalyst materials
+development of catalyst layers
+demonstration of CCM performance
+interfaces
+MEAs
+flow of development
+JU Work Plan
+Improved Durability
+recent FCH JU programmes
+stability testing
+Lower Cost
+mass activities
+costing evaluation
+important focus
+power degradation
+key target metrics
+manufacture of PEMFC stacks
+evaluation of new architectures
+balance of plant component specifications
+synthesis methods
+level
+expertise
+membranes
+small single cell
+heat transport
+academic partners
+electrochemistry
+re-use
+optimisation
+assembly
+optional objectives
+standardised test protocols
+hours
+structural visualisation
+modelling
+recovery
+specification alignment
+CCMs feed
+mechanical interactions
+economic assessment
+recycling
+cm2
+iterations
+annual production scale
+bipolar plates
+catalysts
+GDLs

@@ -1,0 +1,54 @@
+sEMG data analyses
+neural processing system
+neuromorphic spiking neural processing circuits
+Neuromorphic EMG Processing
+motor activities
+sEMG analyses stage
+sEMG signals
+neuromorphic event
+motor neurons output activities
+Spiking Neural Networks
+population of activated motor neurons
+features extraction
+classification
+deep neural network
+computational cost of processing
+NEPSpiNN project
+external device
+muscle activities
+control system
+wearable solution difficult
+compact ultra-low power neuromorphic chip
+future implementation of wearable devices
+extraction of signal features
+moto neurons outputs discrimination
+low-latency
+power consumption
+different steps
+surface electrodes
+real time
+real-time applications
+external computers
+custom hardware implementation
+unique portable device
+commercial surface electromyography
+aim
+DNN
+electrical activity
+number of action potentials
+correlates
+way
+non-invasive method
+input
+skin
+necessity
+integration
+prostesis
+exoskeleton
+amplitude
+problem
+remote host
+muscular behavior
+measurements
+addition
+sequence

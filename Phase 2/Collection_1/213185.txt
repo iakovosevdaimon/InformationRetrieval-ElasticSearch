@@ -1,0 +1,53 @@
+Gb
+PlaCMOS project
+photonics PlaCMOS
+data communication
+PlaCMOS platform
+current limits
+s non-return
+CMOS integration of photonics
+Data Centers
+data rates
+s transceiver
+NRZ
+plasmonics
+goal
+generation optical-electronic CMOS platform
+photonics device
+SiGe detector technology
+single exemplary field of applications
+current roadmaps
+current state
+field of communications
+latest bipolar CMOS
+transceivers capable of real-time communication
+single channel
+micrometer scale
+Wafer-scale
+photonic limits
+multicore optical fiber
+mass manufacturing
+low-cost Terabit connectivity
+electronics devices
+universities
+industry
+complementary skill sets
+outstanding track records
+art
+ferroelectric plasmonic
+BiCMOS
+members
+temperature stability
+degree Celsius
+recent experiments
+team
+transmitter
+receiver pair
+wider implications
+needs
+capabilities
+approach
+scalability
+consortium
+footprint
+bandwidth

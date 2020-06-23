@@ -1,0 +1,42 @@
+database migration tools
+purpose of database transformations
+execution of database migrations
+Major database vendors
+Datatrans
+major database management systems
+migration process
+PROVENTA Smart Database Transformation Framework
+general sustainability of Open Source database management software
+migration project risks
+post-migration operational risks
+commercial Open Source software
+art Open Source
+transformation process
+commercial product
+vendor package
+revolutionary standalone framework
+single standalone package
+vendor lock-
+newest products
+vendor’s products
+product revenues
+improvement of general productivity
+reduction of license costs
+current offer of consulting services
+appropriate actions
+state
+adoption
+competitiveness
+necessary changes
+impact
+series of custom utilities
+better technologies
+new customers
+cost-efficiency
+negative effect
+industries
+long term
+time professionals
+organizations
+budget
+schedules

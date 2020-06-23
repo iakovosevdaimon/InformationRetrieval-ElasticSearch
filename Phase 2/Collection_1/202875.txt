@@ -1,0 +1,32 @@
+cohesin-loading
+loading of cohesin
+cohesin-complex
+loading-complex
+molecular mechanism of cohesin
+conformational changes of cohesin
+minimal loading reaction
+Scc2-Scc4
+formation of pre-RCs
+effect of Scc2
+telophase
+G1
+DNA template
+pre-replication complexes
+formation of higher
+molecular level
+order chromatin structure
+sister chromatid cohesion
+S-phase
+optical tweezers
+single-molecule FRET
+mitosis
+Xenopus laevis oocytes
+ATP
+example
+purified system
+additional factors
+vital functions
+Mechanistic studies
+genome
+mechanisms
+experiments

@@ -1,0 +1,52 @@
+Galileo System Time
+Galileo GST
+key solution
+Galileo GNSS receivers
+traceable timing
+industrial applications
+ACCURATE WORLD TIMING SERVICES
+extension of Ethernet
+time distribution standards
+terrestrial time network
+sub-nanosecond accurate timing technology
+Galileo surface segment
+WR
+project
+key facilities
+goal
+telecommunications infrastructure virtualization
+multiple GNSS receivers
+frequency signals
+satellite signals
+optical fibers
+standard Ethernet
+scientific facilities
+telecom operators’ optical fiber infrastructure
+generation of Industrial Internet of Things
+segments
+GSA
+UAVs
+autonomous navigation
+negligible bandwidth cost
+Finance
+UTC
+respect
+emergent White Rabbit
+critical infrastructures
+Smart Grid
+unique global clock reference
+large areas
+ps accuracy
+National Metrology Institutes
+existing communication networks
+CERN
+indoor positioning
+target customers
+jamming
+distributed systems
+long distances
+elements
+spoofing attacks
+PTF
+TVF
+links

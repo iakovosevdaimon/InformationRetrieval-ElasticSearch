@@ -1,0 +1,50 @@
+D genomics
+D code
+MuG
+new branch of genomics
+Multi-Scale Complex Genomics Genomics
+chromatin structure
+different size
+different approaches
+different expertise
+different length
+exciting field
+fastest evolving field
+biologist
+folded state of chromatin
+severe practical problems
+lack of validated
+genotype information
+genome alterations
+active community
+lack of standardized analysis
+strong history of supporting Bio-computational problems
+HPC facilities
+methods developers
+simulation tools
+phenotype
+diverse data
+development
+complete disconnection of associated informatics databases
+potential of High Performance Computing
+pathological phenotypic changes
+flexible visualization engines
+scientific problem
+current science
+sequence
+big challenges
+critical point
+main concern
+end
+evolution
+time scales
+European leaders
+study
+regulation of gene expression
+decade
+way
+timescales
+problemes
+Hundreds of laboratories
+technology
+points

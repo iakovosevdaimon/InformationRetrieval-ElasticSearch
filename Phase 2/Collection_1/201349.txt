@@ -1,0 +1,56 @@
+TUW
+project
+UCI
+solid understanding of hierarchical control systems
+CPSoC platform
+Hierarchical Goal Management SoCs
+significance of objectives
+critical objectives
+self-aware SoC platform
+cyber-physical systems
+objectives of different applications
+supervisory control
+cognitive science
+self-awareness
+sub-goals
+Chip
+arbitrary number of objectives
+basis of embedded systems
+management strategy
+cooperation
+complex hierarchy of competing goals
+thorough orchestration of different goals
+disciplines of control theory
+basic concepts of HGM
+actuator-rich multiprocessor SoC platform
+field of embedded
+Self-Aware CPSoCs
+online learning
+systematic approach
+application scenarios
+machine learning methods
+UC Irvine
+priority
+sensor
+high-level training
+TU Wien
+academia
+competent researcher
+compiler
+requirements
+single aspect
+career
+capability
+unique position
+fellow's knowledge
+new skills
+main research objective
+groups
+years
+end
+centralized arbiter
+architecture layers
+best
+stepping stones
+contradicting
+State-of-the-art approaches

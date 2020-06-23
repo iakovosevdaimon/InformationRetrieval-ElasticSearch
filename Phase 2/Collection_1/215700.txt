@@ -1,0 +1,46 @@
+data analysis
+LHC community
+data challenges
+various LHC experiments
+large data streams
+big data analytics
+unprecedented data stream
+computing operations
+LHC experiments Large international scientific collaborations
+machine learning techniques
+near future unprecedented computing
+necessary tools
+CMS experiment
+developed tools
+global federated infrastructure of distributed computing resources
+Large Hadron Collider
+Modern techniques
+analysis of multi-PetaByte datasets
+multi-cores
+use of open cloud technologies
+Heterogeneous technologies
+scientific domains
+opportunistic resources
+exchange of common solutions
+real world use case
+calibration
+ATLAS
+optimization
+corresponding increase of event sizes
+volumes
+GPUs
+systems
+LHCb
+monitoring
+detector operation
+need
+Alice
+High Luminosity upgrade
+INDIGO-DataCloud services
+complexity
+approach
+addition
+project
+times
+Critical areas
+benefits

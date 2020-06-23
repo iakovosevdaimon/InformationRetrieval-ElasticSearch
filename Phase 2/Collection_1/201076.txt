@@ -1,0 +1,34 @@
+theory of quantum gravity
+quantum field theory
+quantum-gravitational predictions
+gauge-fixed loop calculations
+gauge artefacts
+gauge-invariant
+perturbation theory
+loop corrections
+loop order
+Quasi-local observables
+Sitter spaces
+cosmology
+non-Abelian gauge theories
+study of Wilson loops
+study of correlation functions
+fixed geodesic distance
+fixed classical background
+tree-level predictions
+physical effects
+symmetric spaces
+main open problem
+region of finite physical size
+nonlocal observable
+observations
+proposal
+ideas
+AdS
+hydrogen line
+CFT correspondence
+Minkowski
+generation experiments
+objective
+desirable properties
+approach

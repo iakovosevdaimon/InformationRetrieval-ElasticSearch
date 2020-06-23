@@ -1,0 +1,67 @@
+G HW
+SW platforms
+G technologies
+Flex5Gware consortium
+G network elements
+software platforms
+G waveforms
+Flex5Gware results
+G mobile wireless systems
+reconfigurable SW architectures
+reconfigurable hardware
+HW-agnostic software
+overall objective of Flex5Gware
+heterogeneous wireless devices
+flexible control
+power power
+network operators
+efficient hardware
+concept
+proposal
+powerful consortium
+large diversity of applications
+efficient operations
+holistic approach
+disruptive technologies
+mobile data traffic
+large industry leaders
+leading research institutions
+high resolution applications
+management mechanisms
+interface abstractions
+infrastructure providers
+M2M
+account increased capacity
+mmWave
+duplex
+NEC
+EAB
+ALUD
+anticipated exponential growth
+IMC
+implementations
+reduced energy footprint
+key building blocks
+semiconductor manufacturers
+fold increase
+smooth transition
+massive MIMO
+reception
+rate
+requirements
+simultaneous transmission
+access networks
+terms of proofs
+academia
+huge impact
+system design challenges
+analogue components
+scalability
+modularity
+partners
+cooperations
+measures
+participation
+demonstration event
+development
+SMEs

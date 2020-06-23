@@ -1,0 +1,51 @@
+so-called physical attacks
+presence of physical attacks
+software execution
+Securing Software
+secured software
+overall software
+research questions
+system architectures
+system security
+system-level questions
+execution of cryptographic schemes
+securing systems
+cryptographic keys
+hardware level
+smart cards
+secure implementations of cryptographic schemes
+verification techniques
+building systems
+efficient methods
+formal methods
+countless devices
+lack protection
+particular aim
+fault tolerant design
+kinds of attack techniques
+proprietary best-practice countermeasures
+cryptography
+control flow
+critical parts
+changing properties of programming languages
+faults
+automated generation
+Internet of Things
+novel approaches
+CPU computations
+memories
+seminal publications
+fundamental gap
+years
+modelling
+scientific foundation
+Products
+project
+power consumption
+fields
+goal
+authentication
+attacker
+example
+rest
+privileged function

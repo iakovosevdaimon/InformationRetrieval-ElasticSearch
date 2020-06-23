@@ -1,0 +1,49 @@
+monotone proof complexity
+nonuniform classes of monotone functions
+Monotone Boolean functions
+classes of functions
+Complexity MiLC
+logical characterisations of monotone complexity classes
+monotone witnessing invariants
+lens of monotone circuits
+computational complexity
+studied systems
+representable functions
+systems of propositional logic
+handling monotonicity
+certain theory
+certain structural rules
+main purpose of MiLC
+recursion-theoretic characterisations of feasible classes
+deep inference systems
+theories of Bounded Arithmetic
+modular characterisations
+underlying logic
+theory of computation
+negation
+setting of Bounded Arithmetic
+certain open problems
+sorting algorithms
+discovered correspondences
+tight correspondences
+represented class
+graphs
+usual correspondence
+yielding languages
+NCi
+techniques
+clique detection
+area
+ACi
+machine-independent
+nonmonotone cases of witness extraction
+proofs
+reasoning
+point of view
+polynomial hierarchy
+exclusion
+tools
+existing bounds
+aim
+avenues
+inclusion

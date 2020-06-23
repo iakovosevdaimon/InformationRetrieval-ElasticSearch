@@ -1,0 +1,46 @@
+scenarios database
+series of exercises
+project
+deterministic reference tools
+FAST Nuclear Emergency Tools
+emergency preparedness
+emergency response
+main emergency objective
+mentioned database of scenarios
+comprehensive set of emergency exercises
+different methods
+main categories of accident scenarios
+operational deterministic methodologies
+issues
+development
+main types of operating
+existing deterministic ones
+reference source terms
+operational objectives
+decisive step
+categories of scenario
+important step
+different time requirements
+source term evaluations
+Promising probabilistic approaches
+large set of partners
+water-cooled NPPs
+Bayesian Belief Networks
+FASTNET
+Spent Fuel Pools
+methodology
+proposition
+European reactors
+areas
+description
+harmonisation goal
+extension
+accounting
+efforts of organizations active
+diagnosis accidental situations
+BBN
+identification
+particular capabilities
+populations
+task
+results

@@ -1,0 +1,54 @@
+active systems
+data-driven approaches
+radar systems
+data generation
+Design of Complex Systems
+aforementioned systems
+cognitive systems
+emerging networks of systems
+traditional approaches
+exploitation of observed data
+paucity of labelled data
+passive assimilation of data
+notion of active cognition
+active probing
+AGNOSTIC
+traditional model-based approaches
+exploration framework
+Enhanced Cognition
+caching networks
+dynamic environments
+intricate interactions
+system interaction
+radio access networks
+explicit mathematical models
+number of system configurations
+network behaviour
+design of communication
+network efficiency
+process of exploration
+sufficient abstraction
+cross-fertilization of insights
+iterative manner
+discriminative learning
+performance
+content distribution
+different ways
+wider applicability
+spectrum
+understanding
+robustness
+networking
+coexistence
+critical importance
+user demand
+applications areas
+situational awareness
+functionality
+facets
+self-configuration
+cost of flexibility
+joint treatment
+hand
+development
+project

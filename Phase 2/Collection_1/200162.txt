@@ -1,0 +1,45 @@
+quantum networks
+Quantum entanglement
+quantum bits
+large-scale quantum communication networks
+untrusted quantum devices
+small quantum devices
+security of quantum cryptographic protocols
+multi-node quantum network
+hybrid networks
+intricacies of real world quantum devices
+routing protocols
+classical communication
+early classical networks
+computer science
+new challenges
+different means of routing messages
+new concepts
+systematic study of effective routing
+new line of research
+security of multi-party cryptographic primitives
+pressing theoretical challenges necessary
+possibility of entanglement
+general theory
+different physical implementations
+account
+mathematical methods
+practical tests
+interdisciplinary effort
+direct access
+realistic conditions
+unparalleled advantages
+models
+physics
+infancy
+field
+unique position
+engineering
+goal
+collaboration
+QuTech
+journey
+time
+interconnected projects
+useful tasks
+experimentalists

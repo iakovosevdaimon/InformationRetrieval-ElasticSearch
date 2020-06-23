@@ -1,0 +1,50 @@
+Efficient Simulation of Natural Phenomena
+important phenomena
+manipulation of large-scale simulation data
+large-scale numerical algorithms
+unnecessary computation
+Large Scales Computational simulations of natural phenomena
+existing simulation data
+large-scale liquid
+large-scale behavior
+computational power
+parallel algorithms
+small-scale details
+novel approaches
+main approaches
+data compression approaches
+Brute-force computation
+parallel nature of physics computation
+fracturing solids
+essential shape details
+small scales
+problem
+progress
+turbulent splashing liquids
+small-scale analytical solutions
+main research direction
+delicate coupling
+careful de-coupling of dynamics
+detailed simulations
+solid dynamics
+avenue of research
+novel dimension reduction
+standard finite element methods
+geometry
+architecture
+product design
+engineering
+science
+current adaptive techniques
+matters worse
+Big Splash
+computer graphics applications
+subtle instabilities
+behaviors
+biological processes
+particular promise
+numerics
+ideas
+situation
+work
+source

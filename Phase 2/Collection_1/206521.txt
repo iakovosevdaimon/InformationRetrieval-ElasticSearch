@@ -1,0 +1,61 @@
+CLOVER project
+project CLOVER
+Dynamic Environmental Mechatronic Systems
+environmental mechatronic control system design
+new environmental mechatronic systems
+CLOVER concept
+CLOVER objectives
+control priorities
+Robust Control
+control algorithms
+project activities
+Mechatronic-based grid-interconnection circuitry
+Mechatronic chassis systems of electric vehicles
+collaborative research
+knowledge transfer
+multidisciplinary knowledge
+training
+international research group
+intensive staff exchange
+production of innovative knowledge
+international collaboration
+controller robustness
+collaborative learning
+novel methodology
+strong focus
+controller architecture
+intensive networking measures
+indirect measurement of system states
+personal career development of participating staff
+Disturbance Compensation
+main goal
+excellent opportunities
+Belgium
+professional advancement
+Austria
+Germany
+intersectoral
+consortium members
+parameters
+participants
+industrial organizations
+experience
+universities
+interfacing topics
+State Estimation
+real-world problems
+UK
+Norway
+MSCA-RISE programme
+non-academic sectors
+targets of H2020
+disturbances attenuation
+environment friendliness
+Mexico
+stage
+solution of optimization task
+creation
+energy efficiency
+account
+secondments
+methods

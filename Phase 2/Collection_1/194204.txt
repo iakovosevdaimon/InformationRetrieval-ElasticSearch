@@ -1,0 +1,36 @@
+reliable machine translation
+enhanced machine translation
+automatic translation of public health information
+health domain
+number of languages
+healthcare information
+morphological rich languages
+local services
+Europe
+aim of HimL
+web-based services
+domain adaptation
+recent work
+recent advances
+high demand
+HimL project
+user acceptance testing
+terminology management
+careful evaluation
+ever-increasing extent
+MT systems
+Czech
+Polish
+frontline
+special focus
+cycles
+English
+improvements
+German
+population
+citizens
+answers
+questions
+preservation
+mobility
+order

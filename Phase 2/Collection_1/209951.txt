@@ -1,0 +1,35 @@
+Modelling healthcare costs
+childhood obesity
+positive costs
+retransformation of costs
+Patient Expenditures Econometric modelling of healthcare costs
+relationship
+highlight of SPEM
+need
+literature
+Semi-Parametric Econometric Models
+risk adjustment
+cost data
+panel data
+new method
+impact of risk factors
+robust estimates
+cost-effectiveness analyses
+purposes
+design
+key parameters
+ambitious research programme
+Longitudinal Study of Australian Children
+evaluation of government programmes
+informed decision making
+insurance systems
+sample prediction
+distributional analysis
+waves
+conditional mean
+conditions
+linked records
+Medicare
+gap
+empirical application
+semiparametric framework

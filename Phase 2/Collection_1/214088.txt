@@ -1,0 +1,54 @@
+model of prion
+cell-cell propagation
+model development
+disease propagation
+receiving neurons
+neuronal propagation
+identification of cell
+disease development
+connected neurons
+Parkinson’s disease
+transgenic M83 mouse model
+sciatic nerve endings
+cell non-autonomous factors
+neuronal dysfunction
+motor nerve endings
+neuronal loss
+CNS
+pathogenesis of Parkinson disease
+neurons of central nervous system
+hypothesis
+aggregates
+spreading
+mechanistic investigations of candidate genes
+novel CRISPR
+postmortem PD brain tissue
+higher brain areas
+related disorders
+intramuscular delivery of rAAV viral vectors
+mutant A53T human
+oxidative stress
+Cas9 genome
+brainstem
+tools
+kinase
+seeds
+time
+periphery
+aggregation
+eukaryotic elongation factor
+hindlimb musculus femoris
+behavior of α
+spinal cord
+ubiquitin specific peptidase
+USP19
+synuclein
+eEF2K
+protein
+pathogenic forms
+muscle
+cellular excretion of misfolded
+neurotoxicity
+genetic makeup
+proof of concept
+neurodegeneration

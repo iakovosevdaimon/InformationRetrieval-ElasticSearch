@@ -1,0 +1,49 @@
+program development
+program analysis techniques
+Program Analysis Individuals
+Automatic program analysis
+order program properties
+challenge of automating program analysis
+program assertion synthesis
+Automated approaches
+software developers
+creative development of automated reasoning techniques
+project challenging
+theories
+tedious aspects of software development
+symbol elimination method
+complex parts of software
+increasing software complexity
+development of world
+reliable computer systems
+computer theorem
+new approaches
+computer science
+Symbolic Computation
+breakthrough approaches
+large systems
+order logic
+quantifiers
+rigorous mathematical techniques
+quantified formulas
+leading tools
+nations
+industries
+combination
+efficient algorithms
+cost
+significant step
+programmers
+errors
+polynomial
+novel research
+daily life
+changes
+mathematics
+arithmetic
+time
+common theme
+area
+advances
+results
+methods

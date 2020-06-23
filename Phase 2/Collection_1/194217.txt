@@ -1,0 +1,24 @@
+SHARCS framework
+services
+Secure Hardware-Software Architectures
+design applications
+software layers
+end-to-end security
+real-word applications
+platform independence capabilities of SHARCS
+Robust Computing Systems
+trustworthy ICT systems
+new security paradigms
+diverse set of security
+market motivation
+Future Internet
+changing threat landscape
+past decade
+cloud
+different domains
+powerful foundation
+holistic approach
+users
+effectiveness
+field of cybersecurity
+synergy

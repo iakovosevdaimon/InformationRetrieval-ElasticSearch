@@ -1,0 +1,59 @@
+subgroups of CRC patients
+European CRC patients
+distinct molecular subtypes
+molecular defined subtypes of colorectal cancer
+distinct prognosis
+molecular diagnostic assays
+C-type signature
+present gene expression profiles
+equivalent gene expression patterns
+studies
+cancer types
+advantage of molecular classification
+heterogeneous disease
+MSI
+drug response phenotypes
+poor-risk prognosis
+single platform
+beginning of treatment
+targeted therapies
+current therapies
+primary endpoint
+liquid biopsies
+combination of chemotherapy
+primary objectives
+retrospective analysis
+Mutation analysis
+specific treatment strategies
+different biological processes
+routine FFPE tumour biopsies
+immunotherapeutic anti-PD-L1 drug
+stage single arm multi-centre open-label phase
+CMS4
+solid preclinical evidence
+MoTriColor
+sound scientific rationale
+progression-free survival
+safety
+MPDL3280A
+significant impact
+deregulated signalling pathways
+experimental treatments
+tolerability
+clinical efficacy
+TGF-βR inhibitor
+biomarkers
+LY2157299
+guided trials
+BRAF mutant
+monitoring
+basis
+bevacizumab
+vinorelbine
+responses
+selected populations
+project outcomes
+overall objective
+BRAFm
+approaches
+results

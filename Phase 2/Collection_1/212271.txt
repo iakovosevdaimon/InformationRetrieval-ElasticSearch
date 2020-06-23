@@ -1,0 +1,63 @@
+anti-glycan scFv antibodies
+glycan interactions
+engineer glycan recognition molecules
+glycan recognition capabilities
+roles of anti-glycan recognition molecules
+anti-glycan antibody engineering
+glycan-based therapeutics
+specificity of anti-αGal scFv
+scFv domains
+affinity-wise
+affinity-measurement
+validation of computational models of scFv
+carbohydrate molecules
+mutations
+workflow
+best
+SUGARSmart
+major aims
+development of new approaches
+Smart design of recombinant antibody fragments specific
+well-established approaches
+array techniques
+experimental techniques
+chain shuffling
+major challenge
+rational design of single
+chain fragment variable
+wide computational pipeline
+tailored development of future diagnostic reagents
+potential application
+coherent framework
+immunity
+SPR
+lectins
+physio- pathological conditions
+diverse role of glycans
+hyperacute rejection
+cancer
+cell
+particular locations
+ITC
+ability
+diagnosis of diseases
+previous research
+bioprosthetic transplantation
+mutagenesis
+important sites
+order
+structural complexity
+detection limits of assays
+interdisciplinary approach
+attempt
+ELISA
+experiments
+end
+range of mutational strategies
+project
+predicted mutants
+molecular modeling
+knowledge
+predictions
+Validity
+issues

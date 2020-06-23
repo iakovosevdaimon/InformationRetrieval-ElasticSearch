@@ -1,0 +1,48 @@
+optical fibre communication system
+optical communication infrastructure
+benefits of optical communication systems
+fibre-optic communication systems
+current state-of-the-art optical communication technologies
+Optical Fibre Channel Motivation
+optical fibre propagation equation
+Nonlinear-Distortion Free Communication
+new generation of commercial optical communication systems
+Nonlinear distortion
+concept of eigenvalues
+concept results
+fields of nonlinear optics
+data rates
+noise robust transmitter
+novel receiver concepts
+time
+information transport
+Preliminary results
+nonlinear digital signal processing
+Stanford University
+Kerr nonlinearity
+novel methodologies
+information stream
+Proposed research
+Technical University of Munich
+fundamental capacity limits
+leading groups
+Internet of Things
+server farms
+cloud services
+close cooperation
+design
+strain
+ideal candidates
+enormous growth
+basis
+critical problem
+ability
+assumption
+order of magnitude improvement
+physical quantities
+society
+proof
+proposal
+strategies
+project
+Environment

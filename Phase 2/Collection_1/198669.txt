@@ -1,0 +1,58 @@
+EUV technology
+nm technology modules
+nm technology nodes
+nm process options
+nm IC technology integration
+nm resolution
+advanced process
+involved materials
+immersion technology
+Nanometer Technology
+large number of new materials
+Materials solutions
+new deposition processes
+nm module patterning specification
+EUV mask development
+discovery of new Semiconductor Process
+involved processes
+N7 integration
+SeNaTe project
+Advanced Patterning Center
+advanced CMOS processes
+demonstration
+number of key remaining EUV mask issues
+mask infrastructure
+D geometries
+ECSEL work program topic Process technologies
+holistic metrology platforms
+real devices
+electronic devices
+device performance
+high-volume manufacturing
+best options
+related equipment
+innovative device architecture
+High Volume Manufacturing
+connected ENIAC JU KET pilot line projects
+imec
+interaction
+nano-structuring
+lithographic platform
+chain
+Major European stakeholders
+industry
+challenges
+ITRS roadmap
+fast prototyping
+appropriate precision
+Moore
+MASP
+electrical measurements
+accuracy
+planarization steps
+introduction
+validation
+main objective
+lithography scanner
+targets
+years

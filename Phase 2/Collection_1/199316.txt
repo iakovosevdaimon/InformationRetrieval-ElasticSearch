@@ -1,0 +1,57 @@
+Sintering Regolith
+Solar sintering of regolith
+lunar applications
+sintering process of lunar regolith simulants
+lunar surface
+lunar gravity
+lunar habitats
+lunar soil
+lunar architectural scenarios
+regolith solar sintering device breadboard
+future lunar missions
+solar furnace
+mechanical properties of solar sintered regolith architectural scenarios
+additional layers of regolith
+different types of regolith
+concentrated solar beam
+Solar Light Future human activity
+additive building process
+benefits of additive layer manufacturing
+building infrastructure
+order
+technology
+RegoLight project
+specific additive layer manufacturing technique
+mechanical properties tests
+D printing
+project objective
+novel construction concepts
+movable printing head capable
+leveled terrain
+database
+development
+thermal vacuum chamber
+dust shelters
+required spot
+pads
+moving table
+insight
+concurrent engineering approach sample structures
+FEM analysis
+laboratory set-up
+validation
+parameters
+structural components
+brick
+account
+detailed Finite Element Modeling
+parts
+approaches
+TRL3
+big picture
+relevant environment
+TRL5
+source of energy
+time
+consumables
+standard

@@ -1,0 +1,55 @@
+scalable GP synthesis process
+development process
+nanomaterial production
+Existing meso-scale nanomaterial GP synthesis modelling approaches
+Gas-Phase Synthesis
+industrial-scale
+novel GP production routes
+Design-Oriented Modelling
+lab-scale validation
+computational modelling
+NanoDome project
+detailed prediction of complex nanomaterial structures formation
+detailed description of nanoparticle composition
+chemical composition
+predictive design of novel nanomaterials
+dependent composition
+robust model-based design
+software development
+development of new processes
+production rates
+existing processes
+morphology
+three-year project
+continuum-scale reactor models
+particle size
+internal structure
+Engineering Approach
+single-step
+engineering toolkit
+particle interaction
+validated tool
+analysis tool
+nanoparticle population
+control volume
+functional single discrete mesoscopic model
+systematic validation activities
+accurate final product properties
+surface area
+main objective
+functionalization coatings
+evolution
+Lagrangian
+order
+core-shell
+scientific principles
+set of target materials of great impact
+EU
+potential end-users
+multi-layer
+function of time
+aforementioned challenges
+coagulation
+technologies
+TRL4
+work

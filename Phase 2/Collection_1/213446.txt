@@ -1,0 +1,41 @@
+symmetry of computational problems
+organizing principle of computational complexity
+easy problems
+algebraic theory
+algebraic approach
+universal algebraic methods
+iCSP
+fixed-language Constraint Satisfaction Problems
+infinite domains
+computational-theoretic aspects
+topological methods
+probabilistic methods
+solutions of fundamental problems
+vCSP
+specific goals
+connection
+fixed-language CSP
+finite relational structures
+problem classes
+Absorption Theory
+NP problem
+Design efficient algorithms
+indirect uses of symmetries
+natural ordering of symmetries coarser
+model-theoretical
+generalizations
+certain concept
+years of rapid development
+Unique Games Conjecture
+weighted relations
+characterizations of existing borderlines
+usefulness
+hardness
+tools
+current limits
+CSPs
+forces
+limitations
+suitable objects
+starting point
+vision

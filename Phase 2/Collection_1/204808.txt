@@ -1,0 +1,56 @@
+mesh generation process
+price of mesh generation
+art of mesh generation
+problem of conforming hexahedral mesh generation
+D domains
+meshing time
+hex meshing
+results of HEXTREME
+challenge of HEXTREME
+direct tetrahedral meshing techniques
+finite elements
+finite element analyses
+finite element community
+project
+difficult problem of boundary layer meshing
+engineering analysis process
+engineering offices
+various domains of applied mathematics
+real time
+innovative approach
+level of robustness
+unstructured hex
+research partners
+indirect approach
+direct algorithm
+fine grain level
+graph theory
+computer science
+important step
+combinatorial optimization
+advantage
+recent developments
+multi-threaded nature of modern computers
+major difficulty
+ambitious  objective
+computational geometry
+reliable solution
+minutes
+seconds
+order of magnitude
+day
+beta
+breakthroughs
+aspects
+success
+interaction
+way
+engineers
+open source
+Gmsh
+specific task
+tool
+methodology
+Quadrilateral
+aim
+proposal

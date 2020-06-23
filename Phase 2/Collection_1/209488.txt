@@ -1,0 +1,59 @@
+control algorithm
+control method
+Real -Time Control of Cells Cells
+single cell control
+control of complex circuits
+control of multicellular systems
+yeast cells
+control of living systems
+control of key genes
+extent robust control
+Synthetic Biology
+population of cells
+real time control device of gene expression
+synthetic biologists
+synthetic genetic programs
+creation of synthetic circuits
+mechano-biology properties of yeast
+large range of operating conditions
+simple circuit
+physics
+engineering
+aim
+broad range of operating conditions
+autonomous genetic machines
+charge of yeast adaptation
+single cell level
+simple multicellular ecosystem
+design novel
+fundamental stochastic nature of gene expression
+large regulatory network
+novel research area
+cellular host machinery
+technological foundations
+structured illumination
+rich information processing capabilities
+inference methods
+increasing levels of complexity
+optogenetics
+high dependence
+osmotic stress
+efficiency issues
+Chips
+different scales
+selected locations
+roles
+state
+computer-based feedback loop
+framework
+safety
+microfluidics
+sorts of perturbations
+tremendous challenge
+collective dynamics
+limits
+robustness
+Smart Lab
+potential
+humans
+inspiration

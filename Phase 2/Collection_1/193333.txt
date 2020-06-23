@@ -1,0 +1,56 @@
+effective dexterous ROV operations
+time efficient ROV operations
+Underwater operations
+operations risks
+actual operations
+burden of operations
+ROV control center
+real environment
+simulated environment
+dexterous manipulation
+real time simulation environment
+presence of communication latencies
+dexterous end-effectors
+DexROV
+order
+user’s control requests
+shore dedicated manpower
+Effective user interfaces
+operators’ requests
+underwater sensors
+D sonar
+shore location
+D models
+large extent
+large distance
+Associated costs
+pair of new force
+dedicated cognitive engine
+hand force feedback exoskeleton
+double advanced arm
+capable manipulators
+manned support
+accuracy
+evaluation campaigns
+costly activities
+oil industry
+deep divers
+setups
+realistic offshore trial
+series of tests
+addition
+vision
+data
+baseline
+extra staffing
+main strategy
+customers representatives
+intendant
+modular skid
+outcomes
+project
+crew
+delays
+course
+primitives
+navigator

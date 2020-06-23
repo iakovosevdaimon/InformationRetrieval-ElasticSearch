@@ -1,0 +1,65 @@
+exascale applications
+computing platform
+co-design solution
+data-intensive applications
+HPC tooling
+delivery of exascale
+FPGA data-flow
+data-flow acceleration
+Resilient Exascale Computing
+rich mix of key HPC applications
+integration of FPGA
+existing pre-exascale
+Co-designed Innovation
+homogenised software platform
+times
+ground-breaking platform capable of scaling peak performance
+energy efficiency of today’s HPC platforms
+completion platform-wide resilience mechanisms
+multiple European HPC projects
+heterogeneous acceleration
+peak system power envelope
+memory bottleneck
+resulting EuroEXA processing unit
+fault resilience
+modular-integration approach
+scalable shared memory access
+partners
+PFLOP
+low-Latency
+novel inter-die links
+tape
+industrial SME focus of MAX
+components
+ALLIN
+holistic foundation
+MW
+operational peta-flop level prototype
+infrastructure
+climate
+weather
+compute
+ICE
+use of renewables
+adoption of low-cost Ethernet switches
+life-science
+local failures
+deployment
+physics
+ZPT
+demands of extreme scale
+bioinformatics domains
+balanced architecture
+rack
+results
+Silicon
+immersion-based cooling
+higher levels
+unique hybrid
+PUE parity rating
+advanced runtime capabilities
+STFC
+component optimization
+topology interconnect
+stack
+bandwidth

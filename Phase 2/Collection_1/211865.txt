@@ -1,0 +1,54 @@
+intermediate problems
+aforementioned algorithmic problems
+online algorithms
+approximation algorithms
+algorithms community
+central  problems
+important  problems
+classical  problems
+proposed problems
+algorithmic research
+multiple areas of algorithms
+Existing algorithmic techniques
+Novel Algorithmic Techniques
+exponential time algorithms
+data structures
+multiple algorithmic regimes
+new directions
+transfer of techniques
+Lens of Combinatorics Real-world optimization problems
+new interplay
+growth of data size
+changing input data
+new structural theory
+em structural perspectives
+em incomplete
+decades of research
+concrete intermediate goals
+major challenges
+FPT
+parameter tractable
+modern applications
+art
+basic questions
+understanding
+gap
+decision
+significant contribution
+limitation
+efficient binary search trees
+fact
+Ph
+D students
+lower risks
+state
+domains
+PI's successes
+broad schemes
+project attempts
+NP-hard
+context
+special cases
+progress
+instance
+approaches

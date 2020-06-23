@@ -1,0 +1,35 @@
+photonic quantum systems
+feasibility of large-scale photonic quantum computing
+components
+complete systems
+required hardware
+efficient large-scale architectures
+outstanding research challenges
+optimised fault tolerance strategies
+interconnects
+photon sources
+spectral filters
+detectors
+delays
+WP3
+phase shifters
+verified model of errors
+waveguides
+couplers
+optimal solution
+flexibility
+resources
+effort
+WP2
+WP1
+CoG
+iterative approach
+control electronics
+interim outputs
+vision
+minimal time
+integration
+WP4
+specific applications
+WP5
+paths

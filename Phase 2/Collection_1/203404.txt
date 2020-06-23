@@ -1,0 +1,55 @@
+Wireless Communication SafeCOP
+use of wireless communication
+Safe Cooperating Cyber-Physical Systems
+practical certification of cooperating cyber-physical systems
+safety assurance of CO-CPS
+implementations of cooperating systems
+increased trustworthiness of wireless communication
+systems issues
+certification authorities
+safe cooperation
+lower certification costs
+SafeCOP targets safety-related CO-CPS
+safety assurance approach
+current wireless technologies
+domain certification practice
+safety assurance evidence
+resulted system
+new standards
+lower total system costs
+dynamic system definitions
+platform architecture
+new markets
+new applications
+secure cooperation
+tools
+development
+increased market share
+addressed areas
+effective standards
+verification
+better management of increasing complexity
+shorter time
+reduced effort
+terms of cross
+validation
+multiple stakeholders
+validated solutions
+overall responsibility
+standardization committees
+security
+privacy
+unpredictable operating environments
+clear benefits
+single stakeholder
+healthcare
+regulations
+advantages
+cooperative functions
+important concerns
+robotics
+methods
+societal challenges
+scenario
+project
+existing practices

@@ -1,0 +1,55 @@
+properties of defects
+device topology
+main reliability phenomena
+hot-carrier degradation
+Modeling critical reliability issues
+field of physical reliability modeling of emerging transistors
+wide range of device bias conditions
+microscopic defect properties
+oxide defects
+precursors
+project
+parasitic effect of self-heating
+response of nanoscale devices
+deactivation of individual defects
+time-dependent variability of device characteristics
+VLSI technology
+VLSI technologies
+emerging architectures
+high mobility channel materials
+future collaboration
+energetic distribution of hot carriers
+nanowire transistors
+main goal
+training activities
+response of interface
+research plan
+bias temperature instability
+applicant’s future career
+detailed microscopic description
+defect-centric paradigm
+computational chemistry
+electrical engineering
+gate dielectrics
+open new perspectives
+material science
+validation
+fundamental physics
+strong impact
+industrial requirements
+development
+SiGe
+unifying model building
+professional skills
+simulation framework
+expertise
+industry
+different driving forces
+specifics
+circuit design
+proposal
+V alloys
+Special attention
+core
+Knowledge
+effects

@@ -1,0 +1,50 @@
+open-source software
+open-source static analysis platform
+Airbus software
+computer software
+heterogeneous software
+general-purpose software
+static analyses able
+development of verified software
+open-source development communities
+continuous development of software common
+results
+Modular Open Platform
+Mopsa project
+scalable analyses
+complex
+core
+economical standpoint
+Programming errors
+safer Internet
+major target
+Traditional test-based methods
+user frustration
+relevant information
+well-controlled context of critical embedded systems
+adoption
+compile-time
+novel popular languages
+recent successes
+Python
+Astrée
+tools
+classes of program defects
+construction
+absence of run-time error
+human losses
+theory of abstract interpretation
+industrial analyzer
+educational ones
+properties
+level
+momentum
+set of technologies
+sound
+large programs
+companies
+engineers
+research
+infrastructures
+citizens
+scientific challenges

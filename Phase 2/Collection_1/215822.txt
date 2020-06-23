@@ -1,0 +1,53 @@
+EXAscale Quantification of Uncertainties
+account uncertainties
+wind engineering
+embedded methods
+stochastic problem of quantifying uncertainties
+space-time accelerated solution methods
+shape optimization
+computational developments
+New theoretical developments
+wind loading
+complex engineering problems
+wind action
+Technology
+mesh generation
+ExaQUte project
+Exascale systems
+anisotropic mesh adaptation
+stochastic sensitivities
+Uncertainty Quantification
+reliable solution
+solution reliability
+high number of stochastic variables
+Gradient-based optimization techniques
+adaptive mesh refinement
+response of civil engineering structures
+structural shape
+high robustness
+computational simulations
+modular approach
+Science Simulation
+fields of science
+adaptation steps
+efficient exploitation of Exascale system
+description of complex geometries
+constraints
+State-of-the-Art dynamic task-scheduling technologies
+MLMC
+framework
+parallelism
+octree
+UQ
+OUU
+high-performance robust designs
+proper definition of risk measures
+material behavior
+Multi Level MonteCarlo
+field of notable industrial
+open-source
+future impact
+combination
+chosen application
+tools
+exact geometry representation

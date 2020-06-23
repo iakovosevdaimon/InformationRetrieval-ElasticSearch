@@ -1,0 +1,46 @@
+human visual system
+guided grasping
+model human grasping patterns
+space of human grasping behavior
+computational model of visual processing
+visual processing of object shape
+human behavior
+kinds of visual representations
+grasp planning
+computational modelling of visual function
+material
+D objects
+place
+use
+extensive physics simulations
+powerful data
+computer simulations
+Fleming lab
+extensive literature
+powerful machine learning techniques
+guides hand motor action
+vision guides
+motor actions
+complementary goal
+motion-tracking hardware
+physical simulation
+network’s performance
+previous experience
+computations
+multifaceted features
+unified framework
+Fleming’s unique expertise
+theory-driven approach
+information
+fragmented body of knowledge
+effects
+learned network architecture
+humans
+behavioral measurements
+University of Giessen
+proposal
+Deep Neural Nets
+shapes
+research
+software
+grasps

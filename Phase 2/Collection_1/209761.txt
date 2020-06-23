@@ -1,0 +1,48 @@
+Assessment of Historical Masonry Structures
+lower-level model
+Multi-level Model Calibration
+masonry units
+use of models
+high level
+seismic assessment of historical masonry buildings
+realistic assessment of historical unreinforced masonry structures
+practical analysis of masonry structures accounting
+low level
+intermediate level
+efficient macroscale models
+detailed mesoscale models
+innovative model calibration strategy utilising inverse analysis techniques
+novel simplified mechanical model
+solid-element models
+accuracy of existing detailed models
+numerical modelling
+numerical response
+novel numerical description
+proposed assessment approach
+presence of relevant historical heritage
+appropriate macro-elements
+high seismic risk
+MultiCAMS project
+Mediterranean areas
+plane behaviour of different URM components
+advanced computational strategy
+European urban areas
+different levels of sophistication
+main outcome of MultiCAMS
+entire structural parts
+safeguard of human lives
+homogeneous shell
+mortar joints
+spandrels
+urgent requirement
+accurate methodology
+interaction
+current safety requirements
+piers
+need
+efficiency
+recent catastrophic events
+continuum
+parameters
+critical failure
+respect

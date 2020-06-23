@@ -1,0 +1,44 @@
+Natural Language Understanding
+language input
+language-independent meaning representations
+language-specific forms
+neural machine translation
+multilingual machine translation
+Cross-Lingual Grounding
+natural languages
+diverse data
+human translations
+various ambiguities
+human communication
+line of research
+development of novel data-driven models
+tasks
+long-term goal
+proper interpretation
+hypothesis
+computational linguistics
+interactive tools
+substantial proportion
+increasing amounts
+training
+deep learning
+ideas
+effect
+wide range of contextual dependencies
+semantic reasoning
+holy grail
+linguistic diversity
+artificial intelligence
+resources
+indirect supervision
+guiding principle
+costly manual annotations
+inference
+use
+abstractions
+universal sentence-level
+semantics
+beauty
+world
+framework
+project

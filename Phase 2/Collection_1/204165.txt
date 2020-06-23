@@ -1,0 +1,48 @@
+Turbulent Combustion Combustion
+turbulent combustion physics
+turbulent spray combustion
+new multi-scale framework
+combustion models
+new multi-scale closure
+development of new
+model turbulent combustion phenomena
+predictive simulations of turbulent combustion
+new way
+multi-scale nature
+different aspects of turbulent combustion
+new unprecedented datasets
+new modeling approaches
+new analysis methods
+Multi-Scale Description of Non-Universal Behavior
+multi-physics nature
+non-universal behavior of small-scale turbulence
+turbulence-chemistry interactions
+impact of non-universality
+DNS
+unambiguous model development
+small-scale morphology
+important field
+modeling questions
+rigorous analysis of model deficiencies
+accurate predictive models
+quantitative description
+pollutant formation
+scalar field
+formation of pollutants
+direct numerical simulations
+fly chemistry reduction technique
+so-called dissipation elements
+space-filling regions
+project
+step-change technologies
+basis
+chemical kinetic mechanisms
+use
+major challenges
+successful outcome
+issues
+proposed work
+main overall objectives
+computational design
+time-scales
+society

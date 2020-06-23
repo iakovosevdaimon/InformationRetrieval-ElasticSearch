@@ -1,0 +1,43 @@
+sensitive data
+process data
+personal data
+data transmission
+security of offsite data storage
+privacy concerns
+entire data management stack
+Resilient Cloud Architecture Cloud infrastructures
+major privacy
+users
+privacy-sensitive online applications
+distributed cloud infrastructure
+providers of cloud services
+re-architect cloud infrastructures
+security concerns
+partitioning
+processing tasks
+integrity
+entanglement
+control
+medical record storage platform
+multiple administrative domains
+choice of non-colluding domains
+fundamental questions
+positive business cases
+unauthorized government access
+communication
+competitiveness of modern economies
+tradeoffs
+ways
+wake
+importance
+notice
+advantages
+SafeCloud
+legal jurisdiction
+rightful owner
+recent developments
+inter-dependencies
+performance
+principles
+design
+existing technologies

@@ -1,0 +1,4 @@
+services
+SMEs
+Thuringia Innovation capacity analysis
+Innnovation capacity analysis

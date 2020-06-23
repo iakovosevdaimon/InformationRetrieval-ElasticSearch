@@ -1,0 +1,10 @@
+Wake Vortex simulation
+R-Wake
+hazards of potential wake vortex encounters
+en-route separation management
+en-route phase of flight
+simulation framework
+Europe
+project
+risk
+analysis

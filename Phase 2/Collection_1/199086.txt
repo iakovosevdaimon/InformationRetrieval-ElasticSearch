@@ -1,0 +1,56 @@
+polarization
+detailed characterization
+radio sources
+ancillary radio maps
+Ultimate modelling of Radio foregrounds
+detailed physical modelling
+existence of B
+combination of PLANCK
+design of future B-mode experiments
+Cosmic Microwave Background
+anomalous microwave emission
+reference data products
+present-day fundamental cosmology
+specific software tools
+cosmic-rays electron physics
+key questions
+key ingredient
+Physics of Inflation
+particular emission
+specific predictions
+QUIJOTE experiment
+synchrotron spectral index
+state-of-the-art legacy maps
+sub-orbital experiments
+preparation of future space missions
+use of ESA’s PLANCK satellite mission
+implications
+Galactic magnetic field
+possible constraints
+CMB
+anisotropies
+large-scale properties
+efficient exploitation
+unique probe
+asset
+simulations
+Northern sky
+significant multi-frequency catalogue
+major limiting factor
+open problem
+ground-based observations
+foreground signals
+Galaxy
+functionalities
+early Universe
+proposal
+study
+contribution
+temperature
+existing ones
+possibility
+Astrophysics community
+modes
+purpose
+advanced visualization
+project

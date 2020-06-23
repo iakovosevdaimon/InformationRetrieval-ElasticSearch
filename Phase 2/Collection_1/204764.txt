@@ -1,0 +1,63 @@
+driver state monitoring
+current driver state
+integrated driver
+different driver states
+rider state monitoring system
+rider states
+Adaptive ADAS
+automation ADAS
+HMI
+adapted Advanced Driver Assistance Systems
+vehicle automation of Levels
+adaptive warning
+adaptive interaction
+incapacitated drivers
+automation transitions
+cars
+tailor
+vehicle type
+automated driving
+real road conditions
+wide pool of drivers
+large proportion of driving
+prediction algorithms
+weather conditions
+Use Cases
+efficient road usage
+riders
+intervention strategies
+account traffic
+impairing emotions
+inattention
+V2X
+fatigue
+environmental context
+novel sensing technologies
+developed elements
+successful fusion
+stress
+sleepiness
+core development
+trucks
+control
+information
+buses
+motorcycles
+Partners
+Tier
+European roads
+OEM
+robust detection
+severity of scenarios
+individual driver’s physiology
+PTWs
+behaviour
+final outcome
+addition
+suppliers
+bus demonstrators
+multidisciplinary Consortium
+challenging task
+holistic approach
+Experimental research
+work

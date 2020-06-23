@@ -1,0 +1,57 @@
+Assessment of Performance
+performance drivers of ATM
+ATM performance drivers
+European ATM performance
+performance assessment tools
+ATM KPAs
+initial performance assessment of new concepts of operations
+new APACHE Performance Scheme
+technical ATM concepts
+new concepts t
+performance-driven introduction of new operational
+new framework
+new methodologies
+current ATM operations
+different KPAs
+impact assessment of
+optimization tools
+different assumptions
+different scenarios
+sectorization planning
+different modelling scales
+network safety planning
+optimization of processes
+APACHE project
+level of KPA performances
+purpose of APACHE
+DFR
+initial versions
+aircraft trajectory planning
+dynamic airspace configuration
+dynamic demand
+Network Manager
+complex interdependencies
+SESAR ConOps
+functional airspace block
+DAC
+air navigation service providers
+ANSPs
+dDCB
+airline operators
+micro
+Holistic Enhancement
+metrics capable
+free-routing
+meso
+Pareto-frontier
+capacity balance
+macro
+partners
+theoretical optimal limits
+stakeholder’s business models
+EU-wide
+case studies
+context
+simulations
+NM
+promotion

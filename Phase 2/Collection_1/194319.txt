@@ -1,0 +1,46 @@
+HPC business
+hiGh pErfOrmance cLOud
+Cloud focus
+hpc systems MIKELANGELO
+OSv
+large HPC centre
+bigger uptake of Cloud computing
+core underlying technologies of Cloud computing
+high responsiveness
+agility
+use of MIKELANGELO stack
+vision of MIKELANGELO
+better security
+enhanced Security
+improvement of virtual I
+virtual infrastructure
+packaged applications
+performance hurdles
+business need
+use-cases
+targeted audience
+original creator of KVM
+Big Data technologies
+simulation dependent SMEs
+lean guest
+heterogeneous infrastructures
+MIcro KErneL virtualizAtioN
+ability
+involvement
+superfast hypervisor SuperKVM
+Avi Kivity
+additional virtio expertise
+light-weight
+project
+hand-picked experts
+clear owners
+work
+umbrella
+virtualisation
+Consortium
+layers of inefficiency
+approach
+overall effort
+OpenStack
+OpenNebula
+exploitation

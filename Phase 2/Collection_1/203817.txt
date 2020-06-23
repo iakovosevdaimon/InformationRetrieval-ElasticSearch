@@ -1,0 +1,61 @@
+cooling dynamics
+cooling of molecular junctions
+molecule interface
+sharp molecular resonances
+molecular backbone
+vibrational heating
+absorption of molecular vibrations
+junction heating
+wide range of molecule
+electronic structure
+molecular scale design
+complex dynamics
+sharp resonances
+intermediate coupling
+weak coupling
+strong coupling
+classes of systems
+chemical structure
+rich variety of heating
+broad range of systems
+case of destructive interference
+sharp DOS features
+Control of current
+metal
+quantum interference features
+electronic properties
+chemical details
+project
+vibrations populations
+vibration emission
+absorption rates
+external bias
+atomistic details
+vibrational instabilities
+electrode couplings
+state-of-the-art approach
+new approach
+detailed study
+induced heat exchange
+conjugated linear molecules
+effect of electrode shape
+equations
+electrodes
+self-consistency
+necessary step
+derivation
+comprehension
+carbenes
+PTCDA
+bypiridine
+calculation
+different physical mechanisms
+connection
+equilibrium
+series of approximations
+inelastic processes
+examples
+groups
+use
+presence
+stability

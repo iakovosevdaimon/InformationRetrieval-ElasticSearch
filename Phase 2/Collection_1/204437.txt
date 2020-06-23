@@ -1,0 +1,52 @@
+climate processes
+climate change
+Regional Climate Models
+global climate variability
+past climate dynamics
+complexity global climate model
+Greenland ice sheet evolution
+spatial scales of ice sheet-climate interaction
+interactive ice sheet flow
+uncoupled representations of ice sheet
+impacts of Greenland deglaciation
+Earth System Models of Intermediate Complexity
+Community Earth System Model
+GrIS surface melt trends
+widespread integration of ice sheets
+indispensable component of complex Earth System Models
+surface accumulation
+atmospheric dynamics
+impacts of multi-century deglaciation of Greenland
+simplified ocean
+General Circulation Models
+relationship
+future
+project
+physical-based simulation of surface mass balance
+prescribed ocean components
+observed mass loss
+understanding of present
+new insights
+current trends
+previous deglaciations
+Previous work
+fixed topography
+difference
+timing
+large range of temporal
+losses
+schemes
+coupling
+instance
+time
+runoff
+increasing pace
+response
+CESM
+parameterized snow albedo
+sublimation
+mechanisms
+addition
+Holocene
+tool
+purpose

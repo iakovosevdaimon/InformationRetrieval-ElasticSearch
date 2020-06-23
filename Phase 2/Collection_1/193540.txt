@@ -1,0 +1,44 @@
+relative representation theory of reductive
+theory of automorphic forms
+type of local fields
+topological group
+kinds of fields
+harmonic analyses
+general linear group
+reductive groups
+transitive group action
+non-commutative harmonic analysis
+compact groups
+analysis of equivariant  distributions
+field of p
+field of real numbers
+applications
+proofs
+adic numbers
+invariant distributions
+relative trace formula
+proposal
+tools
+view
+generalized Whittaker models
+p-adic cases
+previous results
+ongoing work
+density of orbital integrals
+terms
+spaces
+comparison
+algebra homologies
+long-standing conjectures
+classification
+certain collection of nilpotent orbits
+role
+quotient
+Gelfand pairs
+unipotent subgroup
+Peter-Weyl theorem
+Moeglen
+Waldspurger
+archimedean analog
+similarities
+important tool

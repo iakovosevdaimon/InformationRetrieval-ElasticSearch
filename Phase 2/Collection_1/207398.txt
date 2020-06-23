@@ -1,0 +1,51 @@
+intelligent memory chips
+memory elements
+Intelligent Memories
+naïve Bayesian inference
+intelligent memory chip designs
+inference circuits
+modern Bayesian inference algorithms
+inference operations
+understanding of novel memory technologies
+Physics of Nanodevices Cognitive tasks
+Bayesian concepts
+energy efficiency of associated algorithms
+low energy
+non-naïve tasks
+sampling algorithms
+device physics
+complex physics
+memristive memories
+emerging devices
+emerging nanodevices
+standard Bayesian approaches
+separation of computation
+computation units
+project
+NANOINFER
+sensory-motor tasks
+cognitive-type reasoning
+computing functions
+smart devices
+modern electronics
+digital CMOS logic
+large computing machines
+storage of model parameters
+spiking neurons circuits
+concept experimental demonstrations
+abundant stored parameters
+correspondence
+tackling difficult problems
+toolbox
+critical interdisciplinary challenges
+exchanges
+theoretical investigations
+conventional computers
+use
+fusion
+nanodevice imperfections
+learning
+proof
+proposed architectures
+Preliminary results
+adaptive systems

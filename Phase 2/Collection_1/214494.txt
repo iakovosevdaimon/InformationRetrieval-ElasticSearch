@@ -1,0 +1,43 @@
+KR field
+Logic-Based Knowledge Representation
+Grand Unified Theory of Decidability
+decidability investigations
+advanced KR features
+complex knowledge resources
+order logic
+intelligent querying
+model-theoretic ones
+proof-theoretic notions
+definition of novel decidable KR languages of unprecedented expressivity
+advanced graph-theoretic notions
+powerful model-theoretic criterion
+Database Theory
+proliferation of new decidable formalisms
+Elaborate languages
+querying tasks
+various formalisms
+intelligent management of large
+rule-based approaches
+so-called ontology languages
+automated reasoning
+major paradigms
+major breakthrough
+research lines
+scientific fields of AI
+improved practical information management technology
+description logics
+technological developments
+rise
+pivotal role
+Algorithms
+vital area of
+non-monotonic aspects
+commonalities
+existential rules
+results
+framework
+Past decades
+underlying principles
+DeciGUT
+wide scale
+progress

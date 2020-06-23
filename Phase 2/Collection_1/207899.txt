@@ -1,0 +1,48 @@
+deep data exploration
+large-scale data processing
+memory database
+time interactive data exploration
+entire spectrum of data processing
+exploration workflows
+huge data transfers
+large volumes of data
+true computational database system
+query processing
+deep exploration functionality
+real-time interactive exploration
+parallel hardware
+traditional DBMSs
+new hardware capabilities
+powerful computational database engine
+Traditional techniques
+traditional architectures
+new opportunities
+new challenges
+regular transaction processing
+architecture of database management systems
+major hardware trends
+TB of main memory
+main memory sizes
+massive parallelism
+massive scale
+number of cores
+time compilation framework
+Real World Awareness
+significant impact
+interpreted code execution
+severe bottleneck
+presence
+poor utilization
+source
+disk-based approaches
+fingertips
+business
+science
+users
+Machines
+drastic shift
+hundreds
+near future
+low price
+different approach
+information

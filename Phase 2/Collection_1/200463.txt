@@ -1,0 +1,54 @@
+Higgs physics
+particle physics
+LHC physics programme
+EFT coefficients
+study of EFT
+LHC Era
+Higgs boson
+high energy physics tools
+different EFT descriptions
+Precise Higgs Properties
+global fits
+high energy collider data
+framework
+existing collider data
+general way
+particle’s properties
+European Strategy
+Wilson coefficients
+future colliders
+higher order calculations
+terms of limits
+parton shower
+efficient translation
+interpretations
+connection
+incorporation of Quantum Chromo Dynamics corrections
+maximum information
+recent developments
+hadronisation
+highest possible precision
+analysis
+software package
+particular focus
+effects of renormalisation group
+SM expectations
+departures
+context of UV models
+priorities
+implementation of operator
+observation
+core
+defining moment
+Effective Field Theory
+Standard Model
+questions
+central role
+nature of electroweak symmetry
+groundbreaking discovery
+result
+dynamical explanation
+elements
+phenomenon
+century
+proposal

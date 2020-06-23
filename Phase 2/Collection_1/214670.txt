@@ -1,0 +1,50 @@
+cell variability
+role of cell
+quantitative single cell biology
+importance of single cell behaviour
+cell cycle state
+single cell RNA-seq
+infection biology
+antibiotic resistance development
+novel single cell imaging systems
+pneumococcal virulence
+antibiotic pressure
+infection outcome
+role of phenotypic variation
+antibiotic therapy outcome
+infection models
+combined heterogeneity of host cells
+pneumococcal infections
+better understanding of phenotypic variation
+pneumococci influences infection
+dual-transcriptomics overview of pneumococcal infection of human lung epithelial cells
+synthetic biology
+application
+host immune response
+combined cellular heterogeneity
+molecular mechanisms
+host’s response
+pathogenic bacteria
+molecular sources
+important opportunistic human pathogen Streptococcus pneumoniae
+growth rates
+CRISPRi
+setup collaborations
+genetic engineering
+clonal bacterial populations
+screening platforms
+gene expression
+new treatment strategies
+microbe
+bistable switches
+noise
+pathogens
+innovative approaches
+project
+microfluidics
+excellent position
+driving hypothesis
+Insights
+addition
+phenotype
+environment

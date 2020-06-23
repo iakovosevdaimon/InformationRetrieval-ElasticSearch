@@ -1,0 +1,60 @@
+Noise-Sensitivity
+noise sensitivity ideas
+critical planar percolation
+random environment
+random walk operator
+conjecture of Gaboriau
+Babai’s conjecture
+conjecture of Tóth
+critical dynamics
+conjecture of Katok
+critical FK-percolation models
+macroscopic geometry of planar percolation
+ideas of statistical physics
+group theory
+iid random input bits
+Passage Percolation
+key example
+Friedgut-Kalai conjecture
+critical planar FK-Ising model
+alternating groups
+finite simple group
+Fourier weight
+permutation groups
+key obstacle
+interval exchange transformation group
+linear groups SL
+terms of Fourier analysis
+key open cases
+certain macroscopic structures
+Fourier Entropy vs Influence
+Boolean function
+sensitive iff
+striking example
+outstanding questions
+Glauber dynamics
+cycle structure
+classical case of iid inputs
+universality
+amenability
+generating set
+high energy
+phase transition question
+fast mixing
+hypercube
+eigenfunctions
+novel ways
+interchange process
+time poly-logarithmic
+ell2-Betti number
+quantum mechanics
+tiny proportion
+F2
+hypercontractivity
+main directions
+cost
+volume
+computer science
+output unpredictable
+notion
+task

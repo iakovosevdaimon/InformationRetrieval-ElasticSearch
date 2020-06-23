@@ -1,0 +1,47 @@
+subunits of allosteric proteins
+allosteric proteins Critical
+protein dynamics
+protein function
+allosteric communication
+large protein
+relative motions of domains
+multiple domains
+coordinated large-scale motions of domains
+intra-protein distances
+Single-molecule spectroscopy of coordinated motions
+important scenario of allosteric regulation
+homo-oligomeric protein-folder GroEL conserves symmetry
+time-dependent coordination of allosteric transitions of multiple units
+multiple labels
+conformational spread
+time scale
+conformational changes
+allostery
+single-molecule FRET spectroscopy
+propagation of conformational change
+concerted transition
+sequential transition
+effect of binding
+fundamental issues
+homo-oligomeric disaggregating machine ClpB
+major structural states
+synchronization
+future efforts
+transmission
+experimental framework
+drugs
+measurement
+deficiency
+family of RXR heterodimers
+DNA
+ligands
+dynamic basis
+effector molecules
+site
+model systems
+advanced analysis
+catalogue
+methodology
+understanding
+exciting project
+proposal

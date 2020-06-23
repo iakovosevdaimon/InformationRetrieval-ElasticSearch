@@ -1,0 +1,65 @@
+NMR circuit
+new NMR-EBC
+NIBs
+situ NMR Concerns
+situ NMR spectroscopy
+situ NMR approach
+Na-ion batteries
+Li-ion batteries
+high energy
+electrical energy
+cycling of LIBs
+novel NMR probe system
+real-time experiments
+level real-time characterisation of Li
+level Automatic Tuning Matching Cycler
+finite energy resources
+external battery cycler
+automated goniometer
+application of new electrolytes
+ATMC
+unique possibility of non-invasive real-time studies of batteries
+desirable form of energy storage
+Na-Sn anodes
+new avenues of research
+increasing demand of Li commodity chemicals
+battery safety
+balance demand
+high abundance
+sodium iron phosphate cathodes
+suitable redox potential
+power densities
+chemical reactions
+lithium
+low costs
+need
+electrolyte decomposition
+sample orientation changes
+engineering
+connection design
+use of intermittent renewable energies
+operating conditions
+multi-component samples
+comparative study
+measurement
+step
+greenhouse gas emissions
+formation of intermediate phases
+wider range of systems
+efficient ways
+complementary alternatives
+different shifts
+resonance
+multiple cell components
+electric grid
+supply
+interferences
+constrained reserves
+cost factors
+prices
+deeper understanding
+fly
+adjustment
+proposed project
+challenges
+future

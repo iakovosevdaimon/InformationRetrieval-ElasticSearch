@@ -1,0 +1,48 @@
+task
+evolution of complex systems
+Complex Oscillatory Systems
+artificial systems
+Analysis
+oscillatory elements
+broad range of interdisciplinary approaches
+broad set of potential users
+resulting evolution
+underlying assumptions
+neural data
+methods accessible
+underlying model
+objective elements
+knowledge methods
+relevant variables
+appropriate variables
+coherent set of tools
+challenging interdisciplinary problem
+experimental time series
+multivariate time signals
+context of theoretical models
+minimal theoretical competences
+Modeling
+system identification
+temporal
+spatial scales
+new generation of scientists able
+structure
+correctness
+personal preferences
+various techniques
+skilful hypotheses
+suitable case studies
+drawing meaningful conclusions
+spontaneous emergence of collective properties
+non-trivial internal dynamics
+control
+project
+user-friendly software package
+limitation
+gap
+ability
+predictions
+goal
+order
+way
+features

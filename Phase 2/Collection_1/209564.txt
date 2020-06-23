@@ -1,0 +1,19 @@
+algebraic invariants of graphs
+regular graphs
+large graphs
+Extremal Sparse Graphs
+graph sequence
+limit of finite graphs
+certain algebraic graph parameters
+given class of graphs
+certain graph parameter p
+extremal values of algebraic invariants
+behavior of algebraic invariants
+hand
+related families of problems
+upper bounds
+proposal
+infinite object
+observation
+networks
+sense

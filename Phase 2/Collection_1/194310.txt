@@ -1,0 +1,58 @@
+services operators
+deperimeterisation of services
+Cloud services
+traditional telecommunication services
+variety of new communication services
+access-controlled communication services
+Traditional operator-enabled services
+content oriented services
+universal communication
+operators approach
+Internet communication tools
+global telecom operators
+traditional ones
+traditional business
+dynamic networks
+social networks
+telecom centric
+users
+Web-centric P2P Service Architecture
+Hyperlinked Entities
+social communications
+web companies
+owned network
+reTHINK project
+global level
+specialized end-to-end network quality commitments
+dynamic trusted relationships
+type of service delivery
+walled garden approach
+Trustful hyper-linked entities
+distributed applications
+M2M
+IoT
+need
+use-cases
+deployment of ICT solutions
+recurring concept
+Universities
+SMEs
+evolution
+chat
+leading research institutes
+SaaS
+major structural difference
+importance
+consortium
+network's functionalities
+geographical extension
+Eurescom
+main goal
+voice telephony
+PaaS
+additional cost
+Technical progress
+IaaS
+data
+contacts
+context

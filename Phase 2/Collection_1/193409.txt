@@ -1,0 +1,56 @@
+Trucks
+communication systems
+communication units
+tunnels
+V2I systems
+use cases
+road safety applications
+T2I systems
+G5 wireless communication
+C2C Communication Consortium
+order
+highway traffic
+Evaluation
+platooning
+ROADART project
+walls close
+importance of tunnel safety
+specific use case
+diversity algorithms
+system level
+architecture approaches
+roadside units
+Alternative Diversity Aspects
+complete system wll
+significant research effort
+traffic flow optimization
+main objective of ROADART
+New architecture concepts
+T2T
+Greenhouse Gas emissions
+Dutch Integrated Test Site
+ray tracing models
+Cooperative Mobility
+critical conditions
+QoS
+positive outcoms
+antenna pattern
+truck-trailer combination
+antennas
+passenger cars
+real environment
+DITCM
+sufficient Quality of Service
+behaviour
+component
+simulation
+I2V
+cameras
+heavy duty vehicles
+practical experiments
+size
+example
+Demonstration
+integration
+levels
+V2V

@@ -1,0 +1,52 @@
+complete test rig
+C control surface
+Flexible Test Rig of Aircraft Control Surfaces
+double test benches
+distribution rig
+C electrical generation
+corresponding control units
+C electrical network
+C equipment
+performance of EMA control systems
+C model simulations
+rig of hydraulic servo-actuators
+EMA electrical consumption
+ground complete testing
+complete documentation
+ground complete evaluation
+electrical drawings
+integrated model
+mechanical designs
+terms of mechanical performance
+real flight conditions
+combined actuation EMA
+Mechanical links
+representative equivalent antagonist loads
+flap-tab
+aileron
+realistic flight conditions
+corresponding load parameters
+winglet tabs EMAs
+existing hydraulic supply
+right wings
+stand-alone mode
+validation of electromechanical actuators
+industrial power supplies
+number of testing analysis
+user manuals
+spoiler
+Clean Sky
+Regional FTB2 demonstrator
+open software code
+objective
+integration
+VDV
+project
+manufacture
+impacts
+interfaces
+capability
+modular way
+VDC
+operation modes
+topic manager

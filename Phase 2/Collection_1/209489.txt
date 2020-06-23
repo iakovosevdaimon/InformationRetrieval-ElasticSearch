@@ -1,0 +1,50 @@
+types of ganglion cells
+different types of retinal ganglion cells
+identified layout of bipolar cells
+natural retinal activity
+natural visual stimuli
+large populations of ganglion cells
+natural retinal stimulus encoding
+reconstructing natural transmission of visual information
+ganglion cell recordings
+Artificial stimulation of retinal neurons
+layout of bipolar cell inputs
+Restored Vision
+features of information processing
+knowledge
+neural network
+challenge
+mouse models of optogenetic vision restoration
+development of vision restoration therapies
+neural circuits process
+diverse neural code
+stimulation schemes
+new models
+novel analyses
+effective connectivity
+computational statistics
+Computational Dissection of Effective Circuitry
+dynamical features
+thorough understanding
+direct measurements of connections
+retina’s output neurons
+various nonlinear operations
+electronic implants
+excitatory presynaptic partners
+inserted light-sensitive proteins
+patients
+order
+dynamics
+optogenetics
+closed-loop experiments
+concrete importance
+fundamental goal
+neuronal layers
+parallel signalling streams
+degeneration of photoreceptors
+machine learning
+way
+neuroscience
+brain
+results
+CODE4Vision project

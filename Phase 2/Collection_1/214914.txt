@@ -1,0 +1,54 @@
+transport vesicles
+artificial vesicles
+synaptic vesicles Summary
+solute transport
+small numbers of vesicles
+purified SVs
+features of transport
+vesicular transporters
+stored transmitter
+transfected cells
+storage
+inhibitory transmitters
+specific transporters
+different transmitters
+electrochemical proton gradient
+solute carrier
+fluorescent reporters
+recombinant proteins
+superfamily of proteins
+adaptation of new fluorescent probes
+microscopic analysis of loading
+primary cultured neurons
+GABA
+VIAAT
+V-ATPase
+CNS
+VGLUTs
+neurotransmitters
+Mechanisms of neurotransmitter uptake
+advanced methods
+biochemical approaches
+antibodies
+VGAT
+glycine
+combination
+SLC
+glutamate
+affinity ligands
+presynaptic nerve endings
+assays
+vesicle membrane
+VNUT
+energy
+hundreds
+glass surfaces
+microfluidic devices
+recent progress
+isolation
+cytoplasmic pools
+liposomes
+Open questions
+minute
+experiments
+exocytosis

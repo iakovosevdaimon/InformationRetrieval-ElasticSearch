@@ -1,0 +1,44 @@
+set of models
+Predictive Ability of Forecasting Models
+set of competing models
+Bootstrap inference
+project
+terms of predictive ability
+standard predictive ability tests robust
+accurate predictions
+standard tests
+correct inference
+correct critical values
+key issue
+models' predictive accuracy
+policy maker
+loss of strong identification
+institutions
+identification deficiencies
+question
+setting
+finite sample properties of bootstrap critical values
+accurate inflation forecasts
+central banks
+different macroeconomic variables
+governmental organizations
+take-up
+order
+large academic community
+Monte Carlo simulations
+methods
+best
+new knowledge
+statistic
+consequences
+example
+forecast evaluation methodologies
+parameter estimation error
+asymptotic distribution
+Empirical studies
+rates
+particular model
+businesses
+end
+Results
+purpose

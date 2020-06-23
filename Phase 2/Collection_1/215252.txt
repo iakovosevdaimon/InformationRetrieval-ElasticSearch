@@ -1,0 +1,56 @@
+reversible debugging tools
+Undo Software
+complex software
+distributed software
+code of concurrent
+successful commercial debugging tools
+leading software companies
+experimental prototype software
+consistent debugging of concurrent programs Modern computing devices
+best reversible debuggers
+program code
+consistent DEbugger
+styles of programs
+consistent reversibility
+corrected code forwards
+project
+new techniques
+new network
+academic training
+close collaboration
+execution engine
+scientific independence
+faulty program
+scientific outcomes
+Novel formal models
+formal lecturer qualification
+senior academic position
+Erlang Solutions
+recording
+analysis
+world-class programme of research
+basis
+shared-memory
+promising notion
+message
+undergraduate module
+day services
+fellowship
+academia
+USD
+shortcomings
+time consuming
+RCADE
+concurrency
+correct errors
+knowledge
+experience
+industry
+Europe
+applications
+costs
+year
+market
+UndoDB
+users
+development

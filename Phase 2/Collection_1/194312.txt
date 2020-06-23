@@ -1,0 +1,47 @@
+optical network
+new C
+hierarchical C
+proposed C
+Optical peRformanCe monitoring
+information
+new dynamic
+hierarchical infrastructure
+real C
+network kriging
+current control
+multiple soft-OPMs
+High rate optical transmission
+dynamic networks
+control loop
+coherent transceivers
+current conditions
+capability ORCHESTRA
+ORCHESTRA solutions
+multi-impairment optical performance monitors
+Holistic cross-layEr
+ORCHESTRA’s advanced cross-layer optimization procedures
+ORCHESTRA’s high observability
+active-control functionalities
+coherent detection
+designed library module
+continuous growth of Internet traffic
+SDN-based ABNO architecture
+reconfigurability capabilities of enhanced tubable transceivers
+CAPEX
+service level validations
+software
+flexible appRoAch
+un-established paths
+statistical estimation methods
+alien wavelength
+energy consumption
+novel OAM Handler prototype
+expected improvements
+QoT problems
+entities
+OPEX
+acts
+system
+failures
+process
+algorithms

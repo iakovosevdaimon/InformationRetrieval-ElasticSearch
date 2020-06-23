@@ -1,0 +1,45 @@
+Virtual Processing
+Virtual Design
+Virtual Testing of Metallic Materials
+virtual testing of advanced metallic alloys
+multiscale modeling strategies
+new materials
+different multiscale strategies
+engineering applications
+widespread application of Computational Materials Engineering
+engineering sectors
+structure
+Modeling efforts
+modeling approach
+different length scales
+cascade of modeling tools
+time scales
+cast metallic alloys
+capability of multiscale simulation tools
+standard engineering alloys of considerable industrial
+range of length
+properties
+research program
+given application
+project VIRMETAL
+Al-Si
+new revolutionary technology
+leading European industries
+Al-Zn systems
+aerospace
+rail transport
+energy generation
+number
+calibration
+validation
+academia
+ab initio simulations
+industry
+relationship
+implementation
+continuous expansion
+critical experiments
+principles
+focus
+expected breakthrough
+laboratory

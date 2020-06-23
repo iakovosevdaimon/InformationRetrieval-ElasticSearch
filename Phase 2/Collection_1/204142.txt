@@ -1,0 +1,44 @@
+heterogeneous data
+data integration queries
+profusion of data
+heterogeneous information graphs
+Principles of Graph Data Integration
+heterogeneity of today’s data
+heterogeneous content
+formidable data integration challenges
+classical data management
+user-generated data
+emergence of heterogeneous information sources
+grained information
+heterogeneous graphs of entities
+heterogeneous graph structures
+ambitious overhaul of information integration techniques
+proper integration
+deployment of Big Data applications
+Traditional integration techniques
+large-scale Web information processing techniques
+development of logical data abstraction mechanisms
+wild heterogeneity of today’s information
+probabilistic graphs
+unstructured sources
+following project
+disparate pieces of content
+use of expressive
+physical layer
+creation of novel physical storage structures
+effective extraction of fined
+present proposal
+efficient resolution of complex analytic
+fundamental problems
+key hurdle
+core issues
+complexity
+order
+meteoric rise
+primitives
+rigid abstractions
+clusters of commodity machines
+interdisciplinary approach
+variety of formats
+text
+idiosyncrasies

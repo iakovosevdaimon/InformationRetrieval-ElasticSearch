@@ -1,0 +1,55 @@
+fuel burners
+multinational fuel injection
+fuel atomisation
+macro-scales flow processes
+new simulation tool
+rocket engine fuel injectors
+nozzle flow
+power generation systems
+CFD model
+today’s computing power
+proposed research
+ESRs
+Generalized Multi-phase Framework Development of fuel injection equipment
+relevant SGS closure models
+Holistic Approach of Spray Injection
+affordable computing time scales
+engineering design tool suitable
+incomplete physical understanding of complex micro-scale processes
+macroscopic spray development
+all-scale analysis
+today’s state-of-the-art models
+nozzle cavitation
+research institutes
+industrial priority
+forthcoming EU
+proposed program
+new benchmark experimental data
+industrial partners
+training programme
+influence of unresolved sub-grid-scale
+surface area generation
+combustion systems manufacturers
+large eddy simulation
+IC engines
+intersectoral requirements
+gas turbines
+liquid
+transportation
+destruction
+Marie Curie Action guidelines
+function
+best possible way
+bridging parameter
+pollutant emissions
+secondary atomization
+order
+surrounding air conditions
+universities
+tailored experiments
+Australian partner
+emission legislations
+Validation
+DNS
+addition
+applicability

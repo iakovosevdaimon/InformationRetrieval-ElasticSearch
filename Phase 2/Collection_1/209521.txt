@@ -1,0 +1,42 @@
+CD4 T cell proliferation
+direct T-T interactions
+CD4 T cells negative regulation
+expansion of effector CD4 T cells
+Ag-experienced memory CD4 T cells
+productive CD4 T-cell responses
+specific CD4 T-cell populations
+negative regulators of CD4 T cells migration
+Dby-reactive T cells
+T cell intrinsic mechanism
+library of knockout Ag-experienced T cells
+CD4 suppressive mechanisms
+complex regulation of CD4 immune response
+resolution of primary immune response
+ongoing primary immune response
+preferential exclusion of Ag
+efficient antitumor immune responses
+cohort
+negative feedback loop
+sgRNA library
+PD-L1
+TGF-b receptor
+IFN-γ receptor
+quorum sensing mechanism
+optimization of cancer immunotherapy
+autoimmune diseases
+inflammatory disorders
+TCR Transgenic RAG
+mouse strain
+viral infection
+contraction of antigen
+genome-wide screen approach
+Marilyn
+signals
+selection strategy
+insight
+therapeutic vaccine efficacy
+Cas9
+immunized mice
+proof of concept
+candidate genes
+proliferative capacity

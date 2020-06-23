@@ -1,0 +1,62 @@
+testing framework
+automatise lab testing
+remote testing
+Onsite testing environment
+virtualization of testing environment
+lab tools
+overall testing costs
+lab architecture demonstrations
+VITE consortium
+main objective of VITE proposal
+S2R-CFM
+S2R-OC
+S2R initiatives
+main strength
+main streams
+participating labs
+independent labs
+different labs
+connection
+DeBos
+NoBos
+users
+test process framework
+leading companies
+S2R JU members
+standard architecture
+project
+IP2
+real track
+signalling systems
+real equipment
+coordination actions
+technological companies
+railway sector
+on-site tests
+railway stakeholders
+SW tools
+significant European countries
+test protocols optimisation
+ETCS
+Spain
+analysing user’s needs
+RU
+proposed methodology
+train data
+expertise
+engineering
+current situation
+simulation of GSMR QoS
+interface specifications
+Italy
+usefulness
+success
+know-how
+analysis of uncertainties
+Belgium
+dissemination
+assessment
+development
+Virtualisation
+expected impact
+ERTMS

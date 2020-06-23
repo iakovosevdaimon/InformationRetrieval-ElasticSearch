@@ -1,0 +1,47 @@
+random variables
+study of random discrete objects
+dense random graphs
+Random Constraint Satisfaction Problems
+systematic investigation of random discrete structures
+establishment of phase transitions
+general understanding of phase transitions
+small changes
+fine behaviour
+prominent open problems
+limiting distribution of central parameters
+underlying distribution
+central topic
+fine properties
+small set
+small number of notable exceptions
+dramatic changes
+chromatic number
+important topic
+proposed project
+striking characteristics
+key characteristics
+well-studied models
+analysis
+local control parameter result
+processes
+Erdős
+respect
+Rényi
+solution
+seminal paper
+new avenues
+current knowledge
+computer science
+combinatorics
+remarkable applications
+values
+determination
+long-standing questions
+global structure
+statistical physics
+mathematical viewpoint
+support
+results
+objectives
+goal
+statistics

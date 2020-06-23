@@ -1,0 +1,62 @@
+optical satellite missions
+automated networks of water
+data transmission
+Copernicus optical missions
+satellite validation Networking of automated instruments
+main source of surface reflectance validation data
+new hyperspectral radiometer
+re-use of data
+associated calibration service
+multispectral instruments
+scientific instruments
+RADCALNET networks
+automated measurement of water
+Quality controlled data
+new instrument design
+land bidirectional reflectance measurements
+relative calibration
+land types
+new lower cost hyperspectral radiometer
+spectral bands
+remote inspection of instruments
+price of pointing systems
+associated uncertainty estimates
+reliability of autonomous instrument systems
+modelling associated uncertainties
+years
+use of miniaturized hyperspectral spectrometers
+embedded calibration device
+wide range of water
+existing AERONET-OC
+reduced price
+stable light source
+continuous autonomous monitoring of radiometers
+unmanned platforms
+Pléiades
+L8
+VIIRS
+MODIS
+PROBA-V
+S3
+S2
+maintenance support
+site
+ENMAP
+opto-electronics
+cheaper allowing
+Industrial production of video surveillance cameras
+running costs
+SABIAMAR
+PRISMA
+prototype network
+operating conditions
+Improved LEDs
+HYPERNETS project
+effective way
+Recent advances
+Webcams
+expected lifetime
+huge economy of scale
+objective
+sensors
+Preparations

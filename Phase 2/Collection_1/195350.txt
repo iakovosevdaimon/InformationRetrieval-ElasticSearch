@@ -1,0 +1,59 @@
+breast cancer diagnosis
+breast MRI
+diagnosis of breast tumours
+applied research
+strategic research
+research priority
+basic research
+efficiency of cancerrelated breast lesions
+European Research Area
+segmentation techniques
+Challenging Breast Cancers
+CAD methods
+malignant lesions
+mass-enhanced lesions
+different research objectives
+kinetic parameters
+interdisciplinary project
+novel automated diagnosis system
+Non-mass
+image processing techniques
+computer aided diagnosis
+diagnosis of major diseases
+kinetic characteristics
+real applications of CAD
+new segmentation algorithms
+European society
+European Union
+kinetic feature descriptors
+Intelligent Automated System
+high variations
+spatial variations
+DCE-MRI
+typical morphological parameters
+non-rigid registration
+diagnostic accuracy
+Dynamic Contrast
+significant differences
+Magnetic Resonance Imaging
+software implementation
+motion compensation
+heterogeneous appearance
+radiological work-flow
+radiologist
+critical components
+interfaces
+specificity
+Vision
+transfer of knowledge
+Ignacio Alvarez Illan
+health
+overall objective
+reason
+impact
+overarching goals
+main goal
+temporal enhancement
+sensitivity
+expected results
+alternative

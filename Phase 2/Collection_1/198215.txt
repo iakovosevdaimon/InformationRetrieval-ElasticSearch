@@ -1,0 +1,52 @@
+Quantum Field Theory models
+operator-algebraic description of Boundary Conformal Field Theory
+Information Theory
+Euclidean description
+theory of Subfactors
+Quantum Algebraic Structures
+Vertex Operator Algebras
+new classes of models
+Minkowskian description of phase boundary
+algebraic deformation
+mathematical methods
+objective points
+objective plans
+intrinsic description of phase boundaries
+mathematical-conceptual description of interesting Physical contexts
+Neumann Algebras
+new constructive methods
+emerging mathematical structures
+hand
+non-perturbative construction of QFT models
+new basic operations
+interesting situations
+massless context
+massive context
+local Conformal Nets
+QFT index theorem
+project
+Noncommutative Geometrical viewpoint
+innovative deep interplay
+known effects
+Jones
+Fröhlich
+defects
+tensor categorical
+recent ideas
+powerful tools
+unstudied settings
+PI's notion of Q
+system
+Lechner
+Fuchs
+unifying framework
+dimensions
+Existing partial classification results
+Runkel
+basis
+Witten
+Rehren
+Shorter Moonshine Net
+Schweigert
+end
+researchers

@@ -1,0 +1,41 @@
+energy-efficient heterogeneous computing
+energy-efficient computing
+software-stack support
+software stack support
+software stack-support
+heterogeneous cores
+energy efficiency
+CPUs
+FPGAs
+Europe mature software stack
+Intel-Altera
+Low Energy Toolset
+efficient compute unit
+FPGA heterogeneous hardware substrate
+system hardware
+die
+IBM-Altera
+Xilinx
+Heterogeneity
+system integrators
+ICT industry
+ICT sector
+specialized compute units
+general purpose GPUs
+CPU-GPU
+power
+ARM
+s Law
+future growth
+global electricity consumption
+NVIDIA
+package
+performance
+efforts
+LEGaTO project
+end of Moore
+AMD
+primary ambition
+problems
+order of magnitude
+challenge

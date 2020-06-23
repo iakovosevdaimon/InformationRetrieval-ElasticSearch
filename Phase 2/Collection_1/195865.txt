@@ -1,0 +1,54 @@
+optical networks
+optical fiber
+INnovatiVE cohereNt detecTIon Optical access Networks
+core networks
+metro networks
+Passive optical network
+simplified optical receiver architectures
+digital-signal
+suitable combination of optical signal processing techniques
+provision of real-time high-bandwidth access
+high capacity communication architectures
+communication infrastructure
+essential role
+employment of coherent detection
+digital communications
+digital agenda
+cost requirements
+proposed approaches
+proposed concepts
+advanced communication services
+unprecedented bandwidth demand
+bandwidth-hungry applications
+required DSP
+long-term solutions
+INVENTION project
+cost reduction
+capacity of actual time-division multiplexed PONs
+operating expenditures requirements
+final scope of INVENTION
+Internet
+immersive video
+development of cost-effective
+problem
+proposal of mid-term
+end users
+transmission medium
+ubiquitous cloud computing
+challenge
+economy
+capital
+bridge
+end-users
+algorithms
+sustainable growth
+information age
+achievement
+objectives
+near future
+society
+realizable levels
+ICT strategy
+Telecommunications carriers
+design
+technology

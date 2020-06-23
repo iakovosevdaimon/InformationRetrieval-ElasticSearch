@@ -1,0 +1,44 @@
+random processes
+study of random operators
+Spectral theory of random operators
+large random matrices
+random matrix theory
+context of random band matrices
+classical random walk
+spectral properties
+spectral edges
+spectrum
+underlying geometry
+circle of questions
+multi-dimensional underlying space
+Thouless criterion
+geometric structure
+bulk
+predictions
+variety of basic questions of mathematical physics
+theoretical physics
+new methods
+quantum particle
+local eigenvalue statistics of general matrix
+interesting mathematical structures
+one-dimensional case of Dyson Brownian motion
+lead
+localisation
+mixing time
+theme
+proposal
+disordered medium
+terms
+values
+complete description
+problems
+influence
+limit
+point
+arguments
+appearance
+richness
+goals
+result
+exception
+behaviour

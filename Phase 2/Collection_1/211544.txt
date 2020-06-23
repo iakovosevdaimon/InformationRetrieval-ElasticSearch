@@ -1,0 +1,52 @@
+mmW bands
+test mmW MIMO
+massive MIMO mmW SC networks
+massive MIMO mmW SC performance
+massive MIMO antennas
+mmW radio channel measurements
+meaningful mmW SC deployment
+measurements of mmW antenna arrays
+theoretical background of massive MIMO
+typical BEs
+Built Environments
+B5G wireless networks
+operating environments
+mobile communications
+diversity of BEs necessary
+dense urban environments
+single antennas
+single radio links
+airports
+stations
+massive multiple-input multipleoutput
+dense deployment of millimetre
+successful deployment
+mmWave Communications
+research approach
+research objectives
+number of research challenges
+efficient high-capacity wireless communications
+model radio propagation channel
+new buildings
+system level
+existing buildings
+considerable challenges
+actual performance characterization
+foreseen exponential growth of mobile data traffic
+offices
+conjunction
+SCs
+stadiums
+central business districts
+limited time delay resolution
+small-cells
+homes
+disruptive key
+aim
+technologies
+component
+fundamental questions
+methods
+project
+geographical areas
+hot spots

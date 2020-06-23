@@ -1,0 +1,48 @@
+advanced static analyses
+designers of static analysis
+verified static analyser
+STAtic analysis platform Computer software
+reliable static analysis tools
+use of advanced static analysis tool
+verified advanced abstract interpreters
+properties of software
+advanced abstract interpretation technique
+Industrial static analysers
+software codes
+Astrée
+Critical software industry
+C programs
+traditional software validation campaigns
+adoption of abstract interpretation techniques
+Verasco
+popular technique
+VESTA project
+security analyses
+bugs
+tool-support
+programming errors
+compiler toolchain
+order
+meticulous testing
+foundational landmark
+aircraft
+railways
+ligthen
+rare expertise
+Microsoft
+research area
+guidance
+life
+ideas
+reviews
+huge code base
+programmers
+Google
+open-source
+Coq proof assistant
+Facebook
+low-level softwares
+outcome
+CompCert
+white page
+absence

@@ -1,0 +1,51 @@
+field of quantum simulation
+Analog Quantum Simulation
+analogue quantum simulation of interacting spin models
+controlled interacting quantum systems
+interacting spin systems
+inaccessible quantum phenomena
+unobserved quantum phenomena
+desired spin-spin interactions
+novel circuit quantum-electrodynamics
+D geometries
+Superconducting Qubits AQSuS
+proposed platform
+proposed experimental approach
+D transmon qubit architecture
+qubit correlations
+dipolar interactions
+larger systems
+experimental setup
+experimental goals
+Study open system dynamics
+readout single qubit states
+two-dimensional geometries
+cQED experiments
+numerical methods
+solid state physics
+young research group
+central novel idea
+big new research direction
+applications
+engineerable properties
+long coherence times
+way
+broad range
+kagome
+important current goal
+complicated wiring
+theory collaborators
+computing
+metrology
+complexity
+triangular lattices
+trapped-ions
+backgrounds
+spatial dependence
+foundations
+limitations
+scheme
+article
+PRB
+grant
+years

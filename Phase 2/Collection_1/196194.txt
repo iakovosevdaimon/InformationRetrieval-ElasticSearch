@@ -1,0 +1,62 @@
+design of circuits
+clock-design
+design automation tools
+manual design
+design time
+design of leading edge integrated circuits
+Mesh Design of Leading Edge Design of Integrated Circuits EDXACT
+existing tools
+software tools
+Electronic Design Automation
+Control Tools
+different design approach
+commercial tools
+internal tools
+modern tools
+today’s circuits
+advanced integrated circuits
+feature sizes of leading semiconductor circuits
+Extraction Analysis
+sought-after mesh analysis tool
+timing analysis
+existing technology
+clock-tree
+leading IC manufacturers
+monopolistic tool
+capable of analysing clock
+important market opportunity
+interesting technology
+software editor
+nm downto
+important aspects
+Huawei
+official partnership
+order
+AMD
+marketing material
+Samsung
+world
+products
+intelligent glue
+mixture
+oligopoly
+supplier of Apple
+prototype
+TSMC
+companies
+tens of millions
+business plan
+normality
+transistors
+documentation
+leaders
+major suppliers
+usage
+direct competition
+project
+technical possibilities
+energy
+Designers
+use
+Phase
+decade

@@ -1,0 +1,45 @@
+Control Systems
+Automation Systems X2Rail
+radio communication systems
+existing communication systems
+Moving Block systems
+cost intensive systems
+new lab test systems
+new cyber security systems
+generation advanced rail automation systems
+Advanced Signalling
+signalling architectures
+future signalling
+connected signalling
+field of railway signalling
+Advanced Traffic Management
+train punctuality
+ATO
+Start-up activities
+scope of X2Rail
+extensive use of Automatic Train Operation
+intelligent traffic management
+field of lab testing
+ETCS technologies
+Innovation Programme
+decision support system
+selected key technologies
+simulations
+innovations
+backbone
+command
+required functional enrichment
+Smart Wayside Objects
+backward compatibility of ERMTS
+usable track capacity
+order
+railways
+Shift2Rail Joint Undertaking
+IP2
+energy consumption
+S2R-CFM
+costs
+limitations
+following specific objectives
+actions
+project

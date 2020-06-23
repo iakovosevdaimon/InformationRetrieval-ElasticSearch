@@ -1,0 +1,56 @@
+Design Methods
+Security Summary
+benefit of security
+security viewpoint
+security evaluation
+digital hardware design
+design objective
+design driver
+huge security problems
+Post-Snowden Circuits
+different abstraction layers
+secure trustworthy digital circuits
+trust evidence
+root of trust
+individual layers
+standard cell compatible digital design flow
+generation electronic circuits
+strong built-in trust
+Comprehensive set of circuits
+generation cryptographic algorithms
+protocols
+Internet
+hardware IP blocks
+high-quality cryptographic algorithms
+higher levels of abstraction
+post-quantum public key schemes
+embedded HW
+overall objective
+strong demand
+embedded application
+wired links
+private data
+authenticated encryption schemes
+integration
+fundamental enabling technologies
+SW platforms
+hackers
+process variations
+amazing speed
+society
+attack capabilities of intelligence agencies
+ICT systems
+orders of magnitude stronger
+human environment
+cloud
+complexity
+organized crime
+sensors
+wide range of applications
+nodes
+Protection
+Things
+body
+abuse
+proposal
+Electronics

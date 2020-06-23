@@ -1,0 +1,48 @@
+graphical models
+agent's DAG
+existing models of BRE
+graphical representation of BRE
+DAG representation
+reach of current models of BRE
+subjective belief
+objective distribution
+concept of Bayesian networks
+AI
+statistics
+agent's choice
+behavioral characterizations of general classes of models
+boundedly rational expectations
+Non-Rational Expectations
+multi-agent environments
+distinct graphical representations
+objective probability distribution
+new framework
+basic formalism
+standard Bayesian-network factorization formula
+framework's basic version
+modeling economic agents
+issues
+special cases
+high-order
+monetary policy
+limited understanding of statistical regularities
+directed acyclic graph
+dataset
+asset pricing
+learning foundation
+unmodeled fallacies
+reverse causation
+relevant random variables
+applications
+missing values
+actions
+notion
+implications
+project's interdisciplinary nature
+imputation method
+distortion
+ideas
+sense
+type
+applicability
+personal equilibrium

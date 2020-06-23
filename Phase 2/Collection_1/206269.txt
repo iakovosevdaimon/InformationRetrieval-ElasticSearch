@@ -1,0 +1,46 @@
+dual mode EPS
+high power HET EPS TRL6
+low power b
+high thrust EPS
+CHEOPS consortium
+development approach
+existing EPS products
+Hall Effect Orbital Propulsion System CHEOPS
+EPS supply chain
+different Hall Effect Thruster electric propulsion systems
+thruster erosion
+GEO applications
+exploration applications
+LEO applications
+system lifetime
+ability
+project start
+detailed development
+System PDR review
+end of CHEOPS Phase
+advanced numerical design tools
+satellite platform
+HET performances measurement standard
+given design
+following elements
+ESA ECSS approach
+advanced non-intrusive tests
+biggest European Prime satellite makers
+incremental technology changes
+drivers
+interactions
+representatives
+Common transverse activities
+cathode
+understanding
+months
+market needs
+observable behaviour
+PPU
+FMS
+academia
+SNECMA
+TRL7
+alternative propellants
+SRC guidelines
+significant progress

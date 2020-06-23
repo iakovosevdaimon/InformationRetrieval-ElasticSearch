@@ -1,0 +1,49 @@
+Assembly Planning
+new assembly plans
+future of assembly
+planning of assembly tasks
+current assembly strategy
+different assembly alternatives
+Aircraft Final Assembly Line
+new technologies
+human worker
+AR-based assistance tool
+current state
+maintenance information
+new testing tools
+completion of tasks
+aircraft manufacturers
+interior components
+current design tools
+inclusion of relevant information
+VR simulator
+disadvantages of different strategies of collaboration
+perception of different types of workers
+unexpected situations
+Virtual Reality
+Cargo areas
+Augmented Reality
+SIMFAL project
+alternative action plans
+complex process chains
+logistic issues
+SIMulation
+computational sources
+support data
+times narrow environment
+non-ergonomic conditions
+robotics
+study
+Cabin
+proper real context
+solution
+robots
+system
+problem
+malfunctioning
+logistics
+effective way
+main factors
+performance
+result
+concept of middleware

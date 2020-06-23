@@ -1,0 +1,43 @@
+hardware power
+Low-power GPUs
+power information
+low-power devices
+low-power GPU software
+power efficiency
+additional power
+low-power GPU contexts
+Low-Power Parallel Computing
+Future low-power system
+performance information
+strict power limitations
+expected performance
+higher performance
+aspects of performance analysis
+new hardware performance counters
+complete performance analysis process
+quality of current performance analysis tools
+hardware improvements
+complex applications
+demands
+standardisable API
+GPU driver
+prototype hardware implementation
+LPGPU project
+programmers
+toolchain
+wider range of applications
+mobile computing
+multiple application use-cases
+initial design
+entire design
+available resources
+analyses
+interface
+visualisation tool
+chips
+results
+automotive systems
+domains
+ubiquity
+consortium's expertise
+efficacy

@@ -1,0 +1,56 @@
+age-associated alterations
+PCMRI limitations
+PCMRI measurements
+hemodynamic alterations
+CFD solver
+CFD results accuracy
+age-associated remodeling
+impact of CFD assumptions
+return phase PCMRI data
+D hemodynamic
+Age-related remodeling
+successful ageing
+AGeing effects
+human aORta
+vascular districts
+new tools
+advanced characterization
+quantitative assessment
+aortic hemodynamics
+increased cardiovascular risk
+wider range of CVDs
+acquired flow fields
+D velocity field
+presence of cardiovascular diseases
+Quantitative morphometric parameters
+phase-contrast magnetic resonance imaging
+open-source Vascular Modelling ToolKit
+spatial resolution
+University of Toronto
+large-scale cross-sectional dataset of aortas
+Italy
+Canada
+subjects
+temporal
+wall shear stress quantification
+Torino
+Politecnico
+assimilation
+technique
+shApe
+prognostic purposes
+months global fellowship
+potential clinical utility
+time-consuming operator-dependent tasks
+monitoring
+diagnostic
+training
+understanding
+computational fluid dynamics
+likely culprits
+synergistic interplay
+diagnosis
+aneurysm
+morphology
+numeric simulations
+Descriptors quantifiable

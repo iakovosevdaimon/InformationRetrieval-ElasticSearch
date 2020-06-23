@@ -1,0 +1,58 @@
+BESIII data
+CGEM anode
+CGEM hits
+CGEM detector candidate
+BESIII Spectrometer Inner Trackers
+key detectors
+GEM foils
+strong BESIII magnetic field
+art of GEM
+innovative design
+project
+innovative Cylindrical Gas Electron Multiplier Inner Tracker
+planar Gas Electron Multiplier
+new analogue readout
+use of new kind
+radiation transparency
+Cylindrical-GEMs
+specific tools
+Specific software
+total radiation length
+optimal data collection
+excellent spatial resolution
+Particle Physics experiments
+operability
+hardness
+custom front-end electronics
+scientific computing
+high occupancies
+participating EU
+Chinese Institutions
+smaller capacitance
+modern spectrometers
+IHEP
+BEPC2
+existing cloud infrastructure
+virtualised grid Tier
+main requirements
+knowledge transfer
+Beijing
+secondments
+tracking performance
+advanced environment
+dedicated ASIC
+commercial standards
+cooperation
+bigger signals
+interaction
+network
+technological aspects
+state
+clear deliverables
+reaction products
+commission
+Proper benchmark channels
+background
+evolution
+KLOE2 Collaboration
+outcome

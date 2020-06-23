@@ -1,0 +1,33 @@
+security of multilinear maps
+cryptographic multilinear maps
+applications of multilinear maps
+iO schemes
+underlying primitives of multilinear maps
+constructions of iO
+objective
+Homomorphic cryptography
+tantalizing goal
+citizens
+practice
+input data
+privacy
+advanced cryptographic tasks usable
+numerous advanced cryptographic functionalities
+Homomorphic Encryption
+Internet
+mobile phones
+banking system
+years
+sensitive information
+Cloud Computing
+emergence of indistinguishability obfuscation
+organizations
+encrypted form
+CLOUDMAP project
+new approaches
+efficiency
+mathematical foundations
+reach
+theory
+premature optimizations
+principles

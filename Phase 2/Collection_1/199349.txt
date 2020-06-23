@@ -1,0 +1,61 @@
+numerical simulation of RTM processes
+predictive simulation
+process monitoring
+industrial RTM
+flow processes
+flow monitoring
+Online monitoring of resin flow
+resin test
+effects of material
+process outcomes
+Simulation tool development
+injection processes
+unified integrated simulation tool
+fidelity of numerical simulation models
+numerous process variables
+stages of RTM processing
+finite element simulation
+predictive modelling
+material state
+moderate pressure resin injection
+material data
+under-cure
+pilot RTM line
+permeability modelling
+careful control of flow speeds
+variability propagation
+composite manufacturing process default prediction
+model variability
+physical resin sensor results
+suitable cure conditions
+proposed project
+quality control system Resin Transfer Moulding
+dry regions
+exothermic effects
+effective processing
+industrial partner
+overall concept
+proposed work
+Topic Manager’s manufacturing site
+appropriate selection of inlet
+fabric mechanical
+tests
+specialist knowledge
+outlet locations
+potential race tracking
+defects
+reinforcement
+excessive residual stresses
+stochastic simulations
+correct placement
+universities
+porosity
+approaches
+uncertainty
+methods
+distortions
+issues
+preforming
+sealed rigid tooling
+Input
+trials

@@ -1,0 +1,50 @@
+existing data
+environmental data
+treatment outcomes
+patient-specific data
+terms of imaging outcomes
+clinical outcomes
+advanced statistical modelling of rich data sets
+combination of multimodal brain imaging outcomes
+flexible LVM
+account heterogeneous types of data
+neuropsychological test outcomes
+complex statistical model
+cohort of MDD patients
+new flexible statistical method
+patient response
+major depression
+individualized depression therapy
+treatment response
+flexible Latent Variable Model
+brain neurobiology
+multimodal neuroimaging
+functional Magnetic Resonance Imaging
+ultimate aim
+general approach
+research project
+high dimensional measurements
+personalized medicine approach
+high resolution Positron Emission Tomography
+fMRI
+PET
+order
+images
+non-Gaussian variables
+selective serotonin reuptake inhibitor
+SSRI
+healthy individuals
+cause of Disability
+non-linear relationships
+single outcome
+application
+Europeans
+adjusted life-years
+established unique database
+drug intervention
+identification of biomarkers
+chosen host institution
+available treatments
+foundation
+complexity
+longitudinal design

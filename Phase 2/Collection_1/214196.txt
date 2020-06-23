@@ -1,0 +1,47 @@
+histone variants H3
+synthesized H3
+role of H3 variants
+DNA replication
+genome-wide dynamics of H3
+replication fork
+replication progresses
+replication timing
+Chromatin dynamics
+Distinct histone variants
+Chromatin organization
+mitotic inheritance of epigenetic states
+asynchronous cells
+individual cells
+synchronized cells
+distinct DNA synthesis
+genome-wide resolution
+cell division
+nucleus of eukaryotic cells
+cell populations
+stable epigenetic signature
+S phase
+impact
+deposition
+potential carriers of epigenetic information
+major regulator of genome function
+single-cell assays
+spatiotemporal patterns
+functional domains
+enriched domains
+specific signatures
+challenges existing patterns
+parental nucleosomes
+binding partners
+shed light
+global distribution
+genomic profiles
+modifications
+novo assembly
+uncoupled pathways
+effects of perturbations
+determinants
+new bulk
+comprehensive computational strategy
+passage
+objective
+question

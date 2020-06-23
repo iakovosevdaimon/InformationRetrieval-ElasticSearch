@@ -1,0 +1,32 @@
+Better MPC Protocols
+performance of MPC protocols
+efficiency of MPC protocols
+implementation of new MPC protocols
+new theory
+new lower bounds
+development
+input data
+large-scale applications
+countless applications
+handling confidential data
+Practice Multiparty computation
+distributed computer systems
+cryptographic technique
+number of
+state
+machines
+techniques
+privacy
+detailed model
+attention
+improvements
+adversary breaks
+open problems
+area
+real platforms
+commercial domain
+recent years
+respects
+project
+information
+limits

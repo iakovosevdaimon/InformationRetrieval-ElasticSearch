@@ -1,0 +1,59 @@
+CVD risk prediction
+CVD risk classification
+Integrated Silicon Photonics Early identification of individuals
+optical laser bench
+Photonics integration
+optical subsystems
+laser array
+early identification of arterial stenosis
+silicon photonics chip
+silicon photonics integrated laser Doppler vibrometer
+screening of arterial stiffness
+care screening device
+optical signals
+early intervention
+optical package
+low-cost device
+moderate risk
+array laser interferometer system
+detection of stenosis
+Assessment of arterial stiffness
+underlying CVD physiological events
+fast screening
+high volume scalable process flow
+aPWV
+concept
+pathological process
+partners
+integrated Ge-detectors
+Early stage CARdio Vascular Disease Detection
+small weight
+small size
+low cost
+high volumes
+primary care
+integration steps
+measurement
+skin-level vibrations
+moving parts
+ESH guidelines
+optics
+point
+aortic pulse wave velocity
+components
+cardiac contraction abnormalities
+open access
+latest ESC
+large population
+results
+parameters
+heart failure
+technology
+economic impact
+target specs
+biomechanical model
+driver of Medtronic
+clinical setting
+design
+objective of CARDIS
+tools

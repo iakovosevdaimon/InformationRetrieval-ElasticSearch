@@ -1,0 +1,41 @@
+D images
+face images
+static images
+face information
+D projections
+human identity matching
+facial information
+matching identities
+D deformable models
+D articulated model
+method
+pose
+probabilistic framework
+overall framework
+set of individuals
+human body
+anatomy variations
+research community
+long video sequences
+active research topic
+computer vision
+gait recognition
+image data
+subject
+main parts
+order
+learning step
+art techniques
+person
+increase
+size
+decades
+real applications
+posterior views
+computing power
+popularity
+state
+steps
+biometric features
+action
+scenarios

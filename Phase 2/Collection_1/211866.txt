@@ -1,0 +1,53 @@
+different phases
+accurate methods
+description of high pressure phases
+binding energies of molecular solids
+high pressure ionic phases of water
+correlation energies
+calculated energies
+lattice energies
+usable methods
+Theoretical methods
+polymorphism of molecular solids
+finite cluster
+reliable predictions
+coupled cluster approach
+basis
+Reliable data need
+size
+precision
+RPA-based approaches
+question of accuracy
+required accuracy
+tiny energy differences
+simulation parameters
+used struggle
+numerical parameters
+main approaches
+description of extended systems
+periodic boundary conditions
+reference quality calculations
+so-called asymptotic correction scheme
+speed-up
+molecules
+convergence
+significant scientific challenge
+stability of polymorphs
+random phase approximation
+possibility of existence
+stronger dependence
+experiment
+considerable issue
+ammonia
+growing concern
+theory
+open questions
+agreement
+general system
+Reproducibility
+field
+project
+identical answers
+aim
+reliability
+researchers

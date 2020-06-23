@@ -1,0 +1,56 @@
+airport control tower
+Information Technologies
+Air Traffic Control
+RETINA project
+control tower air traffic management procedures
+Synthetic Vision Systems
+Airport Surveillance Radar
+Applied Research
+Advanced Control Tower Air Navigation Service Provision
+SESAR ER
+Resilient Synthetic Vision
+D airport model
+System Wide Information Management
+Augmented Reality
+applicability of SV tools
+conceived tools
+Visual Meteorological Conditions
+controllers
+Industrial Research
+Instrument Meteorological Conditions
+well-established surveillance systems
+adoption of new tools
+poor visibility conditions
+SESAR V1-V3
+Remote Towers
+High Performing Airport Operations - Improved Visualisation
+bad weather
+weather-independent
+digital model
+Ecological Interface Design approach
+Surface Movement Radar
+SWIM
+network
+display techniques
+precise positioning
+ASR
+ATC
+terrestrial objects
+smoke
+Awareness
+potential
+kind of environmental occlusion
+data sources
+fog
+pilots
+various analysts
+different areas
+Validation
+human-computer interfaces
+basic principles
+secondary relationship
+SMR
+concepts
+impact
+level of maturity
+tasks

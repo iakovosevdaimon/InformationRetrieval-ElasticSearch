@@ -1,0 +1,54 @@
+blade impact mitigation
+Design of Representative Blade Specimens
+blade impactor structure
+full-scale CROR blade impacts
+numerical simulation of impact
+Impact Simulations
+impact behavior
+Manufacturing of Representative Specimens
+Development of multi-scale explicit impact Finite Element Models
+demanding impact analysis
+CROR concept
+CROR blades
+improvement of numerical FEA models
+constitutive material models
+multi-scale numerical simulation model
+mature ABAQUS Explicit FEA models
+micromechanics scale
+representative impacts of composite plates
+virtual-testing
+Virtual testing
+GENOA multi-scale composite mechanics
+predictive FEA capabilities
+validation of robust
+material characterization
+airframe level
+fuselage structure
+fragment structure
+physical testing building block plan
+series of representative coupons
+project
+ABAQUS Explicit FE solver
+complex composite structures
+realistic predictive capabilities
+current level of safety
+Low level tests
+necessary material properties
+building block approach
+design problem
+comprehensive validation
+Sample Manufacturing
+progressive damage analysis software
+faced challenge
+verification
+respect
+certification regulations
+aviation
+target
+proposed research
+common practice
+main aim
+large weight penalty
+Specific objectives
+fabrication
+RTM method

@@ -1,0 +1,46 @@
+Helicopter Engine Air Intake OPtimization Tool
+engine air intakes design
+engine installation
+Engine manufacturer specifications
+engine performance level
+rotorcraft engine air intake analysis
+multi-points optimization
+Air Intake Plane
+multi-objective
+global optimization method
+optimization strategy available
+proper air supply
+Surrogate Based Optimization approach
+Helicopter manufacturer specifications
+multi-parameters
+automatic optimal design tool
+final objective
+task
+order
+Volume specifications
+airframe performance level
+effective aerodynamic design
+Topic Leader
+adjoint computations
+CFD solver limited capabilities
+distorsion
+software
+flow solution
+stage compressor
+efficient behavior
+impact
+use of gradient free
+given CATIA CAD
+pressure losses aspect
+TRL6
+account
+instance
+end
+Inlet Barrier Filter
+following different issues
+lot of requirements
+flight conditions
+constraints
+project
+conflicting criterions
+optimizations

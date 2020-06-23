@@ -1,0 +1,55 @@
+High Performance Multiscale Computing Multiscale phenomena
+generic multiscale computing patterns
+multiscale applications
+exascale computing systems
+multiscale computing algorithms capable
+multiscale modellers
+reusable High Performance Multiscale Computing algorithms
+exascale-ready
+exascale challenges
+Exascale supercomputers
+multiscale physical processes
+limits of contemporary high performance computing
+future exascale architectures
+generic exascale application scenarios
+performance characteristics
+reliable performance predictions
+customized algorithms
+computer simulations
+approach
+data handling
+energy consumption
+energy efficiency
+heterogeneous architectures
+high-fidelity scientific results
+extreme data requirements
+unprecedented scientific discoveries
+grand challenge applications
+reliable software technology stack
+fault tolerance
+load balancing
+robustness
+wide range of time
+scalability
+road
+models
+tera
+new standards
+length scales
+experimental execution environment
+pan-European facility
+resiliency
+hierarchies
+project
+predictive science
+significant progress
+limitation
+main objective
+complexity
+key
+ambition
+decades
+petascale
+world
+capability
+viability

@@ -1,0 +1,59 @@
+chromatin topology
+chromatin loops
+chromatin configurations
+transcription regulation
+transcription activity
+engineer chromatin architectures
+cell variabilities of chromatin interactions
+metazoan transcription control
+different transcription factors
+regulated interplay of chromatin environment
+transcriptional control Transcriptional regulation of genes
+underlying gene activity
+transcriptional changes
+gene expression
+Eukaryotic genomes
+TADs
+consequence of underlying gene function
+chromosome folding
+eukaryotic cells
+acting factors
+TAD architectures
+genetic elements
+following questions
+fundamental questions
+super-resolution single-cell imaging
+genome-wide screens
+distal regulatory elements
+dynamics of chromosome topologies
+role of genome organization
+epigenetic status of target sequences
+cause
+direct contact
+ANCHOR
+order
+DNA loci
+optogenetics
+study
+CRISPR knock-ins
+new paradigm
+approaches
+textbook view
+associated domains
+groundbreaking insight
+combination of novel technologies
+striking correlation
+project
+major impact
+field
+enhancers
+development
+nuclei
+replication
+repair
+histone modifications
+novo
+sized regions
+studies
+kinetics
+results

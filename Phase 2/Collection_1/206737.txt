@@ -1,0 +1,52 @@
+Lie theory
+number theory
+ergodic theory
+representation theory
+Geometric Structures Discrete subgroups
+Higher Teichmüller theory
+Kleinian groups
+number of meaningful classes of discrete groups
+classification of discrete subgroups of semisimple
+important classes of discrete subgroups of semisimple
+theory of Anosov representations
+spectral theory of pseudo-Riemannian manifolds
+higher real rank
+finite subgroups
+geometric finiteness
+point of view
+meeting point of geometry
+pseudo-Riemannian symmetric spaces
+algebraic geometry
+interesting geometric examples
+affine spaces
+lattices
+hope
+large aspect of modern geometry
+Fuchsian differential equations
+important recent developments
+construction of proper actions
+complementary points of view
+rigidity theories
+recent links
+notions of convex cocompactness
+object of fundamental theories
+complex analysis
+various ways
+boundaries
+dynamical properties
+homogeneous dynamics
+mathematical physics
+fascinating interactions
+study
+basis
+end
+crystallography
+crucial role
+subject
+Thurston
+summary
+project
+century
+powerful applications
+progress
+goal

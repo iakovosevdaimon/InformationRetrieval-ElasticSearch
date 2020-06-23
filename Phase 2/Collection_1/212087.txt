@@ -1,0 +1,62 @@
+Dispersive Equations
+nonlinear dispersive models
+propagation of singularities
+relevant models
+nonlinear models
+localization properties of solutions
+microlocal analysis
+Schrödinger equations
+Waves propagation
+harmonic analysis
+concentration of solutions
+properties of eigenfunctions
+crucial dispersive effects
+Analysis of Geometrical Effects
+boundaries
+wave dispersion
+manifolds
+quantitative refinements of propagation
+good approximate solutions
+study of quasilinear equations
+development of efficient wave packets methods
+earlier developments
+relevant settings
+new tools
+control theory
+linear theory
+mathematical understanding
+great progress
+motivated numerous developments
+phase space localization
+real life physics
+heterogeneous media influence spreading
+physics of optic fiber design
+Green functions
+sharp pointwise bounds
+strong connections
+boundary
+scope
+large numbers of caustics
+number theoretic questions
+hyperbolic PDEs
+raise of computed tomography
+parametrices
+problems
+respect
+direct applications
+sonar technologies
+geometric component
+proposal
+recent activity
+heart
+clusters
+knowledge
+context
+quantum chaos
+curved background
+birth of radar
+decade
+focus
+Motivations
+important ones
+infinity

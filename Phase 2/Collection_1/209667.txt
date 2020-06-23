@@ -1,0 +1,54 @@
+tau seeding
+tau post-
+tau protein function
+soluble tau protein
+known interactors of tau
+seeding cascade
+seeding activity
+microtubule-associated protein tau
+tau life cycle regulators
+disease process
+identified target genes
+misfolded protein
+Alzheimer’s disease
+novel target genes
+cellular assay
+common mechanism of disease progression
+specific FRET-based biosensor cell assay
+validation of human proteins
+cellular pathways
+high potential
+molecular pathways
+network models
+systematic validation
+relevant gene
+drug targets
+self-propagation process
+new drug screens
+proteostasis
+misfolding of functional
+templates
+kinases
+neurodegenerative disorders
+chemical compounds
+important foundation
+pathogenic aggregates
+seeds’
+causal relationships
+study
+results
+modulation
+therapeutic strategies
+knockdown screen
+literature
+related tauopathies
+shRNA
+Identification
+elegans
+mechanistic details
+medium term
+premise
+hits
+neurological illnesses
+purpose
+addition

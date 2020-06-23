@@ -1,0 +1,81 @@
+Societal Big Data
+Big Data technology
+Big Data solutions
+Big Data Europe
+data analytics
+employed data
+data visualisation
+Big Data Integrator Platform
+data value chain
+technical Big Data experts
+large-scale data resources
+Big Data Aggregator platform infrastructure
+multilingual data harvesting
+ready Big Data aggregator platform
+key open-source Big Data technologies
+customised data processing chain
+data-intensive science practitioners
+Europe’s Societal Challenges BigDataEurope
+societal challenges Health
+Europe’s major societal challenges
+wide range of societal challenges
+support measures
+requirements
+provided support mechanisms
+Horizon
+major aspects
+technology assets
+knowledge assets
+related communities
+relevant communities
+defined coordination
+diverse range of stakeholder groups
+ed user groups
+batch processing
+minimal knowledge
+ICT infrastructure
+business processes
+aspects of publishing
+evolving processes
+current players
+current workflows
+sound solution
+European research prototypes
+large number of stakeholders
+integrated stack of tools
+latest European RTD developments
+Agriculture
+Food
+Climate
+Transport
+Energy
+participating roles
+parts
+different domains
+needs
+respect
+terms
+Social Sciences
+cloud-deployment
+advantage
+Security
+group scheme
+ecosystem of specifications
+W3C
+Software
+reference implementations
+entry barrier
+opportunities
+Hadoop
+concrete methodology
+outreach
+objectives
+new businesses
+Cassandra
+disruption
+effectiveness
+main instruments
+Storm
+Design
+order
+end

@@ -1,0 +1,59 @@
+curated data
+data modelling
+distributed data
+data indexing
+big data
+suitable data model
+high-level data analysis
+existing data formats
+Genomic Computing
+lens of basic data management
+repositories of well-curated sequence data
+parallel computing
+Query processing
+computational abstractions
+general abstractions
+individual problems
+domain-specific abstractions
+DNA of large populations
+DNA region
+generation sequencing technology
+cancer
+new-generation query language
+large consortia
+federated repositories
+specific needs
+resulting technology
+computational efficiency
+user-friendly search services
+fundamental biomedical problems
+seamless integration of descriptive statistics
+doors
+classic relational algebra
+choice
+foundational approach
+computation steps
+hundreds of methods
+clusters
+public clouds
+metadata
+interoperability
+PI’s background
+performance
+Internet of Genomes
+cost
+extraction of regulatory networks
+integrated access
+radical paradigm shift
+Answers
+driving mutations
+genomics
+crawling
+principled way
+broad perspective
+objective of GeCo
+environment
+Bioinformatics
+time
+Huge investments
+vision

@@ -1,0 +1,62 @@
+V nanowire CMOS technology
+V nanowire MOSFETs
+V MOS technology
+V Nanowire Semiconductors
+V nanowire MOSFET RF-transistor technology
+V heterostructure nanowires
+Technology toolbox
+V nanowire MOSFET low-noise amplifiers
+millimeter wave
+performance of silicon
+p-type nanowire MOSFETs
+future technology nodes
+clear technology path
+millimeter-wave applications
+wave technologies
+silicon platform
+advanced CMOS RF
+millimeter-wave circuit design
+wave components
+Si CMOS compatible
+future RF-circuits
+Si chip
+p-channel MOSFETs
+Generation High Performance CMOS SOC Technologies Overall objective
+Circuit demonstrators
+Circuit design library
+logic capability
+co-integration
+implementation
+evaluation
+use
+Development of science
+INSIGHT
+high bandwidth wireless applications
+power amplifier circuits
+breakdown voltage
+Chip approach
+nm node
+Voltage-Controlled Oscillators
+output power available
+partners
+flip-flop
+benefits
+well-documented experience
+mixers
+cost reduction of key
+frequency dividers
+Realisation of basic building blocks
+demonstration
+transceiver range
+higher TRLs
+prescalers
+System
+processes
+dynamic characterisation
+commercialization
+materials
+strong consortium
+sensitivity
+devices
+main outcomes
+vision

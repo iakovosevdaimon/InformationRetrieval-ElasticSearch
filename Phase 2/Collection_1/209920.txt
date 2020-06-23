@@ -1,0 +1,64 @@
+channel attacks
+derived instruction-level leakage models
+Early Assessment of Leakage
+leakage behaviour of arbitrary implementations
+necessary tools
+channel evaluations
+tools capable
+channel resilience
+novel leakage acquisition techniques
+standard compiler
+access
+samples of cryptographic implementations
+compiler enhancements
+profiling information
+instruction level
+practical implementations
+key ranking
+overall vision
+research hypothesis
+academic research
+Kocher's attacks
+novel profiling strategies
+specific target device
+overarching research objectives
+rapid evaluations
+complete key recovery possible
+key-dependent intermediate state
+specialist lab
+equipped lab
+target code
+final result
+specialised cryptographic engineers
+limited domain-specific knowledge
+WP1
+encryptions
+secret
+Embedded Software
+small devices
+semantics
+developers
+syntax
+analyses
+priori
+comprehensive methods
+design time
+practice
+meaningful statements
+ciphertexts
+improvements
+methodologies
+demonstrators available
+substantial progress
+WP3
+WP2
+CoG
+Sound
+approaches
+plaintexts
+shelf components
+WP4
+Integration
+project
+aim
+goals

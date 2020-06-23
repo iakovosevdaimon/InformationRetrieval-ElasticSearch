@@ -1,0 +1,50 @@
+processing data
+Integrated management of structural biology data
+Structural biologists
+data analysis
+data management facilities
+different techniques
+focus of structural biology
+different data stores
+Protein Data Bank
+multiple experimental techniques
+complementary techniques
+single project
+existing facilities
+growing use of combined techniques
+new domain-specific metadata terms
+multiple experimental facilities
+existing metadata standards
+technique-specific pipelines
+expert
+terms of automated pipelines
+different research infrastructures
+application level service specific
+single macromolecules
+structure determination
+final structure
+integrated datasets
+simpler prokaryotic organisms
+World-wide E-infrastructure
+provision of new ones
+macromolecular machinery of higher organisms
+cases
+systems of central relevance
+public repository
+links
+experiments
+users
+human health
+proposal
+benefit
+generic services
+proposed activity
+deposition
+EUDAT
+overview
+effort
+precondition of publication
+resulting integration
+Journals
+EGI
+history

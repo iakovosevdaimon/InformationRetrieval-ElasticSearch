@@ -1,0 +1,48 @@
+B cell expansion
+B cell signalling
+B cell mechanical activity
+binding of B cell receptors
+memory B cells
+B cell clonal selection
+affinity maturation of individual B cell clones
+critical B cell activation steps
+antibody affinity maturation
+T cell help
+strength of antigen binding
+Regulation of antibody responses
+antibody-secreting
+antibody repertoire
+antigen internalisation
+antigen bonds
+surfaces of antigen
+helper T cells
+mechanical properties of BCR
+application of mechanical forces tests BCR binding strength
+production of antibodies
+development of vaccines
+foreign antigens
+emerging pathogens
+neutralising antibodies
+understanding
+generation vaccines
+pathogen evasion
+cellular mechanisms
+wide range of infections
+differentiation
+BCRs
+effective mechanism of protection
+rational strategy
+practical implications
+presentation
+invariant parts
+design
+role
+timing
+problem
+studies
+magnitude
+composition
+laboratory
+results
+aim
+hypothesis

@@ -1,0 +1,46 @@
+Monte Carlo codes
+High-Performance Monte Carlo Methods
+SAFEty Demonstration
+realistic Safety Analysis
+McSAFE project
+important core safety parameters
+realistic core design
+time-dependent Monte Carlo
+research reactors
+McSAFE tools
+core design optimisation
+safety features evaluation
+current state-of-the-art methods
+Industry
+applications of LWRs
+hand
+generation
+EU HPMC project
+operational flexibility of nuclear reactors
+widespread numerical tools
+coupled solution methodologies
+advanced depletion
+optimal coupling of MC
+conservatism
+Proof of Concept
+thermal-hydraulic solvers
+scientists
+experienced researchers
+achievements
+overall objective
+algorithms
+dissemination of knowledge
+young engineers
+priority topics of NUGENIA
+complicated geometry
+parallel simulations
+master
+increase
+envisaged developments
+straight-forward manner
+physics
+addition
+doctoral students
+kind of projects
+innovation action
+period

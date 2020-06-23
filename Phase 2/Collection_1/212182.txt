@@ -1,0 +1,46 @@
+Homotopy Theory of Moduli Spaces Moduli spaces
+main moduli spaces
+moduli spaces of graphs
+moduli spaces of modules
+study of moduli spaces of manifolds
+moduli spaces of smooth manifolds
+cohomology of moduli spaces of manifolds
+study of certain moduli spaces
+stable homology of moduli spaces of surfaces
+spaces of diffeomorphism groups of manifolds
+infinite loop spaces
+spaces of general linear groups
+tautological rings of moduli spaces of Riemann surfaces
+spaces of automorphism groups of free groups
+spaces of positive scalar curvature metrics
+spaces of Riemannian metrics of positive scalar curvature
+manifolds of higher dimension
+proposal
+new results
+new connections
+new information
+methods
+phenomenon of homological stability
+traditional stable range
+failure of ordinary homological stability
+analogous results
+main goal
+structure of tautological subrings
+higher-order forms
+multiplicative point of view
+different points of view
+Weiss
+calculation
+techniques
+Madsen
+relation
+breakthrough result
+topology
+years
+great deal of development
+algebraic geometry
+mathematical objects
+case
+type
+Galatius
+goals

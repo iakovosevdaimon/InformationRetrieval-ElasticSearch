@@ -1,0 +1,55 @@
+datacenter architecture
+hybrid optical infrastructure
+Ethernet optical TDMA network
+PROJECT hybrid electronic-optical network architecture scales
+reconfigurable oPtical arcHitecture
+inter-datacenter connectivity
+inter-datacenter scenario
+reliable inter-datacenter networking
+application interfaces
+Application Programming Interface
+s electronic-optical smart Network Interface Card
+dynamic hardware-level network reconfigurability
+optical subsystem design
+application requirements
+number of datacenter hosts
+datacenter operator’s domains
+SDN controller
+functional network subsystems
+PROJECT concept
+fast optical pod switch
+PROJECT innovative control plane
+SDN modules
+s hybrid
+southbound interface
+northbound interface
+overlaying control plane
+scalability of current network architectures
+functional control plane overlay
+hardware-level dynamic re-configurability
+view of disaggregated datacenter deployment scenarios
+application-awarE SDN cLoud datacentErs Datacentre traffic
+transparent networking
+dynamic bandwidth allocation
+merges hardware
+Gb
+existing Service Level Agreements
+Low latency
+Ethernet granularity
+Rack switch
+physical layer infrastructure
+new concept of disaggregation
+emerging cloud business opportunities
+quasi-deterministic QoS
+telecom
+software virtualization
+digit growth
+functions
+storage networks
+operational environment
+needs
+end-to-end solution
+VMs
+compute
+power
+cost

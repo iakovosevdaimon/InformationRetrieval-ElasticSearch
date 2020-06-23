@@ -1,0 +1,29 @@
+Automatic Design of Robot Swarms
+design problem
+DEMIURGE
+re-design
+robot swarm - hardware
+Swarm robotics
+automatic way
+requirements
+optimization problem
+project
+optimization algorithms
+different control software structures
+computation-intensive way
+techniques
+on-line adaptation mechanisms
+ways
+validation protocols
+scope
+appealing approach
+coordination of large groups of robots
+state
+run time
+aspects
+intelligent system
+art
+specification language
+novel concept
+labor-intensive process
+goal

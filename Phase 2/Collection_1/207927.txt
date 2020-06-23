@@ -1,0 +1,62 @@
+SpFi products
+SpFi Analyser PXI
+SpFi Analyser Box
+SpFi IP-core
+SpFi-based systems
+space agencies
+IngeniArs SpFi advanced prototype
+forthcoming space missions
+deployed products
+industrial space community
+European Space Agency
+EU space market share
+customer’s ground equipment
+necessary off-the-shelf products
+industrialising compliant products
+standalone ground equipment
+ECSS board
+testing of aerospace systems
+strategic aerospace field
+PXI interface
+IP core
+Aerospace industries
+business strategy of IngeniArs
+ambitious goal of SIMPLE
+ESA
+Spacefibre IMPLementation design test Equipment
+new communication standard
+EU member state governments
+board of satellites
+customer’s FPGA
+advancement of Europe
+success of SpaceWire
+SpaceWire solutions
+high-speed communication requirements
+set-up strategic commercialisation partnerships
+TRL6
+development
+speed-up
+outcome of SME
+embedded module
+Gbps
+SMEs
+cumulative EBITDA
+project
+links
+TRL9
+cell
+example
+larger group of stakeholders
+high data-rate
+worst case
+pre-requisites
+FTE positions
+period
+MEuro
+D institutions
+ASIC designs
+industrialisation
+finalisation
+company
+aim
+way

@@ -1,0 +1,46 @@
+Realization of quantum spin models
+spin-frustration
+quantum measurements
+Effective spin-spin interactions
+quantum simulators
+two-dimensional ion crystals
+particle quantum simulator
+Single-particle quantum control
+quantum state
+rich physics of two-dimensional spin models
+two-dimensional crystal of laser
+two-dimensional geometries
+complete quantum control
+d Spin Lattices
+single-particle level
+measurements of arbitrary spin correlation functions
+one-dimensional trapped-ion systems
+laser fields
+particle numbers
+laser-cooling
+exploration of two-dimensional lattice geometries
+small-scale one-dimensional trapped-ion simulators
+Investigation of various models
+crystal lattice
+experimental investigation
+steerable laser beam
+models of interacting spins
+radio-frequency trap
+ions’ electronic levels
+cooled ions
+individual ions
+experimental platform
+SPICY builds
+main goals of SPICY
+millikelvin temperatures
+experience
+unit detection efficiency
+simulation
+excitations
+objective
+difficulties
+numerical techniques
+dimensions
+project
+Development of methods
+approach

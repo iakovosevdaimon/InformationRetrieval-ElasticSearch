@@ -1,0 +1,46 @@
+G Networks Infrastructures
+Passive Optical Networks
+generation optical access networks infrastructures
+Radio Access Network
+efficient optical beamforming interface
+pragmatic Ka-band wireless transmission band
+efficient beamsteering
+efficient path
+G wireless communications
+network software programming
+goal BlueSpace
+Networking Capabilties BlueSpace
+Network Function Virtualization
+Use of Spatial Multiplexing
+challenges of increased capacity
+flexible networkmanagement  control BlueSpace proposition
+massive multiple Input Multiple Output
+RF domain
+photonic domain
+added value of Spatial Division Multiplexing
+strict latency control
+massive beam steering capabilities
+SDM
+MIMO
+Advanced technologies
+scalability
+manageability
+space diversity
+unrivalled characteristics
+existing approaches
+resource allocation
+integration
+fiber medium
+fold increase
+seamless starting
+project
+connectivity
+future proof approach
+users
+NFV
+paradigms
+SDN
+compact infrastructure
+PONs
+core concept
+bandwidth provision

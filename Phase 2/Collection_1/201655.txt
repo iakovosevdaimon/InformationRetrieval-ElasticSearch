@@ -1,0 +1,42 @@
+Multi-Agent Systems
+Imperfect Information
+Strategy Logic
+formal methods community
+MAS community
+Logics
+project
+environment
+game theory
+rescue robots
+recent years
+autonomous agents
+agents' knowledge
+robotic rescue teams
+modelling of agents' uncertainty
+rich game-theoretic notions
+order
+development of smart cities
+theoretical paradigms
+rising effort
+endeavours of high potential societal impact
+Games
+practical tools
+nuclear accidents
+Chatterjee
+reasoning
+account
+common objectives
+promising proposal
+real-life applications
+mission
+Henzinger
+partial view
+Piterman
+strategizing process
+criticality
+application areas
+radiations
+example
+interesting properties
+logical approach
+sensors

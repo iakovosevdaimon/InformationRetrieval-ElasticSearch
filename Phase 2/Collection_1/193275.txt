@@ -1,0 +1,71 @@
+effectiveness of active VRU safety systems
+PROactive Safety
+AEB systems
+generation systems
+scope of VRU scenarios
+Improved VRU sensing
+market introduction of first-generation active pedestrian safety systems
+realistic traffic scenarios
+Better understanding of relevant VRU scenarios
+vehicle control strategies
+DAIMLER
+vehicle demonstrators
+Euro NCAP test labs
+proactive situation analysis
+new intervention strategies
+intelligent vehicle domain
+AEB-PED
+situational analysis
+test procedures
+intervention concepts
+Advanced HMI
+generation components
+Accident research
+Video algorithms
+PROSPECT targets
+realistic bicycle dummy demonstrator
+major in-depth accident databases
+case of critical traffic situations
+mobile driving simulator
+fast actuators
+significant progress
+IGLAD
+Audi
+BMW
+past decade
+CyclisTs
+standardization
+IDIADA
+robust detection of VRUs
+Volvo Cars
+result of advances
+user acceptance study
+JARI
+NTSEL
+majority of European OEMs
+BME
+GIDAS
+TME
+BAST
+autonomous emergency braking
+PEdestrians
+cooperation
+VTTI
+experts
+Japan
+overall system performance
+Chalmers
+TNO
+collision avoidance
+UN-ECE
+Testing
+radar technology
+UMTRI
+NHTSA
+consortium
+VTI
+key objectives
+CONTI
+Driver interaction aspects
+UoA
+East Europe data

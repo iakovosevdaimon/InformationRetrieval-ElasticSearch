@@ -1,0 +1,53 @@
+CELSO commercialisation
+CELSO MOB
+CELSO specifications
+CELSO Validator
+Public Transport AVM
+target users of CELSO
+transport operators
+Public Transport Authorities s
+pocket AVM solution
+existing AVM present
+high-performance pocket Automated Vehicle Monitoring system
+functions of existing systems
+performance of conventional AVM
+large EU
+needed software
+needed adjustments
+key weaknesses
+specific users
+large diffusion
+commercialisation analysis
+charge of service contract monitoring
+user information systems
+international target market
+specific module
+bus fleets
+Feasibility Analysis
+prototype product
+report service performances
+product business model
+automatic data validation process
+tablet
+smartphone
+thanks
+significant resources
+lack
+complex technical features
+based APP
+technology
+Company organisation level
+ticketing
+management
+post-sales activities
+real-time control
+light architecture
+hardware improvements
+purchase
+implementation
+reason
+network
+project
+Special attention
+engineering
+technologies

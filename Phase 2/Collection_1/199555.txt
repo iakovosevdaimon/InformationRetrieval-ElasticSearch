@@ -1,0 +1,52 @@
+structural design of polymers
+Structural Complexity of Hydrogen
+microscopic structure of H
+recognition of recurring structural motifs
+accessible structural landscape
+reversible structural transitions
+computational design of H
+liquid water
+bonded materials
+allosteric proteins
+Bond Networks
+bonded systems
+structure of crystalline
+dynamical properties of H
+Polymers Hydrogen bonds
+atomistic simulations
+design principles
+wealth of data
+bonded compounds
+probabilistic data analysis
+complex topological networks
+biomimetic materials
+behavior of systems
+quantum nature
+coarse-grained mapping
+inorganic interfaces
+machine-learning techniques
+experiments of growing complexity
+recurring bonding patterns
+non-linear dimensionality reduction techniques
+phase diagram
+biological contexts
+astrophysical conditions
+response
+protons
+subject of intense debate
+solutes
+propensity
+acceleration of configuration sampling
+efficient simulation
+extensive investigations
+order parameters
+efforts
+confinement
+electrons
+collective variables
+deep physical understanding
+strategy rests
+Kevlar
+Decoding
+flexibility
+objectives

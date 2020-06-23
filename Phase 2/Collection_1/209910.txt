@@ -1,0 +1,58 @@
+motor development
+overall motor
+appropriate motor topology
+suitable superconductive motor
+D modelling of motor components
+MW power
+power density
+D modelling of superconducting motors
+Advanced Superconducting Motor Experimental Demonstrator Air traffic
+high-temperature superconducting
+associated power converter
+required power densities
+higher power values
+necessity of potential superconducting solutions
+robust control of superconducting machines
+DP
+electric loading
+civilian aircraft
+large aircraft
+future aircraft
+new active cooling designs
+integrated cryogenic cooling system
+increasing fossil fuel consumption
+magnetization system
+HTS stacks
+stator area
+s benefits
+ASuMED project
+Previous studies
+average magnetic loading
+innovative modular inverter topology
+hybrid-electric distributed propulsion
+permanent magnets
+enhanced failure protection
+level of individual turns
+massive reductions
+windings
+final tests
+integration
+technology
+rotor
+route
+year
+emissions
+rpm
+scalability
+prototypes
+novel numerical methods
+thermal loss
+kA
+Flightpath
+efficiencies
+efficient cryostat
+assembly
+addition
+technologies
+aim
+purpose

@@ -1,0 +1,55 @@
+robotic systems
+robotic manipulators
+specialized sensor systems
+current systems
+concept project
+low-cost multimodal sensor systems
+novel visuo-haptic sensor system
+sensor setups
+visuo-haptic sensing
+entire robotic arm
+application areas of robotic commissioning
+multimodal sensing
+reduced system complexity
+dedicated force sensors
+proof
+production competitive
+collaborative production
+relevant production scenario
+market entry strategy
+recent market study
+joint mounting
+passive components
+lower costs
+documentation of components
+torque sensors
+application focus
+commercial prototype
+standard commercial gripper
+current robot arms
+interpersonal communication
+mobile platforms
+verification
+un-structured environments
+household robotics
+context
+games
+coherent measurements
+camera
+grippers
+new markets
+endeffector
+tools
+natural compliance
+soft-ware
+paradigm
+contact shape
+rigid mechanics
+rich representation
+Grant ProHaptics
+research prototypes
+manipulation planning
+entertainment
+approach
+high-income countries
+later stages

@@ -1,0 +1,69 @@
+Handling systems
+unpacking systems
+transportation systems
+market demands systems
+warehouse-based systems
+industrial environments
+structured environments
+bin picking
+flexible grasping strategies
+lack of flexible solutions
+safe human-robot
+robotic applications
+industrial setups
+industrial objectives
+logistics system
+non-structured scenarios
+service robotic domain
+intra-logistics operations
+basic operations
+lack of efficiency
+robot capabilities
+cost reduction
+reduction of costs
+System Provider
+perception technologies
+robust environment perception
+certain types of parts
+dynamic package configuration planning
+mechanisms
+innovative multifunctional gripper
+robustness
+flexibility
+highest impact
+objects of variable size
+distribution centres
+shape
+placing
+supply chain
+agriculture
+order
+high variability
+storage
+real requirements
+technology gap
+efficient hybrid
+stiffness
+different surface properties
+relevant scenario
+validation
+weight
+available manipulation
+short-tomidterm
+proposal
+ULMA
+machine tending
+PAK
+factors
+PICKPLACE
+laboratory level
+mature process
+industry
+competitiveness
+manufacturers
+consumers
+factories
+retail
+home
+case
+collaboration

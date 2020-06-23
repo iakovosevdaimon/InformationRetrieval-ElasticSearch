@@ -1,0 +1,50 @@
+system prototyping
+complex System
+system providers
+scalable solution
+SoC virtual platform
+use of virtual platforms
+overall system behaviour
+Prototyping Internet Lot of Things Software Virtual platforms
+SoC integration
+European leading system integrators
+innovative solution
+design environment software
+anticipation of embedded software
+hundreds of distributed platforms
+prototyping flow
+number of connected things
+long time provider of hardware integration platform
+suppliers of MEMS
+functional validation of complex IP
+Magillem
+eSW
+development
+pioneer
+technical analysis
+sensors
+processors
+CEA
+SoCs
+Fraunhofer
+boards
+systems
+Chip
+micro-controllers
+complexity paradigm
+art
+cost
+PILoTS
+early days
+communication devices
+state
+challenge
+certification
+verification
+IoT enablement
+explosion
+answer
+unique position
+tools
+physical board
+competitiveness

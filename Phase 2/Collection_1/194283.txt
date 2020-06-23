@@ -1,0 +1,57 @@
+multispectral imaging
+multispectral video
+Video surveillance
+computational imaging
+video pre-processing
+burst imaging
+resolution imaging
+aperture imaging requirements
+snapshot multispectral imager
+image reconstruction
+SEERS approach
+Persistent video analytics
+cognitive image fusion
+Snapshot spEctral imagEr
+IR domain
+tunnel surveillance
+novel video analytics solution
+embedded approach
+cost effective IR Surveillance SEERS
+cost-effective IR imager
+robust intelligent surveillance
+breakthrough approach
+spectral measurements
+result of SEERS
+Spectral optical design
+event-driven operation
+Development of
+smart performance
+demonstration
+smart networked operation
+aperture sensor arrays
+different scenarios
+different levels
+infrared domain
+terms of performance
+Embedded processing
+variable visibility conditions
+real operational conditions
+VAS
+rain
+gas discrimination
+broad band
+fumes
+robustness
+fog
+detection
+persistence
+thanks
+level determination
+research
+accurate temperature measurement
+benefits
+safety
+security
+Remarkable capabilities
+aim
+µm wavelength

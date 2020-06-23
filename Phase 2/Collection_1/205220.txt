@@ -1,0 +1,51 @@
+Bright Photon Sources
+true single-photon sources
+defective single-photon sources
+best single-photon sources
+photon states
+quantum properties
+host team fabricated photon sources
+quantum dot
+entangled photon-pairs
+used sources
+different sources
+subsequent photon extraction
+low photon flux
+scalable quantum entanglement
+terms of true single-photon generation
+probabilistic quantum gates
+Scalable Quantum Photonics
+single-photons
+development of quantum networks
+optical quantum computation
+quantum communications protocols
+deterministic quantum logic gates
+high coherence properties
+QD state
+long coherence times
+ultrabright QD-cavity systems
+long distances
+long time
+high rates
+incident photons
+high fidelity teleportation
+ultrabright source
+decoherence processes
+semiconductor microcavity pillar
+conceptual knowledge
+Photonique et
+Nanostructures
+unprecedented brightness
+promising flying qubits
+Laboratoire
+successive objectives
+non-linear crystals
+major steps
+background
+control
+orders of magnitude larger
+applicant
+Purcell effect
+interaction
+device
+project

@@ -1,0 +1,54 @@
+ImAging Optimal Transport
+Numerical Optimal tRansport
+imaging sciences
+OT distances
+large-scale optimal transport computations
+European mathematical school of optimal transport
+probability distributions
+flagship applications
+niche applications
+algorithms
+imag- ing sciences
+computer graphics
+computer vision
+mathematical breakthroughs
+standard tool
+confidential tool
+generation of theoretical
+Bregman stochastic optimization
+wealth of theoretical knowledge
+fast optimization codes
+substantial computational resources
+parallelizable entropic regularization schemes
+texture analysis
+material processing
+synthesis
+algorithmic advances
+gradient flows
+exploration
+key players
+color
+data science
+theory
+powerful framework
+outputs
+information divergences
+practical embodiment
+intuitive geometric principles
+Euclidean metrics
+metric spaces
+changes
+alternatives
+visual cortex
+NORIA’s members
+broad sense
+unique opportunity
+quantization
+neuroimaging
+applied fields
+scripting language
+favorable properties
+dissemination
+point clouds
+bottlenecks
+time

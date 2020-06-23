@@ -1,0 +1,63 @@
+G infrastructure services
+GEx
+multiple operators
+cross-domain orchestration of services
+multiple administrations
+multiple countries
+G Exchange
+multiple domains
+multiple carriers
+domain platform
+networking services
+domain single administrations
+G use-cases
+unified European infrastructure service market
+service provisioning
+service elements
+orchestration of complex
+open platform
+multi-vendor
+end-to-end network
+multitude of network operators
+single operator
+operator collaboration
+experimentation
+project
+Sandbox Network
+s open solutions
+different countries
+Market fragmentation
+set of open source software tools
+technologies
+validation
+NFV
+devised architecture
+realistic scenarios
+mechanisms
+heterogeneous technology
+compute resources
+contributions
+virtual connectivity
+adoption
+SDN compatible
+view
+resource environments
+crucial role
+stronger economy
+business models
+unification
+standards bodies of concepts
+extensions
+development
+foundation
+innovation
+goal
+telecom
+economies of scale
+industry stakeholders
+proof
+cloud
+input
+regions
+footprint
+scope

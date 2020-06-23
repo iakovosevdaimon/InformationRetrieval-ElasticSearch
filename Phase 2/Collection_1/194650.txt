@@ -1,0 +1,60 @@
+D energy performance mapping
+mapping energy building performance
+energy losses TherVIS device
+energy performance assessment
+thermal images
+D spatial-thermal mapping
+D spatial-thermal image
+energy consumption efficiency of buildings
+monitoring device
+quantification of local energy losses
+D aerial pictures
+new generation thermal camera
+Thermal-Visual Integrated System
+flexible device
+Unmanned Aerial Vehicle
+blocks
+large extent areas
+historical buildings
+small communities
+districts
+monitoring system
+model
+age of existing buildings
+high speed
+stereo camera
+GPS navigation
+micro-UAV
+low frequency
+innovative methodology
+following TherVIS
+high sensitivity rate
+limited number of images
+different navigation sensors
+detection of structural damages
+manual remote control
+low operating costs
+structural health of civilian infrastructures
+microcontroller-based flight control
+bridges
+environmental impacts
+general issue of increasing importance
+damage evaluation Objective
+project
+pipelines
+commercial phase
+construction industry
+Europe
+validation
+implementation
+demonstration
+automatic cracking pattern recognition
+situ
+meteorological conditions
+laser scanning
+improvement
+public security
+approach
+result
+degradation
+world

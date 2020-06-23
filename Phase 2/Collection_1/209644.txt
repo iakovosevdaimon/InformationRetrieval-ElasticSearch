@@ -1,0 +1,48 @@
+coupling of excitons
+strong polaronic effects
+strong polaronic lattice screening
+ab-initio description of excitons
+Exciton-Phonon Coupling
+polaronic screening contributions
+optical spectra
+quantitative understanding of exciton spectra
+materials properties
+calculation of reliable exciton spectra
+electron-hole interaction
+deep understanding of excitons
+state-of-the-art parameter-free theoretical description of excitons
+theoretical scheme
+theoretical method
+body effects
+static electronic screening
+ab-initio methods
+Principles Optical properties of materials
+pair interaction
+ab-initio software package
+account
+present theoretical standard approach
+pair excitations
+relevant oxides
+lattice degrees of freedom
+body perturbation theory
+systems
+indispensable driving force
+photovoltaics
+microscopic quantum
+innovation
+optics
+large variety of technological applications
+various spectroscopy techniques
+LEDs
+macroscopic scale
+interplay
+phonons
+Bethe-Salpeter equation
+optoelectronics
+semiconductors
+development
+implementation
+EXPHON
+gap of knowledge
+major step
+key objectives

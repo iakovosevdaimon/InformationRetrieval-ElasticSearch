@@ -1,0 +1,52 @@
+Analytical aPproach Conformal Field Theory
+space of Conformal Field Theories
+conformal bootstrap
+quantum field theory toolbox
+frontiers of conformal filed theories
+CFT-MAP
+constraining power of conformal symmetry
+analytical structure of correlation functions
+proposal
+main methods
+mathematical structure of CFTs
+landscape of CFTs
+project
+higher dimensions
+complementary analytical tools
+fundamental outcome of CFT
+correlation functions of operators
+critical phenomena
+new element
+additional information
+new directions
+main focus
+efficient numerical techniques
+various additional assumptions
+global symmetry conserved currents
+word record determination of critical exponents
+energy momentum tensor
+particle physics
+use
+detailed classification
+phase transition
+ultimate objective
+genuine non-perturbative cases
+QFT
+idea
+applications
+scale invariant systems
+approximate reconstruction
+mind
+innovative methodologies
+fresh look
+general feeling
+neighborhood of fixed points
+nontrivial things
+properties
+disposal
+dynamics
+spectacular results
+strong constraint
+complete solution
+program
+reach

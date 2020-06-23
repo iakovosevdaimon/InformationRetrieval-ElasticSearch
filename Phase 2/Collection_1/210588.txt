@@ -1,0 +1,56 @@
+Biomedical Information Synthesis
+standard NLI challenges
+standard NLI data sets
+natural language processing
+Deep NLI techniques
+field of natural language inference
+biomedical texts
+biomedical domains
+Deep Natural Language Inference Deep neural networks
+complex language ambiguities
+extract information
+impactful domain
+information extraction
+rich domain knowledge
+wide variety of language technologies
+DNNs
+critical impact
+ability
+critical tool
+key challenges
+basic world knowledge
+de-facto model
+high dimensional spaces
+system
+scientific articles
+computers
+NLP
+general inferences
+better results
+non-linear compositional transformations
+physicians
+publishers
+textbooks
+testing
+heterogeneous resources
+automated reasoning
+progress
+syntax
+paragraphs
+multiple utterances
+broad challenge
+question
+efficacy of researchers
+structured databases
+semantics
+answer
+task-specific objective functions
+policy makers
+previous paradigms
+single utterance
+posses
+pragmatics
+documents
+soccer
+sport
+power

@@ -1,0 +1,53 @@
+correlated multi-band systems
+correlated systems
+understanding of correlated materials
+multi-band formalism
+multi-orbital quantum impurity models
+multi-orbital transition metal atoms
+single-band models
+new ways
+understanding of light
+new numerical tools
+new approach
+Theory of ultra-fast dynamics
+intriguing properties of complex materials
+orbital degrees of freedom
+development of equilibrium DMFT
+nonequilibrium extension of dynamical mean-field theory
+ultrafast dynamics
+dynamical processes
+induced superconductivity
+numerical techniques
+microscopic description
+microscopic timescales
+accessible phases
+versatile computational tool
+emergence of collective phases
+essential functionality
+active spin
+predictive power
+transformative effect
+information
+foundations
+hemoglobin
+bio-molecules
+current speed limits
+remarkable experimental progress
+cooperative behavior of electrons
+comparable ab-initio
+communication technologies
+body interactions
+iron pnictides
+proposed research
+external fields
+decades
+seminal insights
+magnetism
+femtosecond laser pulses
+successful realization
+contrast
+reach
+parameters
+applications
+qualitative level
+limitation

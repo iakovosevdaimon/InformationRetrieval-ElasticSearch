@@ -1,0 +1,49 @@
+Algebraic Covering Codes
+symmetric rank-metric codes
+rank metric
+special classes of codes
+Network Transmissions Applications of rank
+covering problem
+low covering radius
+arbitrary rank-metric code
+network communications problems
+mathematical theory
+professional network
+combinatorial hardness
+important combinatorial research topic
+fundamental topic
+Engineering applications
+combinatorial objects useful
+researchers of Algebraic Coding Theory
+rich combinatorial structure
+methods
+applicant
+important indicator of code performance
+potential scientific impact
+broadcast problems
+scientific profile
+fundamental tools
+error-free paradigms
+best possible performance
+error-correcting schemes
+efficient solutions
+content delivery networks
+Applied Algebra group
+large files distribution
+newness
+scope
+combined expertise
+UCD
+importance
+Current approaches
+opportunity
+generalizations
+data traffic
+distance distributions
+project
+PhD
+number of errors
+infancy
+bounds
+date attention
+objectives

@@ -1,0 +1,40 @@
+common building blocks
+different building blocks
+federation of facilities
+identified facilities
+different test facilities
+building blocks validation tests’ execution
+surface robotics building
+validation scenarios
+exchangeable state-of-the-art facilities
+best available European test facilities
+common interfaces
+common demonstration scenarios
+common implementation
+parallel operational grants
+highest possible level of validation
+parallel OGs
+coherence
+project
+existing top-notch European test platforms
+testing orbital
+SRC board
+ground testing
+FACILITATORS goals
+on-site support
+space robotics community
+monitoring
+design
+regulated services
+network
+coordination
+development
+availability
+representative datasets
+means
+relevant environment
+easy access
+concept
+objectives
+order
+scope

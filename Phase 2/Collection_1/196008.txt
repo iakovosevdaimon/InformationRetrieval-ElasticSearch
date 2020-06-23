@@ -1,0 +1,35 @@
+CT processes
+new functionals
+correcting CT description
+density-related properties
+quantitative description of CT excited states
+excited states Charge transfer
+DFT
+new family of long-range corrected density functionals
+Density Functional Theory
+development of all-purpose functionals
+wider range of properties
+archetype method
+Accurate characterization of charge
+size-extensive method
+great potential
+solar energy conversion
+photocatalytic reactions
+important role
+attenuating functions
+undesirable biases
+photosensitizers
+way
+better global performance
+enviromental remediation
+sound strategy
+favorable combination of efficiency
+kind of computational simulations
+applicability
+difficult challenges
+current approach
+accuracy
+parameter fitting
+project
+promise
+goal

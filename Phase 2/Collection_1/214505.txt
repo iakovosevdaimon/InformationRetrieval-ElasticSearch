@@ -1,0 +1,59 @@
+internal model learning
+representation learning
+embodied exploration
+Recent reinforcement learning
+data efficiency
+Autonomous Learning group
+Data-Efficient Scalable Reinforcement Learning
+model-based RL approaches
+effective exploration
+practical robotics
+RL algorithms
+practical robots
+small data regimes
+large amounts of data
+process of greater adoption of machine learning
+single model
+Bayesian methods
+real robots
+information theory
+robotics industry
+optimization
+recent works
+self-organized exploration of sensorimotor coordination
+Practical Robotic Environments
+various real-world robots
+robotics environment LPZRobots
+host group
+Bayesian models
+high dimensions
+real problem
+AI breakthroughs
+current approaches
+Georg Martius
+high predictive power
+advanced AI researcher
+low-dimensional internal state spaces
+recurrent networks
+capabilities
+artificial intrinsic motivation
+methodology
+extensive experience
+AlphaGo
+collaboration
+dynamics
+track record of publishing code
+William Hager
+disentangled representations
+project
+main pillars
+frameworks
+PILCO
+postdoctoral research
+minutes of interaction
+infoGAN
+states
+goal
+trials
+cliff
+effort

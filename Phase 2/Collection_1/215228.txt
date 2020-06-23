@@ -1,0 +1,55 @@
+CLL cells
+CLL patients
+study CLL
+development of CLL
+sporadic CLL
+CLL-related repertoire
+pre-leukemic B cells
+B-cell subset
+mature B-cells
+Pre-leukemic B cell repertoire alterations
+CLL-related BCR repertoire
+basis of CLL ontogeny
+functional uniqueness of non-leukemic B-cells
+role of inherited CLL predisposition
+enrichment of specific B- cell rearrangements
+autoreactive B lymphocytes
+alterations specific
+basic B-cell functional aberrations
+frequent B-cell leukemia of unknown etiology
+tolerance induction B-cell chronic lymphocytic leukemia
+high-throughput BCR IG sequencing of non-leukemic B-cells
+leukemic clone
+genetic alterations
+IG structural repertoire
+familial chronic lymphocytic leukemia
+IGH repertoire difference
+familial hierarchy
+specific rearrangements
+IG repertoires
+strongest familial inheritance
+inherited defect
+patient IGH repertoires
+immune tolerance
+auto-reactivity
+overall goal
+development of novel prevention
+abnormal Ab reactivity
+long term goal
+stereotyped Abs structures
+controls
+poly
+evidence
+maturation step
+therapeutic strategies
+lymphoproliferative disorder
+biology
+emergence
+cellular origin
+background noise
+previous studies
+transformation event
+rise
+key finding
+hypothesis
+approach

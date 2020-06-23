@@ -1,0 +1,56 @@
+stage manufacturing production
+Multi-stage manufacturing
+multi-stage production lines
+Defect Multi-stage
+different types of multi-stage production systems
+single stage
+system control
+Zero-Defect Manufacturing
+semiconductor manufacturing
+productivity of production systems
+system integrator
+global system
+Defect Manufacturing framework
+use case concerns
+distributed system architecture
+replicable system architecture
+use cases
+automated serial mass production of automotive components
+batch production of high precision mechanical components
+quality control
+aGent
+ZDM management
+main idea of GO0D MAN project
+automotive electro valves
+important industrial sectors
+Cyber-Physical Systems
+early detection of process faults
+different conditions
+overall quality
+Successful completion
+representative of key European industrial sectors
+results of previous successful EU projects
+early identification of deviations
+smart inspection tools
+Data analytics tools
+mean
+knowledge build-up
+collaboration
+CPS
+house
+professional customized products
+self-adaptation
+industry partners
+trends
+technology providers
+propagation
+ovens
+Real time
+stream processes
+generation of defects
+appliance
+variety of industries
+local level
+end users
+restaurants
+strategies

@@ -1,0 +1,71 @@
+noise sources
+BB noise emissions
+turbine BB noise
+low-noise aircraft
+European turbofan noise testing
+noise reduction technologies
+field noise levels
+novel low BB noise fan systems
+reduced broadband noise TurboNoiseBB
+Validation of improved turbomachinery noise prediction models
+fan broadband
+prediction tools
+quicker implementation of future low noise engine concepts
+state-of-the-art design
+fan stages
+development of novel design methods
+European aeronautics
+EU industry
+CAA codes
+European turbofan test facilities
+exploitation of CAA methods
+appropriate CAA validation data
+validated industry-exploitable aeroacoustic design
+reliable prediction methodologies
+successful validation
+European Aerospace industries
+aircraft engines
+aircraft nacelle intakes
+versatile test facility
+representative test model
+Aero Acoustic
+future requirements
+sound sources
+rear arc
+order
+Computational Fluid Dynamics
+exhaust nozzles
+society’s needs
+way
+respect
+frog NASA-funded technology developments
+AROMA
+FLOCON
+FP7
+experimental database mandatory
+research
+excellence
+possibility
+simulations
+basis
+bypass duct contribution
+competitive supply chain
+FP5 programmes
+TurboNoiseCFD
+TEENI
+ENOVAL
+FP6
+SILENCE
+PROBAND
+OPENAIR
+university
+radiation
+friendly air transport
+combination of partners
+global leadership
+proposals
+addition different approaches
+technical assessment
+methodology
+main objectives
+project

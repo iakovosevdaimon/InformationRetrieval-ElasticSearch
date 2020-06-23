@@ -1,0 +1,53 @@
+system dependability information
+interoperability of dependability information
+DDI concept
+Dependability Engineering Innovation
+Stand-alone system
+use cases
+DEIS project
+Digital Dependability Identity
+CPS - DEIS Cyber-Physical-Systems
+CPS market
+potential
+autonomous CPS
+major application domains
+different application domains
+supply chain
+DDI approach
+use case owners
+societal impact
+science of dependable system integration
+field
+technologies
+heterogeneous railway systems
+effective evaluation
+development time
+case of failure
+societal uptake
+new engineering methods
+efficient synthesis of component
+evaluation of automated driving functions
+Clinical decision support app
+Advanced driver simulator
+tools
+secure composition
+intelligent physiological parameter monitoring
+product lifecycle
+oncology professionals
+cost of ownership
+competitiveness
+applicability
+business models
+catastrophic results
+Healthcare
+European industries
+environment
+respective markets
+industry
+society
+executable
+challenges
+key
+DDIs
+Plug
+core

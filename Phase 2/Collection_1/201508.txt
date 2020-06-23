@@ -1,0 +1,53 @@
+Phase field approaches
+grain growth
+phase field simulation of subsequent grain morphology evolution
+dynamic grain morphology evolution
+Cosserat phase field modelling
+crystal lattice orientation
+Cosserat theory
+continuum crystal viscoplasticity theory
+Cosserat continuum theory
+new theory
+strain field measurements
+lattice rotation evolution
+crystal plasticity models
+evolution equation
+continuum crystal plasticity approach
+field of stored elastoplastic energy
+simulation of viscoplasticity induced grain boundary migration
+physical description of grain boundary motion
+metallic polycrystals
+lattice curvature
+proposed model
+macroscopic recrystallisation models
+microstructure evolution of metallic alloys
+orientation maps
+orientation gradient
+results of finite element simulations
+copper polycrystals
+deformation processes
+understanding of elementary recrystallisation mechanisms
+prior viscoplastic deformation
+deformation of polycrystalline aggregates
+strain hardening
+dynamic recovery
+stored energies
+new ways
+experimental results
+initial energy distribution
+thermomechanical loads
+aluminium
+coalescence
+primary constitutive variable
+missing link
+control
+optimisation
+essential driving force
+unique way of reconciling
+mechanical properties of final components
+change
+hand
+phenomena
+objective
+project
+paradigm

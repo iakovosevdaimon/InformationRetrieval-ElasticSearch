@@ -1,0 +1,59 @@
+G-MoNArch architecture design
+G-PPP Phase
+G Mobile Network Architecture
+fully-fledged architecture
+programmable architecture
+devised architecture
+representative use cases
+efficient use
+vertical industry use case
+use case specific functionality
+novel services
+diverse services
+concepts
+network slicing
+touristic city
+Testbeds
+expected diversity of services
+orchestration of virtualised functions
+sea port requirements
+functional innovations
+enabling innovations
+core functions
+commercial impact
+high potential
+orchestration of access
+cloud-enabled protocol stack
+edge-cloud RAN
+mobile operator deployment
+flexibility
+cross-domain management
+experimental results
+inter-slice control
+realistic innovation plan
+orchestrators
+enhanced products
+opportunities
+Motivation
+coordination
+patents
+new market players
+gaps
+ad
+virtualisation
+resources
+applications
+experiment-driven optimization
+performing algorithms
+domains
+standards
+resource elasticity
+conceptual level
+prototypes
+Approach
+slices
+security
+resilience
+end
+prototype implementations
+practice

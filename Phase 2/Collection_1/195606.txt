@@ -1,0 +1,26 @@
+simulations of non-isothermal flows
+Non-isothermal Conditions
+three-dimensional flows
+non-isothermal hydrodynamic theories
+affordable simulations of practical flows
+wide range of flows
+novel computational model
+Efficient Numerical Modeling of Moving Contact Lines
+moving line of intersection
+direct numerical simulations
+effect of MCLs
+turbulence modeling
+industry
+fluid interface
+present project
+reduction of computational effort
+orders of magnitude
+large eddy simulation
+classical difficulty
+unprecedented efficiency
+idea
+uniform grid
+nature
+solid wall
+challenge
+macroscale

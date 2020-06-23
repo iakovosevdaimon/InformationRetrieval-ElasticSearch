@@ -1,0 +1,53 @@
+stored data
+Cloud infrastructures
+application’s data
+querying of data
+target data
+Cloud -enabled services
+transparent Cloud-based applications
+Cloud-based storage services
+data persistence layer
+Holistic Data Privacy
+customers' data protection
+context-aware access control
+CSA Cloud security principles
+personal sensitive data
+adoption of Cloud computing technologies
+robust policy access
+configurable context-based access control policies
+underlying third-party Cloud resources
+sophisticated context-aware policy access models
+context-dependent access rights
+scalable secure Cloud database abstraction layer
+policy governance
+Distributed Encrypted Persistence
+design framework
+vision of PaaSword
+sophisticated distribution
+virtual database middleware technologies
+corporate customers
+Service Framework
+Design Platform
+encryption methods
+implementation of secure
+application developers
+governance mechanisms
+application runtime
+novel group policies
+appropriate level of protection
+decision
+paradigm shift
+annotation techniques
+modelling
+enforcement
+various different levels
+contextual information
+confidentiality
+processing
+evaluation
+integrity
+European industry
+trust of individual
+incoming request
+case
+recent innovations

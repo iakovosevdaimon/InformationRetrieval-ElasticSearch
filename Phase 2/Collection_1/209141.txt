@@ -1,0 +1,59 @@
+machine learning problems
+modern data Machine learning
+transition machine learning algorithms
+simple supervised learning algorithms
+distributed data
+Robust algorithms
+frontiers of supervised machine learning
+novel generation of learning algorithms amenable
+distributed processing
+capabilities of existing algorithms
+core classical model of supervised machine learning
+existing optimization-based algorithms
+large amounts of data
+modern computing environments
+non-distributed settings
+robustness
+audio processing
+current problems
+Scalability
+proposal
+medium-scale problems
+natural language processing
+sophisticated computing architectures
+available computing platforms
+realistic assumptions
+well-defined features
+robust use
+strong convergence
+new setting
+new challenges
+tight convergence analysis
+non-convexities inherent
+usual assumptions of independent
+bioinformatics
+computer vision
+black boxes
+provable adaptivity
+real-life benchmarks
+numerical linear algebra libraries
+loss functions
+hardware specifications
+adaptability
+outputs
+massive numbers of observations
+efficient implementations
+important issue
+tasks
+terms
+open-source software
+growing impact
+industry
+practical limits
+science
+disciplines
+research
+main objective
+expected breakthroughs
+Outcomes
+successes

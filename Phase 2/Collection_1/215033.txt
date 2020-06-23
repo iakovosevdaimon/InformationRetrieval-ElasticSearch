@@ -1,0 +1,40 @@
+analysis methodology
+Numerical Analysis
+recent development of Isogeometric Analysis
+limitations
+coupled approach
+CAD representation
+CAD purposes
+key idea of IGA
+potential industrial applications
+framework of NURBS boundary representations
+T-splines
+tensor product nature of NURBS
+coupled isogemetrcic-maximumentropy approach
+three-dimensional applications
+historical point of view Computer Aided Design
+practical problems of industrial relevance
+non-uniform rational B-splines
+trivariate volume parametrization of complex shapes
+alternative frameworks
+order
+detached engineering disciplines
+local refinement
+Maximum Entropy meshless approximants
+employability
+set of skills
+cases
+operations
+basis functions
+lot of effort
+career prospects
+experienced researcher
+subdivision surfaces
+main achievement
+academic world
+industry
+years
+tighter integration
+direction
+programme
+project

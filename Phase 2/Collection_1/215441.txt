@@ -1,0 +1,54 @@
+network infrastructure
+Network slicing
+energy efficiency
+total network energy consumption
+G Networks
+demand network deployment
+renewable energy sources
+mobile network platform
+future networks
+neutral network operation
+stochastic network topologies
+Ultra-dense network deployment
+unified programmable network interface
+energy-efficient designs
+heterogeneous service requirements
+future ultra-dense networks
+diverse requirements
+sustainability requirements
+management of cellular networks
+G vision
+development of novel energy-efficiency models
+traffic demand
+Cloud radio access networks
+integration of renewable
+Optimization of Programmable
+demand drone deployments
+Mathematical Modelling
+developed approaches
+State-of-the-art approaches
+over-engineered infrastructure
+mobile data traffic warrants disruptive changes
+data rates
+modelling challenges
+self-organized drone
+high spatial capacity
+Innovative modeling framework
+sudden capacity demands
+different mathematical techniques
+exponential  increase
+CRAN
+associated heterogeneity
+new scenarios
+software
+latency
+variety of applications
+Validation
+important element
+surge
+reduction
+candidate technologies
+proposal
+challenging problem
+generation
+Inclusion

@@ -1,0 +1,58 @@
+façade fires
+travelling fires
+aerothermodynamics of enclosure fires
+façade of high-rise buildings
+residential buildings
+higher buildings
+adjacent buildings
+different enclosures
+different openings
+different floors
+growth
+different façade panel materials
+energy performance of buildings
+external facades
+vertical spaces
+different wind conditions
+external flame behaviour
+combustion efficiency
+void spaces
+combustion processes
+behaviour of flames
+ejected flames
+research
+Façades
+close proximity
+based solver
+open source CFD code FireFOAM
+spill flame extent
+open plan compartments
+office blocks
+heat fluxes
+abundant experimental data available
+increasing use of combustible material
+model validation
+simulation
+advantage
+new development trends
+parametric studies
+atrium
+OpenFOAM
+insight
+catastrophic loss of life
+toolbox
+Fine tune
+Numerical characterisation
+predictive approach
+update of regulatory guidance
+property
+staircases
+instance
+understanding
+scope
+resistance rating
+likelihood
+specific objectives
+proposed Fellowship
+issue
+times

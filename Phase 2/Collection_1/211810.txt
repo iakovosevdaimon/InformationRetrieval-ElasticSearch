@@ -1,0 +1,28 @@
+Secure Computation Secure computation
+secure computation protocols
+Succinct secure computation
+New Techniques
+new research directions
+related primitives
+program obfuscation
+related cryptographic primitives
+significant research efforts
+general-purpose tool
+homomorphic encryption
+recent years
+recent works
+following directions
+homomorphic secret sharing
+relevance
+processing sensitive data
+concrete efficiency of current solutions
+malicious parties
+problems
+proposed project
+known relations
+general information leakage
+cryptography
+computational complexity theory
+PI
+confidentiality
+integrity

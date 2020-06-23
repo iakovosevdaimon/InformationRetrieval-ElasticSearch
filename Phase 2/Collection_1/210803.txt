@@ -1,0 +1,62 @@
+smart acoustic technologies
+Smart Home
+smart factories
+Smart Mobility
+Smart Production
+smart algorithms
+Smart Society
+Smart Health
+Smart Systems Integration
+SILENSE project
+application level
+development of different smart acoustic technology blocks
+technology level
+project links
+arrays of acoustic transducers
+developed technologies
+application application-related topics
+application scope
+system level
+Machine Interfaces
+Conventional silicon technologies
+heterogeneous integration of technology blocks
+Buildings
+Human Machine
+control mechanism
+control of mobile devices
+touchless activation
+acoustical sensing
+gesture control
+mobile domain
+Sound Interfaces
+societal domains
+Automotive domains
+large area electronics
+hardware
+Low Energy iNtegrated SEnsors
+improvement
+Semiconductor Process
+Equipment
+power consumption
+MEMS
+software
+ultrasound
+directivity
+localization
+clear cross reference
+main advantage
+performance
+B1
+Materials
+view
+wearables
+testing
+B4
+packaging concepts
+cost
+communication
+qualification
+IoT nodes
+voice
+acoustics
+ambition

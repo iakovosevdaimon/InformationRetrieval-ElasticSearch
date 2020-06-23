@@ -1,0 +1,53 @@
+network data
+type of panel data
+estimation of models
+nonlinear models
+unobserved heterogeneity
+modern applications of panel data
+Microeconometric Models Unobserved differences
+unobserved type heterogeneity
+dynamic discrete-choice models
+economic agents
+economic connections
+economic outcomes
+economic modeling
+economic restrictions
+statistical inference
+inference methods
+block deals
+formal results
+project
+labor economics
+econometric practice
+importance of social
+performance of statistical hypothesis tests
+point estimation
+examples of applications
+issue of utmost importance
+extensive margin of labor force participation
+workhorse tool
+determinants
+specification
+major challenges
+schooling decisions
+additional dimension of realism
+wages
+study
+important driver
+identifying power of longitudinal
+export behavior of firms
+industrial organization
+latent state variables
+accounts
+uncertainty
+employment durations
+countries
+basis
+progress
+various empirical problems
+literature
+fact
+aim
+blocks
+tools
+simulation

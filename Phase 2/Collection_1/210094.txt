@@ -1,0 +1,56 @@
+DEEP-EST prototype
+DEEP EST prototype
+system software
+DEEP - Extreme Scale Technologies
+scheduling system
+clustered system
+matching system
+single heterogeneous system
+heterogeneous applications
+DEEP-ER projects
+highest system utilisation
+system component architects
+MSA
+range of HPC applications
+Data Analytics Module
+compute modules
+software technologies
+Extreme Scale Booster
+relevant European applications
+innovative Modular Supercomputer Architecture
+set of modules
+new architecture
+supercomputer centres
+HPDA domains
+module-specific interconnects
+substantial benefits
+energy use
+general purpose Cluster Module
+heterogeneous application mixes
+high-performance data analytics
+different performance characteristics
+close co-design
+Exascale performance class
+compute providers
+European integration
+straightforward use
+energy efficiency
+respective size
+large size
+federated network
+higher throughput
+APIs
+time
+solution
+enhanced resource management
+Proven programming models
+MPI
+workloads
+incarnation
+workflows
+valuable flexibility
+implementation
+OmpSs
+actual usage
+spirit
+Scalability projections

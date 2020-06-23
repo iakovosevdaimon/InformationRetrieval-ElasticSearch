@@ -1,0 +1,62 @@
+Existing models
+Multi-resolution Fracture Models
+micromechanical models
+advanced models of H
+mechanisms of fracture
+Ductile Fracture
+proposed models of void growth
+quasi-cleavage failure of HSS
+mechanism of failure
+H-environment
+high fidelity continuum models
+work
+detailed mechanism of fracture
+various mechanisms of H
+realistic models of void nucleation accounting
+complete failure
+influence of hydrogen
+hydrogen embrittlement
+concerns of hydrogen
+Hydrogen Environment Recent advances
+cracking
+entire spectrum of mechanisms
+development of predictive tools
+durable alloys
+new alloys
+proposed research
+High-strength Steels
+role of microstructural heterogeneities
+D tomographic tools
+microstructural length scales
+Materials Development Cycle
+coalescence
+Computational Mechanics
+virtual predictions'
+dislocations interactions
+significant international recognition
+linkage
+crack tip
+era of Exascale computing
+propagation of microcracks
+structure-toughness’ relations
+quest
+expensive destructive testing
+deficiencies
+course
+initiation
+trapping
+diffusion
+limitations
+main bottlenecks
+applied contribution
+macroscopic properties
+microstructure
+phase particles
+damage models'
+TRIP
+TWIP
+availability
+Oxford
+lack of understanding
+pursuit
+uptake

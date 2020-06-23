@@ -1,0 +1,45 @@
+world collective formation scenarios
+actual-world collective formation problems
+collective intelligence solutions
+parallel algorithms
+Team Formation
+prominent collective intelligence application domains
+formation of collectives
+novel algorithms
+Collective Energy Purchasing
+parallel architectures
+collaborative consumption scenario
+collaborative production scenario
+collaborative making
+TF domains
+art algorithms
+knowledge networks
+social networks
+sensor networks
+different scenarios
+New forms of collaborative consumption
+novel algorithmic design approach
+CEP
+Notable examples of actual
+different families of actual
+Artificial Intelligence literature
+notable benefits
+real-world applications domains
+structure
+solution quality
+hand
+objective
+terms of scalability
+level of scalability
+common task
+current state
+recent years
+generality
+investigation of parallelisation
+time
+challenges
+tremendous performance improvements
+past research
+advancements
+choice
+Collectiveware

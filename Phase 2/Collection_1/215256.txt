@@ -1,0 +1,51 @@
+Neuromorphic Architecture
+deep neural architecture
+neuromorphic computer architecture
+computational architecture
+spatio-temporal representations of spikes
+temporal code
+deep learning
+neuromorphic computing circuits
+human level performance
+human-level artificial intelligence
+spiking neural networks
+human cognition
+large-scale neuromorphic hardware implementation
+convolutional deep networks able
+neural action potentials
+learning algorithm
+SpiNNaker
+cognitive robotics
+parallel computing platform
+latest Pepper platform
+latest achievements
+computational resources
+visual perception
+rich representations
+humanoid robots
+cognitive model
+large training datasets
+primate visual cortex
+widespread use of robots
+real world robotics applications
+static image recognition
+biological processes
+iCub
+high precision
+hierarchical structure
+developed system
+key success factors
+adaptation issues
+optimization methods
+neurorobotics
+SNNs
+neurons
+opportunity
+brains
+complex tasks
+aim of STRoNA
+novel method
+principal research objectives
+project
+technology
+interactive contexts

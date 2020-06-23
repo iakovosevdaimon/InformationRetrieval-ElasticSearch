@@ -1,0 +1,48 @@
+validated metabolic targets
+hyperactive TEC metabolism
+cancer cells
+metabolic changes
+validated targets
+NECs
+novel anti-angiogenic cancer therapy
+growth of tumor endothelial cells
+inhibiting tumor angiogenesis
+deregulated metabolic genes
+NEC metabolism research
+cancer research
+Preclinical concept validation of tumor endothelial cell metabolism
+preclinical tumor models
+cancer patients
+inhibition of specific metabolic pathways
+novel concept
+construct TEC-tailored genome scale metabolic network models
+NEC growth
+novel anti-angiogenic therapy MAIN GOAL
+metabolomic analysis of TECs
+anti-angiogenesis development
+normal healthy endothelial cells
+real target cells
+blood vessel growth
+current anti-angiogenic treatments lack sufficient efficacy
+tissue-specific manner
+GEMs
+BIOMEX
+Tumors
+CLINICAL IMPACT
+pioneering studies
+in-house developed bioinformatics platform
+new horizons
+silico computational modeling
+RATIONALE
+order
+negative selection shRNA-based screen
+omics data
+conditional knockout mice
+opportunities
+NOVELTY
+BACKGROUND
+inhibitors
+Deliverables
+angiogenic activity
+procedures
+METHODOLOGY

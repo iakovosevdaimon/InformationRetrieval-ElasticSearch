@@ -1,0 +1,52 @@
+Dynamic World
+observers of dynamic scenes
+continuous learning
+detailed models of dynamic scenes
+people
+dynamic analysis perspective
+inverse reinforcement learning
+interactions
+visual world
+goal of SEED
+different scene components
+physical scene properties
+methodology of computer vision
+weakly supervised machine learning techniques
+video editing
+contextual reasoning
+future actions
+temporal information
+tractable models
+human-computer interaction
+long time horizons
+minimal system training
+figure-ground reasoning
+semantic segmentation of video data
+open-ended number of visual categories
+novel high-order compositional methodologies
+augmented reality
+robotics
+automatic personal assistance
+environmental awareness
+phones
+fields
+bicycles
+spatial layout
+indexing
+chairs
+computers
+cars
+animals
+precise boundaries
+animate objects
+potential
+indoor office spaces
+research
+supervision
+manufacturing
+descriptions
+manner
+purpose
+urban outdoor environments
+corresponding
+demonstrators

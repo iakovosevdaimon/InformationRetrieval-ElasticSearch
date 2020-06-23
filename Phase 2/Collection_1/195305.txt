@@ -1,0 +1,59 @@
+early signs of patient deterioration
+clinicians of early signs of deterioration
+post-operative orthopaedic patients
+post-operative patients
+measurement of new vital signs
+early ambulation
+wireless recording of real-time vital signs
+automated wireless systems
+Improved Patient Safety
+vital signals
+automated pain measurement
+patterns of deterioration
+clinical evaluation
+unique patient populations
+major limitation of early warning systems
+Intensive Biosignal Monitoring Hospitals
+post-operative complications venous thromboembolic prophylaxis
+common orthopaedic operation
+clinical feasibility study
+principled methods
+novel methods
+safety questions
+novelty detection
+machine learning algorithms
+analytical algorithms capable
+acute pain control
+late intensive care referrals
+excess mortality
+expertise
+morbidity
+treatment
+recovery
+guidance
+sensor design
+main elements
+features
+models
+difficulty
+medical applications
+technical aims
+multidisciplinary team
+monitors
+nursing staff
+recent developments
+increased costs
+outcome measures
+Joint replacement
+false-alarm rate
+manual checks
+research programme
+project
+observations
+failures
+rehabilitation
+reliability
+IPSIBiM
+proposed concept
+alarms
+innovation

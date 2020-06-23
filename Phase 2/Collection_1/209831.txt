@@ -1,0 +1,55 @@
+Heterogeneous processors
+heterogeneous hardware
+irregular problems
+unsatisfactory utilization of heterogeneous computing
+bottlenecks of current heterogeneous computing
+Irregular Computations
+best performance
+project TICOH
+best hardware selection
+benchmark data analysis
+new data structures
+degraded performance
+best practices
+H2020 CloudLightning project
+data structure construction
+domains of performance measurement
+high-bandwidth memories
+model heterogenous processors
+progress of hardware infrastructure
+algorithm design
+high cost
+distributed memories
+new era
+designed approaches
+high-level applications
+main partners
+main focus
+oriented scalable approaches
+broad range of real-world applications
+modeling
+application integration
+lack of heterogeneity
+CPU
+software engineering
+GPU
+graph
+benefit
+algorithms
+past decade
+sparse matrix processing
+experience
+successful bidirectional transfer of knowledge
+multi-level approach
+action
+HPC-Lab
+environment
+ultimate goal
+memory resources
+modern supercomputers
+Elster
+NTNU
+issues
+research team
+objective
+Anne

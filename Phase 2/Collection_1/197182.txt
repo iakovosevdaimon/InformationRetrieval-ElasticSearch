@@ -1,0 +1,53 @@
+decision-theoretic planning methods
+effective policies
+robotic agents
+software agents
+potential of autonomous agents
+good policies
+new class of decision
+agent's policy
+resulting methods
+decision-theoretic problems hard
+efficiency of decision
+multiple trials
+cost of policy evaluation
+efficient optimization of autonomous agents
+complexity of realistic tasks
+Coevolutionary Policy Search
+complex tasks
+new insights
+new approach
+best events
+useful events
+help
+manual policy construction hopeless
+controllable rare events critical
+enormous potential implications
+high-risk settings
+diverse settings
+fundamental obstacles
+enormous progress
+averaging performance
+task complexity
+grand challenge
+critical factors
+key insight
+main challenge
+key goal of artificial intelligence
+great demand
+policy's quality
+e-commerce
+homes
+information retrieval
+factories
+behavioral strategy
+increases
+turn
+traffic control
+stochasticity
+project
+actions
+sampling
+difficulty
+manner
+addition

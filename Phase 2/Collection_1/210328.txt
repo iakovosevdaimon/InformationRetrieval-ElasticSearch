@@ -1,0 +1,25 @@
+mooring design
+numerical uncertainty quantification
+designing mooring system
+design approach
+floating wave energy converters
+numerical simulation
+designed system
+state-of-the-art mooring dynamics solver
+loads
+detailed numerical investigation
+traditional deterministic approach
+terms of cost
+economic cost
+project
+gPC
+safety factors
+toolbox
+WECs
+general polynomial chaos
+UQ
+snap
+influence
+given tolerance level
+base
+parts

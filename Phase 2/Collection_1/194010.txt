@@ -1,0 +1,34 @@
+G wireless
+Radio technologies
+radio access technologies
+photonic technologies
+centralized radio access
+wireless network
+radio resource management
+novel coherent radio-over-fiber
+ultra-high-bandwidth photonic techniques
+heterogeneous network
+wireless signals
+high-capacity heterogeneous
+high-frequency
+developed hardware
+advanced photonic infrastructure
+wide-bandwidth
+airport scenarios
+different real life networks scenarios
+life-cycle assessments
+operators fiber-optic
+public stadium
+dense user environments
+architecture
+CRoF
+legacy
+C-RAN
+wave
+scheme
+fibre distribution
+train
+mobile receiver
+requirement
+integrated transceivers
+SiGe technology

@@ -1,0 +1,44 @@
+humans' internal models
+Cognitive tomography of mental representations Internal models
+task-general internal models
+Bayesian models of cognition
+perceptual learning
+concept learning
+machine learning techniques
+motor structure learning
+data analytical methods
+humans' superior cognitive abilities
+real test data sets
+variety of experimental data sets
+state-of-the-art Bayesian statistical
+principled quantitative methods
+set of novel
+set of stringent
+series of behavioural observations
+prior distributions
+algorithms
+understanding
+current approaches
+consistent patterns of transformations
+decisions
+mind constructs percepts
+time
+memory strength
+observable behaviour
+detailed reconstruction
+multiple dimensions
+collaborators
+controls movements
+result of decay
+off-the-shelf usable implementations
+proposed work
+limited information content
+success
+quantifiable criteria
+interference
+paradigms
+step
+widespread use
+methodological advances
+central hypothesis
+analyses

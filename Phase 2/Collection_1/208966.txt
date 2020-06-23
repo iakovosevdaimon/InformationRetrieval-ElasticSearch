@@ -1,0 +1,47 @@
+galactic magnetic field evolution
+Galactic magnetic field Magnetic fields
+magnetic field diffusion
+magnetic field lines
+magnetic field vector
+core processes of galactic evolution
+galaxy evolution simulations
+galaxy-evolution
+large-scale galactic processes
+measurement of interstellar magnetic fields
+small-scale processes
+successful simulations
+tiny magnetic seeds of cosmic origin
+stellar feedback
+dynamo process
+star-formation theories
+realistic small-scale diffusion
+time-dependent star formation
+self-consistent generation of turbulence
+self-consistent model
+Ohmic diffusion
+reference tool
+different regions
+RAMSES code
+simultaneous modeling
+throughly tested tool
+re-simulating regions
+multi-phase interstellar medium
+realistic non-ideal MHD terms necessary
+differential rotation
+essential input
+heart
+resolution
+current values
+capabilities
+zoom
+outstanding problems
+direction
+Adaptive Mesh Refinement technique
+Milky Way
+observational studies
+impact
+observations
+outcome
+ambitious project
+strength
+order

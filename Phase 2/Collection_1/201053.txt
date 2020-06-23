@@ -1,0 +1,53 @@
+implementation of VSL
+main kinds of congestion
+designed VSL control algorithm
+optimal controller
+particular kind of congestion
+developed VSL control strategy
+scheduling controller
+implementable controller
+main objective
+control levels
+Efficient Traffic Control
+logic-based controller
+objective evaluation
+proposed MSCA
+proposed algorithms
+proposed techniques
+Variable Speed Limits
+testing
+order
+selection
+Spain
+proposal
+optimal behavior
+practice
+Practical Implementation
+upper level
+lower level
+non-technical community
+large traffic networks
+Benefit-Cost Analysis
+recurrent congestions
+shock waves
+gap
+Theory
+comparison
+unexpected capacity reductions
+loop detector data set
+communication
+collection
+triggering rule
+Netherlands
+following steps
+freeways
+ring-road
+Dissemination of results
+social improvements
+A12
+use
+potential performance
+account
+fact
+system
+time

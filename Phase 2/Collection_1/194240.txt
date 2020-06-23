@@ -1,0 +1,62 @@
+cryptographic applications
+cryptographic implementations
+novel lattice-based public-key cryptographic schemes
+Novel public-key cryptographic schemes
+real-time applications
+public-key encryption
+mobile applications
+based architectures
+key sizes
+range of lattice
+lattice problems
+identity-based encryption
+real-time performance
+energy consumption
+proposed schemes
+resource-constrained applications
+current state-of-the-art implementations of conventional public-key cryptosystems
+secure post quantum cryptographic solutions
+low-power
+low power consumption requirements
+project
+Secure Architectures of Future Emerging Cryptography SAFEcrypto
+real-time application scenarios
+long-term security
+network security
+physical robustness
+development of physical
+fold speed-up
+fold reduction
+battery-operated devices
+secret information
+leak  information
+Elliptic Curve Cryptography
+future ICT systems
+new generation of practical
+practical real-word case studies
+RSA
+authentication
+digital signatures
+attack resistant methodologies
+ECC
+comparable area costs
+storage
+throughput
+services
+satellite communications
+design optimisations
+concept demonstrators
+management
+cloud
+comparison
+keys
+analysis
+source of computational hardness
+SAFEcrypto’s objective
+Effective models
+distribution
+proof
+order of kilobytes
+significant threat
+megabytes
+attacks

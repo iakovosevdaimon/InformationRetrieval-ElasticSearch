@@ -1,0 +1,51 @@
+data parallelism
+Fast Data Analysis
+today's big data systems
+emerging big data applications
+new characteristics of big data infrastructure
+New Horizon of Big
+data center monitoring
+necessary pillars of big
+scale of processing
+complex analytics
+pipeline parallelism
+critical order-related analytics
+low-latency processing
+new approaches
+low latency
+proposal
+forms of parallelism
+new algorithmic frameworks
+new integrated parallel processing paradigm
+strong guarantees of user performance requirements
+strong performance guarantees
+Integrated Algorithm
+genomics
+proposed algorithm design
+algorithmic foundation
+reduced user payments
+principled optimization framework
+emerging domains
+principled optimizer
+solid foundation
+large body of algorithms
+well-informed decisions
+pressing need
+intelligent use of memory
+workload properties
+economic benefits of early
+project high-risk
+broad set of analytical tasks
+development
+best effort
+lack of support
+accelerated information discovery
+fundamental tension
+time
+needs
+literature
+complexity
+Today’s technology
+high-gain
+grand challenge
+gap

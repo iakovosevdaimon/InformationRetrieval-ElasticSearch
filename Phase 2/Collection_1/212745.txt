@@ -1,0 +1,50 @@
+novel functions of miRNAs
+single cells
+targets
+miRNA functions
+time measure miRNAs
+main function of miRNAs
+mutant cells devoid of miRNAs
+hypothesis
+single cell proteomics
+important regulators
+individual cells
+miRNA biology
+miRNA impact
+undiscovered functions
+novel hypotheses
+MicroRNA functions
+necessary single-cell technologies
+important new biological insights relevant
+new ways
+new method
+cell cultures
+expression of genes
+gene expression noise
+computational methods
+computational tools
+human disease
+human health
+time course experiments
+numerous biological processes
+thousands of post-transcriptional regulators
+general understanding of gene regulation
+basic research
+sufficient data
+combined wet-lab
+detailed models
+short RNA molecules
+subtle silencing effects
+potential
+sequence
+expertise
+proteomic studies
+animals
+findings
+transcriptome-wide
+preliminary results
+interactions
+miRCell-seq
+question
+project
+mRNAs

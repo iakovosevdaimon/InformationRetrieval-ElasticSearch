@@ -1,0 +1,57 @@
+rich sensor data
+rich data
+resulting MPS
+Big Sensor-based C4F
+rich time-varying sensor data
+concerned MPS
+present MPS
+optimal sensor data inference
+project
+F4S
+realistic MPS applications
+individual sensor failure
+real-time mobile positioning system
+Home Care system
+accurate system modelling
+mobile devices
+use of conventional filters
+apps
+Smartphone
+real time filtering implementation
+available information
+direction information
+research emphasis
+novel clustering
+new concept
+fitting algorithms
+sophisticated filters
+potential use of European GNSS
+real life world
+new estimation paradigms
+poor background knowledge
+solid research track records
+synergic expertise
+high precision
+great challenge
+WIFI
+immediate challenges
+types of sensors
+partitioning organizations
+improved scanning frequency
+GPS signals
+altitude
+Bluetooth
+greater breadth of observation
+Host group
+embedded software
+well-being of elderly
+related fields
+movement
+purpose
+accuracy
+acceleration
+smoothers
+disabled people
+researcher
+sense
+smoothing

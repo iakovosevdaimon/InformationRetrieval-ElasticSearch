@@ -1,0 +1,56 @@
+wall temperature
+wall passages
+wall transient heat transfer
+wall Interfaces
+flame quenching
+wall surfaces
+transient gas temperature
+dynamic flame
+EPIC
+increased transient heat transfer
+realistic engine passages
+engine environments
+real engine
+CARS measurements
+engine concepts
+Energy transfer Processes
+necessary details of flame transport
+heat flux
+temperature time curve
+physical processes
+future
+variable processes
+small passages
+pressure
+internal combustion
+PTV measurements
+problems
+novel constant-volume chamber
+cleaner combustion technology
+new combustion modes
+fundamental knowledge
+novel aspect
+high-efficiency
+dynamic inter-coupling
+species profiles normal
+ps rotational coherent Raman
+influence
+extreme Conditions
+unsteady boundary layer development
+phosphor thermometry
+Hybrid fs
+suite of advanced laser diagnostics
+line format
+low CO2
+substantial breakthroughs
+optical access
+engines
+flow dynamics
+velocity
+vehicles
+proposed work
+Planar OH-LIF
+established theory
+packages
+PIV
+combination

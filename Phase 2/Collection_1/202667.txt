@@ -1,0 +1,40 @@
+higher automation
+adaptable automation
+human operator performance
+different human-automation design concepts
+absence of automation errors
+human performance envelope
+New human-automation interaction design concepts
+performance increases of higher levels of automation
+monitoring role of human operators
+rare cases of automation errors
+Negative Impacts of Monitoring high levels of Automation
+operator attention
+suitable human-machine interfaces
+negative effects of monitoring tasks
+task environment
+dynamic task distributions
+aircraft
+necessary tasks
+different solutions
+project
+automated arrival management task
+lack of attention
+D-trajectories
+required precision
+tools
+conflicts
+loss of situation awareness
+complex systems
+long term
+resolution
+example
+skill degradation
+automatic detection
+ability
+safe operations
+scratch
+time
+handle situations
+steps
+aspects of

@@ -1,0 +1,60 @@
+TVF inlet flow
+TVF aerodynamic designs
+HPT characteristics
+optimized HPT
+LPT system performance
+HPT-LPT transition duct
+engine-relevant TVF inlet
+aerodynamics of TVF modules
+baseline TVF configuration
+relevant test data
+rig test programme
+flow conditions
+LPT setup
+aerodynamic performance
+secondary flow effects
+purge flow levels
+downstream LPT rotor
+main test campaigns
+upstream HPT stage
+incoming flow effects
+downstream LPT blade
+Ground Test Demo
+variation of HPT tip gap
+component performance levels
+spool transonic test turbine facility
+component interaction
+flow environment representative of future geared civil turbofan aero-engine applications
+secondary air system
+available rig data
+pneumatic probes advanced instrumentation
+tip leakage
+spool Arrangements
+Turbine Research
+conventional measurement
+purge flows
+design process
+main objective
+future UHPE architectures
+technology readiness level
+optical measurement techniques
+fast response pressure probes
+TU Graz
+sensors
+Aerodynamical Vane-frame Improvements
+TRL4
+rakes
+wakes
+rise
+TRL5
+major key factors
+breakdown
+loss generation
+input
+project
+TRL6
+order
+step
+time
+way
+investigations

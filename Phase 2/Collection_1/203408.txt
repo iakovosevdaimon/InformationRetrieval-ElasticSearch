@@ -1,0 +1,43 @@
+qualitative dynamics of generic systems
+families of systems
+Global Dynamics
+new classes of systems
+stable dynamics
+new examples of dynamics
+qualitative description of generic systems
+large classes of non-hyperbolic systems
+spaces of differentiable dynamics
+hyperbolic measures
+dynamics of Hénon maps
+absence of uniform hyperbolicity
+partial hyperbolicity
+understanding of general smooth systems
+instance
+different notions of relaxed hyperbolicity
+measures of maximal entropy
+finiteness of physical measures
+ergodic theory of non-
+new geometrical ideas
+homoclinic bifurcations
+homoclinic tangencies
+fine description
+Palis conjecture
+global perturbations
+invariant pieces
+development of local perturbative technics
+rebirth
+existence
+heterodimensional cycles
+C1 diffeomorphisms
+recent progresses
+classification results
+breakthrough
+order
+chaotic behavior
+statistic viewpoints
+previous approach
+past years
+present project
+Smale
+subject
+door

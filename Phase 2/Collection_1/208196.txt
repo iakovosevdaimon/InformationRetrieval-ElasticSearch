@@ -1,0 +1,42 @@
+photon cluster state
+chip Photonic Cluster State Generation
+large-scale cluster state
+high fidelity cluster state generation
+quantum computation
+chip photonic cluster states
+quantum information processing
+quantum information science
+one-way quantum computer
+scalable photonic resource
+photon generation efficiency
+measurement-based quantum-information processing
+investigation of large cluster states of entangled single photons
+entanglement resource
+fundamental resource
+recent developments of quantum dot spin qubits
+self-assembled semiconductor quantum dots
+high rate
+generation of highest purity indistinguishable photons
+efficient spin-photon interfaces
+unprecedented high efficiencies
+state-of-the-art nanophotonic devices
+nanophotonic waveguide devices
+computation algorithms
+single-qubit measurements
+MSCA Individual fellowship project OPHOCS
+applications
+realization
+classical feed-forward operations
+unique ability
+solid-state device
+strong light-matter interaction
+proposed research
+immediate target
+potential
+principle implementations
+proof
+feature
+requirements
+time
+architecture
+scalability

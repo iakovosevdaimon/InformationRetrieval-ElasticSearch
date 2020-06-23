@@ -1,0 +1,59 @@
+OAM modes transmission
+use of OAM modes
+x OAM states
+use of OAM domain
+OAM multiplexed channels
+OAM-based switch compatible
+OAM switch configuration time
+transmission testbed utilising OAM multiplexing
+x improvement
+integrated high performance OAM components
+wavelength channels
+modes of light
+layer switch
+optical fibre transmission capacity
+data-centre switches
+wavelength domain
+optical fibres
+WDM layer
+x reduction of power consumption
+ROAM project
+project objectives
+current commercial switches
+wavelength division multiplexing
+Orbital Angular Momentum of light
+high data density applications
+respect
+networking
+scalability
+data-centres applications
+overall objective
+project goals
+firs objective
+conventional WDM system
+switching resource
+capacity increase
+Speciality fibres
+ROAM consortium
+primary objectives
+disruptive means
+Gb
+large companies
+silicon photonics technology
+conjunctions
+required knowledge
+research institutes
+universities
+infrastructures
+dimensions
+development
+total
+communications
+wavelengths
+study
+combination
+range
+compatibility
+legacy technologies
+domains
+target

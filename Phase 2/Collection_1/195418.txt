@@ -1,0 +1,54 @@
+large-scale dynamics
+mirror instabilities
+development of instabilities
+large-scale dynamical processes
+driven instabilities
+Multiscale dynamics of astrophysical plasmas
+pressure-anisotropy
+pressure anisotropy
+pressure-anisotropic plasma
+dynamics of galaxy cluster plasmas
+deeper understanding of instabilities
+fluid description of plasmas
+fluid models of plasma dynamics
+large-scale expansion
+macrophysical processes
+plasma turbulence
+effective pressure tensor
+Recent studies of microphysics
+nonlinear regime of development
+firehose
+general plasma physics
+problem of multiscale phenomena
+related problem of thermalization
+proposed project
+numerical setup
+stellar-wind environments
+comparison of simulation results
+compression effects
+saturation effects
+spacecraft measurements
+stellar winds
+transport phenomena
+better understanding
+effective collisionality
+numerical simulations
+related wave-particle interactions
+virtual setup
+classical viscosity measurements
+turbulent solar wind
+kinetic waves cascade
+primary purpose
+microinstabilities
+viscous stress
+systematic knowledge
+influence
+experimental setups
+feedback
+planetary magnetospheres
+questions
+fluids
+stresses
+entire modeling framework
+possibility of investigation
+answers

@@ -1,0 +1,34 @@
+novel cloud databases
+cost-effectiveness of cloud databases
+data consistency
+Cloud Databases Modern Internet services store data
+database parallelism
+parallelism of data processing
+consistency guarantees
+application correctness
+rigorous theory of consistency
+application programmers
+database implementation techniques
+practical implementation techniques
+synergy of novel reasoning methods
+scalability
+high availability
+advanced methods
+resulting theory
+proposed project
+static analysis tools
+resulting programming models
+Rigorous Approach
+high-gain
+areas of programming languages
+practical systems design
+large number of machines
+basis
+wide geographical span
+software verification
+envelope
+effects
+extent
+applications
+task
+goal

@@ -1,0 +1,51 @@
+material additive manufacturing processes
+compatibility of additive
+design production chain
+analysis-based design approaches
+design phase
+CAxMan
+analysis-based process planning
+objectives of Computer Aided Technologies
+surface finish of subtractive processes
+CAx-technologies
+order
+Cloud application
+grading of material
+Cloud Portal
+services
+material usage
+marketplace
+Open Source community
+project duration
+manufacture of components
+ecosystem of Open Source of algorithmic toolkits
+necessary software components
+interoperable model representations
+practical pattern collections of quantifiable advantages of findings
+respect
+market place
+SINTEF
+simulation
+stress aspects
+flexibility of shape
+Stop-Shop
+voids
+STEP
+Workflows
+form
+Broker
+interoperability
+following aims
+sustainability
+edition
+internal cavities
+Proposed extension
+Lessons
+Toolboxes
+life time
+component properties
+byISO
+ASTM52915
+distribution
+abrasive operations
+ARCTUR

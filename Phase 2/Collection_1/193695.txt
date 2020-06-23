@@ -1,0 +1,51 @@
+hyperspectral sensors
+hyperspectral imagery
+hyperspectral signals
+real-time processing of hyperspectral data cubes
+spectral domains of hyperspectral data
+Hyperspectral video sequences
+development of real-time hyperspectral processing systems
+generation hyperspectral video cameras
+development of sophisticated hyperspectral imaging sensors
+three-dimensional data cubes
+HyperSpectral Imaging Systems Recent advances
+Sparse Signal Processing Technologies
+sophisticated signal processing systems
+explosive growth of data dimensionality
+novel signal processing technologies
+high spatial resolution
+conventional statistical data analysis methods
+high temporal
+sparse representations
+video rates
+imaging spectra
+spectral resolution
+massive amounts of high
+relevant information
+field of sparsity
+unprecedented wealth of information
+low-dimensional space
+fields of electronics
+design
+ability
+compressive sensing
+recovery
+algorithmic developments
+advantages
+second
+matrix completion
+optics technology
+major challenge
+order
+need
+test
+enormous computational burden
+objects
+type
+nature
+project
+aim
+estimation performance
+objective
+task
+addition

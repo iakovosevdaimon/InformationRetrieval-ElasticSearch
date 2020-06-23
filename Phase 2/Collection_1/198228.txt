@@ -1,0 +1,58 @@
+human cell lineage tree
+cell state
+cell lineage trees
+organismal cell lineage tree
+single-cell genomics
+single-cell data
+concept human cell lineage discovery experiments
+efficient biological-computational cell lineage discovery workflow
+ancestral cell type
+envisioned large-scale human cell lineage discovery project
+emerging single-cell technologies
+adult human
+binary tree
+organism cells
+sampled cells
+cancer cells
+beta cells
+workflow optimization
+brain stem cells
+envisioned project
+Architectural Foundations
+collaborative development
+decade of research
+state dynamics
+nodes
+feasibility
+value
+ageing
+expected advances
+progeny relations
+research plan
+scalable architecture
+goal of LineageDiscovery
+medicine
+edges
+self-funded collaborators
+health
+variance
+novel algorithms
+biology
+labels
+humanity
+knowledge
+coordinated international effort
+fundamental open questions
+structure
+challenge
+distributed deployment
+maintenance
+broad range of proof
+Shapiro’s lab
+Successful execution
+rise
+metastases
+disease
+programmable meta-system
+evaluation
+launch

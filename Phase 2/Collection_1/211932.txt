@@ -1,0 +1,37 @@
+relevant cells
+stem cells
+primary cells
+biopsy-derived cells
+patient derived cells
+prototype system
+miniaturized cell screening applications
+demand nano-scale printing of live cells
+high-throughput screenings
+cell numbers
+experiment
+predictive high throughput screenings
+scarce cell types
+individual compartments
+screening centers
+controlled atmosphere
+individual droplets
+controlled volumes
+compounds
+goal
+new possibilities
+biochemical molecules
+drugs
+drug discovery
+target Droplet Microarray
+reagents
+CO2
+nL
+ERC-PoC project
+personalized medicine
+addition of libraries
+pharmaceutical companies
+source plate
+humidity
+temperature
+DMA
+CellPrintArray

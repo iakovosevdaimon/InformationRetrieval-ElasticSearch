@@ -1,0 +1,48 @@
+symplectic topology
+study of symplectic
+dimensional symplectic cobordisms
+dimensional holomorphic curve theory
+symplectic Calabi-Yau
+theory of pseudoholomorphic curves
+contact manifolds
+comprehensive bifurcation theory
+symplectic field theory of unit cotangent bundles
+New transversality techniques
+moduli spaces of holomorphic curves
+covered curves
+transversality problem
+holomorphic curve theories
+important applications
+problems
+super-rigidity
+new refinements
+Examples of applications
+proof
+higher-dimensional analogues of ECH
+planar contact structures
+nearby Lagrangian conjecture
+analytical foundations of Hutchings's embedded contact homology
+Gromov-Witten invariants
+Reeb orbits
+abstract perturbations
+dynamical questions
+dynamics
+Gopakumar-Vafa formula
+nonpositive curvature
+instance
+setting
+Riemannian geometry
+wrong dimension
+Cauchy-Riemann equation
+neighboring fields
+implications
+decisive role
+proposed project
+traditional solutions
+fundamental conflict
+overriding goal
+genericity
+quasiflexible
+integrality relations
+major drawback
+symmetry

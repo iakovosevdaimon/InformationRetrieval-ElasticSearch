@@ -1,0 +1,43 @@
+hardware hiding
+Cryptographic Hardware Backdoors
+underlying hardware
+development of hardware countermeasures
+hardware manipulations of cryptographic functions
+hardware reverse engineering
+prevention of hardware Trojans
+cryptographic algorithms
+required research
+counter low-level backdoor attacks
+particular dangerous class of attacks
+system security
+Internet of Things
+system-wide loss of security
+strong countermeasures
+systematic protection
+IP protection
+malicious manipulations
+instances of important problems
+massive loss of privacy
+cryptography of IoT devices
+optimum approaches
+encompassing understanding
+literature
+role of cryptanalysis
+Generation
+evolution
+applications
+increased threat potential
+theory of computer science community
+detection-based methods
+ambitious goal
+specific settings
+contrast
+digital landscape
+solutions
+major modules
+human life
+proposal
+cryptology
+citizens
+limits
+consequences

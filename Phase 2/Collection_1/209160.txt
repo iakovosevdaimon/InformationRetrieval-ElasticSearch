@@ -1,0 +1,49 @@
+caching contents
+Wireless Edge Caching Platform Mobile data traffic
+total network traffic
+users' content access statistics
+G wireless networks
+end-to-end content access delays
+strategic contents
+requested contents
+content providers
+access points
+dense network deployments
+version of CacheMire
+wireless systems sustainability
+social networks
+base stations
+billions of connected users
+video streaming
+rich multi-media applications
+privacy constraints
+website developers
+API
+user terminals
+news
+key technique
+images
+downlink
+resources
+generation
+year
+advanced physical layer techniques
+hardware tools
+application programming interface
+files
+box
+videos
+regulations
+uplink
+storage unit
+set of software
+promising way
+devices
+development
+potential
+architecture
+regard
+proof of concept
+goal
+prototype
+addition

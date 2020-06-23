@@ -1,0 +1,57 @@
+wave systems
+wave beam-steering systems
+wave active antenna systems
+wave euRopean systEm iNtegration plAtform Millimetre-wave
+SERENA integration platform
+wave beam-steering system architecture
+SERENA consortium
+SERENA project
+objective of SERENA
+state-of-the-art performance
+state-of-the-art GaN
+production high performance
+electronic beam-steering
+D integration approach
+system providers
+high output power
+functional performance
+SiGe
+efficiency
+active antenna arrays
+Silicon technology
+terms of improved output power
+Silicon Efficient
+key semiconductors
+D packaging
+two-pronged approach
+increased affordability
+CMOS integrated circuits
+G wireless communications
+future key markets
+increased data rate
+economic value of semiconductor component production
+autonomous vehicles
+radars
+wafers
+viable price
+supply chain
+electronics manufacturing
+optimized hybrid analog
+automotive radar sensors
+world class academic institutions
+design ecosystem
+mass customization
+front-end circuitry
+low energy consumption
+wide range of applications
+reduced form factor
+concept prototype
+specific market needs
+years
+imaging
+cost
+fundamental challenge
+proof
+goals
+frequencies
+strong industry

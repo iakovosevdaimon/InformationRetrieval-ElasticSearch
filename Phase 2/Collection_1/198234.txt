@@ -1,0 +1,52 @@
+vented deflagrations
+vented explosions
+hydrogen energy applications
+Hydrogen Safety
+HySEA project
+successful introduction of hydrogen energy systems
+explosion hazards
+explosion venting
+larger enclosures
+explosion scenarios
+HySEA consortium
+numerical investigations of hydrogen explosions
+predictive tools
+reduced explosion pressure
+CFD-based tools
+full-scale vented deflagration experiments
+levels of congestion representative of industrial systems
+standard ISO containers
+pre-normative research
+experimental program
+empirical engineering models
+congestion levels representative of industrial practice
+industrial safety community
+hierarchy of predictive models
+specific objectives of HySEA
+natural vent openings
+reliable predictions of pressure
+commercial vent panels
+validated CFD codes
+harmonized standard vent sizing requirements
+blind-predictions
+experimental data of high quality
+computational fluid dynamics
+extensive experience
+hinged doors
+aim
+finite element
+mitigating measures
+typical structures
+relevance
+effect of obstacles
+overpressure
+development
+different strategies
+relevant standards
+recommendations
+improvements
+partners
+NFPA
+impulse
+warehouses
+ambition

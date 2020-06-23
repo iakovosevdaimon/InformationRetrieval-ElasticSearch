@@ -1,0 +1,65 @@
+new services
+new end-to-end services
+railway maintenance costs
+railway environment
+terms of maintenance costs
+objective
+existing EGNSS
+pilot projects
+System
+vehicle-infrastructure Interaction Assets health status monitoring SIA
+H2020-ERSAT EAV
+promising business potential
+maintenance unscheduled events
+rail-wheel interface
+demanding assets
+H2020-FR8RAIL
+existing products
+EGNSS adoption
+potential end-users
+project effort
+Galileo multi-frequency multi-constellation signals
+reduced code noise
+preliminary business plans
+high code range precision
+E5 wideband signal
+Altboc modulation
+EGNOS
+iCatMon
+technologies
+iPantMon
+technical development
+railway’s
+iWheelMon
+iRailMon
+best practice guides
+prognostic information
+IEC613735
+thanks
+TRL5-TRL7
+GEGN8578
+importance level
+WINDSepe
+STEREO
+TR9
+standards
+ROI
+derailments
+distinguished characteristics
+pantograph
+market uptake
+available positioning
+commercial platform
+catenary
+operational scenarios
+context of Shift2Rail
+years
+income rights
+high-tech SMEs
+CPS
+regard
+performance
+accumulated turn
+RailTopoModel
+features
+consortium

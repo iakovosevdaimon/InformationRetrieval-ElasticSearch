@@ -1,0 +1,63 @@
+foundations of network programming
+new challenges
+new software ecosystem -Software
+compositional reasoning
+new abstractions
+compositional quantitative reasoning
+complex network systems
+programming of networks
+practice of network programming
+network resilient
+correct software systems
+defined networking
+networking devices
+crucial quantitative aspects
+areas
+rigorous semantic probabilistic foundations
+vision of SDN
+project
+line of research
+interdisciplinary research effort
+existing SDN languages
+formal methods
+complex interactions
+powerful techniques
+crucial role
+akin challenges
+rigorous guarantees
+Recent years
+program analysis tools
+wealth of recent advances
+concurrency
+lead
+verification
+growth
+connected world
+solid platform
+open interface
+major breakthrough
+insights
+behavior
+performance
+use of engineers
+acute need
+quest
+awareness
+applications
+fundamental theoretical contributions
+high-level modular constructs
+easy control
+right
+results
+daily tasks
+unexplored directions
+time
+security
+programmers
+central objective
+reality
+failure
+PI's
+goal
+communities
+congestion

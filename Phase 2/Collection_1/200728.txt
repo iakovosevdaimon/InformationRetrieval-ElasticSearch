@@ -1,0 +1,50 @@
+Data-centric Parallel Programming
+parallel computing
+holistic data-centric programming
+Data access cost
+inefficiency of parallel programming
+big data analytics
+data-centric program formulation
+heterogeneous parallel processors
+Prevalent parallel programming abstractions
+large-scale heterogeneous parallel computers
+data layout optimizations crucial
+heterogeneous target architectures
+target memory system
+runtime system
+various target architectures
+scientific computing
+growing demands of important applications
+control-centric model
+growing complexity
+holistic compiler
+Society
+fundamental building blocks of computing platforms
+important challenge
+core supercomputers
+drug design
+remote memory
+technological advance
+challenging real-world applications
+dynamic scheduling of memlets
+quad-core laptops
+weather prediction
+guide programmers
+magnitude
+computer science
+programs
+scaling wall
+Architectural trends
+threads of execution
+parallelism
+first-class objects
+art
+state
+collections of values
+graph processing
+arithmetic operation
+future computational capabilities
+methods
+operands
+demanding problems
+machine

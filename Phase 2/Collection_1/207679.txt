@@ -1,0 +1,56 @@
+foundations of DFT
+Mathematics of Density Functional Theory Density Functional Theory
+density of particles
+density map
+particular DFT models
+spectral theory
+local density approximation
+time-dependent formulation
+time-dependent cases
+derivation of simple DFT models
+time-dependent electromagnetic field
+infinite Bose gas
+nonlinear analysis
+nonlinear model
+quantum physics
+mathematical foundations
+chemistry
+challenging open questions
+proposal
+important questions
+Maxwell's equations
+infinite crystals
+proof of Bose
+uniform electron gas model
+numerical analysis
+main question
+external potential
+inverse problem
+task deals
+areas of mathematics
+main tasks
+partial differential equations
+mean-field limit
+mathematical point of view
+quantized Dirac quantum vacuum
+optimal transport
+instance
+neutrons
+protons
+Einstein condensation
+true Schrödinger equation
+random perturbations
+excited states
+matter
+relativistic Scott correction
+advanced tools
+impact
+famous methods
+example
+microscopic scale
+project
+system
+years
+purpose
+invertibility
+literature

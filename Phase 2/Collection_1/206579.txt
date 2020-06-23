@@ -1,0 +1,65 @@
+embedded antenna elements
+SATCOM Ka band Antenna System Integration Activities
+steerable satcom airborne antenna E2S2A2
+Embedded Steering Antenna Aperture
+SATCOM technology
+high integration
+high data rate in-flight connectivity
+high data rate IFC
+Exploitation activities
+in-flight testing
+Ka Data Network Unit
+System Conceptual Design
+Ka frequency band
+wing
+months' work plan
+airframe structure
+airborne applications
+C aerodynamic
+SATCOM MODEM selection
+Close synchronization
+panels
+WP2
+fuselage airframe fairing
+fuselage fairing
+Leader
+ground
+FTB2 prototype aircraft
+KRFU unit
+Definition of Structure
+Regional Aircraft FTB2 demonstrator
+project management
+national RTD programs
+innovative Monolithic Microwave Integrated Circuit
+steered utilizing Phased Array technology
+Laboratory level
+MMIC
+effects
+qualification
+new composite structures
+Gilat
+cooperation
+WFF
+vast experience
+accordance
+prototyping
+satellite communication
+performance
+fuel consumption
+modifications
+Dissemination
+prototypes
+coordination
+WP0
+manufacturing
+WP1
+WP3
+Bulgarian subsidiary Raysat
+technological WPs
+different purposes
+interfacing
+WP7
+WP5
+concepts
+WP6
+WP4

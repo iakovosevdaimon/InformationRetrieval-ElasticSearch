@@ -1,0 +1,58 @@
+additive combustor
+knowledge of combustor metal temperature
+validation of aero
+terms of combustor performance
+combustor performance evaluation
+compact Reverse flow combusTor
+validation of innovative high fidelity CFD
+liner metal temperature
+innovative CFD approach
+validation of innovative additive manufacturing components
+thermal predictions
+annular tests
+validation of numerical modelling results
+Hybrid RANS
+existent aero-thermal CFD modelling
+gas exit temperature
+D temperature maps
+annular combustion tests
+design of innovative combustors
+CHT calculations
+prototypical reverse flow
+flow split predictions
+combustion performance behavior
+annular rig
+turboprop engine
+project
+Goals
+high fidelity numerical simulations
+real engine conditions
+direct calculation of aero
+unsteady CHT
+two-step approach
+dedicated strategy
+design rules
+increase of engine cycle efficiency
+dedicated optical access
+multi-hole liners
+InfraRed techniques
+measurement of emissions
+main objective
+flame domain
+series of advanced investigations
+explicit meshing
+target of SFC reduction
+TRL5
+developed technologies
+GE-Avio
+Development
+objectives
+costs
+weights
+initiative
+CS2
+Data
+following steps
+ITD MAESTRO
+aim
+methodology

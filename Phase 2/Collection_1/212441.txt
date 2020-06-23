@@ -1,0 +1,51 @@
+different monitoring techniques
+situ accelerometers
+different fields
+landslide monitoring
+different areas
+Geodetic Integrated Monitoring System
+different products
+GIMS project
+purpose of monitoring ground deformations
+Copernicus SAR
+EGNSS
+advanced low-cost system
+GNSS data analysis
+accelerometers signal processing
+radiofrequency analysis
+complete knowledge
+timely knowledge
+situ sensors
+overall purpose
+better understanding
+low-cost infrastructure
+collector of environmental data
+better plan maintenance intervention
+telecommunications
+related hardware design
+main objective
+millimetric level accuracies
+industrial developers
+population
+real-time alerts
+geophysical behaviour of parts
+daily acquisition rate
+inertial measurement units
+Earth surface
+monitored processes
+geostatistics
+focus
+researchers
+interface
+smart grids purposes
+case of sudden movements
+order
+structures
+hindrances
+casualties
+injuries
+landslides
+geology
+deformation phenomenon
+cooperation
+technologies

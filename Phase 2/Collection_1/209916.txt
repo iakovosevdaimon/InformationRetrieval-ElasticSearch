@@ -1,0 +1,51 @@
+quantum communication
+quantum control
+quantum simulation
+quantum internet
+optical quantum computing
+Photonic integrated quantum transceivers Quantum processors
+linear quantum optics
+nanoscale quantum optics
+future quantum optical networks
+scalable quantum photonic chips
+functional quantum photonic modules
+high-bandwidth quantum links
+remote quantum information processing
+quantum wavelength division multiplexing
+realization of large numbers of quantum components
+integrated optical circuits
+electro-optical interactions
+optical fiber links
+individual nodes
+high bandwidth nodes
+existing fibre-optical infrastructure
+individual transceiver nodes
+functional applications
+use of single photons
+non-classical applications
+communication rates
+reconfigurable single photon transceivers
+electro-optomechanical
+classical computers
+scalable technologies
+project nanophotonic circuits
+three-dimensional distributed nanophotonics
+major barriers
+key step
+devices
+compatibility
+paradigm shift
+simulations of complex physical processes
+superconducting nanostructures
+circuit form
+ultimate challenges
+recent advances
+systems
+broadband
+stringent limitations
+various experimental approaches
+carbon nanotubes
+upscaling
+purpose
+hybrid integration approach
+orders of magnitude

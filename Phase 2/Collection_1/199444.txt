@@ -1,0 +1,51 @@
+heat flux
+global heat transfer
+energy transfer of geostrophic turbulent convection
+heat-flux scaling of geostrophic convection
+Heat-transfer models of geophysical
+global convective heat transfer
+geostrophic regime of turbulent rotating convection
+flow organisation
+flow behaviour
+Heat-flux measurements
+featureless flow
+small-scale energy transfer processes
+understanding of convection
+energy cascade processes
+energy balance
+additional flow information
+new regime
+energy cascade mechanisms
+studied regime
+astrophysical flows
+new insights
+rapid rotation
+effects of boundary
+buoyant forcing
+boundary layers
+strong thermal forcing
+optimised parallel computations
+types of coherent structures
+revolutionary experiment capable
+access
+optical diagnostics
+parts
+layer dynamics
+dependence
+governing parameters
+influence of presence
+unexpected differences
+function
+crucial result
+stereoscopic particle image velocimetry
+Ekman-type
+absence
+aim
+parameter range
+open questions
+project
+extrapolations impossible
+climate modelling
+astrophysics
+focus
+experiments

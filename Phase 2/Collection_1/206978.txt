@@ -1,0 +1,45 @@
+discrete optimal transport
+discrete spaces
+discrete setting
+optimal transport approach
+scope of optimal transport methods
+convergence of discrete stochastic dynamics
+important processes
+analysis of quantum Markov processes
+geometric analysis
+diffusion processes
+theory of Ricci curvature
+conceptual understanding of discrete curvature
+important properties of stochastic processes
+analysis of geodesic spaces
+thorough investigation of noncommutative optimal transport
+powerful results
+comprehensive theory of curvature
+non-reversible Markov processes
+powerful applications
+singular spaces
+new methods
+quantum probability
+existing gradient flow theory
+powerful theories of Bakry
+underlying geometric structure
+Riemannian setting
+major research activity
+wide research program
+geodesic convexity of entropy functionals
+Émery
+significant extension
+isoperimetry
+fundamental contribution
+infinite-dimensional
+Lott-Sturm
+concentration of measure
+Villani
+appropriate framework
+functional inequalities
+PI
+project
+crucial quantity
+equilibrium
+recent work
+ideas

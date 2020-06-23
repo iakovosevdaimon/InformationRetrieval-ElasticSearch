@@ -1,0 +1,49 @@
+machine learning methods
+multipoles
+small molecules
+large molecules
+resulting machine
+properties of molecules
+computational screening of molecules
+Statistical-learning approaches
+dependence of atomic charges
+induced charges
+molecular energies
+dependence of induced atomic charges
+medium-sized molecules
+physical insight
+long-range intermolecular interactions
+computational cost of classical molecular mechanics approaches
+direct approaches
+molecular structure
+accuracy of quantum methods
+long-range interactions
+recent success of methods
+Physics
+physical models
+parameters
+computed interaction energies
+training data
+motivated atomistic intermolecular potentials
+transformative computational utility
+binding energy
+extended length scale
+pioneering strategy
+deep neural networks
+powerful alternatives
+vast diversity of chemical environments
+electronic Schrödinger equation
+chemistry
+combinatorial explosion
+functional form
+local electric field
+short-range phenomena
+expressions
+materials science
+drug
+addition
+receptor
+issue
+Waals coefficients
+problems
+development

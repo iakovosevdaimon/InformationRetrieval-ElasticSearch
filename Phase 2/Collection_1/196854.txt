@@ -1,0 +1,45 @@
+current OBDA tools
+real-world OBDA applications
+novel OBDA querying tools
+important ontology
+set of tailor-made OBDA querying tools
+data processing
+Custom-Made Ontology
+based data access
+CODA project
+computational complexity of important islands of tractability
+real-world applications
+heterogeneous data
+concrete ontology
+high computational cost
+vibrant area of ontology
+important paradigm
+efficient algorithms
+processing incomplete
+current technology
+fine-grained complexity analysis
+precision tool belt
+theoretical results
+structure
+ground-breaking new perspective
+foundations
+sense
+library of case studies
+query languages
+heuristics
+availability
+revolution
+industry requirements
+limited use of expressive features
+optimization techniques
+heterogeneity
+practice
+society
+ontologies
+major arising challenges
+key deliverables
+incompleteness
+economy
+goal
+disjunction
+behaviour

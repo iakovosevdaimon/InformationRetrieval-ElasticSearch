@@ -1,0 +1,62 @@
+decentralized CCNs
+real-systems
+decentralized systems
+critical communication systems
+classical communication systems
+CYBERNETS
+network behavior
+practical objectives
+study of Cybernetic Communication Networks
+Typical examples of CCNs
+malicious behavior of network components
+practical implementation
+use of feedback
+concept of feedback
+main objectives
+G cellular systems
+wireless networks
+behavior adaptation
+impact of network
+practical perspectives
+self-healing individual
+real-system implementation
+information theory
+game theory
+self-configuring
+theoretical analysis
+malicious behaviors
+context-aware
+fundamental limits of data transmission rates
+Engineering Challenges
+signal processing
+tackle
+body- area
+particular problems
+law enforcement
+space
+interactions
+Reintegration Panel proposal
+dynamics
+artificial intelligence
+medical instruments
+disaster relief
+learning capabilities
+world-class testbed infrastructure of INRIA
+efficiency
+reliability
+transmitter-receiver pairs
+failures
+attacks
+gap
+equilibrium strategies
+scenarios
+CITI Lab
+state knowledge
+relevant understanding
+resilience
+outdoor commercial applications
+alternatives
+proof
+achievement
+global performance
+configurations

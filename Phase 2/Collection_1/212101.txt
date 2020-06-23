@@ -1,0 +1,51 @@
+study of large molecular assemblies
+simulation of large systems
+large proteins
+study of dynamics
+computational study
+large molecular machines
+developed methods
+high-resolution models
+chemical reactions
+mediated properties of protein assemblies
+computational cost
+chemical accuracy
+hand
+accurate atomistic models
+development of non-uniform resolution models
+macroMOLecular Simulation
+novel computer-aided methods
+system size
+VARIAMOLS project
+VAriable ResolutIon Algorithms
+working philosophy of VARIAMOLS
+broad spectrum of biological soft matter systems
+real-life case studies of great relevance
+technology
+medical science
+cellular membrane
+effective alternative
+transport atoms
+existing gap
+particular focus
+extended time scales
+insurmountable limitation
+systematic application
+realistic reproduction
+algorithmic advancement
+coarse-grained representations
+interconnected aspects
+central role
+variety of different tasks
+intertwined lines
+viruses
+antibodies
+foreign bodies
+main goal
+prominent problems
+macromolecules
+research
+balance
+efficiency
+biomolecules
+coin

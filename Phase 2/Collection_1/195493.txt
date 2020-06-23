@@ -1,0 +1,48 @@
+Optimal control theory
+impact of optimal control methodology
+biological solid state nuclear magnetic resonance
+liquid state
+implementation of optimal control methods
+NMR community
+easy-to-use building blocks of multidimensional solid state NMR experiments
+automated design of pulse experiments
+project
+hardware development
+Multi-dimensional experiments
+sensitivity
+market leading manufacturer of NMR spectrometers
+individual RF hardware characteristics
+potential impact
+routine structure determination of biological solids
+new quality measures
+new theoretical framework
+optimized pulse sequences
+improved efficiency
+efficient means
+lower deposited radiofrequency power
+robustness
+properties
+workshop
+amyloid fibrils
+superior performance
+optimization problem
+barriers
+employed probes
+respect
+samples
+relaxation
+accessibility of structural information
+developed protocols
+membrane proteins
+fundamental laws of spin dynamics
+way
+reformulation
+acquired spectra
+experimental imperfections
+cooperation
+dissemination
+consoles
+low resolution
+interplay
+comprehensive optimizations
+order

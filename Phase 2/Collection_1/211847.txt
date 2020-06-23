@@ -1,0 +1,45 @@
+molecular design principles
+molecular simulations
+computational design of biocatalysts
+catalytic efficiency
+key design problems
+intrinsic molecular kinetics
+man-made catalysts
+novo catalysts
+analysis methods
+accurate quantitative computational methods capable
+physical principles
+kinetics-based methods
+control biomolecular catalytic function
+enhanced sampling
+Nature
+enzyme redesign
+system-tailored sampling algorithms
+accurate calculations of free energies
+complex biological catalysts
+proper statistical sampling
+fundamental advances
+corresponding algorithms
+control of catalysis
+optimal engineering
+simulation tools
+biased simulations
+Dynamical Redesign of Biomolecular Networks Enzymes
+small molecule modulators of enzyme activity
+spite of recent advances
+underlying reaction mechanisms
+available simulation length
+intensive quantum mechanical calculations of bond formation
+novel theoretical framework
+new bio-inspired nanocatalysts
+gap
+cleavage
+magnitude
+relevant timescales
+direct calculation of kinetic information
+crucial challenges
+interdisciplinary project
+degrees of freedom
+requirement
+need
+case

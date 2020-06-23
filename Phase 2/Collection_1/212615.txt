@@ -1,0 +1,55 @@
+strong fields
+regime of strong magnetic fields
+non-uniform magnetic fields
+Strong Magnetic Fields Electronic spectroscopy
+magnetic phenomena
+weaker fields
+Spectra of Molecules
+range of magnetic field strengths
+correlation effects
+spin effects
+collinear spin DFT
+study
+practical DFT functionals
+presence of strong uniform
+relativistic effects
+orbital effects
+existing DFT approximations
+non-collinear SDFT level
+standard DFT exchange-correlation functionals
+intermediate regime of field strengths
+earth
+project
+types of spectroscopy
+microscopic level
+principles of quantum chemistry
+Density Functional Theory
+Hartree-Fock
+Random Phase Approximation
+potential energy surfaces
+long-term impact
+varying levels of theoretical complexity
+CDFT
+excitation energies
+MRCC
+SRCC
+white-dwarfs
+inter-particle interaction
+methodology
+perturbation
+interesting results relevant
+situations
+pertinent regimes
+breakdown
+neutron stars
+novel physics
+astrochemical problems
+perturbative mechanism
+determining role
+distortions
+forces
+benchmarking
+stellar objects
+terrestrial conditions
+source
+data

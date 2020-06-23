@@ -1,0 +1,41 @@
+Programming Model INTERoperability
+project partner
+key programming APIs
+API design
+problem of programming model design
+evolution of programming models
+individual programming models
+implementation level
+Interoperability requirements
+robust implementations
+evaluation of implementations
+combinations of different APIs
+different system levels
+co- design cycle
+applications
+advances
+hierarchy of architectural levels
+Exascale computers
+specification level
+new requirements
+parallel systems
+set of kernels
+GASPI
+OmpSs
+OpenMP
+MPI
+extensive experience
+StarPU
+practical solution
+main challenges
+QUARK
+principal European organisations
+major role
+room
+improvement
+medium term
+PaRSEC
+silver bullet
+appropriate timescale
+development
+state

@@ -1,0 +1,33 @@
+Multivariable Control System
+Matlab
+MCS implementation
+subsequent MCS design
+Derivation of symbolic control-oriented models
+multivariable optimal control structure
+MULTIivariable Environmental Control System
+control-oriented thermodynamical modelling
+nonlinear dynamic models
+experimental validation
+Simulink environment
+development
+SDRE design
+real-time capable low-order models
+Topic Manager certification standards
+Simulink taing advantage
+extended linearisation techniques
+extended linearization techniques
+Topic Manager’s facilities
+test results
+MULTIECS project
+small number of necessary test cases
+compatibility
+goal
+electric air conditioning pack
+Efficient parameter identification
+processes
+simulations
+successful simulation
+different objectives
+Assessment
+focus
+step

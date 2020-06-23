@@ -1,0 +1,32 @@
+thermal diffusivity
+thermal conductivity
+thermal efficiency
+number of nano
+Creation of NanoFluids Nano-fluids
+thermal properties prediction model
+nano-particle suspension
+enthalpy of vaporization
+enthalpy of fusion
+enthalpy of transformation
+Base Suspension
+Phase Change Materials
+base fluid
+number of PCMs
+melting
+fluid bases
+heat transfer
+specific heat
+crystallization temperature
+transient hot wire
+differential scanning calorimetry
+increased need
+liquid phases
+innovative ways
+DSC
+techniques
+action
+information
+n-alkanes
+obtained results
+available literature data
+purpose

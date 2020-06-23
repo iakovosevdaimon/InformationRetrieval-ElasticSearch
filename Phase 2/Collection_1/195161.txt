@@ -1,0 +1,57 @@
+attitude control system
+remaining control
+experimental attitude control platform
+novel control algorithms
+multirate control laws
+related control problems
+underlying control problem
+axis attitude stabilization
+actuator failure mode
+nonlinear underactuated system
+Nonlinear Sampled-data Attitude Stabilization of Underactuated Spacecraft Space stakeholders
+time-varying solutions
+continuous-time controller
+actuator type
+loss of performance
+digital performance objectives
+digital solutions
+significant performance degradation
+fail-safe operation mode
+sampled-data methodology
+general classes of underactuated mechanical systems
+innovative algorithms
+sampling issues
+effect of sampling
+finite computability
+equivalent discrete models
+application
+nonholonomic
+reliability
+testing
+exploitation
+extensive software simulations
+symmetricity
+results
+angular momenta
+global costs
+additional restrictions
+present proposal
+focus
+research outcomes
+small satellites
+non-smooth stabilizing feedback
+beginning
+destabilization
+minimum
+orbit technology demonstration
+applicability
+market
+industrial secondment
+design process
+on-board computer
+Theoretical investigations
+aim
+quality
+redundancy
+state
+purpose

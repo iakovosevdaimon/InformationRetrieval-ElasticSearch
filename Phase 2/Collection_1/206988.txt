@@ -1,0 +1,51 @@
+Data-Driven Methods
+large amounts of performance data
+model DNN performance
+exploit
+rise of Bayesian optimization methods
+Graybox Bayesian optimization methods
+generation Bayesian optimization methods
+treatment of DNN performance
+Empirical Performance of Deep Neural Networks Deep neural networks
+audio data
+data subsets
+performance orders of magnitude
+data-driven priors
+large datasets
+control DNN hyperparameters
+expensive data sets
+manual tuning
+DNNs play
+widespread use of deep learning
+different datasets
+various datasets
+DNN's internal weight optimization
+object recognition
+speech recognition
+expert knowledge
+prior knowledge
+non-experts
+human experts
+Hyperparameter control strategies
+stochastic gradient descent
+images
+black box
+fundamental limitations
+important classification problems
+recent years
+blackbox level
+access
+Modelling
+state information of algorithm
+substantial successes
+humans
+inexpensive auto
+dramatic improvements
+models
+characteristics
+project
+task
+application goal
+given situation
+ways
+runtime

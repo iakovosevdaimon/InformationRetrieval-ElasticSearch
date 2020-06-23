@@ -1,0 +1,51 @@
+D data
+D urban model
+D approach
+D model Geographic data
+D generalisation solutions
+D spatial dimensions
+D cartographic generalisation domain
+fine data
+urban applications
+Urban modelling
+extra dimension of geographic data
+urban objects
+application specific LoDs
+specific application
+modern urban areas
+higher dimensions
+stored LoDs
+parametrisable aspects of urban environments
+well-established domain of cartographic generalisation
+new horizon
+multiple applications
+new research line
+control processes
+fundamental solution
+loss of important information
+field of geo-information technology
+flooding
+noise
+mathematical models
+error-free
+ground-breaking extension
+current problem
+buildings
+map scale
+project
+potential
+well-known concept
+energy demand-supply
+geometric Level
+intermediate results
+GIS
+reduction
+roads
+reuse
+enormous efforts
+scientific challenge
+addition
+consistency
+innovative method
+Slicing
+operations

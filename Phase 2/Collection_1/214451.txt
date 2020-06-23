@@ -1,0 +1,47 @@
+synthetic circuit design
+synthetic biology Synthetic biology
+better circuit
+circuit elements
+circuit complexity
+biomolecular circuit models
+context characterization
+today’s implementations of synthetic circuits
+new context-insensitive circuit designs
+basic paradigm of synthetic biology
+experimental design
+quantitative characterization of circuits
+accurate characterization of circuits
+computational analysis
+error approach
+significant context dependency
+statistical models of biomolecular contexts
+biological cell
+right computational methodology
+compositional approach
+order
+new statistical inference methods
+silico sensitivity analysis
+use of cutting-edge single-cell experimental data
+experimental wetlab facilities
+actual biomolecular implementation
+cell-free systems
+engineering of new molecular functionality
+inefficient trial
+error runs
+application of filtering theory
+host machinery
+measurement infrastructure
+behavior
+interactions
+protocols
+lack
+change
+life
+group
+process
+unsatisfactory state of affairs
+theoretical investigations
+CONSYN
+following agenda
+unique position
+goal
